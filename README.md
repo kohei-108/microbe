@@ -34,41 +34,6 @@ Last Update: 2018-09
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
 
-
-
-----------
-## taxonomy
-
-http://gtdb.ecogenomic.org/
-Genome Taxonomy Database
-
-https://twitter.com/NatureBiotech/status/1034201413717450753
-Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
-6:10 PM - 27 Aug 2018
-![](https://pbs.twimg.com/media/Dlo37tsUYAAcnP8.jpg)
-
-https://twitter.com/NatureRevMicro/status/1036595989816246272
-Nature Rev Microbiol on Twitter: "#ResearchHighlight: Next-generation bacterial taxonomy https://t.co/Acx8vB0XuW"
-8:45 AM - 3 Sep 2018
-
-https://twitter.com/RPoretsky/status/1034446295451226113
-Rachel Poretsky on Twitter: "The @PhilHugenholtz et al. paper that contributed to heated #ISME17 discussions is out! A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life. https://t.co/lvWwHKS7OD"
-10:23 AM - 28 Aug 2018
-
-https://twitter.com/NatureRevMicro/status/1034357487355539456
-Nature Rev Microbiol on Twitter: "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life @NatureBiotech https://t.co/Hro7pynEPQ… https://t.co/ev7En4LKdL"
-4:30 AM - 28 Aug 2018
-![](https://pbs.twimg.com/media/DlrGnFvX4AA_a4L.jpg)
-
-https://twitter.com/WvSchaik/status/1034188127261405185
-Willem van Schaik on Twitter: "Exciting paper: 'A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life' by @PhilHugenholtz https://t.co/ABzGHUSuPn"
-5:17 PM - 27 Aug 2018
-
-https://twitter.com/Tyu_Shi/status/1034217003936931841
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
-7:12 PM - 27 Aug 2018
-
-
 ----------
 ## featuring
 
@@ -95,6 +60,27 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2018
+
+## 2018-09
+
+### airport
+
+https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
+Deposition of respiratory virus pathogens on frequently touched surfaces at airports
+
+https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
+空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+https://twitter.com/YuriHiranuma/status/1039760793347215360
+Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
+2:21 AM - 12 Sep 2018
+
+https://twitter.com/hedipeterson/status/1037235561289969665
+Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
+3:06 AM - 5 Sep 2018
+
+
+## 2018-07
 
 https://twitter.com/AMRCRC_JAPAN/status/1016961924355899392
 小児膀胱尿管逆流症などに対しての予防的抗菌薬投与で、薬剤耐性菌感染症リスクが投与してない場合の6.4倍に。
@@ -516,6 +502,9 @@ https://www.spf.org/opri-j/projects/information/newsletter/latest/latest02.html
 
 https://gigazine.net/news/20180515-deadliest-being-bacteriophage/
 抗生物質が効かない耐性菌も簡単に殺してしまう最強のウイルス「バクテリオファージ」とは？ - GIGAZINE
+
+https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/
+抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」
 
 https://gigazine.net/news/20180312-bacteriophage/
 抗生物質耐性菌の攻略に古くから知られるウイルス「バクテリオファージ」にスポットライトが当たっている - GIGAZINE
