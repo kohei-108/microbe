@@ -18,11 +18,12 @@ Last Update: 2018-09
 - [k-mer](#k-mer)
 - [jsme2018](#jsme2018) Microbial lifestyle and genome signatures.
 - [2018-06](#2018-06)
-
 - [people](#people)
   - [duvallet](#duvallet) Claire Duvallet
+- [prokaryote](#prokaryote)
 - [replication](#replication)
 - [species](#species)
+- [taxonomy](#taxonomy)
 
 ----------
 
@@ -673,6 +674,21 @@ Meta-analysis of gut microbiome studies identifies disease-specific and shared r
 Claire Duvallet, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry & Eric J. Alm
 
 ----------
+## prokaryote
+
+https://twitter.com/FenrirCappel/status/1037604131928592384
+yuki_hamaguchi on Twitter: "真核生物か原核生物かわかっていない生物がいるらしい… しかも2012年に発見されてから、この１種以外見つかっていないみたい…不思議… https://t.co/BaANRqXCTo https://t.co/g4Dfwgu1tb"
+3:31 AM - 6 Sep 2018
+
+10-2-2017
+https://ultrabem.com/organism/taxa/prokaryote.html
+原核生物 Prokaryote: 核をもたない生物
+
+2015年5月12日
+http://aasj.jp/news/watch/3410
+５月１２日：原核生物と真核生物をつなぐミッシングリンクの発見（Natureオンライン版掲載論文） | AASJホームページ
+
+----------
 # replication
 複製
 
@@ -710,8 +726,37 @@ January 16, 2017
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
 Small Things Considered: Do bacterial species really exist and why should we care?
 
+----------
+## taxonomy
 
+http://gtdb.ecogenomic.org/
+Genome Taxonomy Database
 
+https://twitter.com/NatureBiotech/status/1034201413717450753
+Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
+6:10 PM - 27 Aug 2018
+![](https://pbs.twimg.com/media/Dlo37tsUYAAcnP8.jpg)
+
+https://twitter.com/NatureRevMicro/status/1036595989816246272
+Nature Rev Microbiol on Twitter: "#ResearchHighlight: Next-generation bacterial taxonomy https://t.co/Acx8vB0XuW"
+8:45 AM - 3 Sep 2018
+
+https://twitter.com/RPoretsky/status/1034446295451226113
+Rachel Poretsky on Twitter: "The @PhilHugenholtz et al. paper that contributed to heated #ISME17 discussions is out! A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life. https://t.co/lvWwHKS7OD"
+10:23 AM - 28 Aug 2018
+
+https://twitter.com/NatureRevMicro/status/1034357487355539456
+Nature Rev Microbiol on Twitter: "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life @NatureBiotech https://t.co/Hro7pynEPQ… https://t.co/ev7En4LKdL"
+4:30 AM - 28 Aug 2018
+![](https://pbs.twimg.com/media/DlrGnFvX4AA_a4L.jpg)
+
+https://twitter.com/WvSchaik/status/1034188127261405185
+Willem van Schaik on Twitter: "Exciting paper: 'A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life' by @PhilHugenholtz https://t.co/ABzGHUSuPn"
+5:17 PM - 27 Aug 2018
+
+https://twitter.com/Tyu_Shi/status/1034217003936931841
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
+7:12 PM - 27 Aug 2018
 
 ----------
 
