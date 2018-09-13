@@ -7,6 +7,9 @@ Last Update: 2018-09
 
 ## Table of Contents
 - [featuring](#featuring)
+- [fastGEAR]
+- [BAPS]
+- [harvest](#harvest)
 - [updates](#updates)
 - [2018](#2018)
 - [2017](#2017)
@@ -24,6 +27,70 @@ Last Update: 2018-09
 - [replication](#replication)
 - [species](#species)
 - [taxonomy](#taxonomy)
+
+----------
+## featuring
+## fastGEAR
+https://users.ics.aalto.fi/~pemartti/fastGEAR/
+
+https://www.ncbi.nlm.nih.gov/pubmed/28957464
+Genome Biol Evol. 2017 Sep 1;9(9):2403-2417. doi: 10.1093/gbe/evx183.
+Population Structure and Local Adaptation of MAC Lung Disease Agent Mycobacterium avium subsp. hominissuis.
+Yano H1,2, Iwamoto T3, Nishiuchi Y4, Nakajima C5,6, Starkova DA7, Mokrousov I7, Narvskaya O7, Yoshida S8, Arikawa K3, Nakanishi N3, Osaki K9, Nakagawa I10, Ato M11, Suzuki Y5,6, Maruyama F10.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622343/
+https://academic.oup.com/gbe/article/9/9/2403/4107938
+Chromosome recombination was inferred using fastGEAR software (Mostowy etal. 2017).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28650958
+PLoS Genet. 2017 Jun 26;13(6):e1006855. doi: 10.1371/journal.pgen.1006855. eCollection 2017 Jun.
+Dynamics and impact of homologous recombination on the evolution of Legionella pneumophila.
+David S1,2, Sánchez-Busó L1, Harris SR1, Marttinen P3, Rusniok C4,5, Buchrieser C4,5, Harrison TG2, Parkhill J1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5507463/
+
+https://www.ncbi.nlm.nih.gov/pubmed/28199698
+Mol Biol Evol. 2017 May 1;34(5):1167-1182. doi: 10.1093/molbev/msx066.
+Efficient Inference of Recent and Ancestral Recombination within Bacterial Populations.
+Mostowy R1, Croucher NJ1, Andam CP2, Corander J3,4, Hanage WP2, Marttinen P5.
+We introduce a novel algorithm called fastGEAR which identifies lineages in diverse microbial alignments, and recombinations between them and from external origins.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
+(1) Identifying lineages: To identify lineages in a data set, we start by running a previously published clustering algorithm (Corander and Marttinen, 2006) included in the Bayesian Analysis of Population Structure (BAPS) software (Corander et al., 2003).
+
+https://mostowylab.com/2017/02/26/fastgear/
+fastGEAR: detecting mosaicism in bacterial genomes – Research of Rafal Mostowy
+
+## BAPS
+http://www.helsinki.fi/bsg/software/BAPS/
+
+https://www.ncbi.nlm.nih.gov/pubmed/23408797
+Mol Biol Evol. 2013 May;30(5):1224-8. doi: 10.1093/molbev/mst028. Epub 2013 Feb 13.
+Hierarchical and spatially explicit clustering of DNA sequences with BAPS software.
+Cheng L1, Connor TR, Sirén J, Aanensen DM, Corander J.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3670731/
+This tool, hierBAPS, is freely available for research purposes at http://www.helsinki.fi/bsg/software/BAPS/
+
+https://www.ncbi.nlm.nih.gov/pubmed/12586722/
+Genetics. 2003 Jan;163(1):367-74.
+Bayesian analysis of genetic differentiation between populations.
+Corander J1, Waldmann P, Sillanpää MJ.
+
+----------
+## harvest
+
+http://harvest.readthedocs.org
+http://harvest.readthedocs.io/en/latest/content/parsnp/tutorial.html
+https://harvest.readthedocs.io/en/v1.0/
+
+https://www.ncbi.nlm.nih.gov/pubmed/25410596
+Genome Biol. 2014;15(11):524.
+The Harvest suite for rapid core-genome alignment and visualization of thousands of intraspecific microbial genomes.
+
+http://kazumaxneo.hatenablog.com/entry/2017/11/26/205234
+数百から数千のバクテリアゲノムの同時比較を行うHarvest - macでインフォマティクス
+
+https://www.cbcb.umd.edu/software/harvest
+Harvest | CBCB
+
+
 
 ----------
 
