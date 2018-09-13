@@ -705,6 +705,25 @@ Joshi DN1, Patel JS, Flora SJ, Kalia K.
 
 ##### P.stutzeri_group
 
+- Pseudomonas mendocina ymp
+
+https://www.ncbi.nlm.nih.gov/nuccore/CP000680
+Pseudomonas mendocina ymp, complete genome
+
+https://www.ncbi.nlm.nih.gov/bioproject/17457
+Pseudomonas mendocina ymp (ID 17457) - BioProject - NCBI
+
+https://www.ncbi.nlm.nih.gov/bioproject/?term=Pseudomonas%20mendocina%20ymp
+A bacterium which is able to degrade pentachlorophenol
+
+https://genome.jgi.doe.gov/portal/pseme/pseme.home.html
+Strain ymp was isolated as part of the Yucca Mountain Project from sediment in a surface holding pond of a drilling operation at the Nevada Test Site, NV (the proposed site of the  high-level nuclear repository).
+
+http://bacmap.wishartlab.com/organisms/495
+P.mendocina strain ymp, a strict aerobe, is a pentachlorophenol (PCP)-degrading bacterium isolated from PCP-contaminated soil.
+Isolation site	sediment, surface holding pond, Nevada Test Site, NV
+Isolation country	USA
+
 - LH-42
 
 https://www.ncbi.nlm.nih.gov/pubmed/28684578
@@ -729,17 +748,6 @@ Genome Announc. 2016 Apr 21;4(2). pii: e00217-16. doi: 10.1128/genomeA.00217-16.
 Complete Genome Sequence of Pseudomonas balearica DSM 6083T.
 Bennasar-Figueras A1, Salvà-Serra F2, Jaén-Luchoro D3, Seguí C3, Aliaga F4, Busquets A3, Gomila M3, Moore ER5, Lalucat J3.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841123/
-
-- Pseudomonas mendocina ymp
-
-https://www.ncbi.nlm.nih.gov/nuccore/CP000680
-Pseudomonas mendocina ymp, complete genome
-
-https://www.ncbi.nlm.nih.gov/bioproject/17457
-Pseudomonas mendocina ymp (ID 17457) - BioProject - NCBI
-
-https://www.ncbi.nlm.nih.gov/bioproject/?term=Pseudomonas%20mendocina%20ymp
-A bacterium which is able to degrade pentachlorophenol
 
 ##### P.stutzeri_1
 
