@@ -1,8 +1,3 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-09
-
-----------
-
 # memo
 
 ## Table of Contents
@@ -27,6 +22,13 @@ Last Update: 2018-09
 
 ----------
 ## species
+
+http://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
+MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
+
+バクテリア（および他の微生物）が離散したクラスター（discrete clusters ）（species）を形成するか、または水平遺伝子伝達（HGT）の頻度が高く、ゆっくりと減衰するキネティクスのために、連続的な遺伝的多様性が観察されるかどうかである。Closely relatedな少数のゲノムに基づく研究は、genetic continuum（連続性）が優先される可能性があることを示している（例えば、ref.1）。他方、HGTは種間の境界を歪めるほど頻繁ではないかもしれない、あるいは同じ種内の生物が種間の生物に比べてより頻繁に遺伝子交換を行い、それによって異なるクラスターを維持するとの研究がある（例えばref.2）。
+
+種の境界を評価する際の1つの基本的な作業は、2つのゲノム間の遺伝的関連性の推定である。The whole-genome average nucleotide identity（ANI）は、同じ種に属する生物が典型的にはそれらの間に≥95％のANIを示すため（ref.3,4）、近年この作業のための堅牢な方法として浮上している。 
 
 January 16, 2017
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
