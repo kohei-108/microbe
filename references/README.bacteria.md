@@ -954,6 +954,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC98939/figure/F4/
 
 #### P.stutzeri_hydrocarbon
 
+http://www.bio.nite.go.jp/mifup/wiki/index.php?title=芳香族炭化水素分解
+
 https://www.ncbi.nlm.nih.gov/pubmed/29217799
 Genome Announc. 2017 Dec 7;5(49). pii: e01373-17. doi: 10.1128/genomeA.01373-17.
 Draft Genome Sequence of Pseudomonas stutzeri Strain 19, an Isolate Capable of Efficient Degradation of Aromatic Hydrocarbons.
