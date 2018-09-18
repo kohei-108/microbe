@@ -891,7 +891,7 @@ Busquets A1, Peña A, Gomila M, Bosch R, Nogales B, García-Valdés E, Lalucat J
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3457215/
 Genes coding for products necessary for natural transformation ability were found (type IV pili, pilAI, pilC, pilT, and pilU, comA, and exbB). No nitrogen fixation genes (nif) or extrachromosomal elements were found. Predicted phage-related sequences, transposons, and insertion elements were detected.
 
-##### P.stutzeri_frontiersin
+#### P.stutzeri_frontier
 
 - 
 https://www.frontiersin.org/articles/10.3389/fmicb.2018.01458/full
@@ -914,6 +914,37 @@ Phylogenomics and systematics in Pseudomonas
 
 Keywords: Pseudomonas, genomics, multilocus sequence analysis, taxonomy, systematics
 
+#### P.stutzeri_denitrification
+
+https://www.ncbi.nlm.nih.gov/pubmed/16483137
+Sci China C Life Sci. 2005 Dec;48(6):585-92.
+Structural and functional analysis of denitrification genes in Pseudomonas stutzeri A1501.
+Yan Y1, Yang J, Chen L, Yang F, Dong J, Xue Y, Xu X, Zhu Y, Yao Z, Lin M, Wang Y, Jin Q.
+Four gene clusters associated with denitrification were identified in the genome of A1501 strain, nar, nir, nor and nos, including 40 genes totally, which encode proteins for substance transportation, gene regulation and reductases. The three gene clusters, nir, nor and nos are adjacent on chromosome and are far from nar gene cluster. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/12618453
+J Bacteriol. 2003 Mar;185(6):1895-902.
+Operon structure and regulation of the nos gene region of Pseudomonas stutzeri, encoding an ABC-Type ATPase for maturation of nitrous oxide reductase.
+Honisch U1, Zumft WG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12576577
+Microbiology. 2003 Jan;149(Pt 1):29-36.
+Transcriptional regulation of the nos genes for nitrous oxide reductase in Pseudomonas aeruginosa.
+Arai H1, Mizutani M, Igarashi Y.
+The genes for nitrous oxide (N(2)O) reduction, nosRZDFYL, are clustered on the chromosome of Pseudomonas aeruginosa. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/9841665
+Microbiol Mol Biol Rev. 1998 Dec;62(4):1046-78.
+Molecular genetics of the genus Paracoccus: metabolically versatile bacteria with bioenergetic flexibility.
+Baker SC1, Ferguson SJ, Ludwig B, Page MD, Richter OM, van Spanning RJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC98939/
+Organization of denitrification genes.
+In P. denitrificans, nir genes (associated with nitrite reduction) and nor genes (associated with nitric oxide reduction) are clustered on a 17.7-kbp fragment, essentially transcribed divergently from one another (Fig. ​(Fig.4).4).
+In Pseudomonas stutzeri, the other organism for which the genetics of denitrification have been extensively studied, the nos genes (nitrous oxide reductase associated) are also found in the same 30-kbp region of the genome as the nir and nor genes (34, 97, 347, 348, 350). The order of the genes within the nir, nor, and nos clusters varies among organisms, but the structural genes (nirS and norCB) are transcribed from the 5′ end of an operon (34, 59, 252). 
+
+FIG. 4
+Denitrification gene clusters of Pseudomonas stutzeri (A), Pseudomonas aeruginosa (B), and P. denitrificans Pd1222 (C). Reproduced with permission from reference 251a.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC98939/figure/F4/
 
 ----------
 ## codon usage bias
