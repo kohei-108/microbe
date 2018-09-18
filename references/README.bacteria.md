@@ -952,6 +952,33 @@ FIG. 4
 Denitrification gene clusters of Pseudomonas stutzeri (A), Pseudomonas aeruginosa (B), and P. denitrificans Pd1222 (C). Reproduced with permission from reference 251a.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC98939/figure/F4/
 
+#### P.stutzeri_hydrocarbon
+
+https://www.ncbi.nlm.nih.gov/pubmed/29217799
+Genome Announc. 2017 Dec 7;5(49). pii: e01373-17. doi: 10.1128/genomeA.01373-17.
+Draft Genome Sequence of Pseudomonas stutzeri Strain 19, an Isolate Capable of Efficient Degradation of Aromatic Hydrocarbons.
+Brown LM1, Gunasekera TS1, Ruiz ON2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5721144/
+P. stutzeri 19 was shown, through gas chromatography-mass spectrometry (GC-MS) analysis, to efficiently metabolize toluene, xylenes, and 1,2,4-trimethyl benzene.
+
+The NCBI PGAP predicted multiple genes involved in hydrocarbon degradation, including catechol 1,2-dioxygenase, 
+
+https://www.sciencedirect.com/science/article/pii/S1878818117300038
+Biocatalysis and Agricultural Biotechnology
+Volume 10, April 2017, Pages 20-29
+Optimization of conditions for polycyclic aromatic hydrocarbons (PAHs) degradation by Pseudomonas stutzeri P2 isolated from Chirimiri coal mines
+
+PCR amplification of dioxygenase genes produced fragments of 350 bp, 867 bp and 350 bp in length for PAH-RHD, catechol 2, 3-dioxygenase and catechol 1, 2-dioxygenase, respectively suggesting the representative of Pseudomonas as the significant PAHs degrader.
+
+https://www.tandfonline.com/doi/abs/10.1080/10406638.2015.1033434
+Characterization of Phenol Metabolization by P. stutzeri N2
+Published online: 07 Oct 2015
+
+https://www.ncbi.nlm.nih.gov/pubmed/8161187
+Appl Environ Microbiol. 1994 Mar;60(3):966-72.
+Comparative biochemical and genetic analysis of naphthalene degradation among Pseudomonas stutzeri strains.
+Rosselló-Mora RA1, Lalucat J, García-Valdés E.
+
 ----------
 ## codon usage bias
 
