@@ -932,6 +932,12 @@ Microbiology. 2003 Jan;149(Pt 1):29-36.
 Transcriptional regulation of the nos genes for nitrous oxide reductase in Pseudomonas aeruginosa.
 Arai H1, Mizutani M, Igarashi Y.
 The genes for nitrous oxide (N(2)O) reduction, nosRZDFYL, are clustered on the chromosome of Pseudomonas aeruginosa. 
+http://mic.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.25936-0#tab2 
+Nitrate (NO−3) is reduced through nitrite (NO−2), nitric oxide (NO) and nitrous oxide (N 2O) to dinitrogen (N 2) by denitrifying bacteria. N 2O reductase (N 2OR) catalyses the last step of the denitrification pathway, the two-electron reduction of N 2O to N 2. N 2OR has been purified and characterized from many bacteria, such as Pseudomonas stutzeri ( Coyle et al., 1985 ), 
+
+The organization and regulation of the N 2OR genes have been investigated intensively in P. stutzeri. In this bacterium, the genes for N 2O reduction, nosRZDFYL, are clustered with the genes for other denitrification enzymes, NO−2 reductase (NIR) and NO reductase (NOR) ( R9 Braun & Zumft, 1992; Jüngst et al., 1991 ). The structural gene for N 2OR is nosZ ( Viebrock & Zumft, 1988 ), the nosDFY gene products are thought to be involved in the processing and insertion of copper into N 2OR ( Zumft et al., 1990 ), the nosL gene product is proposed to be an outer membrane disulfide isomerase ( Dreusch et al., 1996 ) and nosR encodes a putative membrane protein ( Cuypers et al., 1992 ). The nosR gene product is proposed to be an N 2O-sensing regulator that is required for the expression of the N 2OR genes ( Vollack & Zumft, 2001 ). The nos gene cluster of P. stutzeri is transcribed as at least three operons from promoters located upstream of nosR, nosZ and nosD ( Cuypers et al., 1995 ).
+
+Genome sequencing of P. aeruginosa PAO1 has shown that the arrangement of the nosRZDFYL genes (PA3391–PA3396) is identical to that of P. stutzeri ( Stover et al., 2000 ); 
 
 https://www.ncbi.nlm.nih.gov/pubmed/9841665
 Microbiol Mol Biol Rev. 1998 Dec;62(4):1046-78.
