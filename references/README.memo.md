@@ -40,6 +40,11 @@ Small Things Considered: Do bacterial species really exist and why should we car
 http://gtdb.ecogenomic.org/
 Genome Taxonomy Database
 
+https://www.ncbi.nlm.nih.gov/pubmed/30148503
+Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
+Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
+
 https://twitter.com/NatureBiotech/status/1034201413717450753
 Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
 6:10 PM - 27 Aug 2018
