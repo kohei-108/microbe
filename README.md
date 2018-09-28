@@ -11,7 +11,6 @@ Last Update: 2018-09
 - 細菌 [bacteria](https://github.com/haruosuz/microbe/blob/master/references/README.bacteria.md)
 - 微生物群集 [microbiome](https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md)
 - [featuring](#featuring)
-- [taxonomy](#taxonomy)
 - [updates](#updates)
 - [meetings](#meetings)]
 - [database](#database)
@@ -25,33 +24,55 @@ Last Update: 2018-09
 - [wired](#wired)
 - [video](#video)
 - [subway](#subway)
-- [Money](#money)
-- [Links](#links)
-- [Twitter](#twitter)
-- [Books](#books)
-- [Papers](#papers)
-- [virus](#virus)
+- [money](#money)
+- [links](#links)
+- [twitter](#twitter)
+- [books](#books)
+- [papers](#papers)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
+- [virus](#virus)
+
+----------
+## virus
+
+2018年2月13日
+https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
+空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2018.02.08
+http://tocana.jp/2018/02/post_15942_entry.html
+【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
+地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
+
+2016-02-21
+http://yokazaki.hatenablog.com/entry/2016/02/21/010028
+1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
+ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
+
+2012/04/17
+https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
+35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
+
+生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
+
+生命誌ジャーナル2015年間テーマうつる
+http://www.brh.co.jp/seimeishi/journal/084/research/1.html
+RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
+
+![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
+
+
+----------
+## phage
+
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
+[PDF]過小評価されているファージの宿主域
+井町 寛之
+
 
 ----------
 ## featuring
-
-https://twitter.com/torstenseemann/status/1013354894730772480
-Torsten Seemann on Twitter: "Need a closed bacterial reference genome that's close to your sample but can't find it on @ncbi or @enasequence ? Try looking at the @NCTC_3000 collection, as not all of the asemblies have made it into the public databases yet ! https://t.co/lIolFpNJ0z"
-5:33 AM - 1 Jul 2018
-
-https://twitter.com/i/moments/1000738412117147648
-All metagenomes searched at once?
-
-https://twitter.com/merenbey/status/1001592427369648128
-A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
-6:33 PM - 29 May 2018
-
-Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
-https://twitter.com/merenbey/status/999416078446071809
-A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
-6:25 PM - 23 May 2018
 
 ----------
 ## updates
@@ -62,6 +83,10 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 ## 2018
 
 ## 2018-09
+
+https://twitter.com/shoemaker_levy/status/1040576433867829250
+suisei_sensei on Twitter: "ニューヨーク市立博物館の新しい展示は、都市と細菌・微生物、公衆衛生の歴史がテーマ（9/14-4/28）。Germ City: Microbes and the Metropolis　https://t.co/edOdtSqdfL"
+8:22 AM - 14 Sep 2018
 
 ### airport
 
@@ -514,6 +539,10 @@ https://www.nikkei.com/article/DGXMZO28845500R30C18A3CR0000/
 薬効かない菌、鶏肉の半数から検出　厚労省研究班 
 抗菌薬は家畜の成長促進目的で使われることがある
 
+2018年2月17日
+https://www.asahi.com/articles/ASL277TGNL27ULBJ020.html
+風邪に抗生物質、使わない病院に報酬　耐性菌の抑止策：朝日新聞デジタル
+
 https://gigazine.net/news/20180116-chile-salmon-antibiotics/
 チリ産のサケは抗生物質まみれで超耐性菌「スーパーバグ」の温床になる危険性 - GIGAZINE
 
@@ -842,6 +871,10 @@ Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Mag
 
 ## Money
 お金の微生物
+
+https://twitter.com/Newsweek_JAPAN/status/866774474166874113
+ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
+5:55 PM - 22 May 2017
 
 2017年5月22日
 http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
@@ -1219,36 +1252,6 @@ http://www.nikkei-science.com/?p=44051
 
 https://adgang.jp/2014/10/77120.html
 オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
-
-----------
-## phage
-
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
-[PDF]過小評価されているファージの宿主域
-井町 寛之
-
-----------
-## virus
-
-2018年2月13日
-https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
-空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2018.02.08
-http://tocana.jp/2018/02/post_15942_entry.html
-【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
-地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
-
-2016-02-21
-http://yokazaki.hatenablog.com/entry/2016/02/21/010028
-1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
-ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
-
-2012/04/17
-https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
-35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
-
-生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
 
 ----------
 
