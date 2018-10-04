@@ -23,6 +23,10 @@
 ----------
 ## species
 
+https://twitter.com/digitalwright/status/1047618983497818114
+Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
+6:46 PM - 3 Oct 2018
+
 http://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
 MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
 
