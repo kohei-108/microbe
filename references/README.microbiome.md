@@ -29,8 +29,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 
-
-
 https://www.ncbi.nlm.nih.gov/pubmed/29460198
 J Plant Res. 2018 Jul;131(4):709-717. doi: 10.1007/s10265-018-1017-x. Epub 2018 Feb 19.
 Collaborative environmental DNA sampling from petal surfaces of flowering cherry Cerasus × yedoensis 'Somei-yoshino' across the Japanese archipelago.
@@ -40,6 +38,10 @@ Ohta T1, Kawashima T2, Shinozaki NO3, Dobashi A4, Hiraoka S5, Hoshino T6, Kanno 
 ----------
 ## featuring
 
+Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
+https://twitter.com/merenbey/status/999416078446071809
+A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
+6:25 PM - 23 May 2018
 
 ----------
 ## Knight R
@@ -55,6 +57,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/29795540
 Nat Microbiol. 2018 Jun;3(6):652-661. doi: 10.1038/s41564-018-0156-0. Epub 2018 May 24.
 Methods for phylogenetic analysis of microbiome data.
 Washburne AD1, Morton JT2,3, Sanders J3, McDonald D3, Zhu Q3, Oliverio AM4,5, Knight R2,3.
+
 
 ----------
 ## Mason CE
@@ -467,6 +470,20 @@ https://ja.wikipedia.org/wiki/メタアナリシス
 https://github.com/haruosuz/statistics#meta-analysis
 
 https://twitter.com/search?f=tweets&q=microbiome%20meta-analysis
+
+### Qiita
+
+https://twitter.com/gibbological/status/1046878477981343744
+Sean Gibbons on Twitter: "Qiita: rapid, web-enabled microbiome meta-analysis https://t.co/4Osl11rR8X from @KnightLabNews @gregcaporaso and @Pdorrestein1 labs. Useful tool for all us 'data parasites' :)"
+5:44 PM - 1 Oct 2018
+
+batch effect
+
+
+01 October 2018  & Rob Knight 
+https://www.nature.com/articles/s41592-018-0141-9
+Qiita: rapid, web-enabled microbiome meta-analysis
+
 
 ### almlab
 http://almlab.mit.edu/
