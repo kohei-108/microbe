@@ -34,6 +34,35 @@ Last Update: 2018-09
 - [virus](#virus)
 
 ----------
+## airport
+
+https://www.ncbi.nlm.nih.gov/pubmed/29876609
+Microb Ecol. 2018 Jun 6. doi: 10.1007/s00248-018-1191-3. [Epub ahead of print]
+The Airplane Cabin Microbiome.
+Weiss H1, Hertzberg VS2, Dupont C3, Espinoza JL3, Levy S4, Nelson K5, Norris S6; FlyHealthy Research Team.
+
+
+https://www.nature.com/articles/nbt.3868
+Researchers from the Technical University of Denmark, in Lyngby, sampled toilet waste from 18 commercial flights arriving in Copenhagen from South Asia, North Asia and North America, and reported that waste from the South Asian flights were enriched for Salmonella enterica and Norovirus (both causes of food poisoning) and genes encoding antimicrobial resistance. In contrast, Clostridium difficile bacteria were more abundant in wastes from North American flights8. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498435/
+Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance
+
+https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
+Deposition of respiratory virus pathogens on frequently touched surfaces at airports
+
+https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
+空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+https://twitter.com/YuriHiranuma/status/1039760793347215360
+Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
+2:21 AM - 12 Sep 2018
+
+https://twitter.com/hedipeterson/status/1037235561289969665
+Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
+3:06 AM - 5 Sep 2018
+
+----------
 ## virus
 
 2018年2月13日
@@ -87,22 +116,6 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 https://twitter.com/shoemaker_levy/status/1040576433867829250
 suisei_sensei on Twitter: "ニューヨーク市立博物館の新しい展示は、都市と細菌・微生物、公衆衛生の歴史がテーマ（9/14-4/28）。Germ City: Microbes and the Metropolis　https://t.co/edOdtSqdfL"
 8:22 AM - 14 Sep 2018
-
-### airport
-
-https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
-Deposition of respiratory virus pathogens on frequently touched surfaces at airports
-
-https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
-空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-https://twitter.com/YuriHiranuma/status/1039760793347215360
-Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
-2:21 AM - 12 Sep 2018
-
-https://twitter.com/hedipeterson/status/1037235561289969665
-Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
-3:06 AM - 5 Sep 2018
 
 
 ## 2018-07
@@ -312,6 +325,7 @@ metadata
 https://www.ncbi.nlm.nih.gov/pubmed/26013493
 J Bacteriol. 2015 Aug 1;197(15):2458-67. doi: 10.1128/JB.00330-15. Epub 2015 May 26.
 Databases for Microbiologists.
+Zhulin IB1.
 
 https://www.ncbi.nlm.nih.gov/pubmed/25098325
 PLoS One. 2014 Aug 6;9(8):e103548. doi: 10.1371/journal.pone.0103548. eCollection 2014.
@@ -328,7 +342,42 @@ https://mediadb.systemsbiology.net/defined_media/growthdata/387/
  Growth Rate: 	0.20776 (1/h)
 
 ----------
+
+https://github.com/haruosuz/mgsa/tree/master/traitar
+https://www.ncbi.nlm.nih.gov/pubmed/28066816
+mSystems. 2016 Dec 27;1(6). pii: e00101-16. doi: 10.1128/mSystems.00101-16. eCollection 2016 Nov-Dec.
+From Genomes to Phenotypes: Traitar, the Microbial Trait Analyzer.
+Weimann A1, Mooren K2, Frank J3, Pope PB3, Bremges A4, McHardy AC1.
+Traitar provides phenotype classifiers to predict 67 traits related to the use of various substrates as carbon and energy sources, oxygen requirement, morphology, antibiotic susceptibility, proteolysis, and enzymatic activities.
+
+
+2013年9月現在、細菌23,458菌株のメタ情報（分類群、培養条件、分離場所、配列データ）を含む
+https://www.ncbi.nlm.nih.gov/pubmed/24214959
+Nucleic Acids Res. 2014 Jan;42(Database issue):D592-9. doi: 10.1093/nar/gkt1058. Epub 2013 Nov 7.
+BacDive--the Bacterial Diversity Metadatabase.
+Söhngen C1, Bunk B, Podstawka A, Gleim D, Overmann J.
+
+https://bacdive.dsmz.de/
+BacDive | The Bacterial Diversity Metadatabase
+
+https://bacdive.dsmz.de/strain/17849
+https://bacdive.dsmz.de/strain/131145
+
+数十の大腸菌のゲノム配列データからゲノムスケールの代謝モデルを構築し、様々な培養条件での増殖を予測
+https://www.ncbi.nlm.nih.gov/pubmed/24277855
+Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20338-43. doi: 10.1073/pnas.1307797110. Epub 2013 Nov 25.
+Genome-scale metabolic reconstructions of multiple Escherichia coli strains highlight strain-specific adaptations to nutritional environments.
+Monk JM1, Charusanti P, Aziz RK, Lerman JA, Premyodhin N, Orth JD, Feist AM, Palsson BØ.
+
+212種類の培養条件で得られたコロニー形成細菌群集
+https://www.ncbi.nlm.nih.gov/pubmed/23033984
+Clin Microbiol Infect. 2012 Dec;18(12):1185-93. doi: 10.1111/1469-0691.12023. Epub 2012 Oct 3.
+Microbial culturomics: paradigm shift in the human gut microbiome study.
+Lagier JC1, Armougom F, Million M, Hugon P, Pagnier I, Robert C, Bittar F, Fournous G, Gimenez G, Maraninchi M, Trape JF, Koonin EV, La Scola B, Raoult D.
+
+----------
 ### growth rate
+増殖速度
 
 https://twitter.com/mason_lab/status/987315842948960256
 Christopher Mason on Twitter: "Growth Rate Index (GRiD) measures bacterial growth rate from draft genomes and metagenomic bins at ultra-low sequencing coverage (> 0.2x) https://t.co/EhpVAES1QL from Julia Oh, Ph.D @jacksonlab"
@@ -348,6 +397,16 @@ Measurement of bacterial replication rates in microbial communities.
 Brown CT1, Olm MR1, Thomas BC2, Banfield JF2,3,4.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5538567/
 iRep and bPTR software are maintained under github.com/christophertbrown/iRep (v1.10 used in this analysis: github.com/christophertbrown/iRep/releases/tag/v1.10; Supplementary Code).
+
+https://github.com/christophertbrown/iRep
+iRep is a method for determining replication rates for bacteria from single time point metagenomics sequencing and draft-quality genomes.
+
+https://github.com/banfieldlab/BanfieldLabProjects
+iRep - estimating bacteria replication rates based on population genome copy number variation
+
+https://www.ncbi.nlm.nih.gov/pubmed/26229116
+Science. 2015 Sep 4;349(6252):1101-1106. doi: 10.1126/science.aac4812. Epub 2015 Jul 30.
+Growth dynamics of gut microbiota in health and disease inferred from single metagenomic samples.
 
 https://www.ncbi.nlm.nih.gov/pubmed/20308095
 Philos Trans R Soc Lond B Biol Sci. 2010 Apr 27;365(1544):1203-12. doi: 10.1098/rstb.2009.0305.
@@ -1256,61 +1315,22 @@ https://adgang.jp/2014/10/77120.html
 ----------
 
 
-https://www.ncbi.nlm.nih.gov/pubmed/29309933
-Clin Microbiol Infect. 2018 Apr;24(4):342-349. doi: 10.1016/j.cmi.2017.12.015. Epub 2018 Jan 5.
-A primer on microbial bioinformatics for nonbioinformaticians.
-Carriço JA1, Rossi M2, Moran-Gilad J3, Van Domselaar G4, Ramirez M5.
 
-https://www.ncbi.nlm.nih.gov/pubmed/27471065
-Microb Biotechnol. 2016 Sep;9(5):681-6. doi: 10.1111/1751-7915.12389. Epub 2016 Jul 29.
-Microbial bioinformatics 2020.
-Pallen MJ1.
 
-https://www.ncbi.nlm.nih.gov/pubmed/24567124
-Nutr Diabetes. 2014 Feb 24;4:e109. doi: 10.1038/nutd.2014.6.
-Comparative genomics analysis of Lactobacillus species associated with weight gain or weight protection.
-Drissi F1, Merhej V1, Angelakis E1, El Kaoutari A1, Carrière F2, Henrissat B3, Raoult D1.
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
+11:40 PM - 15 Jul 2015
 
+
+https://twitter.com/endBooks/status/385905594026033153
+科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
+7:13 PM - 3 Oct 2013
 
 
 ----------
-### uniref90
-
-Here are some reference papers.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4029085/ Paramecium bursaria transcriptome
-We performed similarity searches of the 10,557 P. bursaria unigenes against the Swiss-Prot and UniRef90 protein sequence databases [21] using BLASTX [22] with the E-value cutoff of 1e-5 and assigned the functional annotations of the most similar protein sequences. Of the 10,557 unigenes, 7,051 (67%) had matches with 4,102 unique records in the Swiss-Prot database; 9,536 (90%) had matches with 8,189 unique records in the UniRef90 database. The species distribution of the BLASTX best hits in the UniRef90 database showed that 8,710 (91.7%) of the 9,502 hits had top matches with sequences from P. tetraurelia, followed by Tetrahymena thermophila with 153 (1.6%) best BLASTX hits.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3993339/ Lactobacillus
-We assigned functional annotations to each protein family by merging all the functional annotations of proteins belonging to the same protein family (deleting uninformative annotations such as “hypothetical protein”). We used multiple databases as follows: Clusters of Orthologous Groups (COG [http://www.ncbi.nlm.nih.gov/COG/; 40]), JCVI/CMR [http://cmr.jcvi.org/; 41]), SEED (http://www.theseed.org/ [42]), UniProtKB/Uniref90 (http://www.uniprot.org), Virulence Factors Database (VFDB) (http://www.mgc.ac.cn/VFs/ [43]), Pfam (http://pfam.sanger.ac.uk), and Gene Ontology (GO) (http://www.geneontology.org). We performed a similarity search of the 136,962 Lactobacillus proteins against the Uniref90 and VFDB protein sequence databases using BLASTP (E-value < 1e−5 and >50% coverage) and assigned the functional annotations of the most similar protein sequences. We searched protein sequences against the Pfam library of hidden Markov models (HMMs) using HMMER (http://hmmer.janelia.org/) and converted Pfam accession numbers to GO terms using “pfam2go” mapping (http://www.geneontology.org/external2go/pfam2go).
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462011/ Clostridium difficile and Clostridium sordellii
-Gene functional annotation
-
-We assigned functional annotations to each protein family by merging all the functional annotations of proteins belonging to the same family. To gain different aspects and maximize coverage, protein families were annotated by multiple databases. We performed BLASTP searches of protein sequences against NCBI nr (non-redundant) database, COG [62], KEGG [39], UniProtKB/Uniref90 [96], Virulence Factors Database (VFDB) [60], and assigned the functional annotations of the most similar protein sequences in each database. We converted protein_ID to subsystems (Category, Subcategory, Subsystem, and Role) in SEED database [97]. We also searched protein sequences against the Pfam library of hidden Markov models (HMMs) [98] using HMMER, and mapped Gene Ontology (GO) terms to Pfam entries using the ‘pfam2go’ mapping provided by the GO consortium [99].
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2940326/ Campylobacter Pan-Genomes
-Annotation and Enrichment Tests
-
-Gene ontology (Ashburner et al. 2000) (GO) annotations were obtained for each orthologous cluster using HMMER searches (Eddy 2008) on the Pfam A and B databases (Finn et al. 2010) and using Blast against the Uniref90 database (Suzek et al. 2007). Best hits were then mapped to GO terms using the pfam2go mapping (Hunter et al. 2009) and the GOA database (Barrell et al. 2009), respectively. GO enrichment tests were conducted using GO::TermFinder (Boyle et al. 2004) with false discovery rate (FDR) correction and a 5% significance level.
 
 
-----------
-### uniref
-
-http://www.uniprot.org/help/uniref
-UniRef90 is built by clustering UniRef100 sequences with 11 or more residues using the CD-HIT algorithm (Li W. and Godzik A., Bioinformatics, 22: 1658-1659, 2006) such that each cluster is composed of sequences that have at least 90% sequence identity to and 80% overlap with the longest sequence (a.k.a. seed sequence) of the cluster.
-
-https://ja.wikipedia.org/wiki/Swiss-Prot
-UniProtの冗長性のないリファレンス (UniRef) のデータベース群[8]
-UniRef は、高速な類似性検索に供するため類縁性の強い配列を単一の配列データにまとめたデータベース群である。 
-
-http://www.uniprot.org/help/fasta-headers
-UniRef
-
-	>UniqueIdentifier ClusterName n=Members Tax=TaxonName TaxID=TaxonIdentifier RepID=RepresentativeMember
-
-- TaxonName is the scientific name of the lowest common taxon shared by all UniRef cluster members.
 
 
-----------
+
+
