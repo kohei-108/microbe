@@ -84,9 +84,6 @@ A standardized bacterial taxonomy based on genome phylogeny substantially revise
 
 ## 2018-08
 
-http://www.plasmidbiologysociety.org/plasmid-biology-2018/
-https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
-Plasmid Biology 2018 in Seattle, August 5-9.
 
 ## 2018-07
 
