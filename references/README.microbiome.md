@@ -17,6 +17,9 @@ Last Update: 2018-05-17
 - [Earth Microbiome Project](#emp)
 - [GWAS](#gwas)
 - [meta-analysis](#meta-analysis)
+- [ordination](#ordination) PCA PCoA MDS
+- [UniFrac](#unifrac)
+- [unclassified](#unclassified)
 
 ----------
 
@@ -26,8 +29,15 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 ## Updates
-
 ----------
+
+### 2018-09
+
+https://www.ncbi.nlm.nih.gov/pubmed/29950328
+J Clin Microbiol. 2018 Aug 27;56(9). pii: e00813-18. doi: 10.1128/JCM.00813-18. Print 2018 Sep.
+Lowering the Barriers to Routine Whole-Genome Sequencing of Bacteria in the Clinical Microbiology Laboratory.
+Rhoads DD1,2.
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/29460198
 J Plant Res. 2018 Jul;131(4):709-717. doi: 10.1007/s10265-018-1017-x. Epub 2018 Feb 19.
@@ -162,73 +172,6 @@ As of the publication of this paper, no abundance-weighted phylogenetic alpha di
 
 
 ----------
-## 16S
-
-https://www.ncbi.nlm.nih.gov/pubmed/29688343
-FEMS Microbiol Lett. 2018 May 1;365(10). doi: 10.1093/femsle/fny104.
-A town on fire! Integrating 16S rRNA gene amplicon analyses into an undergraduate microbiology lecture class.
-Tobin TC1, Shade A2.
-In this module, microbiology students used Quantitative Insights into Microbial Ecology (QIIME) to perform taxonomic, phylogenetic and statistical analyses on bacterial communities from three hot mine fire-impacted surface soils using 16S rRNA gene amplicon sequences. 
-
-https://twitter.com/BioMickWatson/status/968147242401058817
-Mick Watson on Twitter: "If you're working in 16S microbiome research, please read our paper which tries to suggest best practices! https://t.co/XWVRxUKFRW"
-The madness of microbiome: Attempting to find consensus “best practice” for 16S microbiome studies
-10:34 AM - 26 Feb 2018
-
-https://www.ncbi.nlm.nih.gov/pubmed/29427429
-Appl Environ Microbiol. 2018 Mar 19;84(7). pii: e02627-17. doi: 10.1128/AEM.02627-17. Print 2018 Apr 1.
-The Madness of Microbiome: Attempting To Find Consensus "Best Practice" for 16S Microbiome Studies.
-Pollock J#1,2, Glendinning L#2, Wisedchanwet T2, Watson M2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861821/
-Of the three most commonly used alignments which are guided by secondary structure (i.e., Greengenes [73], RDP [74], and SILVA [75]), the Greengenes alignment was observed to be of poor quality, leading to significantly greater richness and diversity estimates.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28361695
-BMC Genomics. 2017 Mar 14;18(Suppl 2):114. doi: 10.1186/s12864-017-3501-4.
-SILVA, RDP, Greengenes, NCBI and OTT - how do these taxonomies compare?
-Balvočiūtė M1, Huson DH2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374703/
-For the comparisons we used a taxonomy associated with the Greengenes database as released on May 2013. Although Greengenes is still included in some metagenomic analyses packages, for example QIIME [22], it has not been updated for the last three years.
-
-https://www.pediatricsurgery.site/entry/2017/11/19/200241
-mothur開発者によるmothurとQIIMEの比較 - Note of Pediatric Surgery
-
-mothurではRDP、SILVA、greengenesを使用することができる
-
-Mar 2017
-https://forum.qiime2.org/t/classification-using-greengenes-v-silva/409
-Classification using GreenGenes v. SILVA - User support - QIIME 2 Forum
-
-http://blog.mothur.org/2015/08/04/No-greengenes-hasnt-improved/
-No, greengenes' reference alignment hasn't improved
-
-- SILVA (good for alignment and classification)
-- greengenes (good for alignment and classification)
-- RDP (good for classification)
-
-https://www.researchgate.net/post/Is_Greengenes_or_SILVA_better_for_bacterial_microbiome_studies
-Is Greengenes or SILVA better for bacterial microbiome studies?
-
-https://www.ncbi.nlm.nih.gov/pubmed/27166378
-Nucleic Acids Res. 2016 Jun 20;44(11):5022-33. doi: 10.1093/nar/gkw396. Epub 2016 May 10.
-Phylogeny-aware identification and correction of taxonomically mislabeled sequences.
-Kozlov AM1, Zhang J2, Yilmaz P3, Glöckner FO4, Stamatakis A5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4914121/
-First, we evaluate taxonomic annotations of type strains only, using the same sequence set and alignment (LTP v123) for all four databases (data sets GG13_T, LTP123_T, RDP11_T and SLV123_T in Table ​Table1).1). 
-
-https://www.ncbi.nlm.nih.gov/pubmed/23460914
-PLoS One. 2013;8(2):e57923. doi: 10.1371/journal.pone.0057923. Epub 2013 Feb 27.
-The variability of the 16S rRNA gene in bacterial genomes and its consequences for bacterial community analyses.
-Větrovský T1, Baldrian P.
-
-
-Alexey M. Kozlov, 1 ,* Jiajie Zhang, 1 Pelin Yilmaz, 2 Frank Oliver Glöckner, 2 , 3 and Alexandros Stamatakis 1 , 4
-1The Exelixis Lab, Scientific Computing Group, Heidelberg Institute for Theoretical Studies, Schloss-Wolfsbrunnenweg 35, 69118 Heidelberg, Germany
-2Microbial Genomics and Bioinformatics Research Group, Max Planck Institute for Marine Microbiology, 28359 Bremen, Germany
-3Jacobs University Bremen gGmbH, Campus Ring 1, 28759 Bremen, Germany
-4Karlsruhe Institute of Technology, Institute for Theoretical Informatics, Postfach 6980, 76128 Karlsruhe, Germany
-*To whom correspondence should be addressed. Tel: +49 6221533291; Fax: +49 6221533298; Email: gro.sti-h@volzoK.yexelA
-
-----------
 ## Greengenes
 
 http://greengenes.secondgenome.com
@@ -252,22 +195,185 @@ http://rdp.cme.msu.edu/misc/resources.jsp
 RDP Resource Download Area
 
 ----------
+## 16S
 
-https://ja.wikipedia.org/wiki/16S_rRNA系統解析
+https://www.biorxiv.org/content/early/2018/10/13/441576
+Nomenclature Errors in Public 16S rRNA Gene Reference Databases
+
+https://www.ncbi.nlm.nih.gov/pubmed/29506021
+Bioinformatics. 2018 Jul 15;34(14):2371-2375. doi: 10.1093/bioinformatics/bty113.
+Updating the 97% identity threshold for 16S ribosomal RNA OTUs.
+Edgar RC1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29688343
+FEMS Microbiol Lett. 2018 May 1;365(10). doi: 10.1093/femsle/fny104.
+A town on fire! Integrating 16S rRNA gene amplicon analyses into an undergraduate microbiology lecture class.
+Tobin TC1, Shade A2.
+In this module, microbiology students used Quantitative Insights into Microbial Ecology (QIIME) to perform taxonomic, phylogenetic and statistical analyses on bacterial communities from three hot mine fire-impacted surface soils using 16S rRNA gene amplicon sequences. 
+
+https://twitter.com/BioMickWatson
+
+https://www.ncbi.nlm.nih.gov/pubmed/29427429
+Appl Environ Microbiol. 2018 Mar 19;84(7). pii: e02627-17. doi: 10.1128/AEM.02627-17. Print 2018 Apr 1.
+The Madness of Microbiome: Attempting To Find Consensus "Best Practice" for 16S Microbiome Studies.
+Pollock J#1,2, Glendinning L#2, Wisedchanwet T2, Watson M2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861821/
+Of the three most commonly used alignments which are guided by secondary structure (i.e., Greengenes [73], RDP [74], and SILVA [75]), the Greengenes alignment was observed to be of poor quality, leading to significantly greater richness and diversity estimates.
+
+https://www.microbe.net/2018/03/03/the-attempt-to-find-best-practice-for-16s-studies/
+The attempt to find “best practice” for 16S studies – microBEnet: the microbiology of the Built Environment network
+
+https://www.ncbi.nlm.nih.gov/pubmed/29305502
+Appl Environ Microbiol. 2018 Mar 1;84(6). pii: e00014-18. doi: 10.1128/AEM.00014-18. Print 2018 Mar 15.
+How Much Do rRNA Gene Surveys Underestimate Extant Bacterial Diversity?
+Rodriguez-R LM1,2,3, Castro JC1,2, Kyrpides NC4, Cole JR5,6, Tiedje JM5,7,6, Konstantinidis KT8,2,3.
+
+https://twitter.com/BioMickWatson/status/968147242401058817
+Mick Watson on Twitter: "If you're working in 16S microbiome research, please read our paper which tries to suggest best practices! https://t.co/XWVRxUKFRW"
+The madness of microbiome: Attempting to find consensus “best practice” for 16S microbiome studies
+10:34 AM - 26 Feb 2018
+
+https://twitter.com/search?q=ゲノム%2016S
+
+https://twitter.com/Tyu_Shi/status/969218896371707904
+16S rRNA遺伝子配列で85%以下のIdentityの場合には、近縁系統のゲノム内16S rRNA遺伝子コピー数を補正に使うと補正精度が悪くなるという結果を出し、それを根拠にCopyRighter等の既存の補正ツールを批判しているが、そんな遠い系統を基準に補正をしては精度が下がるのは当然だ。
+9:32 AM - 1 Mar 2018
+
+https://twitter.com/yokadzaki/status/968841333400944640
+Yusuke Okazaki on Twitter: "16Sアンプリコンseqで各系統のrrnオペロンのコピー数の違いの補正に近縁系統の情報を使う方法はアテにならないので、補正しないで済むデータの使い方をしたほうがマシである、という論文"
+8:32 AM - 28 Feb 2018
+
+https://twitter.com/yokadzaki/status/968837626013794304
+Yusuke Okazaki on Twitter: "この論文はBioRxivのコメント欄でやりあっていて面白いので併せて読んだほうがよい https://t.co/dq9i5so7XG"
+8:17 AM - 28 Feb 2018
+
+https://twitter.com/yokadzaki/status/949628412804481025
+DB上の細菌ゲノムを使って、全ゲノム>95％で定義されるOTUと16S rRNA>97%で定義されるOTUがどれくらい乖離しているのかを調べた研究。その乖離度が系統によって大きく異なるという結果も（予想通りだけど）面白い。ゲノムサイズが関係ありそうな結果だけど、本文には言及が無かった
+8:07 AM - 6 Jan 2018
+
+https://twitter.com/yokadzaki/status/940465660852703232
+ゲノムサイズが小さいもの同士でも「近縁系統とのゲノムの違いがどれくらい連続的か」というのに系統間で明らかな差があるというのは面白い。そしてこの結果は「16Sで見えていたものはバイアスだらけ」ということも意味している
+1:17 AM - 12 Dec 2017
+
+https://twitter.com/yokadzaki/status/936042447452323840
+それを「種」と呼んでいいのかは分からないけど、全ゲノムの相同性で明確に他の系統と区別できる（中間的なものが存在しない）形でクラスターができるという報告が増えてきて、16Sで>97%とかいう謎の基準に依存した研究はもうじき過去のものになりそう
+8:21 PM - 29 Nov 2017
+
+https://www.pediatricsurgery.site/entry/2017/11/19/200241
+mothur開発者によるmothurとQIIMEの比較 - Note of Pediatric Surgery
+
+mothurではRDP、SILVA、greengenesを使用することができる
+
+https://www.ncbi.nlm.nih.gov/pubmed/28705636
+J Biotechnol. 2017 Nov 10;261:2-9. doi: 10.1016/j.jbiotec.2017.07.010. Epub 2017 Jul 10.
+A review of bioinformatics platforms for comparative genomics. Recent developments of the EDGAR 2.0 platform and its utility for taxonomic and phylogenetic studies.
+Yu J1, Blom J2, Glaeser SP3, Jaenicke S4, Juhre T4, Rupp O4, Schwengers O4, Spänig S4, Goesmann A4.
+https://www.sciencedirect.com/science/article/pii/S0168165617315225
+But, because it is well known that the phylogenetic resolution of the primary phylogenetic marker, the 16S rRNA gene, is limited at the lower taxonomic levels, the integration of a genome sequence based phylogeny into the polyphasic approach of the prokaryotic taxonomy and systematics is the clear consequence in the genome area (Chun and Rainey, 2014, Ramasamy et al., 2014, Oren and Garrity, 2014, Vandamme and Peeters, 2014, Sangal et al., 2016).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28662636
+BMC Genomics. 2017 Jun 29;18(1):499. doi: 10.1186/s12864-017-3888-y.
+Relating genomic characteristics to environmental preferences and ubiquity in different microbial taxa.
+Cobo-Simón M1, Tamames J2.
+
+https://www.researchgate.net/post/Is_Greengenes_or_SILVA_better_for_bacterial_microbiome_studies
+Is Greengenes or SILVA better for bacterial microbiome studies?
+
+https://www.ncbi.nlm.nih.gov/pubmed/28361695
+BMC Genomics. 2017 Mar 14;18(Suppl 2):114. doi: 10.1186/s12864-017-3501-4.
+SILVA, RDP, Greengenes, NCBI and OTT - how do these taxonomies compare?
+Balvočiūtė M1, Huson DH2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374703/
+For the comparisons we used a taxonomy associated with the Greengenes database as released on May 2013. Although Greengenes is still included in some metagenomic analyses packages, for example QIIME [22], it has not been updated for the last three years.
+
+Mar 2017
+https://forum.qiime2.org/t/classification-using-greengenes-v-silva/409
+Classification using GreenGenes v. SILVA - User support - QIIME 2 Forum
+
+https://www.ncbi.nlm.nih.gov/pubmed/27166378
+Nucleic Acids Res. 2016 Jun 20;44(11):5022-33. doi: 10.1093/nar/gkw396. Epub 2016 May 10.
+Phylogeny-aware identification and correction of taxonomically mislabeled sequences.
+Kozlov AM1, Zhang J2, Yilmaz P3, Glöckner FO4, Stamatakis A5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4914121/
+First, we evaluate taxonomic annotations of type strains only, using the same sequence set and alignment (LTP v123) for all four databases (data sets GG13_T, LTP123_T, RDP11_T and SLV123_T in Table ​Table1).1). 
+
+http://blog.mothur.org/2015/08/04/No-greengenes-hasnt-improved/
+No, greengenes' reference alignment hasn't improved
+
+- SILVA (good for alignment and classification)
+- greengenes (good for alignment and classification)
+- RDP (good for classification)
+
+https://www.ncbi.nlm.nih.gov/pubmed/27603265
+Genome. 2016 Oct;59(10):783-791. Epub 2016 May 11.
+bcgTree: automatized phylogenetic tree building from bacterial core genomes.
+Ankenbrand MJ1,1, Keller A1,1.
+The need for multi-gene analyses in scientific fields such as phylogenetics and DNA barcoding has increased in recent years. In particular, these approaches are increasingly important for differentiating bacterial species, where reliance on the standard 16S rDNA marker can result in poor resolution. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/23460914
+PLoS One. 2013;8(2):e57923. doi: 10.1371/journal.pone.0057923. Epub 2013 Feb 27.
+The variability of the 16S rRNA gene in bacterial genomes and its consequences for bacterial community analyses.
+Větrovský T1, Baldrian P.
+
+
+2017/08/30
+https://www.aist.go.jp/aist_j/press_release/pr2017/pr20170830/pr20170830.html
+産総研：進化系統分類の指標となる16S rRNA遺伝子の進化的な中立性を実験的に証明
+
+https://www.nite.go.jp/nbrc/safety/risk_assessment.html
+微生物利用におけるリスク評価に関する技術情報の提供 | バイオテクノロジー | 製品評価技術基盤機構
+DDHにおける菌種判定の閾値である類似度70%は、ANIにおいて95-96%に相当すると報告されています。このことから、近年では、DDHの代替としてANIに基づく新種の提案が行われてきています(Baek et al. 2015, IJSEM 65: 504; Shahraki et al. 2015, IJSEM 65: 504)。
+OTUとは、ある一定以上の類似性（一般的には96-97%）を持つ配列同士を一つの菌種のように扱うための操作上の分類単位です。
+
+バイオレメディエーションにおける生態系影響評価手法	Illumina社MiSeqシーケンサーを用いた、環境中の微生物生態系解析の実験手法およびパイプラインツール「QIIME」を用いたデータ解析手法の手順書です。 2016年3月25日 https://www.nite.go.jp/data/000081956.pdf
+
+https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2015.870475/data/index.html
+Journal of Japanese Biochemical Society 87(4): 475-477 (2015)
+16SリボソームRNAの水平伝播実験からみえてくるリボソームの可塑性
+佃 美雪1,2，宮崎 健太郎1,3
+
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/52/2/52_70/_pdf
+化学と生物 Vol. 52, No. 2, 2014
+16S rRNA遺伝子の「水平伝播」
+異種16S rRNAによる遺伝的相補
+
+2014
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903645/
+MetaMetaDB: A Database and Analytic System for Investigating Microbial Habitability
+
+Therefore, MetaMetaDB chooses the hits exhibiting above 97%, 95%, 90%, 85%, and 80% identity from the search result list, which correspond approximately to the taxonomic levels of species, genus, family, order, and class [1], respectively, 
+
+02/02/13
+http://www.jarmam.gr.jp/situmon/16sr_rna.html
+16s rRNA の相同性と同定精度の関係は???
+一般的には, 97%以上の相同性があれば類縁関係があり、99%以上であれば同種である可能性が高いとしています。
+極端な例では, 100%の相同性が認められても, 属レベルで異なる例さえ示されているのです。
+
+2012 年
+https://www.jstage.jst.go.jp/article/jslab/23/1/23_24/_pdf
+総説
+16S rRNA 遺伝子の大量シークェンシングによる 菌叢解析の現状と問題点
+是則 有希, Jiahui Jiang, 中山 二郎
+属レベルまでの菌叢プロファイルであ れば、Ribosomal Database Project I(I 以下、RDP II)のウェ ブサイトにある RDP classifier を用いることで容易に菌叢 プロファイルに変換することができる。
+一方、種レベルでの菌叢データを得ることは非常に困難 である。実際に、理論上 16S rRNA 遺伝子の部分配列か ら種を特定することは不可能であり、
 
 http://www.aist.go.jp/aist_j/press_release/pr2012/pr20121030/pr20121030.html
 産総研：生物種を越えた16S rRNA遺伝子の機能相補性を確認
 
-https://www.jstage.jst.go.jp/article/jslab/23/1/23_24/_pdf
-16S rRNA 遺伝子の大量シークェンシングによる 菌叢解析の現状と問題点
-是則有希 著 - ‎2012
+2011
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8912/8912_yomoyama_2.pdf
+生物工学基礎講座 バイオよもやま話 何から始めよう 微生物の同定 細菌・アーキア編
+浜田 盛之,鈴木 健一朗
+特に 16S rRNA 遺伝子配列の相同値が 97% に満たない場合 などは新属になる可能性もあるため,系統樹を作成して 既知の属のクラスターに含まれるのかどうかを慎重に確 認したほうがよい.
+
+https://www.mitsui-norin.co.jp/mmid/knowledge/yokota/index3.html
+MMID｜微生物を知ろう｜微生物分類同定講座
+16S ｒRNA遺伝子塩基配列の相同性が98％以上の場合、必ずしも同種であるとは限らず、属によっては99％以上であっても別種の場合があります。
+
+https://ja.wikipedia.org/wiki/16S_rRNA系統解析
 
 http://www.jarmam.gr.jp/situmon3/16sr-rna.html
 16S rRNAでの微生物同定
-
-
-
-
 
 
 ----------
@@ -336,6 +442,69 @@ Earth Microbiome Project Consortium.
 Thursday, 26 October 2017 10:16
 https://www.asm.org/index.php/podcasts/meet-the-microbiologist/item/6882-mtm-68
 Microbiomes everywhere with Jack Gilbert - MTM 68
+
+----------
+## ordination
+ PCA PCoA MDS
+
+http://yokazaki.hatenablog.com/entry/2016/06/29/212153
+RによるNMDSを用いた微生物群集構造解析 - yokaのblog
+
+http://d.hatena.ne.jp/fronori/20140517
+MDSとその愉快な仲間たち - 統計で迷子になる方法
+
+PCoAは距離としてユークリッド距離を用いた場合は、主成分分析（PCA）と数学的に同等となる
+
+https://twitter.com/fronori/status/465902482246221824
+Tetsuo Ishikawa on Twitter: "微生物生態学でPCAではなくPCoAを使うのはなぜ？ https://t.co/EWaIp917ko この論文 http://t.co/4aTfUB8Ulr がオススメ。多変量解析の手法の比較や違いの説明が詳しい。テーブル１の生態学の中でも分野による違いも興味深い。"
+1:13 PM - 12 May 2014
+
+http://hoxo-m.hatenablog.com/entry/20120313/p1
+主座標分析について簡単に紹介するよ！ - ほくそ笑む
+
+主成分分析との違いを簡単に言うと、主成分分析はユークリッド距離をなるべく保ちながら低次元に落とす方法ですが、主座標分析はユークリッド距離だけでなく、他の距離や類似度*2が使えるという点にあります。
+
+----------
+## UniFrac
+
+https://en.wikipedia.org/wiki/UniFrac
+
+https://twitter.com/yoshikivb/status/1001558730490634243
+Yoshiki Vázquez B. on Twitter: "Ever wondered what a UniFrac ordination looked like with >110K samples? Wonder no more, you can now look at it live (will work best on your desktop): https://t.co/itSsrIzXhL thanks to a recent PR, @mcdonadt and @qiime2… https://t.co/6WPLTbyP6Q"
+
+
+平成 28 年 3 月版（Ver.0.9）
+https://www.nite.go.jp/data/000081956.pdf
+次世代シーケンサーを用いた菌叢解析
+（16S rRNA 遺伝子 PCR サンプルの解析）
+独立行政法人 製品評価技術基盤機構
+バイオテクノロジーセンター
+2.5 UniFrac 解析
+比較するサンプルの OTU 代表配列を用いて系統樹解析を行い、試料間で共有されるOTU の枝長と各試料で固有な枝長の割合から、菌叢構造の違いを距離 UniFrac distance として計算する解析方法をいう。算出された UniFrac distance を用いて、主座標分析(PCoA:Principal Coordinate Analysis)や UPGMA 法によるクラスタリング解析を行うことで、試料間の相違度を視覚化することができる。また、リード数を考慮し細菌叢の構成を表す Weighted UniFrac 解析と、リード数を考慮せず細菌叢の構成メンバーを表す UnweightedUniFrac 解析がある。
+
+2014 年
+https://www.jstage.jst.go.jp/article/jsci/37/5/37_412/_article/-char/ja/
+ヒト腸内マイクロバイオーム解析のための最新技術
+服部 正平
+https://www.jstage.jst.go.jp/article/jsci/37/5/37_412/_pdf/-char/ja
+二つ目は検出された OTU 間の配列類似度から各細菌叢の系統樹を作成し，その系統樹の類似性（比較する細菌叢との系統樹間で共有する枝の長さとそれぞれの細菌叢に固有な枝の割合）から，細菌叢間の全体構造の相違の程度を求める．この解析を UniFrac 解析と言い，細菌叢間の類似性を 0（100% 類似する）～ 1（100% 類似しない）の距離（UniFrac 距離）で表す6）．UniFrac 解析にはOTU に含まれるリード数（組成比）を考慮しないunweighted と考慮した weighted UniFrac 解析がある．前者は菌種の有無だけが，後者は同一菌種の組成比の相違が両細菌叢間の類似性の距離に反映される．
+
+https://twitter.com/Tyu_Shi/status/411124035401949184
+Tyu_Shi on Twitter: "昨日からの発表を聴いていると、みんなUniFrac Distanceを万能の距離尺度と考えて使っているように感じられるが、あれはUniFrac Distanceを計算する系統樹が問題無いことを前提にしているのだから、その前提の確認無しに信頼しすぎるのはマズいよ。"
+8:23 AM - 12 Dec 2013
+
+https://twitter.com/windowmoon/status/411154169328709633
+窓月㌠・CC-BY on Twitter: "@Tyu_Shi 万単位になってくるとブートストラップなしでも系統樹推定苦しいのでは。系統樹使わずに分子同定した上で、分類体系に合うように樹形制約を入れれば可能かもしれません。ブートストラップもなしで単発の推定結果を樹形の不確実性考慮せずに使うのはかなり拙いでしょうね。"
+10:22 AM - 12 Dec 2013
+
+https://twitter.com/yuifu/status/187741115720548352
+Haruka Ozaki on Twitter: "UniFracの元論文。細菌叢の配列集合間の距離を計算する手法。系統樹上で共有する枝長を使い、かつ、距離を定義したことが新しかったらしい。オルタナティブを作ろうとすると、優位性を示す方法がないことが課題。 http://t.co/nZudriEa #Everydayペーパー"
+11:19 PM - 4 Apr 2012
+
+https://www.ncbi.nlm.nih.gov/pubmed/20827291
+ISME J. 2011 Feb;5(2):169-72. doi: 10.1038/ismej.2010.133. Epub 2010 Sep 9.
+UniFrac: an effective distance metric for microbial community comparison.
+Lozupone C1, Lladser ME, Knights D, Stombaugh J, Knight R.
 
 ----------
 ## unclassified
@@ -473,17 +642,32 @@ https://twitter.com/search?f=tweets&q=microbiome%20meta-analysis
 
 ### Qiita
 
+https://twitter.com/strnr/status/1047841444214558720
+Stephen Turner on Twitter: "Qiita (pronounced chee-tah): rapid, web-enabled microbiome meta-analysis Paper: https://t.co/aXTv0cTCND Web: https://t.co/XfwpO4bP0I Docs: https://t.co/CKEEffUSCW Source: https://t.co/HWOT2qYHeZ… https://t.co/RVMns0X6Eo"
+9:30 AM - 4 Oct 2018
+
+Qiita (pronounced chee-tah): rapid, web-enabled microbiome meta-analysis 
+
+Paper: https://www.nature.com/articles/s41592-018-0141-9 …
+Web: https://qiita.ucsd.edu/ 
+Docs: https://qiita.ucsd.edu/static/doc/html/index.html …
+Source: https://github.com/biocore/qiita 
+
 https://twitter.com/gibbological/status/1046878477981343744
 Sean Gibbons on Twitter: "Qiita: rapid, web-enabled microbiome meta-analysis https://t.co/4Osl11rR8X from @KnightLabNews @gregcaporaso and @Pdorrestein1 labs. Useful tool for all us 'data parasites' :)"
 5:44 PM - 1 Oct 2018
 
 batch effect
+バッチ効果
 
+https://twitter.com/jongsanders/status/1046836821286686721
+Jon Sanders on Twitter: "The Qiita paper is out! So happy to have been able to contribute to this amazing resource. Congrats, @KnightLabNews! https://t.co/QkQ2x363Xi"
+2:58 PM - 1 Oct 2018
+![](https://pbs.twimg.com/card_img/1046836828454703105/ZFWvyfj5?format=jpg&name=144x144_2)
 
 01 October 2018  & Rob Knight 
 https://www.nature.com/articles/s41592-018-0141-9
 Qiita: rapid, web-enabled microbiome meta-analysis
-
 
 ### almlab
 http://almlab.mit.edu/
