@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-09
+Last Update: 2018-10
 
 ----------
 
@@ -1123,11 +1123,14 @@ https://www.iwanami.co.jp/book/b309292.html
 http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 微生物の驚異 | 日経サイエンス
 
-### 2017/5/1
+### 2017-05-01
 ![](http://www.kashiwashobo.co.jp//images/book/286870.jpg)
 
 http://www.kashiwashobo.co.jp/book/b286870.html
 世界は細菌にあふれ、人は細菌によって生かされる
+
+https://edyong.me/i-contain-multitudes/
+I Contain Multitudes — Ed Yong
 
 https://medium.com/hhmi-science-media
 I Contain Multitudes – Medium
