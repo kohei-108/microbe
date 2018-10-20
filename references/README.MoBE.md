@@ -1,81 +1,45 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-08
-
-----------
 
 # MoBE
-Microbiology of the Built Environment
+**Microbiology of the Built Environment**
 **建造環境の微生物**
 
+## Table of Contents
+- [featuring](#featuring)
+- [updates](#updates)
+- [japan](#japan)
+- [school](#school)
 
 ----------
+## Hong Kong subway system
 
 https://twitter.com/GenomeWeb/status/1027158748886904833
-Researchers saw subway line-specific microbes on the hands of subway riders, with increased skin microbial community convergence in samples from evening commuters.
+GenomeWeb on Twitter: "Researchers saw subway line-specific microbes on the hands of subway riders, with increased skin microbial community convergence in samples from evening commuters. https://t.co/dnQFoWR2Rw"
 7:45 AM - 8 Aug 2018
 
 
+https://twitter.com/uranus_2/status/1025811324830248960
+マーキュリー２世 on Twitter: "香港の鉄道の手すりについている手のひらの微生物叢を解析。時間帯が一番影響力がある。抗生物質抵抗遺伝子は特に午後に採取されやすい。路線特異的な微生物叢は、路線特異的な環境暴露や都市の特徴を反映。The Environmental Exposures and Inner- and Intercity Traffic…https://t.co/Emw6I4T4qB"
+2:30 PM - 4 Aug 2018
 
+https://www.ncbi.nlm.nih.gov/pubmed/30067975
+Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
+The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
+Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
 
-----------
-
-## MoBE 2017
-
-https://www.microbe.net/event/mobe-2017-symposium-maryland/
-MoBE 2017 Symposium (Maryland)
-October 10 - October 12
-
-https://www.microbe.net/microbenet-past-events-meetings-workshops/upcoming-events/mobe_2017/
-MoBE 2017: Microbiology of the Built Environment Research and Applications Symposium
-October 10 – October 12, 2017
-
-MoBE YouTube videos: checkout the MoBE talks and panel discussions.
-
-https://www.youtube.com/watch?v=cCkRLJ1z_HE
-Ed Yong MoBE Keynote - YouTube
+Hong Kong Mass Transit Railway (MTR) system
 
 ----------
+## review
 
-http://nas-sites.org/builtmicrobiome/
-Microbiomes of the Built Environment
+https://twitter.com/NatureRevMicro/status/1031916837896957952
+Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
+10:52 AM - 21 Aug 2018
+![](https://pbs.twimg.com/media/DlIaeJdXsAERebp.jpg)
 
-https://www.ncbi.nlm.nih.gov/books/NBK458827/
-Microbiomes of the Built Environment - NCBI Bookshelf
-
-https://www.ncbi.nlm.nih.gov/books/NBK458828/
-4. Tools for Characterizing Microbiome–Built Environment Interactions
-- The data collection effort undertaken for the Hospital Microbiome Project illustrates how such measurements can be implemented. This project explored the composition of microbial communities in 10 patient rooms and two nursing stations on two floors of a newly constructed hospital before and after occupancy by patients (Lax et al., 2017; Ramos et al., 2015; Shogan et al., 2013; Smith et al., 2013). 
-
-http://hospitalmicrobiome.com
-Hospital Microbiome Project
-
-http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
-Extreme Built Environments
-
-https://www.authorea.com/users/5064/articles/80539-a-microbial-survey-of-the-most-extreme-built-environment-the-international-space-station-iss/_show_article
-A microbial survey of the most extreme built environment: the International Space Station (ISS) - Authorea
-
-https://www.microbe.net/tag/iss/
-https://peerj.com/articles/4029/
-A microbial survey of the International Space Station (ISS) [PeerJ]
-
-### microBEnet
-http://www.microbe.net
-microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
-
-http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
-Call for Papers MoBE 2017 Microbiome Special Issue
-
-https://www.microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
-Guest Post: Metadata for the Built Environment – MIxS-BE package
-
-### MoBE papers
-
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
-
-https://www.biomedcentral.com/collections/mobe2017
-Microbiome of the Built Environment (MoBE) 2017: Research to Application
+https://www.ncbi.nlm.nih.gov/pubmed/30127345
+Nat Rev Microbiol. 2018 Aug 20. doi: 10.1038/s41579-018-0065-5. [Epub ahead of print]
+Microbiology of the built environment.
+Gilbert JA1,2, Stephens B3.
 
 https://twitter.com/NatureBiotech/status/864838380353449984
 Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
@@ -86,8 +50,6 @@ Living in a microbial world.
 Schmidt C.
 
 The indoor microbiome is influenced by building design and operations, human inhabitants and their activities.
-
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/27748568
 Microb Biotechnol. 2017 Jan;10(1):11-13. doi: 10.1111/1751-7915.12430. Epub 2016 Oct 17.
@@ -123,16 +85,73 @@ Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
 Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
 http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
 
-2014年8月31日
-http://aasj.jp/news/watch/2102
-住宅環境と皮膚細菌叢（８月２９日号Science誌掲載論文）
 
 ----------
 
-https://www.ncbi.nlm.nih.gov/pubmed/26459172
-Microbiome. 2015 Oct 13;3:49. doi: 10.1186/s40168-015-0108-3.
-Microbiota of the indoor environment: a meta-analysis.
-Adams RI1, Bateman AC2, Bik HM3,4, Meadow JF5.
+http://nas-sites.org/builtmicrobiome/
+Microbiomes of the Built Environment
+
+https://www.ncbi.nlm.nih.gov/books/NBK458827/
+Microbiomes of the Built Environment - NCBI Bookshelf
+
+https://www.ncbi.nlm.nih.gov/books/NBK458828/
+4. Tools for Characterizing Microbiome–Built Environment Interactions
+- The data collection effort undertaken for the Hospital Microbiome Project illustrates how such measurements can be implemented. This project explored the composition of microbial communities in 10 patient rooms and two nursing stations on two floors of a newly constructed hospital before and after occupancy by patients (Lax et al., 2017; Ramos et al., 2015; Shogan et al., 2013; Smith et al., 2013). 
+
+http://hospitalmicrobiome.com
+Hospital Microbiome Project
+
+http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
+Extreme Built Environments
+
+https://www.authorea.com/users/5064/articles/80539-a-microbial-survey-of-the-most-extreme-built-environment-the-international-space-station-iss/_show_article
+A microbial survey of the most extreme built environment: the International Space Station (ISS) - Authorea
+
+https://www.microbe.net/tag/iss/
+https://peerj.com/articles/4029/
+A microbial survey of the International Space Station (ISS) [PeerJ]
+
+https://www.biomedcentral.com/collections/builtenvironment
+Microbiology of the Built Environment
+
+https://www.biomedcentral.com/collections/mobe2017
+Microbiome of the Built Environment (MoBE) 2017: Research to Application
+
+### microBEnet
+![](https://www.microbe.net/wp-content/uploads/2012/03/cropped-microbenet6.jpg)
+
+http://www.microbe.net
+microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
+
+http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
+Call for Papers MoBE 2017 Microbiome Special Issue
+
+https://www.microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
+Guest Post: Metadata for the Built Environment – MIxS-BE package
+
+----------
+## updates
+
+## 2018
+
+## 2017
+
+### MoBE 2017
+
+https://www.microbe.net/event/mobe-2017-symposium-maryland/
+MoBE 2017 Symposium (Maryland)
+October 10 - October 12
+
+https://www.microbe.net/microbenet-past-events-meetings-workshops/upcoming-events/mobe_2017/
+MoBE 2017: Microbiology of the Built Environment Research and Applications Symposium
+October 10 – October 12, 2017
+
+MoBE YouTube videos: checkout the MoBE talks and panel discussions.
+
+https://www.youtube.com/watch?v=cCkRLJ1z_HE
+Ed Yong MoBE Keynote - YouTube
+
+## 2015
 
 https://wired.jp/2015/10/11/bacteria-clouds/
 人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
@@ -169,7 +188,66 @@ Longitudinal analysis of microbial interaction between humans and the indoor env
 Lax S1, Smith DP2, Hampton-Marcell J1, Owens SM3, Handley KM1, Scott NM1, Gibbons SM4, Larsen P5, Shogan BD6, Weiss S7, Metcalf JL8, Ursell LK9, Vázquez-Baeza Y10, Van Treuren W8, Hasan NA11, Gibson MK12, Colwell R11, Dantas G12, Knight R13, Gilbert JA14.
 
 
+2014年8月31日
+http://aasj.jp/news/watch/2102
+住宅環境と皮膚細菌叢（８月２９日号Science誌掲載論文）
+
 ----------
+
+## school
+university
+
+https://collegestats.org/explore/bacteria-on-campus/
+
+![](https://collegestats.org/wp-content/uploads/2016/11/bacteria-on-campus-header.png)
+
+https://www.ncbi.nlm.nih.gov/pubmed/26620848
+Microbiome. 2015 Dec 1;3:66. doi: 10.1186/s40168-015-0135-0.
+Microbial biogeography of a university campus.
+Ross AA1, Neufeld JD2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25183103
+Asian Pac J Trop Biomed. 2014 May;4(Suppl 1):S312-7. doi: 10.12980/APJTB.4.2014C807.
+Microbiological quality of indoor air in university libraries.
+Hayleeyesus SF1, Manaye AM1.
+
+
+http://agronomy.emu.ee/vol123/2014_3_18_b5.pdf
+Agronomy Research 12(3), 837–842, 2014
+The microbiological environment in specific rooms of a
+university campus
+P. Kic1,* and L. Růžek2
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29123371
+J Prev Med Hyg. 2017 Sep;58(3):E238-E251.
+Monitoring biodiversity in libraries: a pilot study and perspectives for indoor air quality.
+Valeriani F1, Cianfanelli C2, Gianfranceschi G1, Santucci S2, Romano Spica V1, Mucci N2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668934/
+Materials and methods
+In order to evaluate IAQ, three different kinds of libraries were chosen: Site I, a university library; Site II, an old scientific library; Site III, a digital library. 
+
+STUDY AREA
+Three scientific libraries in the city of Rome (Italy), were selected as exemplificative of different typologies. The first site (Site I) is a "university library" founded in 1994, consisting of a single reading room with desks for students, computers and a loft with shelves for the books storage. The documentary print heritage consists in over 5000 monographs and 2000 periodicals, providing access to about 2000 electronic journals and scientific databases. The library also has books storage room, located in the same building, in the basement. 
+
+4/2007 vol. 16
+http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
+Microbiological Quality of Indoor Air in University Rooms
+
+----------
+## japan
+日本の研究
+
+1) Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmospheric Environment 39:337–341.
+https://www.sciencedirect.com/science/article/pii/S1352231004008805
+
+2) Kang Y, Nagano K. 2016. Field measurement of indoor air quality and airborne microbes in a near-zero energy house with an earth tube in the cold region of Japan. Science and Technology for the Built Environment 22:1010–1023.
+http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
+
+----------
+
+
+
 
 
 
