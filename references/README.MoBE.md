@@ -195,7 +195,7 @@ http://aasj.jp/news/watch/2102
 ----------
 
 ## school
-university
+## university
 
 https://collegestats.org/explore/bacteria-on-campus/
 
