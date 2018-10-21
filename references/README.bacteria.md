@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-09
+Last Update: 2018-10
 
 ----------
 
@@ -13,8 +13,9 @@ Last Update: 2018-09
 - [iodide](#iodide)
 - [Bifidobacterium](#bifidobacterium)
 - [Clostridium](#clostridium)
-- [Clostridium difficile](#clostridium-difficile)
+  - [Clostridium difficile](#clostridium-difficile)
 - [Geobacter](#geobacter)
+- [Mycobacterium](#mycobacterium)
 - [Pseudomonas](#pseudomonas)
   - [Pseudomonas aeruginosa](#pseudomonas-aeruginosa)
   - [Pseudomonas stutzeri](#pseudomonas-stutzeri)
@@ -27,6 +28,19 @@ Last Update: 2018-09
   - KGO-5
 - [Rickettsiales](#rickettsiales)
 - [Wolbachia](#wolbachia)
+
+----------
+## heavy metals
+
+https://ja.wikipedia.org/wiki/重金属
+鉄(Fe)、鉛(Pb)、金(Au)、白金(Pt)、銀(Ag)、銅(Cu)、クロム(Cr)、カドミウム(Cd)、水銀(Hg)、亜鉛(Zn)、ヒ素(As)、マンガン(Mn)、コバルト(Co)、ニッケル(Ni)、モリブデン(Mo)、タングステン(W)、錫(Sn)、ビスマス(Bi)、ウラン(U)、プルトニウム(Pu)などが挙げられる。
+
+https://www.ncbi.nlm.nih.gov/pubmed/30242595
+Ecotoxicology. 2018 Sep 21. doi: 10.1007/s10646-018-1981-x. [Epub ahead of print]
+Analysis of microbial communities in heavy metals-contaminated soils using the metagenomic approach.
+Hemmat-Jou MH1, Safari-Sinegani AA2, Mirzaie-Asl A3, Tahmourespour A4.
+Geobacter (Proteobacteria)
+Pseudomonas (Proteobacteria)
 
 ----------
 https://ja.wikipedia.org/wiki/第15族元素
@@ -440,10 +454,117 @@ http://www.bdj.co.jp/safety/articles/ignazzo/1f3pro00000sj5kj.html
 I's eye： クロストリジウム・ディフィシルの真実 | 日本BD
 
 ----------
+## Lactobacillus
+## vaginal microbiota
+膣微生物
 
+https://www.ncbi.nlm.nih.gov/pubmed/30291903
+Anaerobe. 2018 Oct 3. pii: S1075-9964(18)30173-2. doi: 10.1016/j.anaerobe.2018.10.001. [Epub ahead of print]
+Characterization of the vaginal microbiota of Japanese women.
+Matsumoto A1, Yamagishi Y2, Miyamoto K3, Oka K4, Takahashi M4, Mikamo H5.
+
+日本の非妊婦、妊婦、性産業従事者(CSWs)の膣微生物群集の構成を比較した。微生物多様性は妊婦よりも非妊婦で有意に高かった。Lactobacillus検出率は、妊婦（50％）や非妊婦（68.2％）よりも性産業従事者(25％)で低かった。
+
+The vaginal microbiota were clustered into three groups. Group 1 was most often dominated by Lactobacillus spp., whereas groups 2 and 3 included not only Lactobacillus spp. but also Bifidobacterium, Atopobium, Prevotella, and Gardnerella spp., in addition to a few other taxa.
+
+The alpha diversity of non-pregnant women was significantly greater than that of pregnant women. The detection rate of live Lactobacillus spp. in CSWs was lower than in pregnant and non-pregnant women (25% vs. 50% and 68.2%, respectively). 
+
+
+Gardnerella vaginalis：細菌性膣症（bacterial vaginosis: BV）に関与する細菌の一つ
+https://www.ncbi.nlm.nih.gov/pubmed/29632552
+Evol Appl. 2017 Nov 16;11(3):312-324. doi: 10.1111/eva.12555. eCollection 2018 Mar.
+Focusing the diversity of Gardnerella vaginalis through the lens of ecotypes.
+Cornejo OE1, Hickey RJ2,3,4, Suzuki H5, Forney LJ2,3.
+
+Lactobacillus属：膣から分離
+http://www.ncbi.nlm.nih.gov/pubmed/24488312
+J Bacteriol. 2014 Apr;196(7):1458-70.
+Comparative Functional Genomics of Lactobacillus spp. Reveals Possible Mechanisms for Specialization of Vaginal Lactobacilli to Their Environment.
+Mendes-Soares H, Suzuki H, Hickey RJ, Forney LJ.
+
+Lactobacillus属：体重増加に関連
+https://www.ncbi.nlm.nih.gov/pubmed/24567124
+Nutr Diabetes. 2014 Feb 24;4:e109. doi: 10.1038/nutd.2014.6.
+Comparative genomics analysis of Lactobacillus species associated with weight gain or weight protection.
+Drissi F1, Merhej V1, Angelakis E1, El Kaoutari A1, Carrière F2, Henrissat B3, Raoult D1.
+
+----------
+## Mycobacterim
+
+https://ja.wikipedia.org/wiki/抗酸菌
+
+http://jsbac.org/
+日本細菌学会｜Japanese Society for Bacteriology
+http://jsbac.org/infectious_disease/bsl_level.pdf
+```
+病原細菌のBSLレベル （アルファベット順）
+属名 種形容語 亜種形容語 血清型等 由来等　(旧名等） 細菌学会BSL分類
+
+Helicobacter pylori 旧名＝Campylobacter pylori, Campylobacter pyloridis BSL2 Class 2
+
+Lactobacillus catenaformis BSL1*
+Lactobacillus gasseri BSL1*
+Lactobacillus rhamnosus BSL1*
+Lactococcus garvieae BSL1*
+
+Mycobacterium avium avium BSL2 Class 2
+Mycobacterium avium paratuberculosis 旧名＝Mycobacterium paratuberculosis BSL2 Class 2
+Mycobacterium avium silvaticum BSL2
+```
+
+----------
 ## Geobacter
 
-https://ja.wikipedia.org/wiki/ゲオバクター属
+- https://ja.wikipedia.org/wiki/ゲオバクター属
+- http://www.bacterio.net/geobacter.html
+
+系統解析
+
+https://www.ncbi.nlm.nih.gov/pubmed/25139417
+Int J Syst Evol Microbiol. 2014 Nov;64(Pt 11):3786-91. doi: 10.1099/ijs.0.066662-0. Epub 2014 Aug 19.
+Geobacter soli sp. nov., a dissimilatory Fe(III)-reducing bacterium isolated from forest soil.
+Zhou S1, Yang G2, Lu Q3, Wu M3.
+http://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066662-0#tab3
+FIG. 1.
+Phylogenetic consensus tree based on 16S rRNA gene sequences, 
+```
+Pelobacter propionicus DSM 2379T (CP000482)
+Geobacter chapellei 172T (U41561)
+Geobacter psychrophilus P35T (AY653549)
+Geobacter thiogenes JCM 14045T (AF223382)
+Geobacter lovleyi SZT (CP001089)
+Geobacter luticola OSK6T (AB682759)
+Geobacter bemidjiensis BemT (CP001124)
+Geobacter bremensis Dfr1T (U96917)
+Geobacter uraniireducens Rf4T (CP000698)
+Geobacter daltonii FRC-32T (CP001390)
+Geobacter toluenoxydans TMJ1T (EU711072)
+```
+
+比較ゲノム
+
+https://www.hindawi.com/journals/isrn/2013/850179/
+A Whole Genome Pairwise Comparative and Functional Analysis of Geobacter sulfurreducens PCA
+
+https://www.ncbi.nlm.nih.gov/pubmed/22967216
+BMC Genomics. 2012 Sep 12;13:471. doi: 10.1186/1471-2164-13-471.
+Comparative genomic analysis of Geobacter sulfurreducens KN400, a strain with enhanced capacity for extracellular electron transfer and electricity production.
+Butler JE1, Young ND, Aklujkar M, Lovley DR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22616984
+BMC Genomics. 2012 May 22;13:200. doi: 10.1186/1471-2164-13-200.
+Genomic determinants of organohalide-respiration in Geobacter lovleyi, an unusual member of the Geobacteraceae.
+Wagner DD1, Hug LA, Hatt JK, Spitzmiller MR, Padilla-Crespo E, Ritalahti KM, Edwards EA, Konstantinidis KT, Löffler FE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20078895
+BMC Genomics. 2010 Jan 17;11:40. doi: 10.1186/1471-2164-11-40.
+Evolution of electron transfer out of the cell: comparative genomics of six Geobacter genomes.
+Butler JE1, Young ND, Lovley DR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18844997
+BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
+Comparative genomics of Geobacter chemotaxis genes reveals diverse signaling function.
+Tran HT1, Krushkal J, Antommattei FM, Lovley DR, Weis RM.
 
 2016-2017
 http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
@@ -459,16 +580,6 @@ http://eetimes.jp/ee/articles/1506/09/news041.html
 Jan. 23, 2015
 https://www.jst.go.jp/pr/announce/20120605/index.html
 微生物が互いに電子をやり取りする未知の「電気共生」を発見
-
-- 比較ゲノム
-https://www.hindawi.com/journals/isrn/2013/850179/
-A Whole Genome Pairwise Comparative and Functional Analysis of Geobacter sulfurreducens PCA
-
-- 比較ゲノム
-https://www.ncbi.nlm.nih.gov/pubmed/22967216
-BMC Genomics. 2012 Sep 12;13:471. doi: 10.1186/1471-2164-13-471.
-Comparative genomic analysis of Geobacter sulfurreducens KN400, a strain with enhanced capacity for extracellular electron transfer and electricity production.
-Butler JE1, Young ND, Aklujkar M, Lovley DR.
 
 5/24/12
 https://io9.gizmodo.com/5908318/10-surprising-things-that-bacteria-like-to-eat
@@ -493,16 +604,6 @@ http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
 
 https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
 
-- 比較ゲノム
-https://www.ncbi.nlm.nih.gov/pubmed/20078895
-BMC Genomics. 2010 Jan 17;11:40. doi: 10.1186/1471-2164-11-40.
-Evolution of electron transfer out of the cell: comparative genomics of six Geobacter genomes.
-Butler JE1, Young ND, Lovley DR.
-
-https://www.ncbi.nlm.nih.gov/pubmed/18844997
-BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
-Comparative genomics of Geobacter chemotaxis genes reveals diverse signaling function.
-Tran HT1, Krushkal J, Antommattei FM, Lovley DR, Weis RM.
 
 ----------
 
@@ -988,9 +1089,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
 Variation in the strength of selected codon usage bias among bacteria
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/table/tbl1/
+```
     Pseaer	4	62	5566	67	87	74	−0.019	(0.484/−0.507)	940	AE004091	Pseudomonas aeruginosa
     Pseput	7	74	5350	62	77	64	0.917	(0.360/−0.317)	966	AE015451	Pseudomonas putida
     Psesyr	5	64	5566	58	71	58	0.701	(0.255/−0.243)	958	AE016853	Pseudomonas syringae
+```
 
 If the 40 genes are compared with only those on the leading strand, the S-value becomes 0.42, indicative of weak selection. Pseudomonas aeruginosa has an S-value close to zero (−0.02), providing no evidence for selection, whereas we previously found small but significant differences in codon usage between highly expressed and other genes (27). This discrepancy arises because the largest components of selected bias in this species relate to codons for Ser (especially UCC), Thr (ACC), Ala (GCU), Arg (CGU) and Gly (GGU), whereas frequencies of the C-ending codons for Phe, Tyr, Ile and Asn (used to calculate S) differ little between highly expressed genes and the genome as a whole (27).
 
