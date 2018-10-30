@@ -54,6 +54,29 @@ A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
 6:25 PM - 23 May 2018
 
 ----------
+## amplicon-shotgun
+
+targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28337071
+J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
+International Standards for Genomes, Transcriptomes, and Metagenomes.
+Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
+TABLE 3
+Comparison of metagenomic assay capabilities and limitations
+
+https://www.ncbi.nlm.nih.gov/pubmed/28761145
+Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
+Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
+Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21121044
+Pac Symp Biocomput. 2011:165-76.
+Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
+Shah N1, Tang H, Doak TG, Ye Y.
+
+----------
 ## Knight R
 
 https://knightlab.ucsd.edu/wordpress/?page_id=25
@@ -71,17 +94,6 @@ Washburne AD1, Morton JT2,3, Sanders J3, McDonald D3, Zhu Q3, Oliverio AM4,5, Kn
 
 ----------
 ## Mason CE
-
-https://www.ncbi.nlm.nih.gov/pubmed/28337071
-J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
-International Standards for Genomes, Transcriptomes, and Metagenomes.
-Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
-TABLE 3
-Comparison of metagenomic assay capabilities and limitations
-
-https://www.nature.com/articles/s41598-017-06665-3
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing | Scientific Reports
 
 https://www.ncbi.nlm.nih.gov/pubmed/29930288
 Nat Rev Microbiol. 2018 Jun 21. doi: 10.1038/s41579-018-0047-7. [Epub ahead of print]
@@ -123,23 +135,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/27941038
 Br Med Bull. 2016 Dec;120(1):27-33. Epub 2016 Nov 23.
 Globalizing and crowdsourcing biomedical research.
 Afshinnekoo E1,2,3, Ahsanuddin S1,2,4, Mason CE5,2,6.
-
-----------
-## amplicon-shotgun
-
-targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
-TABLE 3
-Comparison of metagenomic assay capabilities and limitations
-
-31 July 2017
-https://www.nature.com/articles/s41598-017-06665-3
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing
-
-https://www.ncbi.nlm.nih.gov/pubmed/21121044
-Pac Symp Biocomput. 2011:165-76.
-Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
-Shah N1, Tang H, Doak TG, Ye Y.
 
 ----------
 ## mothur-qiime
