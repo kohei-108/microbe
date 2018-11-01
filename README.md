@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-10
+Last Update: 2018-11
 
 ----------
 
@@ -12,7 +12,9 @@ Last Update: 2018-10
 - 微生物群集 [microbiome](https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md)
 - [featuring](#featuring)
 - [updates](#updates)
-- [meetings](#meetings)]
+- [space](#space)
+- [airport](#airport)
+- [virus](#virus)
 - [database](#database)
 - [growth rate](#growth-rate)
 - [five-second rule](#five-second-rule)
@@ -31,73 +33,6 @@ Last Update: 2018-10
 - [papers](#papers)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
-- [virus](#virus)
-
-----------
-## airport
-
-https://www.ncbi.nlm.nih.gov/pubmed/29876609
-Microb Ecol. 2018 Jun 6. doi: 10.1007/s00248-018-1191-3. [Epub ahead of print]
-The Airplane Cabin Microbiome.
-Weiss H1, Hertzberg VS2, Dupont C3, Espinoza JL3, Levy S4, Nelson K5, Norris S6; FlyHealthy Research Team.
-
-
-https://www.nature.com/articles/nbt.3868
-Researchers from the Technical University of Denmark, in Lyngby, sampled toilet waste from 18 commercial flights arriving in Copenhagen from South Asia, North Asia and North America, and reported that waste from the South Asian flights were enriched for Salmonella enterica and Norovirus (both causes of food poisoning) and genes encoding antimicrobial resistance. In contrast, Clostridium difficile bacteria were more abundant in wastes from North American flights8. 
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498435/
-Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance
-
-https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
-Deposition of respiratory virus pathogens on frequently touched surfaces at airports
-
-https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
-空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-https://twitter.com/YuriHiranuma/status/1039760793347215360
-Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
-2:21 AM - 12 Sep 2018
-
-https://twitter.com/hedipeterson/status/1037235561289969665
-Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
-3:06 AM - 5 Sep 2018
-
-----------
-## virus
-
-2018年2月13日
-https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
-空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2018.02.08
-http://tocana.jp/2018/02/post_15942_entry.html
-【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
-地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
-
-2016-02-21
-http://yokazaki.hatenablog.com/entry/2016/02/21/010028
-1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
-ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
-
-2012/04/17
-https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
-35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
-
-生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
-
-生命誌ジャーナル2015年間テーマうつる
-http://www.brh.co.jp/seimeishi/journal/084/research/1.html
-RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
-
-![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
-
-
-----------
-## phage
-
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
-[PDF]過小評価されているファージの宿主域
-井町 寛之
 
 
 ----------
@@ -249,6 +184,122 @@ A new view of the tree of life | Nature Microbiology
 2012年 09月 25日
 https://shinka3.exblog.jp/18493096/
 ウイルスは退化しているもののやはり生物だった : 5号館を出て
+
+----------
+## space
+
+https://gigazine.net/news/20180103-astronauts-identify-microbes-in-space/
+国際宇宙ステーションの中で「宇宙育ち」の微生物のDNA解析に始めて成功、火星探査の実現に向けた大きな
+
+January 2, 2018
+https://www.space.com/39254-astronauts-sequence-microbes-dna-in-space.html
+Astronauts Identify Mystery Microbes in Space for the 1st Time
+of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
+"Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
+
+https://www.nature.com/articles/s41598-017-18364-0
+Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
+Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
+Castro-Wallace SL1, Chiu CY2,3, John KK4, Stahl SE5, Rubins KH6, McIntyre ABR7, Dworkin JP8, Lupisella ML9, Smith DJ10, Botkin DJ11, Stephenson TA12, Juul S13, Turner DJ13, Izquierdo F13, Federman S2,3, Stryke D2,3, Somasekar S2,3, Alexander N7, Yu G2,3, Mason CE7,14,15, Burton AS16.
+一歩に - GIGAZINE
+
+https://wired.jp/2017/12/18/bacteria-from-space/
+国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？｜WIRED.jp
+
+Jan 21, 2017
+https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
+Microbes in Orbit: Is Space Bacteria the Future of Astronaut Food?
+
+25 November 2015
+https://www.newscientist.com/article/mg22830494-300-mission-space-food-sugar-growing-bacteria-go-into-orbit/
+Mission space food: Sugar-growing bacteria go into orbit | New Scientist
+
+宇宙食への有効利用が期待されるAnabaena属の細菌
+
+https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
+
+```
+grep "Anabaena" overview.txt
+Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
+Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
+Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
+
+$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
+   1 Chromosome
+   3 Complete Genome
+   4 Contig
+   5 Scaffold
+
+$grep "Anabaena" viruses.txt 
+Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
+```
+
+----------
+## airport
+
+https://www.ncbi.nlm.nih.gov/pubmed/29876609
+Microb Ecol. 2018 Jun 6. doi: 10.1007/s00248-018-1191-3. [Epub ahead of print]
+The Airplane Cabin Microbiome.
+Weiss H1, Hertzberg VS2, Dupont C3, Espinoza JL3, Levy S4, Nelson K5, Norris S6; FlyHealthy Research Team.
+
+
+https://www.nature.com/articles/nbt.3868
+Researchers from the Technical University of Denmark, in Lyngby, sampled toilet waste from 18 commercial flights arriving in Copenhagen from South Asia, North Asia and North America, and reported that waste from the South Asian flights were enriched for Salmonella enterica and Norovirus (both causes of food poisoning) and genes encoding antimicrobial resistance. In contrast, Clostridium difficile bacteria were more abundant in wastes from North American flights8. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498435/
+Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance
+
+https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
+Deposition of respiratory virus pathogens on frequently touched surfaces at airports
+
+https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
+空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+https://twitter.com/YuriHiranuma/status/1039760793347215360
+Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
+2:21 AM - 12 Sep 2018
+
+https://twitter.com/hedipeterson/status/1037235561289969665
+Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
+3:06 AM - 5 Sep 2018
+
+----------
+## virus
+
+2018年2月13日
+https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
+空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2018.02.08
+http://tocana.jp/2018/02/post_15942_entry.html
+【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
+地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
+
+2016-02-21
+http://yokazaki.hatenablog.com/entry/2016/02/21/010028
+1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
+ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
+
+2012/04/17
+https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
+35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
+
+生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
+
+生命誌ジャーナル2015年間テーマうつる
+http://www.brh.co.jp/seimeishi/journal/084/research/1.html
+RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
+
+![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
+
+
+----------
+## phage
+
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
+[PDF]過小評価されているファージの宿主域
+井町 寛之
+
 
 ----------
 ## database
@@ -642,6 +693,9 @@ How to Fight Superbugs - YouTube
 https://gigazine.net/news/20160523-how-gut-affects-mood/
 腸が人間の気分を左右する仕組み - GIGAZINE
 
+https://gigazine.net/news/20140513-helix-i-o/
+DNAの塩基配列を入力するとすぐに何の生き物かを検索して表示する「Helix I/O」 - GIGAZINE
+
 ----------
 ## wired
 
@@ -657,9 +711,6 @@ https://wired.jp/2018/01/14/the-post-antibiotic-era/
 
 https://wired.jp/2018/02/10/norovirus-pyeongchang-olympic/
 ノロウイルスの脅威から、どうすればオリンピック選手を守れるか──平昌五輪を襲った「強敵」の撃退法｜WIRED.jp
-
-https://wired.jp/2017/12/18/bacteria-from-space/
-国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？｜WIRED.jp
 
 https://wired.jp/2017/07/14/obesity-surgery-may-work-remaking-gut-microbiome/
 「体重を減らす微生物群」のつくり方、米研究チームが発見──手術しない肥満治療につながるか｜WIRED.jp
