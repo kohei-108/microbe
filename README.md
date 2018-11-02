@@ -616,6 +616,8 @@ http://mukb.medic.kumamoto-u.ac.jp/AAA/minirev/ATPase2.html
 
 ----------
 ## AMR
+resistance
+薬剤耐性
 
 a cool map of AMRs in current cities and some public usage data:
 https://resistancemap.cddep.org/
@@ -686,6 +688,32 @@ https://gigazine.net/news/20170627-how-to-fight-superbug/
 https://www.youtube.com/watch?v=bg0JdcYG93s
 How to Fight Superbugs - YouTube
 
+https://www.ncbi.nlm.nih.gov/pubmed/30333483
+Nat Commun. 2018 Oct 17;9(1):4306. doi: 10.1038/s41467-018-06634-y.
+Machine learning and structural analysis of Mycobacterium tuberculosis pan-genome identifies genetic signatures of antibiotic resistance.
+Kavvas ES1, Catoiu E1, Mih N1,2, Yurkovich JT1,2, Seif Y1, Dillon N3,4, Heckmann D1, Anand A1, Yang L1, Nizet V3,4, Monk JM5, Palsson BO6,7,8.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30332990
+BMC Bioinformatics. 2018 Oct 17;19(1):383. doi: 10.1186/s12859-018-2403-z.
+Predicting bacterial resistance from whole-genome sequences using k-mers and stability selection.
+Mahé P1, Tournoud M2.
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/19/142001
+メタゲノムから抗生物質耐性情報を検出する NastyBugs - macでインフォマティクス
+
+https://f1000research.com/articles/6-1971/v1
+NastyBugs: A simple method for extracting antimicrobial resistance information from metagenomes - F1000Research
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/03/094105
+点変異も考慮して抗生物質耐性遺伝子を検出する PointFinder - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2018/07/03/113439
+抗生物質耐性遺伝子や病原性遺伝子を素早く検索できる ABRicate - macでインフォマティクス
+
+https://www.ncbi.nlm.nih.gov/pubmed/28232822
+Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
+Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
+Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
 
 ----------
 ## gigazine
