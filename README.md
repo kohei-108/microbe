@@ -293,6 +293,11 @@ RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 
 ![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
 
 
+http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
+From design of a genome sequence to generation of a synthetic virus
+- Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
+
+
 ----------
 ## phage
 
@@ -714,6 +719,52 @@ https://www.ncbi.nlm.nih.gov/pubmed/28232822
 Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
 Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
 Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
+
+
+
+
+
+
+
+https://twitter.com/search?q=resistance%20genes%20review
+
+https://twitter.com/GMFHx/status/1019902194492067841
+GutMicrobiota Health on Twitter: "Antimicrobial resistance in ecosystems is a natural phenomenon. This Review explores the contribution of dissemination of antibiotic resistance genes among commensals, symbionts, opportunistic pathogens, and pathogenic bacteria through molecular mechanisms https://t.co/ax7xyeXlSb"
+7:10 AM - 19 Jul 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/29653401
+Environ Int. 2018 Jul;116:60-73. doi: 10.1016/j.envint.2018.04.011. Epub 2018 Apr 10.
+Antibiotics and antibiotic resistance genes in global lakes: A review and meta-analysis.
+Yang Y1, Song W2, Lin H3, Wang W4, Du L5, Xing W6.
+https://www.sciencedirect.com/science/article/pii/S0160412017320238
+Mobile genetic elements, such as plasmids, transposons, insertion sequences and integrons, are the important carriers in HGT of ARGs (Stokes and Gillings, 2011). 
+
+https://twitter.com/TrendsMicrobiol/status/923571206036643842
+Trends Microbiol on Twitter: "Review on antibiotic-resistance genes in waste water https://t.co/nDWtC1HslT"
+11:25 AM - 26 Oct 2017
+https://www.ncbi.nlm.nih.gov/pubmed/29033338
+Trends Microbiol. 2018 Mar;26(3):220-228. doi: 10.1016/j.tim.2017.09.005. Epub 2017 Oct 13.
+Antibiotic-Resistance Genes in Waste Water.
+Karkman A1, Do TT2, Walsh F2, Virta MPJ3.
+
+https://twitter.com/WvSchaik/status/592632350506364928
+Willem van Schaik on Twitter: "In my review, I tried to highlight that antibiotic resistance genes are commonly present in the gut microbiota http://t.co/DF4kDmHUkw [1/2]"
+6:12 AM - 27 Apr 2015
+https://www.ncbi.nlm.nih.gov/pubmed/25918444
+Philos Trans R Soc Lond B Biol Sci. 2015 Jun 5;370(1670):20140087. doi: 10.1098/rstb.2014.0087.
+The human gut resistome.
+van Schaik W1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4424436/
+plasmid
+
+https://www.ncbi.nlm.nih.gov/pubmed/25915635
+Nat Rev Microbiol. 2015 Jun;13(6):396. doi: 10.1038/nrmicro3399-c2. Epub 2015 Apr 27.
+Prioritizing risks of antibiotic resistance genes in all metagenomes.
+Martínez JL1, Coque TM2, Baquero F2.
+Comment on
+Antibiotic resistance genes in the environment: prioritizing risks. [Nat Rev Microbiol. 2015]
+What is a resistance gene? Ranking risk in resistomes. [Nat Rev Microbiol. 2015]
+
 
 ----------
 ## gigazine
