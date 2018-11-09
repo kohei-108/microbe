@@ -30,13 +30,16 @@ Last Update: 2018-11
 - [links](#links)
 - [twitter](#twitter)
 - [books](#books)
-- [papers](#papers)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
 
 
 ----------
 ## featuring
+
+https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
+An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
+
 
 ----------
 ## updates
@@ -45,6 +48,16 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2018
+
+
+
+https://twitter.com/Tyu_Shi/status/1052887281105686528
+Tyu_Shi on Twitter: "件のR本、昨年出たわりとよくまとまっているReview: Hypothesis testing and statistical analysis of microbiome https://t.co/3WOZ91WuUD　の著者が書いた本なので期待していたが、期待以上だった。"
+7:41 AM - 18 Oct 2018
+
+https://twitter.com/Tyu_Shi/status/1052876504399405056
+Tyu_Shi on Twitter: "Springerから今月出たStatistical Analysis of Microbiome Data with R. https://t.co/Mj4rrRnskl　を買ってここ数日、事務仕事の気分転換に流し読みしていたのだが、これかなり良いな。"
+6:58 AM - 18 Oct 2018
 
 ## 2018-09
 
@@ -624,11 +637,19 @@ http://mukb.medic.kumamoto-u.ac.jp/AAA/minirev/ATPase2.html
 resistance
 薬剤耐性
 
+https://omictools.com/drug-resistance-category
+Drug resistance prediction bioinformatics tools | Drug design analysis - OMICtools
+
 a cool map of AMRs in current cities and some public usage data:
 https://resistancemap.cddep.org/
 
 Also here is another great map from John Brownstein’s lab:
 https://resistanceopen.org/
+
+https://www.ncbi.nlm.nih.gov/pubmed/30381421
+J Clin Microbiol. 2018 Oct 31. pii: JCM.01405-18. doi: 10.1128/JCM.01405-18. [Epub ahead of print]
+Genome-based prediction of bacterial antibiotic resistance.
+Su M1,2,3, Satola SW1,3,4, Read TD1,3,4.
 
 https://twitter.com/harvardmed/status/999378197966880768
 Harvard Medical School on Twitter: "A new study suggests that global warming may be accelerating the transmission of antibiotic-resistant organisms from one host to another (via @UPI) https://t.co/tkNanT2kgK"
@@ -693,6 +714,12 @@ https://gigazine.net/news/20170627-how-to-fight-superbug/
 https://www.youtube.com/watch?v=bg0JdcYG93s
 How to Fight Superbugs - YouTube
 
+
+Resistance
+
+https://www.pediatricsurgery.site/entry/2018/11/05/142545
+Rで細菌に有効な抗菌薬を探せるようにSanfordの表からデータを整形する - Note of Pediatric Surgery
+
 https://www.ncbi.nlm.nih.gov/pubmed/30333483
 Nat Commun. 2018 Oct 17;9(1):4306. doi: 10.1038/s41467-018-06634-y.
 Machine learning and structural analysis of Mycobacterium tuberculosis pan-genome identifies genetic signatures of antibiotic resistance.
@@ -719,10 +746,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/28232822
 Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
 Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
 Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
-
-
-
-
 
 
 
