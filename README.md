@@ -33,13 +33,29 @@ Last Update: 2018-11
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
 
-
 ----------
 ## featuring
 
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
 
+https://grunwaldlab.github.io/analysis_of_microbiome_community_data_in_r/index.html
+
+https://www.kinokuniya.co.jp/f/dsg-12-EY00254530
+Statistical Analysis of Microbiome Data with R / Xia, Yinglin/Sun, Jun/Chen, Ding-Geng ＜電子版＞ - 紀伊國屋書店ウェブストア
+
+https://www.springer.com/us/book/9789811315336
+マイクロバイオーム・データのＲ統計解析
+
+https://twitter.com/search?q=Statistical%20Analysis%20of%20Microbiome%20Data%20with%20R
+
+https://twitter.com/Tyu_Shi/status/1052887281105686528
+Tyu_Shi on Twitter: "件のR本、昨年出たわりとよくまとまっているReview: Hypothesis testing and statistical analysis of microbiome https://t.co/3WOZ91WuUD　の著者が書いた本なので期待していたが、期待以上だった。"
+7:41 AM - 18 Oct 2018
+
+https://twitter.com/Tyu_Shi/status/1052876504399405056
+Tyu_Shi on Twitter: "Springerから今月出たStatistical Analysis of Microbiome Data with R. https://t.co/Mj4rrRnskl　を買ってここ数日、事務仕事の気分転換に流し読みしていたのだが、これかなり良いな。"
+6:58 AM - 18 Oct 2018
 
 ----------
 ## updates
@@ -49,15 +65,13 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2018
 
+https://twitter.com/Newsweek_JAPAN/status/1061424777469014016
+ニューズウィーク日本版 on Twitter: "シャワーヘッドのぬめりには肺疾患を引き起こす細菌が含まれる：米研究結果 ──肺疾患の流行地域と、シャワーヘッドの細菌の量が多い地域が合致した https://t.co/DTbtEf2LUn #衛生　#健康　#肺疾患… "
+8:06 PM - 10 Nov 2018
 
-
-https://twitter.com/Tyu_Shi/status/1052887281105686528
-Tyu_Shi on Twitter: "件のR本、昨年出たわりとよくまとまっているReview: Hypothesis testing and statistical analysis of microbiome https://t.co/3WOZ91WuUD　の著者が書いた本なので期待していたが、期待以上だった。"
-7:41 AM - 18 Oct 2018
-
-https://twitter.com/Tyu_Shi/status/1052876504399405056
-Tyu_Shi on Twitter: "Springerから今月出たStatistical Analysis of Microbiome Data with R. https://t.co/Mj4rrRnskl　を買ってここ数日、事務仕事の気分転換に流し読みしていたのだが、これかなり良いな。"
-6:58 AM - 18 Oct 2018
+https://twitter.com/afpbbcom/status/1060037888027643904
+AFPBB News on Twitter: "欧州連合（EU）域内では2015年に薬剤耐性菌が原因で3万3000人以上が命を落とした。今週発表された最新の研究論文で明らかになった。抗生物質が効かないスーパーバグが「現代医療を脅かしている」と、論文は警鐘を鳴らしている。https://t.co/T5WK9dKjvA"
+12:15 AM - 7 Nov 2018
 
 ## 2018-09
 
@@ -637,14 +651,14 @@ http://mukb.medic.kumamoto-u.ac.jp/AAA/minirev/ATPase2.html
 resistance
 薬剤耐性
 
-https://omictools.com/drug-resistance-category
-Drug resistance prediction bioinformatics tools | Drug design analysis - OMICtools
-
 a cool map of AMRs in current cities and some public usage data:
 https://resistancemap.cddep.org/
 
 Also here is another great map from John Brownstein’s lab:
 https://resistanceopen.org/
+
+https://omictools.com/drug-resistance-category
+Drug resistance prediction bioinformatics tools | Drug design analysis - OMICtools
 
 https://www.ncbi.nlm.nih.gov/pubmed/30381421
 J Clin Microbiol. 2018 Oct 31. pii: JCM.01405-18. doi: 10.1128/JCM.01405-18. [Epub ahead of print]
@@ -715,6 +729,18 @@ https://www.youtube.com/watch?v=bg0JdcYG93s
 How to Fight Superbugs - YouTube
 
 
+https://www.ncbi.nlm.nih.gov/pubmed/27875856
+Ann N Y Acad Sci. 2017 Jan;1388(1):78-91. doi: 10.1111/nyas.13289. Epub 2016 Nov 22.
+Antimicrobial resistance surveillance in the genomic age.
+McArthur AG1, Tsang KK1.
+Currently, AMR bioinformatics software and databases reflect different scopes and functions, each with its own strengths and weaknesses. A review of the available tools reveals 
+
+https://www.ncbi.nlm.nih.gov/pubmed/26241506
+Curr Opin Microbiol. 2015 Oct;27:45-50. doi: 10.1016/j.mib.2015.07.004. Epub 2015 Jul 31.
+Bioinformatics of antimicrobial resistance in the age of molecular epidemiology.
+McArthur AG1, Wright GD2.
+
+
 Resistance
 
 https://www.pediatricsurgery.site/entry/2018/11/05/142545
@@ -746,7 +772,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/28232822
 Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
 Plasmid Classification in an Era of Whole-Genome Sequencing: Application in Studies of Antibiotic Resistance Epidemiology.
 Orlek A1, Stoesser N2, Anjum MF3, Doumith M4, Ellington MJ5, Peto T1, Crook D1, Woodford N5, Walker AS1, Phan H1, Sheppard AE1.
-
 
 
 https://twitter.com/search?q=resistance%20genes%20review
