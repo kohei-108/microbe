@@ -651,6 +651,27 @@ http://mukb.medic.kumamoto-u.ac.jp/AAA/minirev/ATPase2.html
 resistance
 薬剤耐性
 
+http://www.who.int/who-campaigns/world-antibiotic-awareness-week
+World Antibiotic Awareness Week
+
+https://antibioticawarenessjp.jimdo.com/
+抗菌薬啓発週間 - SAVE Antibiotics, SAVE Children. 抗菌薬啓発週間
+
+https://twitter.com/hashtag/WAAW2018
+https://twitter.com/hashtag/AntibioticAwarenessWeek
+https://twitter.com/hashtag/WorldAntibioticAwarenessWeek
+
+https://twitter.com/AMRCRC_JAPAN/status/1061750429841788933
+AMR臨床リファレンスセンター on Twitter: "抗生物質・抗菌薬の効かない薬剤耐性菌が増えています。増やさないため誰でもできることがあります。 今週は世界抗菌薬啓発週間です。 #KeepAntibioticsWorking https://t.co/h8ElQjlkKm"
+5:40 PM - 11 Nov 2018
+
+https://www.ygken.com/2018/11/blog-post_13.html?m=1
+抗菌薬適正使用啓発サイトをまとめてみました | YG研究会　賢く生きる
+2018年11月13日火曜日
+WHO（世界保健機関）は、2015年より11月にWorld Antibiotic Awareness Weekを定めています。
+11月は、日本における「薬剤耐性（AMR）対策推進月間」です。
+2018年の11月12日から11月18日は「世界抗菌薬啓発デー」です。
+
 a cool map of AMRs in current cities and some public usage data:
 https://resistancemap.cddep.org/
 
