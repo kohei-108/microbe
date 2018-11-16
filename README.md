@@ -82,14 +82,6 @@ suisei_sensei on Twitter: "ニューヨーク市立博物館の新しい展示�
 
 ## 2018-07
 
-https://twitter.com/AMRCRC_JAPAN/status/1016961924355899392
-小児膀胱尿管逆流症などに対しての予防的抗菌薬投与で、薬剤耐性菌感染症リスクが投与してない場合の6.4倍に。
-http://pediatrics.aappublications.org/content/142/1/e20180119 …Translate Tweet
-4:26 AM - 11 Jul 2018
-
-![](https://pbs.twimg.com/media/Dhz5eC6VAAA-Tve.jpg:small)
-
-
 https://twitter.com/globalmicrobiom
 Global Microbiome Conservancy (@globalmicrobiom) | Twitter
 
@@ -651,15 +643,23 @@ http://mukb.medic.kumamoto-u.ac.jp/AAA/minirev/ATPase2.html
 resistance
 薬剤耐性
 
+- https://twitter.com/WHO
+- https://twitter.com/AMRCRC_JAPAN
+- https://twitter.com/hashtag/WAAW2018
+- https://twitter.com/hashtag/AntibioticAwarenessWeek
+- https://twitter.com/hashtag/WorldAntibioticAwarenessWeek
+
 http://www.who.int/who-campaigns/world-antibiotic-awareness-week
 World Antibiotic Awareness Week
 
 https://antibioticawarenessjp.jimdo.com/
 抗菌薬啓発週間 - SAVE Antibiotics, SAVE Children. 抗菌薬啓発週間
 
-https://twitter.com/hashtag/WAAW2018
-https://twitter.com/hashtag/AntibioticAwarenessWeek
-https://twitter.com/hashtag/WorldAntibioticAwarenessWeek
+![[(https://pbs.twimg.com/media/DqP240aWkAEFR73.jpg)
+
+https://twitter.com/AMRCRC_JAPAN/status/1063265446508531712
+AMR臨床リファレンスセンター on Twitter: "抗菌薬・抗生物質は多くの人の命を救ってきました。しかし本来必要のない場面で使ってしまうと、副作用だけでなく薬剤耐性菌による悪影響が生じてしまいます。抗菌薬は「風邪を早く治す強い薬」では　#KeepAntibioticsWorking https://t.co/cg0j77Aidy"
+10:00 PM - 15 Nov 2018
 
 https://twitter.com/AMRCRC_JAPAN/status/1061750429841788933
 AMR臨床リファレンスセンター on Twitter: "抗生物質・抗菌薬の効かない薬剤耐性菌が増えています。増やさないため誰でもできることがあります。 今週は世界抗菌薬啓発週間です。 #KeepAntibioticsWorking https://t.co/h8ElQjlkKm"
@@ -671,6 +671,21 @@ https://www.ygken.com/2018/11/blog-post_13.html?m=1
 WHO（世界保健機関）は、2015年より11月にWorld Antibiotic Awareness Weekを定めています。
 11月は、日本における「薬剤耐性（AMR）対策推進月間」です。
 2018年の11月12日から11月18日は「世界抗菌薬啓発デー」です。
+
+2018/11/09
+https://www.buzzfeed.com/jp/naokoiwanaga/amr-alliance-japan
+抗菌薬使い過ぎで年70万人が死亡　専門家団体が発足「国民が知る必要」
+
+2018/11/05
+https://www.buzzfeed.com/jp/seiichirokuchiki/misunderstandings-about-antibiotics
+「風邪に抗生物質（抗菌薬）」という誤解を巡る5つの数字
+
+https://twitter.com/AMRCRC_JAPAN/status/1016961924355899392
+小児膀胱尿管逆流症などに対しての予防的抗菌薬投与で、薬剤耐性菌感染症リスクが投与してない場合の6.4倍に。
+http://pediatrics.aappublications.org/content/142/1/e20180119 …Translate Tweet
+4:26 AM - 11 Jul 2018
+
+![](https://pbs.twimg.com/media/Dhz5eC6VAAA-Tve.jpg:small)
 
 a cool map of AMRs in current cities and some public usage data:
 https://resistancemap.cddep.org/
