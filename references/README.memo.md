@@ -39,6 +39,15 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 ----------
 ## species
 
+https://twitter.com/WvSchaik/status/1069298727238713346
+Willem van Schaik on Twitter: "Spoiler: microbial species are a thing.… "
+1:34 PM - 2 Dec 2018
+https://twitter.com/aphillippy/status/1068497439617966080
+Adam Phillippy on Twitter: "Our latest: Are microbial species actually a thing? FastANI gives us a peek. More great work from @chirgjain. Great to see this published! https://t.co/2igLJex2rA"
+8:30 AM - 30 Nov 2018
+https://www.nature.com/articles/s41467-018-07641-9
+High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries | Nature Communications
+
 https://twitter.com/digitalwright/status/1047618983497818114
 Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
 6:46 PM - 3 Oct 2018
