@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-10
+Last Update: 2018-12
 
 ----------
 
@@ -326,25 +326,9 @@ Yutin, N. & Galperin, M.Y. A genomic update on clostridial phylogeny: Gram-negat
 ## Clostridium difficile
 - https://ja.wikipedia.org/wiki/クロストリジウム・ディフィシル腸炎
 - https://ja.wikipedia.org/wiki/クロストリジウム・ディフィシル
-
-https://institute.yakult.co.jp/bacteria/4205/
+- https://institute.yakult.co.jp/bacteria/4205/
 クロストリジウム ディフィシル | 菌の図鑑 | ヤクルト中央研究所
 
-台湾の患者から分離されたNCKUH-21株に特異的なプロファージを発見
-https://www.ncbi.nlm.nih.gov/pubmed/29213333
-Gut Pathog. 2017 Nov 29;9:70. doi: 10.1186/s13099-017-0219-4. eCollection 2017.
-Comparative genomic analysis of Clostridium difficile ribotype 027 strains including the newly sequenced strain NCKUH-21 isolated from a patient in Taiwan.
-Suzuki H1,2, Tomita M1,2, Tsai PJ3, Ko WC4, Hung YP5,6, Huang IH7, Chen JW7.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708112/#MOESM1
-[Additional file 1. Materials and methods.(43K, docx)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708112/bin/13099_2017_219_MOESM1_ESM.docx)
-
-https://www.newsweekjapan.jp/stories/world/2018/04/ni150.php
-うんちを寄付して報酬が年150万円
-健康な人のうんちに含まれる腸内細菌を患者の腸に注入することで腸内環境を整える「便移植療法」
-「クロストリジウム・ディフィシル感染症」（CDI）
-
-https://www.newsweekjapan.jp/stories/world/2017/12/post-9194.php
-「うんちカプセル」のすご過ぎる効果
 
 2018/02/13
 https://gunosy.com/articles/ao7SQ
@@ -362,12 +346,31 @@ https://www.hayashibara.co.jp/data/1416/press_tp/
 http://aasj.jp/news/watch/7897
 １月７日：食物中のトレハロースがクロストリジウム強毒株進化を促進した（Natureオンライン版掲載論文） | AASJホームページ
 
+https://www.ncbi.nlm.nih.gov/pubmed/29310122
+Nature. 2018 Jan 18;553(7688):291-294. doi: 10.1038/nature25178. Epub 2018 Jan 3.
+Dietary trehalose enhances virulence of epidemic Clostridium difficile.
+Collins J1, Robinson C2, Danhof H1, Knetsch CW3, van Leeuwen HC3, Lawley TD4, Auchtung JM1, Britton RA1.
+
+
+台湾の患者から分離されたNCKUH-21株に特異的なプロファージを発見
+https://www.ncbi.nlm.nih.gov/pubmed/29213333
+Gut Pathog. 2017 Nov 29;9:70. doi: 10.1186/s13099-017-0219-4. eCollection 2017.
+Comparative genomic analysis of Clostridium difficile ribotype 027 strains including the newly sequenced strain NCKUH-21 isolated from a patient in Taiwan.
+Suzuki H1,2, Tomita M1,2, Tsai PJ3, Ko WC4, Hung YP5,6, Huang IH7, Chen JW7.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708112/#MOESM1
+[Additional file 1. Materials and methods.(43K, docx)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708112/bin/13099_2017_219_MOESM1_ESM.docx)
+
+https://www.newsweekjapan.jp/stories/world/2018/04/ni150.php
+うんちを寄付して報酬が年150万円
+健康な人のうんちに含まれる腸内細菌を患者の腸に注入することで腸内環境を整える「便移植療法」
+「クロストリジウム・ディフィシル感染症」（CDI）
+
 2017.12.25
 https://medley.life/news/5a3c53f7af9647751ea32743/
 プロバイオティクスはC. ディフィシル関連下痢症を予防できるか？
 
 2017年12月25日
-http://www.newsweekjapan.jp/stories/world/2017/12/post-9194.php
+https://www.newsweekjapan.jp/stories/world/2017/12/post-9194.php
 「うんちカプセル」のすご過ぎる効果
 
 2017/02/03
@@ -1508,6 +1511,19 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 ----------
 ### Amachi Seigo
 天知 誠吾
+
+https://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
+PRJDB5044 - Project Detail
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436463/
+Draft Genome Sequence of Roseovarius sp. A-2, an Iodide-Oxidizing Bacterium Isolated from Natural Gas Brine Water, Chiba, Japan
+
+https://www.ncbi.nlm.nih.gov/nuccore/BDIY00000000
+Roseovarius sp. A-2, whole genome shotgun sequencing project - Nucleotide - NCBI
+
+https://www.ncbi.nlm.nih.gov/Traces/wgs/?val=BDIY01#contigs
+Genome Coverage	: 248.96x
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/28529651
 J Genomics. 2017 Apr 6;5:51-53. doi: 10.7150/jgen.19846. eCollection 2017.
