@@ -12,14 +12,21 @@
 ----------
 ## Hong Kong subway system
 
+https://twitter.com/skym_k/status/1068837422509654024
+やましゃけ on Twitter: "地下鉄の吊革に住む微生物を解析したそうです。 病気の原因となる微生物もいれば、その抗生物質を生む微生物もいたそうで、結論・健康なのか不健康なのかよく読み取れませんでしたが興味はあ... #NewsPicks https://t.co/FEnZ7degCt"
+7:01 AM - 1 Dec 2018
+
 https://twitter.com/GenomeWeb/status/1027158748886904833
 GenomeWeb on Twitter: "Researchers saw subway line-specific microbes on the hands of subway riders, with increased skin microbial community convergence in samples from evening commuters. https://t.co/dnQFoWR2Rw"
 7:45 AM - 8 Aug 2018
 
-
 https://twitter.com/uranus_2/status/1025811324830248960
 マーキュリー２世 on Twitter: "香港の鉄道の手すりについている手のひらの微生物叢を解析。時間帯が一番影響力がある。抗生物質抵抗遺伝子は特に午後に採取されやすい。路線特異的な微生物叢は、路線特異的な環境暴露や都市の特徴を反映。The Environmental Exposures and Inner- and Intercity Traffic…https://t.co/Emw6I4T4qB"
 2:30 PM - 4 Aug 2018
+
+https://phys.org/news/2018-07-microbes-hong-kong-subway-evening.html
+Microbes in the Hong Kong subway system mix together by evening rush hour
+July 31, 2018, Cell Press
 
 https://www.ncbi.nlm.nih.gov/pubmed/30067975
 Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
@@ -27,6 +34,11 @@ The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro 
 Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
 
 Hong Kong Mass Transit Railway (MTR) system
+
+
+25 NOV 2016
+http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
+Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Magazine | South China Morning Post
 
 ----------
 ## review
