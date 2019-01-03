@@ -1354,16 +1354,16 @@ http://www.nikkei-science.com/?tag=微生物学
 
 ![](https://images-fe.ssl-images-amazon.com/images/I/51YXTP20%2BaL.jpg)
 
-![](http://www.tsukiji-shokan.co.jp/mokuroku/hon-imgs/1567.jpg)
-
 http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1567-2.html
-『土・牛・微生物　文明の衰退を食い止める土の話』
+『土・牛・微生物ー文明の衰退を食い止める土の話』(築地書館) - 著者：デイビッド・モントゴメリー 翻訳：片岡 夏実 - 
 
 https://twitter.com/search?q=%22土・牛・微生物%22
 
+https://www.amazon.co.jp/dp/4806715670
+
 2018/10/29
 https://allreviews.jp/review/2662
-『土・牛・微生物ー文明の衰退を食い止める土の話』(築地書館) - 著者：デイビッド・モントゴメリー 翻訳：片岡 夏実 - 中村 桂子による書評 | 好きな書評家、読ませる書評。ALL REVIEWS
+中村 桂子による書評
 
 2018年08月31日
 https://honz.jp/articles/-/44887
