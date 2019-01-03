@@ -39,24 +39,6 @@ Last Update: 2018-11
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
 
-https://grunwaldlab.github.io/analysis_of_microbiome_community_data_in_r/index.html
-
-https://www.kinokuniya.co.jp/f/dsg-12-EY00254530
-Statistical Analysis of Microbiome Data with R / Xia, Yinglin/Sun, Jun/Chen, Ding-Geng ＜電子版＞ - 紀伊國屋書店ウェブストア
-
-https://www.springer.com/us/book/9789811315336
-マイクロバイオーム・データのＲ統計解析
-
-https://twitter.com/search?q=Statistical%20Analysis%20of%20Microbiome%20Data%20with%20R
-
-https://twitter.com/Tyu_Shi/status/1052887281105686528
-Tyu_Shi on Twitter: "件のR本、昨年出たわりとよくまとまっているReview: Hypothesis testing and statistical analysis of microbiome https://t.co/3WOZ91WuUD　の著者が書いた本なので期待していたが、期待以上だった。"
-7:41 AM - 18 Oct 2018
-
-https://twitter.com/Tyu_Shi/status/1052876504399405056
-Tyu_Shi on Twitter: "Springerから今月出たStatistical Analysis of Microbiome Data with R. https://t.co/Mj4rrRnskl　を買ってここ数日、事務仕事の気分転換に流し読みしていたのだが、これかなり良いな。"
-6:58 AM - 18 Oct 2018
-
 ----------
 ## updates
 
@@ -64,6 +46,11 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2018
+
+https://twitter.com/kumikokatase/status/1074520626361118725
+片瀬久美子 on Twitter: "EM菌の構成微生物を、最新の分子生物学的手法によって詳細に調べました。 こちらを是非お読みください。 https://t.co/8coz47B4ne… "
+11:24 PM - 16 Dec 2018
+
 
 https://twitter.com/Newsweek_JAPAN/status/1061424777469014016
 ニューズウィーク日本版 on Twitter: "シャワーヘッドのぬめりには肺疾患を引き起こす細菌が含まれる：米研究結果 ──肺疾患の流行地域と、シャワーヘッドの細菌の量が多い地域が合致した https://t.co/DTbtEf2LUn #衛生　#健康　#肺疾患… "
@@ -285,6 +272,19 @@ Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at
 ----------
 ## virus
 
+https://twitter.com/Virus_Evolution/status/1077745814066229255
+Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
+9:00 PM - 25 Dec 2018
+
+![](https://pbs.twimg.com/media/DumlVsJU8AIMyZ2.jpg)
+
+2018年12月14日
+https://www.msz.co.jp/book/detail/08753.html
+ウイルスの意味論
+生命の定義を超えた存在
+著者
+山内一也
+
 2018年2月13日
 https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
 空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
@@ -315,6 +315,34 @@ RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 
 http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
 From design of a genome sequence to generation of a synthetic virus
 - Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
+
+日経サイエンス　 2005年3月号
+http://www.nikkei-science.com/page/magazine/0503/virus.html
+ウイルスは生きているのか | 日経サイエンス
+
+### HIV
+
+https://en.wikipedia.org/wiki/Paul_M._Sharp
+
+2018.01.05
+https://logmi.jp/business/articles/257503
+感染源はチンパンジーだった？　HIVの起源をたどる - ログミー[o_O]
+
+https://www.ncbi.nlm.nih.gov/pubmed/22229120
+Cold Spring Harb Perspect Med. 2011 Sep;1(1):a006841. doi: 10.1101/cshperspect.a006841.
+Origins of HIV and the AIDS pandemic.
+Sharp PM1, Hahn BH.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20643738
+Philos Trans R Soc Lond B Biol Sci. 2010 Aug 27;365(1552):2487-94. doi: 10.1098/rstb.2010.0031.
+The evolution of HIV-1 and the origin of AIDS.
+Sharp PM1, Hahn BH.
+
+https://wired.jp/2003/06/19/hivの起源は「サルを食べたチンパンジー」か/
+「チンパンジーを殺してその肉を食べるという、ヒトが最初に感染したと想定されるルートと似ている」と研究チームのメンバーで、イギリスのノッティンガム大学遺伝学研究所に所属するポール・M・シャープ教授は述べている。
+http://pages.ucsd.edu/~jmoore/publications/hivhooper.html
+Paul Sharp
+
 
 
 ----------
@@ -671,6 +699,13 @@ https://www.ygken.com/2018/11/blog-post_13.html?m=1
 WHO（世界保健機関）は、2015年より11月にWorld Antibiotic Awareness Weekを定めています。
 11月は、日本における「薬剤耐性（AMR）対策推進月間」です。
 2018年の11月12日から11月18日は「世界抗菌薬啓発デー」です。
+
+
+
+
+2018年11月18日
+https://www.asahi.com/articles/ASLCL2GF8LCLUBQU001.html
+畜産用の抗菌薬２種類、国が使用禁止　耐性菌拡大を懸念：朝日新聞デジタル
 
 2018/11/09
 https://www.buzzfeed.com/jp/naokoiwanaga/amr-alliance-japan
@@ -1138,10 +1173,6 @@ Kim KY1, Kim YS, Kim D, Kim HT.
 
 ----------
 
-25 NOV 2016
-http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
-Antibiotic-resistant superbugs on Hong Kong MTR trains, study reveals | Post Magazine | South China Morning Post
-
 ## Money
 お金の微生物
 
@@ -1318,6 +1349,25 @@ http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
 
 http://www.nikkei-science.com/?tag=微生物学
 微生物学 | 日経サイエンス
+
+### 2018-08-31
+
+![](https://images-fe.ssl-images-amazon.com/images/I/51YXTP20%2BaL.jpg)
+
+![](http://www.tsukiji-shokan.co.jp/mokuroku/hon-imgs/1567.jpg)
+
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1567-2.html
+『土・牛・微生物　文明の衰退を食い止める土の話』
+
+https://twitter.com/search?q=%22土・牛・微生物%22
+
+2018/10/29
+https://allreviews.jp/review/2662
+『土・牛・微生物ー文明の衰退を食い止める土の話』(築地書館) - 著者：デイビッド・モントゴメリー 翻訳：片岡 夏実 - 中村 桂子による書評 | 好きな書評家、読ませる書評。ALL REVIEWS
+
+2018年08月31日
+https://honz.jp/articles/-/44887
+訳者あとがき
 
 ### 2018/06/02
 ![https://www.amazon.co.jp/dp/4255010579](https://images-na.ssl-images-amazon.com/images/I/51tCt9d2GdL._SX333_BO1,204,203,200_.jpg)
