@@ -105,19 +105,6 @@ A standardized bacterial taxonomy based on genome phylogeny substantially revise
 
 ## 2018
 
-## 2018-09
-
-## 2018-08
-
-
-## 2018-07
-
-https://twitter.com/mike_schatz/status/1017507044230823936
-Registration is open for the Biological Data Science conference at @CSHL on Nov 7-10. Abstracts are due by Aug 18. Check out this awesome lineup of speakers and session chairs! #biodata18 @cshlmeetings @cncurtis @jtleek @BeEngelhardt https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=18
-4:32 PM - 12 Jul 2018
-
-![](https://pbs.twimg.com/media/Dh7nYN0W0AA18_X.jpg)
-
 ----------
 ## 2017
 
