@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-12
+Last Update: 2019-01
 
 ----------
 
@@ -28,6 +28,38 @@ Last Update: 2018-12
   - KGO-5
 - [Rickettsiales](#rickettsiales)
 - [Wolbachia](#wolbachia)
+- [mitochondria](#mitochondria)
+
+----------
+## mitochondria
+
+https://www.biorxiv.org/content/early/2018/11/05/462648
+An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | bioRxiv
+https://www.biorxiv.org/content/biorxiv/early/2018/11/05/462648.full.pdf
+This diversity may lead to pervasive artefacts when inferring the
+66 phylogeny of the Alphaproteobacteria, e.g., long-branch attraction (LBA) between the
+67 Rickettsiales and Pelagibacterales, especially when including mitochondria (Rodríguez68 Ezpeleta and Embley 2012; Viklund, Ettema, and Andersson 2012; Viklund et al. 2013).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25609566
+Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
+An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
+Wang Z1, Wu M1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302308/
+3) Extreme sequence composition bias. Mitochondria and the obligate intracellular Alphaproteobacteria are in general extremely AT rich in their genome sequences. It is well established that sequence composition bias could adversely affect the phylogenetic reconstruction and lead to statistically robust but misleading conclusions9,10,11.
+
+However, this hypothesis has been convincingly refuted by more recent studies demonstrating that this sister-clade relationship is a tree reconstruction artifact resulted from sequence composition bias21,23,24.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22291975
+PLoS One. 2012;7(1):e30520. doi: 10.1371/journal.pone.0030520. Epub 2012 Jan 23.
+The SAR11 group of alpha-proteobacteria is not related to the origin of mitochondria.
+Rodríguez-Ezpeleta N1, Embley TM.
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030520
+Figure 1. Nucleotide and amino acid composition of the dataset used in this study. A
+
+https://www.ncbi.nlm.nih.gov/pubmed/21957463
+PLoS One. 2011;6(9):e24857. doi: 10.1371/journal.pone.0024857. Epub 2011 Sep 21.
+Phylogenomic analysis of Odyssella thessalonicensis fortifies the common origin of Rickettsiales, Pelagibacter ubique and Reclimonas americana mitochondrion.
+Georgiades K1, Madoui MA, Le P, Robert C, Raoult D.
 
 ----------
 ## heavy metals
@@ -52,6 +84,22 @@ https://ja.wikipedia.org/wiki/ヒ素
 https://ja.wikipedia.org/wiki/亜ヒ酸
 亜ヒ酸（あヒさん、arsenous acid、arsenious acid）は、化学式がAs(OH)3の無機化合物である。
 
+https://www.ncbi.nlm.nih.gov/pubmed/30405552
+Front Microbiol. 2018 Oct 23;9:2473. doi: 10.3389/fmicb.2018.02473. eCollection 2018.
+Distribution of Arsenic Resistance Genes in Prokaryotes.
+Ben Fekih I1, Zhang C1, Li YP1, Zhao Y2, Alwathnani HA3, Saquib Q4, Rensing C1,5, Cervantes C6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/
+However, the arsenite transport pathway was unknown until an aquaglyceroporin, the glycerol facilitator GlpF, was discovered in E. coli as an “accidental” arsenite uptake transporter (Sanders et al., 1997; Rosen, 2002; Meng et al., 2004). 
+
+https://www.ncbi.nlm.nih.gov/pubmed/23669886
+Nat Rev Microbiol. 2013 Jun;11(6):371-84. doi: 10.1038/nrmicro3028. Epub 2013 May 13.
+Antimicrobial activity of metals: mechanisms, molecular targets and applications.
+Lemire JA1, Harrison JJ, Turner RJ.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14970228
+J Biol Chem. 2004 Apr 30;279(18):18334-41. Epub 2004 Feb 16.
+As(III) and Sb(III) uptake by GlpF and efflux by ArsB in Escherichia coli.
+Meng YL1, Liu Z, Rosen BP.
 
 亜ヒ酸酸化
 https://www.ncbi.nlm.nih.gov/pubmed/29250936
@@ -520,6 +568,12 @@ Mycobacterium avium silvaticum BSL2
 
 - https://ja.wikipedia.org/wiki/ゲオバクター属
 - http://www.bacterio.net/geobacter.html
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/27940542
+Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
+Arsenic Detoxification by Geobacter Species.
+Dang Y1,2, Walker DJ1, Vautour KE1, Dixon S3, Holmes DE4,3.
 
 系統解析
 
