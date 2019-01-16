@@ -14,6 +14,7 @@ Last Update: 2018-11
 - [updates](#updates)
 - [space](#space)
 - [airport](#airport)
+- [books](#books)
 - [virus](#virus)
 - [database](#database)
 - [growth rate](#growth-rate)
@@ -29,12 +30,21 @@ Last Update: 2018-11
 - [money](#money)
 - [links](#links)
 - [twitter](#twitter)
-- [books](#books)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
 
 ----------
 ## featuring
+
+
+https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
+特集1　カルタヘナ議定書にある「生物の多様性の保全及び持続可能な利用への影響」はどのように評価できるのか？
+細菌群集多様性の動態を生態系評価にいかにとりこむか
+横川 太一
+2016 年 66 巻 2 号 p. 301-308
+https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
+
+
 
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
@@ -47,10 +57,29 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2018
 
+
+https://twitter.com/minesoh/status/1079200527412613125
+峰　宗太郎 on Twitter: "二酸化塩素によるいわゆる「空間除菌」はウイルスの抑制効果は実質的にはほぼ意味のないレベルであり、むしろ二酸化塩素の害を考える必要があります👶 置型には以前、消費者庁から優良誤認表示への措置命令も出ています。 　参考：https://t.co/ibKMnDCsFB 　　　　https://t.co/OPdCkIq2Ge… https://t.co/EKuChmn1sE"
+9:20 PM - 29 Dec 2018
+
+
+https://twitter.com/LuckyStrike1984/status/1076593005749067776
+いやほんとにバクテリアの機能多様性すごいですからね。種間とかじゃなくて種内多様性。OTUなんてもう機能って意味でいったらザルですよ。まじ。同じOTUに属するような系統間で機能全然ちがうやつなんていくらでもおりますからね。
+Nakano, R.T. (PhD) on Twitter: "それが最も科学的に真摯な姿勢かなとは僕も思います。そういう科学的な思考を一般社会に広げていくのもサイエンスライターの楽しさの一つかと思っていたのですが、片瀬さんの場合はそこよりもEM菌と戦うことが最優先のようなので、そういうのは別の人が別の形でやっていくのがいいのかもしれませんね。… https://t.co/2gOAFUQXTA"
+4:39 PM - 22 Dec 2018
+
+
+https://twitter.com/LuckyStrike1984/status/1075139887068864518
+Nakano, R.T. (PhD) on Twitter: "一応立場上、「16S rRNAによる系統分類をもとに機能を想定するのは適切ではない」ということは申し上げておきたいです。必ずしも間違っているという意味ではなく、必ずしも正しいとは限らないという立場です。EM菌が信に足らぬという結論は完全に支援します。… https://t.co/eiZxvUKg8r"
+4:24 PM - 18 Dec 2018
+
 https://twitter.com/kumikokatase/status/1074520626361118725
 片瀬久美子 on Twitter: "EM菌の構成微生物を、最新の分子生物学的手法によって詳細に調べました。 こちらを是非お読みください。 https://t.co/8coz47B4ne… "
 11:24 PM - 16 Dec 2018
 
+https://togetter.com/li/421120
+渡邊先生と片瀬ブロック - Togetter
+2012年12月11日
 
 https://twitter.com/Newsweek_JAPAN/status/1061424777469014016
 ニューズウィーク日本版 on Twitter: "シャワーヘッドのぬめりには肺疾患を引き起こす細菌が含まれる：米研究結果 ──肺疾患の流行地域と、シャワーヘッドの細菌の量が多い地域が合致した https://t.co/DTbtEf2LUn #衛生　#健康　#肺疾患… "
@@ -241,6 +270,109 @@ Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podovirida
 ```
 
 ----------
+
+## 2018-01
+
+https://github.com/haruosuz/DS4GD/blob/master/2017giga/CaseStudy.md#ncbi-assembly-summary
+
+    cd ~/projects/ncbi_assembly_summary/data/
+    FILE="assembly_summary_genbank.txt"
+    FILE="assembly_summary_refseq.txt"
+    NAME="Bifidobacterium.longum"
+    #NAME="Bifidobacterium.breve"
+    #NAME="Ensifer|Sinorhizobium"
+    #NAME="Pseudomonas.stutzeri"
+    grep "^#" $FILE | tail -n 1 | cut -f1,8,9,20
+    cat $FILE | grep -v "phage" | awk -F "\t" -v OFS="\t" '$8 ~ /'"$NAME"'/ && $11=="latest" && $12 ~ /Complete/ {print $1,$8,$9,$20}'
+
+    NAME="Tepidibacillus"
+    cat $FILE | awk -F "\t" -v OFS="\t" '$8 ~ /'"$NAME"'/ && $11=="latest" {print $1,$8,$9}'
+
+    NAME="Rhodococcus.equi|Rhodococcus.defluvii"
+    #NAME="Roseovarius"
+    cat $FILE | awk -F "\t" -v OFS="\t" '$8 ~ /'"$NAME"'/ && $11=="latest" && $5 ~ /representative/ {print $1,$8,$9}'
+
+    grep "^#" $FILE | tail -n 1 | tr "\t" "\n" | nl
+
+     1	# assembly_accession
+     8	organism_name
+     9	infraspecific_name
+    20	ftp_path
+
+https://github.com/haruosuz/introBI/blob/master/2017/CaseStudy.md
+
+----------
+
+http://www.asahi.com/apital/healthguide/hirosaki/
+＜アピタル：弘前大学企画・今こそ知りたい！　感染症の予防と治療＞
+
+2017年12月22日
+https://www.asahi.com/articles/ASKDP6QN0KDPUBQU01X.html
+感染症の流行、文明の発達とともに：朝日新聞デジタル
+
+　農耕牧畜によって人が定住生活をするようになると、やがて集落が町、都市へと発展し、人口が増えていきます。文明が栄えて都市間で人が往来するようになると、たくさんの人が亡くなるような感染症の大流行が起こるようになったと考えられます。人口密度が高い都市、中でも不衛生な環境となりやすいスラムには、様々な感染症が流行する条件がそろっていました。
+
+2017年12月8日
+https://www.asahi.com/articles/ASKD7644DKD7UBQU01F.html
+「３秒ルール」？　１秒でも汚染避けられず
+
+http://www.who.int/kobe_centre/measuring/urban-global-report/ugr_summary_jp_draft.pdf
+都市部の健康に関するグローバル・レポ ート:持続可能な開発のために、公平でよ り健康な都市を
+
+第 3 章:感染性疾患に打ち勝つための都市の利点の活用
+
+また、都市部の人口密度の高さによって、インフルエンザや結核などの空気感 染性疾患にさらされるリスクが高まるのです。
+
+平成２５年１１月２６日
+https://www.kantei.go.jp/jp/headline/kansensho2013.html
+感染症対策特集～様々な感染症から身を守りましょう～ | 首相官邸ホームページ
+
+　結核は人から人へ感染する病気ですから、その発生は人口密度の高い大都市で多い傾向にあります。
+
+https://www.japan-who.or.jp/library/2010/book4406.pdf
+[PDF]「都市と感染症」
+
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/29176581
+Nat Rev Microbiol. 2018 Feb;16(2):67-79. doi: 10.1038/nrmicro.2017.137. Epub 2017 Nov 27.
+Functional horizontal gene transfer from bacteria to eukaryotes.
+Husnik F1,2,3, McCutcheon JP2.
+
+----------
+
+http://www.nikkei-science.com/201803_068.html
+バイオフィルムを退治する | 日経サイエンス
+
+http://www.nikkei-science.com/201605_072.html
+体を守る苦味受容体 | 日経サイエンス
+苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
+
+http://www.nikkei-science.com/?p=44051
+鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
+苦味受容体が細菌の侵入と闘っている
+
+https://adgang.jp/2014/10/77120.html
+オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
+
+----------
+
+
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
+11:40 PM - 15 Jul 2015
+
+
+https://twitter.com/endBooks/status/385905594026033153
+科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
+7:13 PM - 3 Oct 2013
+
+
+----------
+
+
+
+----------
 ## airport
 
 https://www.ncbi.nlm.nih.gov/pubmed/29876609
@@ -270,6 +402,184 @@ Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at
 3:06 AM - 5 Sep 2018
 
 ----------
+
+## books
+
+http://www.nikkei-science.com/?tag=微生物学
+微生物学 | 日経サイエンス
+
+### 2018-12-14
+![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
+
+![](https://www.msz.co.jp/_cover/front/08753_big.jpg)
+
+https://www.msz.co.jp/book/detail/08753.html
+ウイルスの意味論
+生命の定義を超えた存在
+著者
+山内一也
+
+https://www.primate.or.jp/serialization/116%EF%BC%8E新刊書「ウイルスの意味論%E3%80%80―%E3%80%80生命の定義/
+
+
+### 2018-08-31
+
+![](https://images-fe.ssl-images-amazon.com/images/I/51YXTP20%2BaL.jpg)
+
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1567-2.html
+『土・牛・微生物ー文明の衰退を食い止める土の話』(築地書館) - 著者：デイビッド・モントゴメリー 翻訳：片岡 夏実 - 
+
+https://www.amazon.co.jp/dp/4806715670
+
+2018/10/29
+https://allreviews.jp/review/2662
+中村 桂子による書評
+
+https://huyukiitoichi.hatenadiary.jp/entry/2018/09/12/080000
+我々は今後土をどう扱っていけばいいのか──『土・牛・微生物ー文明の衰退を食い止める土の話』 - 基本読書
+
+2018年08月31日
+https://honz.jp/articles/-/44887
+訳者あとがき
+
+### 2018/06/28
+![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011572.jpg)
+
+https://www.kinokuniya.co.jp/f/dsg-01-9784314011570
+腸と脳 / メイヤー，エムラン【著】〈Ｍａｙｅｒ，Ｅｍｅｒａｎ〉/高橋 洋【訳】 - 紀伊國屋書店ウェブストア
+
+【ためし読みはこちらから】
+https://www.kinokuniya.co.jp/banner/9784314011570.pdf
+
+### 2018/06/02
+![https://www.amazon.co.jp/dp/4255010579](https://images-na.ssl-images-amazon.com/images/I/51tCt9d2GdL._SX333_BO1,204,203,200_.jpg)
+
+https://ee.asahipress.com/bookdetail_norm/9784255010571/
+細菌が人をつくる | 書籍 | 朝日出版社
+［著者紹介］ ロブ・ナイト 著 / ブレンダン・ビューラー 著 / ［訳者紹介］ 山田拓司＋東京工業大学山田研究室 訳
+
+### 2017/09/20
+![](https://www.iwanami.co.jp//images/book/309292.png)
+
+https://www.iwanami.co.jp/book/b309292.html
+抗生物質と人間 - 岩波書店
+
+### 2017-08-18
+![](http://www.nikkei-science.com/wp-content/uploads/2017/08/51221-160x214.jpg)
+
+http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
+微生物の驚異 | 日経サイエンス
+
+### 2017-05-01
+![](http://www.kashiwashobo.co.jp//images/book/286870.jpg)
+
+http://www.kashiwashobo.co.jp/book/b286870.html
+世界は細菌にあふれ、人は細菌によって生かされる
+
+https://edyong.me/i-contain-multitudes/
+I Contain Multitudes — Ed Yong
+
+https://medium.com/hhmi-science-media
+I Contain Multitudes – Medium
+
+https://www.youtube.com/watch?v=SZe4ymY8C-8
+I Contain Multitudes: The Microbes Within Us and a Grander View of Life Audiobook Excerpt - YouTube
+
+https://www.youtube.com/channel/UCnZK1E7WoLpFNIHHChgVMtw
+I Contain Multitudes - YouTube - YouTube
+
+http://www.pbs.org/show/i-contain-multitudes/
+I Contain Multitudes | PBS
+
+http://twilog.org/man10000/month-1712
+
+10秒のディープキスで平均8000万以上の細菌が移動することを確かめた。『マイクロバイオームの世界』
+
+徹底的に便座を殺菌したあと、まずそこに定着するのは糞便の微生物。やがて皮膚の多様な微生物に駆逐されるが再びトイレを殺菌した途端元に戻る。つまり皮肉にもトイレを頻繁に掃除しすぎると、糞便の菌に占領されやすくなるということだ。
+『世界は細菌にあふれ、人は細菌によって生かされる』
+
+空調された病室内の空気の微生物コミュニティと屋外のそれとは全く共通点がなかった。患者は自分たちの「微生物シチュー」の中で効果的に「煮込まれ」てる。その状態回避の最善策それは「窓を開ける」こと。それをナイチンゲールはマイクロバイオームの知識なしにやってのけた。
+
+### 2016-12-01
+![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011440.jpg)
+
+紀伊國屋書店（2016/12発売）
+https://www.kinokuniya.co.jp/f/dsg-01-9784314011440
+マイクロバイオームの世界―あなたの中と表面と周りにいる何兆もの微生物たち
+
+澤畑 塁2016年12月09日
+http://honz.jp/articles/-/43549
+『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』 研究の全体像を見渡せる概論的読み物
+
+紀伊國屋書店2016年12月01日
+http://honz.jp/articles/-/43555
+『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』
+訳者あとがき by 斉藤 隆央
+
+### 2016-11-22
+
+http://www.hayakawa-online.co.jp/shopdetail/000000013372/
+腸科学　健康な人生を支える細菌の育て方 (早川書房)
+
+澤畑 塁2016年12月04日
+http://honz.jp/articles/-/43583
+「ビッグマック」を食べよう 『腸科学　健康な人生を支える細菌の育て方』 - HONZ
+
+### 2016-11-12
+![](https://images-fe.ssl-images-amazon.com/images/I/51-Ia6Av8eL._AC_US160_.jpg)
+
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1524-5.html
+土と内臓　微生物がつくる世界
+
+築地書館2016年11月15日
+http://honz.jp/articles/-/43529
+『土と内臓　微生物がつくる世界』
+訳者あとがき
+
+### 2016-09-12
+![](http://www.kyoto-up.or.jp/upload/book/book_2128_20160802172643.jpg)
+
+http://www.kyoto-up.or.jp/book.php?id=2128
+微生物生態学　ゲノム解析からエコシステムまで
+
+http://www.saaaj.jp/public/books/books2017_06_2.pdf
+図書紹介
+(大阪府立大学 21世紀科学研究機構 微生物制御研究センター 坂元 仁)
+
+https://books.google.co.jp/books?id=QrnR1_ONIK4C&hl=ja
+Processes in Microbial Ecology - David L. Kirchman - Google ブックス
+
+### 2016-08-10
+![](http://www.kawade.co.jp/img/cover_l/9784309253527.jpg)
+
+http://www.kawade.co.jp/np/isbn/9784309253527/
+あなたの体は９割が細菌 :アランナ・コリン,矢野　真千子｜河出書房新社
+
+### 2015-11-02
+![](https://www.beret.co.jp/books/imgresize/589.jpg/175/0)
+
+https://www.beret.co.jp/books/detail/589
+見えない巨人―微生物｜書籍案内｜ベレ出版
+
+http://dain.cocolog-nifty.com/myblog/2015/12/post-c645.html
+『見えない巨人　微生物』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+
+### 2015-07-01
+![](https://www.msz.co.jp/_cover/front/07910_big.jpg)
+
+『失われてゆく、我々の内なる細菌』
+マーティン・J・ブレイザー　山本太郎訳
+https://www.msz.co.jp/topics/07910/
+https://www.msz.co.jp/book/detail/07910.html
+
+村上 浩2015年07月22日
+http://honz.jp/articles/-/41635
+『失われてゆく、我々の内なる細菌』　ピロリ菌だって役に立つ？ 
+
+----------
+
+
+----------
 ## virus
 
 https://twitter.com/Virus_Evolution/status/1077745814066229255
@@ -277,13 +587,6 @@ Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. htt
 9:00 PM - 25 Dec 2018
 
 ![](https://pbs.twimg.com/media/DumlVsJU8AIMyZ2.jpg)
-
-2018年12月14日
-https://www.msz.co.jp/book/detail/08753.html
-ウイルスの意味論
-生命の定義を超えた存在
-著者
-山内一也
 
 2018年2月13日
 https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
@@ -929,8 +1232,15 @@ https://wired.jp/2016/07/30/messing-up-microbiomes/
 https://wirelesswire.jp/2016/06/53675/
 発展途上国の新生児を救うウェアラブル - WirelessWire News（ワイヤレスワイヤーニュース）
 
+https://wired.jp/2016/05/15/tim-spector/
+脂肪をガマンするよりも──食生活にも「多様性」が必要だ｜WIRED.jp
+マクドナルドの同じメニューを10日間にわたり毎日食べ続けた結果、腸内細菌叢の多様性は40パーセント減少し、健康状態も悪くなった実験などを紹介。
+
 https://wired.jp/2015/10/11/bacteria-clouds/
 人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
+
+https://wired.jp/2015/05/01/bacteria-and-mental/
+性格は「腸内細菌」によって決まる：研究結果｜WIRED.jp
 
 https://wired.jp/2014/09/05/electronic-nose-superbug/
 病の匂いを嗅ぎつける「電子の鼻」、開発される：院内感染菌を検出｜WIRED.jp
@@ -1311,7 +1621,8 @@ LPSN - List of Prokaryotic names with Standing in Nomenclature
 - https://twitter.com/cuteimouto_bot 微生物学専攻妹bot (@cuteimouto_bot)
 - https://twitter.com/bactery_bot ばくてり～細菌擬人化bot～ (@bactery_bot)
 - https://twitter.com/AAD_Japan Save ABx Japan (@AAD_Japan) | 抗菌薬、薬剤耐性菌
-
+- 
+- https://twitter.com/search?q=%22土・牛・微生物%22
 - https://twitter.com/search?q=%22抗生物質と人間%22
 - https://twitter.com/search?q=%22微生物の驚異%22
 - https://twitter.com/search?q=%22マイクロバイオームの世界%22
@@ -1342,256 +1653,6 @@ http://sciencebook.blog110.fc2.com/blog-entry-2251.html
 【2010/08/07】
 http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
 『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
-
-----------
-
-## Books
-
-http://www.nikkei-science.com/?tag=微生物学
-微生物学 | 日経サイエンス
-
-### 2018-08-31
-
-![](https://images-fe.ssl-images-amazon.com/images/I/51YXTP20%2BaL.jpg)
-
-http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1567-2.html
-『土・牛・微生物ー文明の衰退を食い止める土の話』(築地書館) - 著者：デイビッド・モントゴメリー 翻訳：片岡 夏実 - 
-
-https://twitter.com/search?q=%22土・牛・微生物%22
-
-https://www.amazon.co.jp/dp/4806715670
-
-2018/10/29
-https://allreviews.jp/review/2662
-中村 桂子による書評
-
-2018年08月31日
-https://honz.jp/articles/-/44887
-訳者あとがき
-
-### 2018/06/02
-![https://www.amazon.co.jp/dp/4255010579](https://images-na.ssl-images-amazon.com/images/I/51tCt9d2GdL._SX333_BO1,204,203,200_.jpg)
-
-https://ee.asahipress.com/bookdetail_norm/9784255010571/
-細菌が人をつくる | 書籍 | 朝日出版社
-
-### 2017/09/20
-![](https://www.iwanami.co.jp//images/book/309292.png)
-
-https://www.iwanami.co.jp/book/b309292.html
-抗生物質と人間 - 岩波書店
-
-### 2017-08-18
-![](http://www.nikkei-science.com/wp-content/uploads/2017/08/51221-160x214.jpg)
-
-http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
-微生物の驚異 | 日経サイエンス
-
-### 2017-05-01
-![](http://www.kashiwashobo.co.jp//images/book/286870.jpg)
-
-http://www.kashiwashobo.co.jp/book/b286870.html
-世界は細菌にあふれ、人は細菌によって生かされる
-
-https://edyong.me/i-contain-multitudes/
-I Contain Multitudes — Ed Yong
-
-https://medium.com/hhmi-science-media
-I Contain Multitudes – Medium
-
-https://www.youtube.com/watch?v=SZe4ymY8C-8
-I Contain Multitudes: The Microbes Within Us and a Grander View of Life Audiobook Excerpt - YouTube
-
-https://www.youtube.com/channel/UCnZK1E7WoLpFNIHHChgVMtw
-I Contain Multitudes - YouTube - YouTube
-
-http://www.pbs.org/show/i-contain-multitudes/
-I Contain Multitudes | PBS
-
-http://twilog.org/man10000/month-1712
-
-10秒のディープキスで平均8000万以上の細菌が移動することを確かめた。『マイクロバイオームの世界』
-
-徹底的に便座を殺菌したあと、まずそこに定着するのは糞便の微生物。やがて皮膚の多様な微生物に駆逐されるが再びトイレを殺菌した途端元に戻る。つまり皮肉にもトイレを頻繁に掃除しすぎると、糞便の菌に占領されやすくなるということだ。
-『世界は細菌にあふれ、人は細菌によって生かされる』
-
-空調された病室内の空気の微生物コミュニティと屋外のそれとは全く共通点がなかった。患者は自分たちの「微生物シチュー」の中で効果的に「煮込まれ」てる。その状態回避の最善策それは「窓を開ける」こと。それをナイチンゲールはマイクロバイオームの知識なしにやってのけた。
-
-### 2016-12-01
-![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011440.jpg)
-
-紀伊國屋書店（2016/12発売）
-https://www.kinokuniya.co.jp/f/dsg-01-9784314011440
-マイクロバイオームの世界―あなたの中と表面と周りにいる何兆もの微生物たち
-
-澤畑 塁2016年12月09日
-http://honz.jp/articles/-/43549
-『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』 研究の全体像を見渡せる概論的読み物
-
-紀伊國屋書店2016年12月01日
-http://honz.jp/articles/-/43555
-『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』
-訳者あとがき by 斉藤 隆央
-
-### 2016-11-22
-
-http://www.hayakawa-online.co.jp/shopdetail/000000013372/
-腸科学　健康な人生を支える細菌の育て方 (早川書房)
-
-澤畑 塁2016年12月04日
-http://honz.jp/articles/-/43583
-「ビッグマック」を食べよう 『腸科学　健康な人生を支える細菌の育て方』 - HONZ
-
-### 2016-11-12
-![](https://images-fe.ssl-images-amazon.com/images/I/51-Ia6Av8eL._AC_US160_.jpg)
-
-http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1524-5.html
-土と内臓　微生物がつくる世界
-
-築地書館2016年11月15日
-http://honz.jp/articles/-/43529
-『土と内臓　微生物がつくる世界』
-訳者あとがき
-
-### 2016-09-12
-![](http://www.kyoto-up.or.jp/upload/book/book_2128_20160802172643.jpg)
-
-http://www.kyoto-up.or.jp/book.php?id=2128
-微生物生態学　ゲノム解析からエコシステムまで
-
-http://www.saaaj.jp/public/books/books2017_06_2.pdf
-図書紹介
-(大阪府立大学 21世紀科学研究機構 微生物制御研究センター 坂元 仁)
-
-https://books.google.co.jp/books?id=QrnR1_ONIK4C&hl=ja
-Processes in Microbial Ecology - David L. Kirchman - Google ブックス
-
-### 2016-08-10
-![](http://www.kawade.co.jp/img/cover_l/9784309253527.jpg)
-
-http://www.kawade.co.jp/np/isbn/9784309253527/
-あなたの体は９割が細菌 :アランナ・コリン,矢野　真千子｜河出書房新社
-
-### 2015-11-02
-![](https://www.beret.co.jp/books/imgresize/589.jpg/175/0)
-
-https://www.beret.co.jp/books/detail/589
-見えない巨人―微生物｜書籍案内｜ベレ出版
-
-http://dain.cocolog-nifty.com/myblog/2015/12/post-c645.html
-『見えない巨人　微生物』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-
-### 2015-07-01
-![](https://www.msz.co.jp/_cover/front/07910_big.jpg)
-
-『失われてゆく、我々の内なる細菌』
-マーティン・J・ブレイザー　山本太郎訳
-https://www.msz.co.jp/topics/07910/
-https://www.msz.co.jp/book/detail/07910.html
-
-村上 浩2015年07月22日
-http://honz.jp/articles/-/41635
-『失われてゆく、我々の内なる細菌』　ピロリ菌だって役に立つ？ 
-
-----------
-
-## 2018-01
-
-https://github.com/haruosuz/DS4GD/blob/master/2017giga/CaseStudy.md#ncbi-assembly-summary
-
-    cd ~/projects/ncbi_assembly_summary/data/
-    FILE="assembly_summary_genbank.txt"
-    FILE="assembly_summary_refseq.txt"
-    NAME="Bifidobacterium.longum"
-    #NAME="Bifidobacterium.breve"
-    #NAME="Ensifer|Sinorhizobium"
-    #NAME="Pseudomonas.stutzeri"
-    grep "^#" $FILE | tail -n 1 | cut -f1,8,9,20
-    cat $FILE | grep -v "phage" | awk -F "\t" -v OFS="\t" '$8 ~ /'"$NAME"'/ && $11=="latest" && $12 ~ /Complete/ {print $1,$8,$9,$20}'
-
-    NAME="Tepidibacillus"
-    cat $FILE | awk -F "\t" -v OFS="\t" '$8 ~ /'"$NAME"'/ && $11=="latest" {print $1,$8,$9}'
-
-    NAME="Rhodococcus.equi|Rhodococcus.defluvii"
-    #NAME="Roseovarius"
-    cat $FILE | awk -F "\t" -v OFS="\t" '$8 ~ /'"$NAME"'/ && $11=="latest" && $5 ~ /representative/ {print $1,$8,$9}'
-
-    grep "^#" $FILE | tail -n 1 | tr "\t" "\n" | nl
-
-     1	# assembly_accession
-     8	organism_name
-     9	infraspecific_name
-    20	ftp_path
-
-https://github.com/haruosuz/introBI/blob/master/2017/CaseStudy.md
-
-----------
-
-http://www.asahi.com/apital/healthguide/hirosaki/
-＜アピタル：弘前大学企画・今こそ知りたい！　感染症の予防と治療＞
-
-2017年12月22日
-https://www.asahi.com/articles/ASKDP6QN0KDPUBQU01X.html
-感染症の流行、文明の発達とともに：朝日新聞デジタル
-
-　農耕牧畜によって人が定住生活をするようになると、やがて集落が町、都市へと発展し、人口が増えていきます。文明が栄えて都市間で人が往来するようになると、たくさんの人が亡くなるような感染症の大流行が起こるようになったと考えられます。人口密度が高い都市、中でも不衛生な環境となりやすいスラムには、様々な感染症が流行する条件がそろっていました。
-
-2017年12月8日
-https://www.asahi.com/articles/ASKD7644DKD7UBQU01F.html
-「３秒ルール」？　１秒でも汚染避けられず
-
-http://www.who.int/kobe_centre/measuring/urban-global-report/ugr_summary_jp_draft.pdf
-都市部の健康に関するグローバル・レポ ート:持続可能な開発のために、公平でよ り健康な都市を
-
-第 3 章:感染性疾患に打ち勝つための都市の利点の活用
-
-また、都市部の人口密度の高さによって、インフルエンザや結核などの空気感 染性疾患にさらされるリスクが高まるのです。
-
-平成２５年１１月２６日
-https://www.kantei.go.jp/jp/headline/kansensho2013.html
-感染症対策特集～様々な感染症から身を守りましょう～ | 首相官邸ホームページ
-
-　結核は人から人へ感染する病気ですから、その発生は人口密度の高い大都市で多い傾向にあります。
-
-https://www.japan-who.or.jp/library/2010/book4406.pdf
-[PDF]「都市と感染症」
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/29176581
-Nat Rev Microbiol. 2018 Feb;16(2):67-79. doi: 10.1038/nrmicro.2017.137. Epub 2017 Nov 27.
-Functional horizontal gene transfer from bacteria to eukaryotes.
-Husnik F1,2,3, McCutcheon JP2.
-
-----------
-
-http://www.nikkei-science.com/201803_068.html
-バイオフィルムを退治する | 日経サイエンス
-
-http://www.nikkei-science.com/201605_072.html
-体を守る苦味受容体 | 日経サイエンス
-苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
-
-http://www.nikkei-science.com/?p=44051
-鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
-苦味受容体が細菌の侵入と闘っている
-
-https://adgang.jp/2014/10/77120.html
-オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
-
-----------
-
-
-
-
-https://twitter.com/wired_jp/status/621524881675411456
-WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
-11:40 PM - 15 Jul 2015
-
-
-https://twitter.com/endBooks/status/385905594026033153
-科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
-7:13 PM - 3 Oct 2013
 
 
 ----------
