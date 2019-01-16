@@ -31,37 +31,6 @@ Last Update: 2019-01
 - [mitochondria](#mitochondria)
 
 ----------
-## mitochondria
-
-https://www.biorxiv.org/content/early/2018/11/05/462648
-An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | bioRxiv
-https://www.biorxiv.org/content/biorxiv/early/2018/11/05/462648.full.pdf
-This diversity may lead to pervasive artefacts when inferring the
-66 phylogeny of the Alphaproteobacteria, e.g., long-branch attraction (LBA) between the
-67 Rickettsiales and Pelagibacterales, especially when including mitochondria (Rodríguez68 Ezpeleta and Embley 2012; Viklund, Ettema, and Andersson 2012; Viklund et al. 2013).
-
-https://www.ncbi.nlm.nih.gov/pubmed/25609566
-Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
-An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
-Wang Z1, Wu M1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302308/
-3) Extreme sequence composition bias. Mitochondria and the obligate intracellular Alphaproteobacteria are in general extremely AT rich in their genome sequences. It is well established that sequence composition bias could adversely affect the phylogenetic reconstruction and lead to statistically robust but misleading conclusions9,10,11.
-
-However, this hypothesis has been convincingly refuted by more recent studies demonstrating that this sister-clade relationship is a tree reconstruction artifact resulted from sequence composition bias21,23,24.
-
-https://www.ncbi.nlm.nih.gov/pubmed/22291975
-PLoS One. 2012;7(1):e30520. doi: 10.1371/journal.pone.0030520. Epub 2012 Jan 23.
-The SAR11 group of alpha-proteobacteria is not related to the origin of mitochondria.
-Rodríguez-Ezpeleta N1, Embley TM.
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030520
-Figure 1. Nucleotide and amino acid composition of the dataset used in this study. A
-
-https://www.ncbi.nlm.nih.gov/pubmed/21957463
-PLoS One. 2011;6(9):e24857. doi: 10.1371/journal.pone.0024857. Epub 2011 Sep 21.
-Phylogenomic analysis of Odyssella thessalonicensis fortifies the common origin of Rickettsiales, Pelagibacter ubique and Reclimonas americana mitochondrion.
-Georgiades K1, Madoui MA, Le P, Robert C, Raoult D.
-
-----------
 ## heavy metals
 
 https://ja.wikipedia.org/wiki/重金属
@@ -119,15 +88,21 @@ https://academic.oup.com/femsre/article/40/2/299/2570226
 Figure 1.
 Filled circles, squares and triangles stand for organisms bearing aio, arr and arx genes, respectively. Open squares stand for organisms respiring As(V) in which the arr genes have not yet been clearly identified (see details in the text for P. calidifontis). 
 
-
-https://www.nies.go.jp/kanko/news/26/26-5/26-5-03.html
-微生物を利用して汚染土壌からヒ素を除去する （2007年度 26巻5号）｜国環研ニュース 26巻｜国立環境研究所
-
 亜ヒ酸・アンチモン酸化細菌
 https://www.ncbi.nlm.nih.gov/pubmed/23666539
 Microbes Environ. 2013;28(2):257-63. Epub 2013 May 11.
 Identification of antimony- and arsenic-oxidizing bacteria associated with antimony mine tailing.
 Hamamura N1, Fukushima K, Itai T.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/19130261
+Biometals. 2009 Feb;22(1):117-30. doi: 10.1007/s10534-008-9195-y. Epub 2009 Jan 7.
+Microbial responses to environmental arsenic.
+Páez-Espino D1, Tamames J, de Lorenzo V, Cánovas D.
+
+
+https://www.nies.go.jp/kanko/news/26/26-5/26-5-03.html
+微生物を利用して汚染土壌からヒ素を除去する （2007年度 26巻5号）｜国環研ニュース 26巻｜国立環境研究所
 
 ----------
 ## antimony
@@ -1561,6 +1536,37 @@ http://www.natureasia.com/ja-jp/reviews/highlight/10933
 http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 細菌が操る性転換 | 日経サイエンス　
 昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
+
+----------
+## mitochondria
+
+https://www.biorxiv.org/content/early/2018/11/05/462648
+An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | bioRxiv
+https://www.biorxiv.org/content/biorxiv/early/2018/11/05/462648.full.pdf
+This diversity may lead to pervasive artefacts when inferring the
+66 phylogeny of the Alphaproteobacteria, e.g., long-branch attraction (LBA) between the
+67 Rickettsiales and Pelagibacterales, especially when including mitochondria (Rodríguez68 Ezpeleta and Embley 2012; Viklund, Ettema, and Andersson 2012; Viklund et al. 2013).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25609566
+Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
+An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
+Wang Z1, Wu M1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302308/
+3) Extreme sequence composition bias. Mitochondria and the obligate intracellular Alphaproteobacteria are in general extremely AT rich in their genome sequences. It is well established that sequence composition bias could adversely affect the phylogenetic reconstruction and lead to statistically robust but misleading conclusions9,10,11.
+
+However, this hypothesis has been convincingly refuted by more recent studies demonstrating that this sister-clade relationship is a tree reconstruction artifact resulted from sequence composition bias21,23,24.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22291975
+PLoS One. 2012;7(1):e30520. doi: 10.1371/journal.pone.0030520. Epub 2012 Jan 23.
+The SAR11 group of alpha-proteobacteria is not related to the origin of mitochondria.
+Rodríguez-Ezpeleta N1, Embley TM.
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030520
+Figure 1. Nucleotide and amino acid composition of the dataset used in this study. A
+
+https://www.ncbi.nlm.nih.gov/pubmed/21957463
+PLoS One. 2011;6(9):e24857. doi: 10.1371/journal.pone.0024857. Epub 2011 Sep 21.
+Phylogenomic analysis of Odyssella thessalonicensis fortifies the common origin of Rickettsiales, Pelagibacter ubique and Reclimonas americana mitochondrion.
+Georgiades K1, Madoui MA, Le P, Robert C, Raoult D.
 
 ----------
 ### Amachi Seigo
