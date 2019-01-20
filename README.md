@@ -14,6 +14,7 @@ Last Update: 2018-11
 - [updates](#updates)
 - [space](#space)
 - [airport](#airport)
+- [video](#video)
 - [books](#books)
 - [virus](#virus)
 - [database](#database)
@@ -25,7 +26,6 @@ Last Update: 2018-11
 - [AMR](#amr)
 - [gigazine](#gigazine)
 - [wired](#wired)
-- [video](#video)
 - [subway](#subway)
 - [money](#money)
 - [links](#links)
@@ -332,45 +332,6 @@ https://www.kantei.go.jp/jp/headline/kansensho2013.html
 https://www.japan-who.or.jp/library/2010/book4406.pdf
 [PDF]「都市と感染症」
 
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/29176581
-Nat Rev Microbiol. 2018 Feb;16(2):67-79. doi: 10.1038/nrmicro.2017.137. Epub 2017 Nov 27.
-Functional horizontal gene transfer from bacteria to eukaryotes.
-Husnik F1,2,3, McCutcheon JP2.
-
-----------
-
-http://www.nikkei-science.com/201803_068.html
-バイオフィルムを退治する | 日経サイエンス
-
-http://www.nikkei-science.com/201605_072.html
-体を守る苦味受容体 | 日経サイエンス
-苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
-
-http://www.nikkei-science.com/?p=44051
-鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
-苦味受容体が細菌の侵入と闘っている
-
-https://adgang.jp/2014/10/77120.html
-オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
-
-----------
-
-
-https://twitter.com/wired_jp/status/621524881675411456
-WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
-11:40 PM - 15 Jul 2015
-
-
-https://twitter.com/endBooks/status/385905594026033153
-科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
-7:13 PM - 3 Oct 2013
-
-
-----------
-
-
 
 ----------
 ## airport
@@ -403,15 +364,71 @@ Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at
 
 ----------
 
+----------
+## video
+http://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html
+日本語TED新着: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン
+
+### TED Talks
+
+https://www.ted.com/talks/anne_madden_meet_the_microscopic_life_in_your_home_and_on_your_face?language=ja
+アン・マデン: 微生物の世界へようこそ ― 自宅にも、そしてあなたの顔にも | TED Talk
+• 10:07• April 2017 | TED2017
+
+- [ロブ・ナイト: 微生物がどのようにして私達を作っているのか](https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja) TED2014 · 17:24 · Filmed Feb 2014
+- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja) TED2013 · 8:43 · Filmed Feb 2013
+- [ジョナサン・アイゼン：微生物にこんにちは](https://www.ted.com/talks/jonathan_eisen_meet_your_microbes?language=ja) TEDMED 2012 · 14:23 · Filmed Apr 2012
+- [リチャード・レズニック「ゲノム革命の時代へようこそ」](https://www.ted.com/talks/richard_resnick_welcome_to_the_genomic_revolution?language=ja) TEDxBoston 2011 · 11:02 · Filmed Jul 2011
+- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja) TEDGlobal 2011 · 5:25 · Filmed Jul 2011
+- [クレイグ・ベンター：「人工生命」について発表する](https://www.ted.com/talks/craig_venter_unveils_synthetic_life?language=ja) TED in the Field · 18:17 · Filmed May 2010
+- [バリー・シュラー: ゲノム学基礎講座](https://www.ted.com/talks/barry_schuler_genomics_101?language=ja) Taste3 2008 · 21:26 · Filmed Jun 2008
+- [クレイグ・ベンター：目前に迫る合成生命の創造](https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life?language=ja) TED2008 · 15:54 · Filmed Feb 2008
+- [クレイグ・ヴェンター: DNAと海](https://www.ted.com/talks/craig_venter_on_dna_and_the_sea?language=ja) TEDGlobal 2005 · 16:51 · Filmed Feb 2005
+
+
+http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
+英語で読む「TED Talks」: Smelfie におい自撮り［Ani Liu］
+
+2017/02/27
+https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_biology?language=ja
+アニー・リュー: においの「自撮り」やその他の合成生物学的な実験 | TED Talk
+• 7:20
+
+
+----------
+
+https://adgang.jp/2014/10/77120.html
+オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
+
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
+11:40 PM - 15 Jul 2015
+
+
+https://twitter.com/endBooks/status/385905594026033153
+科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
+7:13 PM - 3 Oct 2013
+
+----------
+
 ## books
 
 http://www.nikkei-science.com/?tag=微生物学
 微生物学 | 日経サイエンス
 
+http://www.nikkei-science.com/201803_068.html
+バイオフィルムを退治する | 日経サイエンス
+
+http://www.nikkei-science.com/201605_072.html
+体を守る苦味受容体 | 日経サイエンス
+苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
+
+http://www.nikkei-science.com/?p=44051
+鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
+苦味受容体が細菌の侵入と闘っている
+
 ### 2018-12-14
 ![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
-
-![](https://www.msz.co.jp/_cover/front/08753_big.jpg)
 
 https://www.msz.co.jp/book/detail/08753.html
 ウイルスの意味論
@@ -420,7 +437,6 @@ https://www.msz.co.jp/book/detail/08753.html
 山内一也
 
 https://www.primate.or.jp/serialization/116%EF%BC%8E新刊書「ウイルスの意味論%E3%80%80―%E3%80%80生命の定義/
-
 
 ### 2018-08-31
 
@@ -1265,37 +1281,6 @@ http://www.afpbb.com/articles/-/3048200
 2013年10月21日
 http://www.natureasia.com/ja-jp/nmeth/pr-highlights/8845
 改良された微生物研究法
-
-----------
-## video
-http://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html
-日本語TED新着: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン
-
-### TED Talks
-
-
-http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
-英語で読む「TED Talks」: Smelfie におい自撮り［Ani Liu］
-
-2017/02/27
-https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_biology?language=ja
-アニー・リュー: においの「自撮り」やその他の合成生物学的な実験 | TED Talk
-• 7:20
-
-
-https://www.ted.com/talks/anne_madden_meet_the_microscopic_life_in_your_home_and_on_your_face?language=ja
-アン・マデン: 微生物の世界へようこそ ― 自宅にも、そしてあなたの顔にも | TED Talk
-• 10:07• April 2017 | TED2017
-
-- [ロブ・ナイト: 微生物がどのようにして私達を作っているのか](https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja) TED2014 · 17:24 · Filmed Feb 2014
-- [ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン](http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja) TED2013 · 8:43 · Filmed Feb 2013
-- [ジョナサン・アイゼン：微生物にこんにちは](https://www.ted.com/talks/jonathan_eisen_meet_your_microbes?language=ja) TEDMED 2012 · 14:23 · Filmed Apr 2012
-- [リチャード・レズニック「ゲノム革命の時代へようこそ」](https://www.ted.com/talks/richard_resnick_welcome_to_the_genomic_revolution?language=ja) TEDxBoston 2011 · 11:02 · Filmed Jul 2011
-- [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja) TEDGlobal 2011 · 5:25 · Filmed Jul 2011
-- [クレイグ・ベンター：「人工生命」について発表する](https://www.ted.com/talks/craig_venter_unveils_synthetic_life?language=ja) TED in the Field · 18:17 · Filmed May 2010
-- [バリー・シュラー: ゲノム学基礎講座](https://www.ted.com/talks/barry_schuler_genomics_101?language=ja) Taste3 2008 · 21:26 · Filmed Jun 2008
-- [クレイグ・ベンター：目前に迫る合成生命の創造](https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life?language=ja) TED2008 · 15:54 · Filmed Feb 2008
-- [クレイグ・ヴェンター: DNAと海](https://www.ted.com/talks/craig_venter_on_dna_and_the_sea?language=ja) TEDGlobal 2005 · 16:51 · Filmed Feb 2005
 
 ----------
 
