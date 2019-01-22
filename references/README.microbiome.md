@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-05-17
+Last Update: 2019-01-22
 
 
 ----------
@@ -8,6 +8,7 @@ Last Update: 2018-05-17
 **微生物群集**
 
 ## Table of Contents
+- [host](#host) 宿主
 - [featuring](#featuring)
 - [16S](#16s)
 - [amplicon-shotgun](#amplicon-shotgun)
@@ -17,7 +18,6 @@ Last Update: 2018-05-17
 - [Earth Microbiome Project](#emp)
 - [GWAS](#gwas)
 - [meta-analysis](#meta-analysis)
-- [ordination](#ordination) PCA PCoA MDS
 - [UniFrac](#unifrac)
 - [unclassified](#unclassified)
 
@@ -52,6 +52,50 @@ Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
 https://twitter.com/merenbey/status/999416078446071809
 A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
 6:25 PM - 23 May 2018
+
+----------
+## host
+宿主
+
+https://www.ncbi.nlm.nih.gov/pubmed/29629413
+mSystems. 2018 Mar 20;3(2). pii: e00174-17. doi: 10.1128/mSystems.00174-17. eCollection 2018 Mar-Apr.
+Role of the Gut Microbiome in Vertebrate Evolution.
+Sharpton TJ1,2.
+
+https://twitter.com/animalculum/status/946402176921980928
+Lukas VF Novak on Twitter: ""We compare microbiomes from human populations, placing them in the context of microbes from humanity’s near and distant animal relatives. We discuss potential mechanisms to generate host-specific microbiome configurations and the consequences of disrupting those configurations"… https://t.co/XAtRg1eMDk"
+10:27 AM - 28 Dec 2017
+
+https://www.ncbi.nlm.nih.gov/pubmed/29282061
+BMC Biol. 2017 Dec 27;15(1):127. doi: 10.1186/s12915-017-0454-7.
+The human microbiome in evolution.
+Davenport ER1, Sanders JG2, Song SJ2, Amato KR3, Clark AG1, Knight R4,5,6.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28770836
+Nature. 2017 Aug 2;548(7665):43-51. doi: 10.1038/nature23292.
+The evolution of the host microbiome as an ecosystem on a leash.
+Foster KR1, Schluter J2, Coyte KZ1,2,3, Rakoff-Nahoum S3.
+
+2017年8月
+http://www.nikkei-science.com/page/sci_book/bessatu/51221_prologue.html
+人と微生物の深くて長い関係 | 日経サイエンス
+
+「会話するバクテリア」で描かれているように，細菌もまた，代謝産物を使って他の細菌や宿主と頻繁に情報交換している。宿主との会話は往々にして「一方的」ではあるが，感染症の治療の標的として注目されている。
+　続く第2章「共生と進化」では，宿主と微生物の間の相互作用や，それによる進化の様子を紹介している。「細菌が操る性転換」は，昆虫に広く分布しその生殖に大きな影響を与えているボルバキア菌についての詳しい解説だ。
+「ウイルスは生きているのか」では，最近発見された巨大ウイルスの話題や，ウイルスが宿主の進化に貢献してきた可能性を紹介している。
+　「脳を操る寄生生物トキソプラズマ」は，単細胞の真核生物である原虫の一種，トキソプラズマの話である。トキソプラズマが発見されたのは100年以上昔のことであるが，宿主である動物に異常な行動を引き起こすことが報告されたのは比較的最近だ。
+
+2007 年
+https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_article/-char/ja/
+消化管共生微生物を介した動物の環境適応
+https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_pdf
+腸内微生物群集はどのように形作られるのだろうか？
+生まれる前の動物の消化管は通常無菌である（
+
+
+
+----------
+
 
 ----------
 ## amplicon-shotgun
@@ -437,27 +481,6 @@ Earth Microbiome Project Consortium.
 Thursday, 26 October 2017 10:16
 https://www.asm.org/index.php/podcasts/meet-the-microbiologist/item/6882-mtm-68
 Microbiomes everywhere with Jack Gilbert - MTM 68
-
-----------
-## ordination
- PCA PCoA MDS
-
-http://yokazaki.hatenablog.com/entry/2016/06/29/212153
-RによるNMDSを用いた微生物群集構造解析 - yokaのblog
-
-http://d.hatena.ne.jp/fronori/20140517
-MDSとその愉快な仲間たち - 統計で迷子になる方法
-
-PCoAは距離としてユークリッド距離を用いた場合は、主成分分析（PCA）と数学的に同等となる
-
-https://twitter.com/fronori/status/465902482246221824
-Tetsuo Ishikawa on Twitter: "微生物生態学でPCAではなくPCoAを使うのはなぜ？ https://t.co/EWaIp917ko この論文 http://t.co/4aTfUB8Ulr がオススメ。多変量解析の手法の比較や違いの説明が詳しい。テーブル１の生態学の中でも分野による違いも興味深い。"
-1:13 PM - 12 May 2014
-
-http://hoxo-m.hatenablog.com/entry/20120313/p1
-主座標分析について簡単に紹介するよ！ - ほくそ笑む
-
-主成分分析との違いを簡単に言うと、主成分分析はユークリッド距離をなるべく保ちながら低次元に落とす方法ですが、主座標分析はユークリッド距離だけでなく、他の距離や類似度*2が使えるという点にあります。
 
 ----------
 ## UniFrac
