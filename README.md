@@ -37,14 +37,37 @@ Last Update: 2018-11
 ## featuring
 
 
+https://togetter.com/li/1311731
+Y Tambe先生の「はしか」の話 - Togetter
+2019-01-21
+2019-01-23
+
+https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
+「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
+エリザベス・マーチソン：感染性のガンと闘う | TED Talk
+
+https://bookmeter.com/books/9768053
+消えるオス：昆虫の性をあやつる微生物の戦略 感想 陰山 大輔 - 読書メーター
+
+タスマニアデビルの伝染性腫瘍は人間の介入でなんとかならないものかと思う。
+
+
 https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
 特集1　カルタヘナ議定書にある「生物の多様性の保全及び持続可能な利用への影響」はどのように評価できるのか？
 細菌群集多様性の動態を生態系評価にいかにとりこむか
 横川 太一
 2016 年 66 巻 2 号 p. 301-308
 https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
-
-
 
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
@@ -57,6 +80,23 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2018
 
+
+https://gendai.ismedia.jp/articles/-/58804
+驚愕報告！インフルエンザウイルスを15秒で無力化する「紅茶」の力（鈴木 壯幸） | ブルーバックス | 講談社（1/4）
+
+https://twitter.com/minesoh/status/1088185823340777472
+峰　宗太郎 on Twitter: "紅茶でインフルが防げるという情報が出回っています👶ブログに書いてみました「紅茶でインフルエンザの感染や感染拡大を防げるとのプロモーションについて」https://t.co/xiN6j1QMB5"
+4:24 PM - 23 Jan 2019
+
+ぱそろじすと・あっと・ざ・らぼ: 
+
+2019年1月24日
+https://www.minesot.com/2019/01/blog-post_24.html
+紅茶でインフルエンザの感染や感染拡大を防げるとのプロモーションについて
+
+2018年12月31日
+https://www.minesot.com/2018/12/blog-post_31.html
+空間除菌・環境除菌などをうたう製品について
 
 https://twitter.com/minesoh/status/1079200527412613125
 峰　宗太郎 on Twitter: "二酸化塩素によるいわゆる「空間除菌」はウイルスの抑制効果は実質的にはほぼ意味のないレベルであり、むしろ二酸化塩素の害を考える必要があります👶 置型には以前、消費者庁から優良誤認表示への措置命令も出ています。 　参考：https://t.co/ibKMnDCsFB 　　　　https://t.co/OPdCkIq2Ge… https://t.co/EKuChmn1sE"
