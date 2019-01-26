@@ -6,8 +6,73 @@
 ## Table of Contents
 - [featuring](#featuring)
 - [updates](#updates)
+- [iss](#iss)
 - [japan](#japan)
 - [school](#school)
+
+----------
+## featuring
+
+----------
+## iss
+International Space Station (ISS)
+
+https://www.microbe.net/tag/iss/
+ISS – microBEnet: the microbiology of the Built Environment network
+
+Bacillus cereus and Staphylococcus aureus
+https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
+https://www.ncbi.nlm.nih.gov/pubmed/30637341
+mSystems. 2019 Jan 8;4(1). pii: e00281-18. doi: 10.1128/mSystems.00281-18. eCollection 2019 Jan-Feb.
+Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
+Blaustein RA1, McFarland AG1, Ben Maamar S1, Lopez A2, Castro-Wallace S3, Hartmann EM1.
+
+二次代謝産物
+https://www.ncbi.nlm.nih.gov/pubmed/30539259
+Appl Microbiol Biotechnol. 2018 Dec 12. doi: 10.1007/s00253-018-9525-0. [Epub ahead of print]
+International Space Station conditions alter genomics, proteomics, and metabolomics in Aspergillus nidulans.
+Romsdahl J1, Blachowicz A1,2, Chiang AJ3, Chiang YM1, Masonjones S4, Yaegashi J1, Countryman S5, Karouia F6,7, Kalkum M3, Stajich JE4, Venkateswaran K2, Wang CCC8,9.
+
+エンテロバクター属
+https://gigazine.net/news/20181129-antibiotic-resistant-bacteria-iss/
+抗生物質に耐性を持つ細菌が国際宇宙ステーションから発見される - GIGAZINE
+http://karapaia.com/archives/52267978.html
+国際宇宙ステーションで潜在的に危険な細菌が発見される : カラパイア
+https://www.ncbi.nlm.nih.gov/pubmed/30466389
+BMC Microbiol. 2018 Nov 23;18(1):175. doi: 10.1186/s12866-018-1325-2.
+Multi-drug resistant Enterobacter bugandensis species isolated from the International Space Station and comparative genomic analyses with human pathogenic strains.
+Singh NK1, Bezdan D2, Checinska Sielaff A1,3, Wheeler K4, Mason CE2,5,6, Venkateswaran K7.
+https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-018-1325-2
+Daniela Bezdan†, 
+Christopher E. Mason
+
+https://www.ncbi.nlm.nih.gov/pubmed/29492330
+PeerJ. 2017 Dec 5;5:e4029. doi: 10.7717/peerj.4029. eCollection 2017.
+A microbial survey of the International Space Station (ISS).
+Lang JM1, Coil DA1, Neches RY1, Brown WE2,3, Cavalier D2,4,5, Severance M2,5, Hampton-Marcell JT6,7, Gilbert JA8,9, Eisen JA1,10,11.
+
+04 MAY 2016
+http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
+Extreme Built Environments
+The International Space Station
+
+http://iss.jaxa.jp/kiboexp/field/scientific/
+科学利用:「きぼう」での実験 - 宇宙ステーション・きぼう広報・情報センター - JAXA
+
+宇宙居住の安全・安心を保証する「きぼう」船内における微生物モニタリング
+【平成24年度「きぼう」利用テーマ募集　一般区分】	那須正夫
+【大阪大学大学院】	解析中
+
+特殊な環境に生きる微生物のヒミツを探る
+国際宇宙ステーション内における微生物動態に関する研究
+【第2期利用前半】	槇村浩一
+【帝京大学】
+那須正夫
+【大阪大学】	完了
+http://iss.jaxa.jp/kiboexp/theme/second/microbe/
+カビやバクテリアは宇宙でどうなるの？
+きぼう船内の微生物叢（そう）※を解明せよ。
+「国際宇宙ステーション内における微生物動態に関する研究」
 
 ----------
 ## Hong Kong subway system
@@ -49,9 +114,10 @@ Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbre
 ![](https://pbs.twimg.com/media/DlIaeJdXsAERebp.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/30127345
-Nat Rev Microbiol. 2018 Aug 20. doi: 10.1038/s41579-018-0065-5. [Epub ahead of print]
+Nat Rev Microbiol. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
 Microbiology of the built environment.
 Gilbert JA1,2, Stephens B3.
+
 
 https://twitter.com/NatureBiotech/status/864838380353449984
 Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
@@ -113,16 +179,6 @@ https://www.ncbi.nlm.nih.gov/books/NBK458828/
 http://hospitalmicrobiome.com
 Hospital Microbiome Project
 
-http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
-Extreme Built Environments
-
-https://www.authorea.com/users/5064/articles/80539-a-microbial-survey-of-the-most-extreme-built-environment-the-international-space-station-iss/_show_article
-A microbial survey of the most extreme built environment: the International Space Station (ISS) - Authorea
-
-https://www.microbe.net/tag/iss/
-https://peerj.com/articles/4029/
-A microbial survey of the International Space Station (ISS) [PeerJ]
-
 https://www.biomedcentral.com/collections/builtenvironment
 Microbiology of the Built Environment
 
@@ -162,6 +218,12 @@ MoBE YouTube videos: checkout the MoBE talks and panel discussions.
 
 https://www.youtube.com/watch?v=cCkRLJ1z_HE
 Ed Yong MoBE Keynote - YouTube
+
+## 2016
+
+https://twitter.com/roxana_hickey/status/779008466484473856
+Roxana Hickey on Twitter: "My #LAMG16 talk "Microbial interactions between humans and built environment" is available on @SlideShare: https://t.co/8YT1fKJ3bV"
+1:24 PM - 22 Sep 2016
 
 ## 2015
 
