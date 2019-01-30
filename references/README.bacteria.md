@@ -24,6 +24,7 @@ Last Update: 2019-01
   - Br-6
   - DLD
   - Bromate Reduction
+- [Shewanella](#shewanella)
 - [Sinorhizobium](#sinorhizobium)
   - KGO-5
 - [Rickettsiales](#rickettsiales)
@@ -1234,6 +1235,51 @@ Biological Bromate Reduction Driven by Methane in a Membrane Biofilm Reactor - E
 Environ. Sci. Technol. Lett., 2017, 4 (12), pp 562–566
 
 ----------
+### Shewanella
+
+https://ja.wikipedia.org/wiki/シェワネラ属
+
+2018/11/29
+https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
+Shewanella: Bacteria to Power Future Space Mission | Vision Biotech
+
+Aug. 6, 2018
+https://www.nasa.gov/mission_pages/station/research/news/shewanella_microgravity
+Getting More Out of Microbes: Studying Shewanella in Microgravity | NASA
+
+July 18, 2018
+https://www.space.com/41193-electricity-producing-bacteria-international-space-station.html
+How 'Electric Microbes' Could Generate Power (And More) for Space Missions (Video)
+
+2018.07.03
+https://www.discoverychannel.jp/0000027328/
+ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – Discovery Channel Japan | ディスカバリーチャンネル
+
+今回運ばれる研究資材の中には「Micro-12」というものがある。これは、「エクソ電子発生微生物」（exoelectrogenic microbe）であるシュワネラ属の「Shewanella oneidensis MR-1」の成長や遺伝子発現に微重力がどのような影響を与えるかを調べるものだ。
+
+このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
+
+JUL 01, 2018
+https://www.labroots.com/trending/microbiology/11945/-26
+Using Bacteria to Help Power Space Missions | Microbiology
+
+https://www.ncbi.nlm.nih.gov/pubmed/24621294
+BMC Syst Biol. 2014 Mar 12;8:31. doi: 10.1186/1752-0509-8-31.
+Comparisons of Shewanella strains based on genome annotations, modeling, and experiments.
+Ong WK, Vu TT, Lovendahl KN, Llull JM, Serres MH, Romine MF, Reed JL1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21642407
+Appl Environ Microbiol. 2011 Aug;77(15):5352-60. doi: 10.1128/AEM.00097-11. Epub 2011 Jun 3.
+Large-scale comparative phenotypic and genomic analyses reveal ecological preferences of shewanella species and identify metabolic pathways conserved at the genus level.
+Rodrigues JL1, Serres MH, Tiedje JM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21810205
+BMC Genomics. 2011 Jun 15;12 Suppl 1:S3. doi: 10.1186/1471-2164-12-S1-S3.
+Comparative genomic reconstruction of transcriptional networks controlling central metabolism in the Shewanella genus.
+Rodionov DA1, Novichkov PS, Stavrovskaya ED, Rodionova IA, Li X, Kazanov MD, Ravcheev DA, Gerasimova AV, Kazakov AE, Kovaleva GY, Permina EA, Laikova ON, Overbeek R, Romine MF, Fredrickson JK, Arkin AP, Dubchak I, Osterman AL, Gelfand MS.
+
+
+----------
 ## Sinorhizobium
 Sinorhizobium (renamed Ensifer)
 
@@ -1461,7 +1507,7 @@ Sinorhizobium sp. DAO10 16S ribosomal RNA gene, partial sequence
 
 https://core.ac.uk/download/pdf/96948362.pdf
 博士論文土壌環境における亜ヒ酸の挙動に及ぼす細菌群集の影響
-2-6-1 供試菌株供試菌株として Alphaproteobacteria 綱に属する亜ヒ酸酸化細菌 Shinorhizobium sp. KGO-5 (Dong et al., 2014)を用いた。KGO-5 株は本研究室にお いて高度ヒ素汚染土壌から単離された通性独立栄養性の亜ヒ酸酸化細菌である。2-6-2 KGO-5 株の培養及び菌体懸濁液の調製
+2-6-1 供試菌株供試菌株として Alphaproteobacteria 綱に属する亜ヒ酸酸化細菌 Shinorhizobium sp. KGO-5 (Dong et al., 2014)を用いた。KGO-5 株は本研究室にお いて高度ヒ素汚染土壌から単離された通性独立栄養性の亜ヒ酸酸化細菌である。2-6-2 KGO-5 株の培養及び菌体懸濁液の調製
 ----------
 
 ## Rickettsiales
