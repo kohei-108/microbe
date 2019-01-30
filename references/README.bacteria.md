@@ -1238,6 +1238,7 @@ Environ. Sci. Technol. Lett., 2017, 4 (12), pp 562–566
 ### Shewanella
 
 https://ja.wikipedia.org/wiki/シェワネラ属
+、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
 
 2018/11/29
 https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
