@@ -1264,6 +1264,31 @@ JUL 01, 2018
 https://www.labroots.com/trending/microbiology/11945/-26
 Using Bacteria to Help Power Space Missions | Microbiology
 
+https://www.ncbi.nlm.nih.gov/pubmed/30026808
+Biotechnol Biofuels. 2018 Jul 17;11:193. doi: 10.1186/s13068-018-1201-1. eCollection 2018.
+Pan-genome analyses of 24 Shewanella strains re-emphasize the diversification of their functions yet evolutionary dynamics of metal-reducing pathway.
+Zhong C1, Han M1, Yu S1, Yang P1, Li H1, Ning K1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29504926
+Int J Syst Evol Microbiol. 2018 Apr;68(4):1356-1360. doi: 10.1099/ijsem.0.002678. Epub 2018 Mar 5.
+Whole-genome sequencing reveals that Shewanella haliotis Kim et al. 2007 can be considered a later heterotypic synonym of Shewanella algae Simidu et al. 1990.
+Szeinbaum N1, Kellum CE2, Glass JB2, Janda JM3, DiChristina TJ1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29994366
+IEEE/ACM Trans Comput Biol Bioinform. 2018 Feb 9. doi: 10.1109/TCBB.2018.2804393. [Epub ahead of print]
+A Comparative Study of Network Motifs in the Integrated Transcriptional Regulation and Protein Interaction Networks of Shewanella.
+Ding D, Sun X.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28382331
+mSystems. 2017 Mar 28;2(2). pii: e00165-16. doi: 10.1128/mSystems.00165-16. eCollection 2017 Mar-Apr.
+A Genome-Scale Model of Shewanella piezotolerans Simulates Mechanisms of Metabolic Diversity and Energy Conservation.
+Dufault-Thompson K1, Jian H2, Cheng R2, Li J2, Wang F2, Zhang Y3.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25233219
+PLoS Comput Biol. 2014 Sep 18;10(9):e1003848. doi: 10.1371/journal.pcbi.1003848. eCollection 2014 Sep.
+Genome-scale metabolic network validation of Shewanella oneidensis using transposon insertion frequency analysis.
+Yang H1, Krumholz EW2, Brutinel ED3, Palani NP2, Sadowsky MJ4, Odlyzko AM5, Gralnick JA3, Libourel IG1.
+
 https://www.ncbi.nlm.nih.gov/pubmed/24621294
 BMC Syst Biol. 2014 Mar 12;8:31. doi: 10.1186/1752-0509-8-31.
 Comparisons of Shewanella strains based on genome annotations, modeling, and experiments.
