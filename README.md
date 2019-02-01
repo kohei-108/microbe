@@ -78,8 +78,33 @@ An equation‐free method reveals the ecological interaction networks within com
 https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
+## 2019
+
+2019.01.28 MON 08:30
+https://wired.jp/2019/01/28/we-can-avoid-deadly-flu-season/
+インフルエンザの感染拡大を止めるために、わたしたちができること｜WIRED.jp
+
+2019.01.15 TUE 09:00
+https://wired.jp/2019/01/15/universal-flu-vaccine-berg/
+あらゆるインフルエンザに効く「万能ワクチン」が、ついに誕生する？｜WIRED.jp
+
+https://twitter.com/LuckyStrike1984/status/1080952658318557184
+Nakano, R.T. (PhD) on Twitter: "片瀬さんとの一連のことに関してshanghai_iiさんからご質問を頂いていたのでそのお返事を記事にまとめました。そのなかで、今回の一連の中で僕が言いたかったことをしっかりと字数を使って説明しましたのでもし興味のある奇特な皆様がいらっしゃいましたらご覧ください。… https://t.co/qh3wnNmJwU"
+5:22 PM - 3 Jan 2019
+
+https://note.mu/rt_nakano/n/n213cf290635e
+@shanghai_ii さんから頂いた一連のtweetsへのお返事｜Ryohei Thomas Nakano｜note
+
+「微生物の機能を考えるにあたり16S rRNAはあてにならない」
+
+単一ゲノム内のマルチコピーの存在や遺伝子の水平伝搬 (horizontal gene transfer) などの問題もよく知られておりおり、たとえば16S rRNAで割り当てられた分類群が、全ゲノム配列をもとに割り当てられる分類群と違っていたということがあったりもします。そのため現在では16S rRNA配列による細菌分類は便利ではあるものの正確性に欠くことが広く知られ、より厳密な手法として「シングルコピーで、垂直にのみ遺伝する複数のハウスキーピング遺伝子の連結配列」をもとに分類していく手法（AMPHORA）などが提唱されています。
+
+
 ## 2018
 
+2019年01月26日
+https://www.gohongi-beauty.jp/blog/27945/
+紅茶でインフルエンザ対策？？？ヒトを対象にした研究結果が怪しすぎる！！ | 五本木クリニック | 院長ブログ
 
 https://gendai.ismedia.jp/articles/-/58804
 驚愕報告！インフルエンザウイルスを15秒で無力化する「紅茶」の力（鈴木 壯幸） | ブルーバックス | 講談社（1/4）
@@ -101,6 +126,19 @@ https://www.minesot.com/2018/12/blog-post_31.html
 https://twitter.com/minesoh/status/1079200527412613125
 峰　宗太郎 on Twitter: "二酸化塩素によるいわゆる「空間除菌」はウイルスの抑制効果は実質的にはほぼ意味のないレベルであり、むしろ二酸化塩素の害を考える必要があります👶 置型には以前、消費者庁から優良誤認表示への措置命令も出ています。 　参考：https://t.co/ibKMnDCsFB 　　　　https://t.co/OPdCkIq2Ge… https://t.co/EKuChmn1sE"
 9:20 PM - 29 Dec 2018
+
+2014/3/27
+https://www.nikkei.com/article/DGXNASDG27056_X20C14A3CR8000/
+「空間除菌」根拠なし　消費者庁、17社に措置命令
+
+### 2018-12
+
+2018-12-30
+https://gendai.ismedia.jp/articles/-/59091
+洗剤のサイズを10分の1にした男の「波瀾万丈な研究生活」がすごい（伊藤 政博） | ブルーバックス | 講談社（1/4）
+ビール、ワイン、日本酒、納豆、チーズ……みな微生物の恩恵でできているものだ。だが、微生物が生産した「酵素」が活躍している場所は、もっともっと広い。
+https://gendai.ismedia.jp/articles/-/59091?page=3
+「好アルカリ性細菌」
 
 
 https://twitter.com/LuckyStrike1984/status/1076593005749067776
