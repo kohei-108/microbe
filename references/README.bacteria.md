@@ -1570,6 +1570,19 @@ https://ja.wikipedia.org/wiki/ボルバキア
 
 https://kotobank.jp/word/ボルバキア-669591
 
+https://twitter.com/WolbachiaProj
+WolbachiaProject
+
+https://twitter.com/Symbionticism
+Seth Bordenstein
+
+https://twitter.com/chicaScientific
+Irene Newton
+
+2019
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
+Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
+
 Nov 29, 2017
 https://www.youtube.com/watch?v=S2tND3OmwzY
 Mosquitoes Might SAVE Lives, Thanks To Bacteria | I Contain Multitudes - YouTube
