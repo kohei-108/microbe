@@ -1236,17 +1236,28 @@ Environ. Sci. Technol. Lett., 2017, 4 (12), pp 562–566
 https://ja.wikipedia.org/wiki/シェワネラ属
 、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
 
-2018/11/29
-https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
-Shewanella: Bacteria to Power Future Space Mission | Vision Biotech
+https://www.ncbi.nlm.nih.gov/genome/?term=Shewanella+oneidensis
+Publications
+
+https://www.nasa.gov/mission_pages/station/research/experiments/2541.html
+NASA - Investigating the Physiology and Fitness of an Exoelectrogenic Organism Under Microgravity Conditions (Micro-12) - 09.26.18
+The three specific aims of this project include:
 
 Aug. 6, 2018
 https://www.nasa.gov/mission_pages/station/research/news/shewanella_microgravity
 Getting More Out of Microbes: Studying Shewanella in Microgravity | NASA
 
+2018/11/29
+https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
+Shewanella: Bacteria to Power Future Space Mission | Vision Biotech
+
 July 18, 2018
 https://www.space.com/41193-electricity-producing-bacteria-international-space-station.html
 How 'Electric Microbes' Could Generate Power (And More) for Space Missions (Video)
+
+JUL 01, 2018
+https://www.labroots.com/trending/microbiology/11945/-26
+Using Bacteria to Help Power Space Missions | Microbiology
 
 2018.07.03
 https://www.discoverychannel.jp/0000027328/
@@ -1255,10 +1266,6 @@ ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – 
 今回運ばれる研究資材の中には「Micro-12」というものがある。これは、「エクソ電子発生微生物」（exoelectrogenic microbe）であるシュワネラ属の「Shewanella oneidensis MR-1」の成長や遺伝子発現に微重力がどのような影響を与えるかを調べるものだ。
 
 このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
-
-JUL 01, 2018
-https://www.labroots.com/trending/microbiology/11945/-26
-Using Bacteria to Help Power Space Missions | Microbiology
 
 https://www.ncbi.nlm.nih.gov/pubmed/30026808
 Biotechnol Biofuels. 2018 Jul 17;11:193. doi: 10.1186/s13068-018-1201-1. eCollection 2018.
