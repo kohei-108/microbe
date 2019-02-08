@@ -599,10 +599,6 @@ BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
 Comparative genomics of Geobacter chemotaxis genes reveals diverse signaling function.
 Tran HT1, Krushkal J, Antommattei FM, Lovley DR, Weis RM.
 
-2016-2017
-http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
-主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
-
 https://mainichi.jp/articles/20160604/ddl/k22/040/140000c
 微生物発電：１００倍超に　二又・静岡大教授が効率化物質を発見　／静岡 - 毎日新聞
 
@@ -1304,6 +1300,33 @@ BMC Genomics. 2011 Jun 15;12 Suppl 1:S3. doi: 10.1186/1471-2164-12-S1-S3.
 Comparative genomic reconstruction of transcriptional networks controlling central metabolism in the Shewanella genus.
 Rodionov DA1, Novichkov PS, Stavrovskaya ED, Rodionova IA, Li X, Kazanov MD, Ravcheev DA, Gerasimova AV, Kazakov AE, Kovaleva GY, Permina EA, Laikova ON, Overbeek R, Romine MF, Fredrickson JK, Arkin AP, Dubchak I, Osterman AL, Gelfand MS.
 
+http://kazumaxneo.hatenablog.com/entry/2018/08/05/203339
+32のバクテリアの１万以上の機能未知遺伝子欠損の影響をまとめた Fitness Browser - macでインフォマティクス
+
+登録されているバクテリア:　30種以上のデータが利用可能（Organisms）。
+```
+Organism	Division	Experiments	# Carbon Sources	# Nitrogen Sources	# Stress Compounds	# Other Conditions	Updated Annotations
+Shewanella oneidensis MR-1	Gammaproteobacteria	176	16	17	42	15	40
+```
+
+http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
+電流生成の分子メカニズムの解明
+我々は、ゲノム解読が完了し、遺伝子組換えが可能なモデル電流生成菌Shewanella　oneidensis MR-1株（シュワネラ、右の写真）を用いて、電極呼吸のメカニズムを解明するための研究を行っています（Newton et al. 2009. Appl. Environ. Microbiol. 75:7674; Kouzuma et al. 2010. Appl. Environ. Microbiol. 76:4151-4157）。 この菌は、細胞外に導電性ナノワイヤー（ナノスケールの電線）を作り、それを使って電極に電子を流すとも考えられています（Gorby et al. 2006. Proc. Nat. Acad. Sci. USA 103:11358）。
+
+2016-2017
+http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
+主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
+
+2011
+https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
+鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
+先駆的な研究がなされてきた。
+図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
+
+2009
+https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
+異化的金属還元細菌（dissimilatory
+metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
 
 ----------
 ## Sinorhizobium
