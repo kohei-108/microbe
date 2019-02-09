@@ -1613,9 +1613,12 @@ Irene Newton
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
 Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
 
+動画
 Nov 29, 2017
 https://www.youtube.com/watch?v=S2tND3OmwzY
 Mosquitoes Might SAVE Lives, Thanks To Bacteria | I Contain Multitudes - YouTube
+http://www.kashiwashobo.co.jp/book/b286870.html
+世界は細菌にあふれ、人は細菌によって生かされる
 
 2017年3月9日 
 https://www.natureasia.com/ja-jp/nature/highlights/83856
