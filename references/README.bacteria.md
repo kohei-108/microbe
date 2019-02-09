@@ -1631,7 +1631,9 @@ https://www.natureasia.com/ja-jp/ncomms/pr-highlights/11040
 2015年9月
 http://www.nikkei-science.com/201509_046.html
 デング熱ストッパー | 日経サイエンス　
-自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。　
+自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。
+
+![](http://www.nikkei-science.com/wp-content/uploads/2015/07/97dcb51ba1ce46920d90238bf2990859.jpg)
 
 2014 陰山大輔
 https://www.jstage.jst.go.jp/article/konchubiotec/83/3/83_3_243/_pdf
@@ -1639,6 +1641,9 @@ https://www.jstage.jst.go.jp/article/konchubiotec/83/3/83_3_243/_pdf
 
 http://www.aist.go.jp/aist_j/press_release/pr2014/pr20140701/pr20140701.html
 産総研：トコジラミの生存を支える共生細菌ボルバキアのビタミンB7合成能力
+
+![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig1.jpg)
+![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig2.jpg)
 
 http://www.nikkei-science.com/page/magazine/1006/201006_062.html
 細菌によって変わる虫たち
