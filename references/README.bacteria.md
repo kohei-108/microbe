@@ -1603,6 +1603,8 @@ https://kotobank.jp/word/ボルバキア-669591
 https://twitter.com/WolbachiaProj
 WolbachiaProject
 
+![](https://pbs.twimg.com/profile_images/993264779862204424/5kIwxeRL_bigger.jpg)
+
 https://twitter.com/Symbionticism
 Seth Bordenstein
 
