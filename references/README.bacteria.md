@@ -1596,20 +1596,18 @@ Ogata H1, La Scola B, Audic S, Renesto P, Blanc G, Robert C, Fournier PE, Claver
 
 ----------
 ## Wolbachia
-https://ja.wikipedia.org/wiki/ボルバキア
-
-https://kotobank.jp/word/ボルバキア-669591
-
-https://twitter.com/WolbachiaProj
+- https://ja.wikipedia.org/wiki/ボルバキア
+- https://kotobank.jp/word/ボルバキア-669591
+- https://sites.google.com/site/kageyama000jp/
+陰山大輔
+- https://twitter.com/Symbionticism
+Seth Bordenstein
+- https://twitter.com/chicaScientific
+Irene Newton
+- https://twitter.com/WolbachiaProj
 WolbachiaProject
 
 ![](https://pbs.twimg.com/profile_images/993264779862204424/5kIwxeRL_bigger.jpg)
-
-https://twitter.com/Symbionticism
-Seth Bordenstein
-
-https://twitter.com/chicaScientific
-Irene Newton
 
 2019
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
