@@ -1596,8 +1596,6 @@ Ogata H1, La Scola B, Audic S, Renesto P, Blanc G, Robert C, Fournier PE, Claver
 
 ----------
 ## Wolbachia
-- https://ja.wikipedia.org/wiki/ボルバキア
-- https://kotobank.jp/word/ボルバキア-669591
 - https://sites.google.com/site/kageyama000jp/
 陰山大輔
 - https://twitter.com/Symbionticism
@@ -1608,6 +1606,12 @@ Irene Newton
 WolbachiaProject
 
 ![](https://pbs.twimg.com/profile_images/993264779862204424/5kIwxeRL_bigger.jpg)
+
+https://ja.wikipedia.org/wiki/ボルバキア
+
+https://kotobank.jp/word/ボルバキア-669591
+昆虫類、クモ・ダニ類、フィラリア線虫などの細胞内に寄生する共生細菌。宿主の卵細胞の細胞質を通じて母性遺伝する。
+[補説]ボルバキアは宿主の生殖を操作することが知られている。感染したメスが単為生殖を行う、感染したオスと感染していないメスが交配すると受精卵が発育しない、感染したオスの個体がメス化する、感染したオスだけが死亡する、などの生殖異常を引き起こして感染したメスを増加させる。
 
 2019
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
