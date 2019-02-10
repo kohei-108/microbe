@@ -80,13 +80,16 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2019
 
-2019.01.28 MON 08:30
-https://wired.jp/2019/01/28/we-can-avoid-deadly-flu-season/
-インフルエンザの感染拡大を止めるために、わたしたちができること｜WIRED.jp
+1:36 PM - 2 Feb 2019
+https://twitter.com/KeikoUTorii/status/1091767336523026437
+ワクチンの効果は100%ではない。そこで重要になるのは「集団免疫Herd immunity」。皆でワクチン接種することにより、ワクチンが効かなかった人や、ワクチンを接種できない妊婦•赤ちゃん•免疫機能の弱い人たちも感染症から守ることができる。では、どれくらいのワクチン接種率が必要か。1/3
 
-2019.01.15 TUE 09:00
-https://wired.jp/2019/01/15/universal-flu-vaccine-berg/
-あらゆるインフルエンザに効く「万能ワクチン」が、ついに誕生する？｜WIRED.jp
+感染力の強いウイルス病ほど、対抗するためには高い接種率が必要。麻疹では90%,　風疹は80%強。「自分は体力があるから風疹もインフルエンザも大丈夫」と思っているそこのあなた。他の誰かがワクチン接種をしたから、あなたや、あなたの大切な人の命が守られていることを忘れずに。2/3
+
+Herd immunityの解説サイト（英語ですが、図が分かりやすい）3/3
+
+![](https://www-tc.pbs.org/wgbh/nova/media/images/herd-immunity-01.width-2500.jpg)
+
 
 https://twitter.com/LuckyStrike1984/status/1080952658318557184
 Nakano, R.T. (PhD) on Twitter: "片瀬さんとの一連のことに関してshanghai_iiさんからご質問を頂いていたのでそのお返事を記事にまとめました。そのなかで、今回の一連の中で僕が言いたかったことをしっかりと字数を使って説明しましたのでもし興味のある奇特な皆様がいらっしゃいましたらご覧ください。… https://t.co/qh3wnNmJwU"
@@ -1119,20 +1122,6 @@ http://pediatrics.aappublications.org/content/142/1/e20180119 …Translate Tweet
 
 ![](https://pbs.twimg.com/media/Dhz5eC6VAAA-Tve.jpg:small)
 
-a cool map of AMRs in current cities and some public usage data:
-https://resistancemap.cddep.org/
-
-Also here is another great map from John Brownstein’s lab:
-https://resistanceopen.org/
-
-https://omictools.com/drug-resistance-category
-Drug resistance prediction bioinformatics tools | Drug design analysis - OMICtools
-
-https://www.ncbi.nlm.nih.gov/pubmed/30381421
-J Clin Microbiol. 2018 Oct 31. pii: JCM.01405-18. doi: 10.1128/JCM.01405-18. [Epub ahead of print]
-Genome-based prediction of bacterial antibiotic resistance.
-Su M1,2,3, Satola SW1,3,4, Read TD1,3,4.
-
 https://twitter.com/harvardmed/status/999378197966880768
 Harvard Medical School on Twitter: "A new study suggests that global warming may be accelerating the transmission of antibiotic-resistant organisms from one host to another (via @UPI) https://t.co/tkNanT2kgK"
 3:55 PM - 23 May 2018
@@ -1210,31 +1199,6 @@ McArthur AG1, Wright GD2.
 
 
 Resistance
-
-https://www.pediatricsurgery.site/entry/2018/11/05/142545
-Rで細菌に有効な抗菌薬を探せるようにSanfordの表からデータを整形する - Note of Pediatric Surgery
-
-https://www.ncbi.nlm.nih.gov/pubmed/30333483
-Nat Commun. 2018 Oct 17;9(1):4306. doi: 10.1038/s41467-018-06634-y.
-Machine learning and structural analysis of Mycobacterium tuberculosis pan-genome identifies genetic signatures of antibiotic resistance.
-Kavvas ES1, Catoiu E1, Mih N1,2, Yurkovich JT1,2, Seif Y1, Dillon N3,4, Heckmann D1, Anand A1, Yang L1, Nizet V3,4, Monk JM5, Palsson BO6,7,8.
-
-https://www.ncbi.nlm.nih.gov/pubmed/30332990
-BMC Bioinformatics. 2018 Oct 17;19(1):383. doi: 10.1186/s12859-018-2403-z.
-Predicting bacterial resistance from whole-genome sequences using k-mers and stability selection.
-Mahé P1, Tournoud M2.
-
-http://kazumaxneo.hatenablog.com/entry/2018/07/19/142001
-メタゲノムから抗生物質耐性情報を検出する NastyBugs - macでインフォマティクス
-
-https://f1000research.com/articles/6-1971/v1
-NastyBugs: A simple method for extracting antimicrobial resistance information from metagenomes - F1000Research
-
-http://kazumaxneo.hatenablog.com/entry/2018/07/03/094105
-点変異も考慮して抗生物質耐性遺伝子を検出する PointFinder - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2018/07/03/113439
-抗生物質耐性遺伝子や病原性遺伝子を素早く検索できる ABRicate - macでインフォマティクス
 
 https://www.ncbi.nlm.nih.gov/pubmed/28232822
 Front Microbiol. 2017 Feb 9;8:182. doi: 10.3389/fmicb.2017.00182. eCollection 2017.
