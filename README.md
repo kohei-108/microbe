@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-11
+Last Update: 2019-02-11
 
 ----------
 
@@ -36,6 +36,9 @@ Last Update: 2018-11
 ----------
 ## featuring
 
+掲載日：2018年3月23日
+http://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
+ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
 
 https://togetter.com/li/1311731
 Y Tambe先生の「はしか」の話 - Togetter
