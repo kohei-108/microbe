@@ -277,6 +277,10 @@ http://aasj.jp/news/watch/2102
 ## school
 ## university
 
+https://www.ncbi.nlm.nih.gov/pubmed/29238327
+Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
+Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
+Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/
 In university classrooms, domiciles, offices, health care facilities and other buildings, the concentration of microorganisms increased during the occupied periods and declined during vacant periods (Stryjakowska-Sekulska et al., 2007; Qian et al., 2012; Park et al., 2013; Hospodsky et al., 2015).
 
@@ -309,7 +313,6 @@ All air samples were collected from a single location in the middle of the Unive
 
 http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
 Stryjakowska-Sekulska M., Piotraszewska-Pająk A., Szyszka A., Nowicki M., Filipiak M. (2007). Microbiological quality of indoor air in university rooms. Polish J. Environ. Stud. 16, 623–632.
-
 
 
 https://collegestats.org/explore/bacteria-on-campus/
