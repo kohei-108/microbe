@@ -205,6 +205,11 @@ Guest Post: Metadata for the Built Environment – MIxS-BE package
 
 ## 2017
 
+https://www.ncbi.nlm.nih.gov/pubmed/29238327
+Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
+Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
+Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
+
 ### MoBE 2017
 
 https://www.microbe.net/event/mobe-2017-symposium-maryland/
@@ -271,6 +276,41 @@ http://aasj.jp/news/watch/2102
 
 ## school
 ## university
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/
+In university classrooms, domiciles, offices, health care facilities and other buildings, the concentration of microorganisms increased during the occupied periods and declined during vacant periods (Stryjakowska-Sekulska et al., 2007; Qian et al., 2012; Park et al., 2013; Hospodsky et al., 2015).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5712571/table/T1/?report=objectonly
+Table 1
+Changes in microbial community composition, and the typical sources that influence these changes, from a temporal and seasonal perspective.
+
+```
+Area (detail)	References
+
+University libraries	Stryjakowska-Sekulska et al., 2007
+
+Classroom (The schools were in five cities in four countries, from three continents.)	Hospodsky et al., 2015
+
+City (Building, paved lots, and grass field in University of Colorado campus, Boulder, USA)	Fierer et al., 2008
+```
+
+https://www.ncbi.nlm.nih.gov/pubmed/25403276
+Indoor Air. 2015 Dec;25(6):641-52. doi: 10.1111/ina.12172. Epub 2014 Dec 6.
+Characterizing airborne fungal and bacterial concentrations and emission rates in six occupied children's classrooms.
+Hospodsky D1, Yamamoto N1,2, Nazaroff WW3, Miller D1, Gorthala S1, Peccia J1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17981945
+Appl Environ Microbiol. 2008 Jan;74(1):200-7. Epub 2007 Nov 2.
+Short-term temporal variability in airborne bacterial and fungal populations.
+Fierer N1, Liu Z, Rodríguez-Hernández M, Knight R, Henn M, Hernandez MT.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223228/
+Sample collection.
+All air samples were collected from a single location in the middle of the University of Colorado campus in Boulder, CO (1660 meters above sea level, 40.01°N, 105.27°W). 
+
+http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
+Stryjakowska-Sekulska M., Piotraszewska-Pająk A., Szyszka A., Nowicki M., Filipiak M. (2007). Microbiological quality of indoor air in university rooms. Polish J. Environ. Stud. 16, 623–632.
+
+
 
 https://collegestats.org/explore/bacteria-on-campus/
 
