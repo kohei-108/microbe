@@ -1,7 +1,6 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
 Last Update: 2019-01-22
 
-
 ----------
 
 # microbiome
@@ -27,11 +26,15 @@ https://github.com/haruosuz/metasub
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市の微生物群集
 
+
+
+----------
+## featuring
+
 ----------
 ## Updates
-----------
 
-### 2018-09
+### 2018
 
 https://www.ncbi.nlm.nih.gov/pubmed/29950328
 J Clin Microbiol. 2018 Aug 27;56(9). pii: e00813-18. doi: 10.1128/JCM.00813-18. Print 2018 Sep.
@@ -44,14 +47,36 @@ J Plant Res. 2018 Jul;131(4):709-717. doi: 10.1007/s10265-018-1017-x. Epub 2018 
 Collaborative environmental DNA sampling from petal surfaces of flowering cherry Cerasus × yedoensis 'Somei-yoshino' across the Japanese archipelago.
 Ohta T1, Kawashima T2, Shinozaki NO3, Dobashi A4, Hiraoka S5, Hoshino T6, Kanno K7, Kataoka T8, Kawashima S9, Matsui M10, Nemoto W11, Nishijima S12,13,14, Suganuma N15, Suzuki H16, Taguchi YH17, Takenaka Y18, Tanigawa Y19, Tsuneyoshi M20, Yoshitake K21, Sato Y22, Yamashita R22, Arakawa K23, Iwasaki W10.
 
-
-----------
-## featuring
-
 Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
 https://twitter.com/merenbey/status/999416078446071809
 A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
 6:25 PM - 23 May 2018
+
+
+
+----------
+## amplicon-shotgun
+
+targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28337071
+J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
+International Standards for Genomes, Transcriptomes, and Metagenomes.
+Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
+TABLE 3
+Comparison of metagenomic assay capabilities and limitations
+
+https://www.ncbi.nlm.nih.gov/pubmed/28761145
+Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
+Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
+Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21121044
+Pac Symp Biocomput. 2011:165-76.
+Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
+Shah N1, Tang H, Doak TG, Ye Y.
+
 
 ----------
 ## host
@@ -91,34 +116,6 @@ https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_article/-char
 https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_pdf
 腸内微生物群集はどのように形作られるのだろうか？
 生まれる前の動物の消化管は通常無菌である（
-
-
-
-----------
-
-
-----------
-## amplicon-shotgun
-
-targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
-
-https://www.ncbi.nlm.nih.gov/pubmed/28337071
-J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
-International Standards for Genomes, Transcriptomes, and Metagenomes.
-Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
-TABLE 3
-Comparison of metagenomic assay capabilities and limitations
-
-https://www.ncbi.nlm.nih.gov/pubmed/28761145
-Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
-Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
-
-https://www.ncbi.nlm.nih.gov/pubmed/21121044
-Pac Symp Biocomput. 2011:165-76.
-Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
-Shah N1, Tang H, Doak TG, Ye Y.
 
 ----------
 ## Knight R
