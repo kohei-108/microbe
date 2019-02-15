@@ -47,10 +47,33 @@ https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-018-1325-2
 Daniela Bezdan†, 
 Christopher E. Mason
 
+https://jp.sputniknews.com/science/201810255497849/
+国際宇宙ステーションの乗員を脅かす微生物について、学者が語った - Sputnik 日本
+現在ＩＳＳには約１００種類の微生物、菌類がおり、それらは生息しているだけでなく、変化しており、我々はそれらを宇宙飛行士にとって害となる要素を見なしているが、さらにそれらはステーションを構成するプラスチックや金属も食べている」。
+
+https://twitter.com/wired_jp/status/1050989590990020608
+WIRED.jp on Twitter: "宇宙での長旅が、人間の体や体内に棲む微生物の集合体であるマイクロバイオームにどんな影響を与えるのか。そんな調査プロジェクトが、 国際宇宙ステーション（ISS）で動き始めた。https://t.co/HNUtaBaiJ0"
+2:00 AM - 13 Oct 2018
+
+https://twitter.com/wired_jp/status/942685182297075712
+WIRED.jp on Twitter: "国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？ https://t.co/H7td2R7KQQ #最新記事"
+4:17 AM - 18 Dec 2017
+つまり、地球から宇宙への微生物の移動だ。
+さらに指摘すべきは、国際宇宙ステーションが無菌ではないということだ。人間や、地球を行き来する物体であふれているので、無菌であることは不可能だ。
+
 https://www.ncbi.nlm.nih.gov/pubmed/29492330
 PeerJ. 2017 Dec 5;5:e4029. doi: 10.7717/peerj.4029. eCollection 2017.
 A microbial survey of the International Space Station (ISS).
 Lang JM1, Coil DA1, Neches RY1, Brown WE2,3, Cavalier D2,4,5, Severance M2,5, Hampton-Marcell JT6,7, Gilbert JA8,9, Eisen JA1,10,11.
+
+https://twitter.com/level3defless/status/887248497514119168
+Koichi Higashi on Twitter: "国際宇宙ステーション内のほこりサンプルのメタゲノム。他の建造環境メタゲノムの例に漏れず、コリネ、プロピ、スタフィロとか、ヒト皮膚由来のやつらが優占。ISS-地球間の輸送の影響とか、全ゲノム増幅してるからそのバイアスとかはどうなんだろう。… https://t.co/E1BzVYJ5as"
+5:51 AM - 18 Jul 2017
+https://www.ncbi.nlm.nih.gov/pubmed/28716113
+Microbiome. 2017 Jul 17;5(1):81. doi: 10.1186/s40168-017-0292-4.
+Whole metagenome profiles of particulates collected from the International Space Station.
+Be NA1, Avila-Herrera A2, Allen JE2, Singh N3, Checinska Sielaff A3,4, Jaing C1, Venkateswaran K5.
+
 
 04 MAY 2016
 http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
@@ -311,6 +334,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2223228/
 Sample collection.
 All air samples were collected from a single location in the middle of the University of Colorado campus in Boulder, CO (1660 meters above sea level, 40.01°N, 105.27°W). 
 
+
+4/2007 vol. 16
 http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
 Stryjakowska-Sekulska M., Piotraszewska-Pająk A., Szyszka A., Nowicki M., Filipiak M. (2007). Microbiological quality of indoor air in university rooms. Polish J. Environ. Stud. 16, 623–632.
 
@@ -336,6 +361,12 @@ The microbiological environment in specific rooms of a
 university campus
 P. Kic1,* and L. Růžek2
 
+https://www.ncbi.nlm.nih.gov/pubmed/22257156
+Indoor Air. 2012 Aug;22(4):339-51. doi: 10.1111/j.1600-0668.2012.00769.x. Epub 2012 Feb 13.
+Size-resolved emission rates of airborne bacteria and fungi in an occupied classroom.
+Qian J1, Hospodsky D, Yamamoto N, Nazaroff WW, Peccia J.
+
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/29123371
 J Prev Med Hyg. 2017 Sep;58(3):E238-E251.
@@ -348,9 +379,6 @@ In order to evaluate IAQ, three different kinds of libraries were chosen: Site I
 STUDY AREA
 Three scientific libraries in the city of Rome (Italy), were selected as exemplificative of different typologies. The first site (Site I) is a "university library" founded in 1994, consisting of a single reading room with desks for students, computers and a loft with shelves for the books storage. The documentary print heritage consists in over 5000 monographs and 2000 periodicals, providing access to about 2000 electronic journals and scientific databases. The library also has books storage room, located in the same building, in the basement. 
 
-4/2007 vol. 16
-http://www.pjoes.com/Microbiological-Quality-of-Indoor-Air-r-nin-University-Rooms,88030,0,2.html
-Microbiological Quality of Indoor Air in University Rooms
 
 ----------
 ## japan
