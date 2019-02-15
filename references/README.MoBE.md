@@ -311,8 +311,6 @@ https://gigazine.net/news/20170201-nasa-twins-study/
 
 ![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/snap2260.png)
 
-![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/the-twins-study_m.jpg)
-
 https://www.ncbi.nlm.nih.gov/pubmed/27019789
 PeerJ. 2016 Mar 22;4:e1842. doi: 10.7717/peerj.1842. eCollection 2016.
 Growth of 48 built environment bacterial isolates on board the International Space Station (ISS).
