@@ -7,11 +7,59 @@
 - [featuring](#featuring)
 - [updates](#updates)
 - [iss](#iss)
+- [space](#space)
 - [japan](#japan)
 - [school](#school)
 
 ----------
 ## featuring
+
+----------
+## space
+
+https://gigazine.net/news/20180103-astronauts-identify-microbes-in-space/
+国際宇宙ステーションの中で「宇宙育ち」の微生物のDNA解析に始めて成功、火星探査の実現に向けた大きな
+
+January 2, 2018
+https://www.space.com/39254-astronauts-sequence-microbes-dna-in-space.html
+Astronauts Identify Mystery Microbes in Space for the 1st Time
+of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
+"Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
+
+https://www.nature.com/articles/s41598-017-18364-0
+Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
+Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
+Castro-Wallace SL1, Chiu CY2,3, John KK4, Stahl SE5, Rubins KH6, McIntyre ABR7, Dworkin JP8, Lupisella ML9, Smith DJ10, Botkin DJ11, Stephenson TA12, Juul S13, Turner DJ13, Izquierdo F13, Federman S2,3, Stryke D2,3, Somasekar S2,3, Alexander N7, Yu G2,3, Mason CE7,14,15, Burton AS16.
+一歩に - GIGAZINE
+
+
+Jan 21, 2017
+https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
+Microbes in Orbit: Is Space Bacteria the Future of Astronaut Food?
+
+25 November 2015
+https://www.newscientist.com/article/mg22830494-300-mission-space-food-sugar-growing-bacteria-go-into-orbit/
+Mission space food: Sugar-growing bacteria go into orbit | New Scientist
+
+宇宙食への有効利用が期待されるAnabaena属の細菌
+
+https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
+
+```
+grep "Anabaena" overview.txt
+Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
+Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
+Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
+
+$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
+   1 Chromosome
+   3 Complete Genome
+   4 Contig
+   5 Scaffold
+
+$grep "Anabaena" viruses.txt 
+Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
+```
 
 ----------
 ## iss
