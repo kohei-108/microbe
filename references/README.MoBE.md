@@ -15,53 +15,6 @@
 ## featuring
 
 ----------
-## space
-
-https://gigazine.net/news/20180103-astronauts-identify-microbes-in-space/
-国際宇宙ステーションの中で「宇宙育ち」の微生物のDNA解析に始めて成功、火星探査の実現に向けた大きな
-
-January 2, 2018
-https://www.space.com/39254-astronauts-sequence-microbes-dna-in-space.html
-Astronauts Identify Mystery Microbes in Space for the 1st Time
-of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
-"Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
-
-https://www.nature.com/articles/s41598-017-18364-0
-Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
-Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
-Castro-Wallace SL1, Chiu CY2,3, John KK4, Stahl SE5, Rubins KH6, McIntyre ABR7, Dworkin JP8, Lupisella ML9, Smith DJ10, Botkin DJ11, Stephenson TA12, Juul S13, Turner DJ13, Izquierdo F13, Federman S2,3, Stryke D2,3, Somasekar S2,3, Alexander N7, Yu G2,3, Mason CE7,14,15, Burton AS16.
-一歩に - GIGAZINE
-
-
-Jan 21, 2017
-https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
-Microbes in Orbit: Is Space Bacteria the Future of Astronaut Food?
-
-25 November 2015
-https://www.newscientist.com/article/mg22830494-300-mission-space-food-sugar-growing-bacteria-go-into-orbit/
-Mission space food: Sugar-growing bacteria go into orbit | New Scientist
-
-宇宙食への有効利用が期待されるAnabaena属の細菌
-
-https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
-
-```
-grep "Anabaena" overview.txt
-Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
-Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
-Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
-
-$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
-   1 Chromosome
-   3 Complete Genome
-   4 Contig
-   5 Scaffold
-
-$grep "Anabaena" viruses.txt 
-Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
-```
-
-----------
 ## iss
 International Space Station (ISS)
 https://ja.wikipedia.org/wiki/国際宇宙ステーション
@@ -69,7 +22,8 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
-Bacillus cereus and Staphylococcus aureus
+https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
+https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
 https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
 https://www.ncbi.nlm.nih.gov/pubmed/30637341
 mSystems. 2019 Jan 8;4(1). pii: e00281-18. doi: 10.1128/mSystems.00281-18. eCollection 2019 Jan-Feb.
@@ -99,9 +53,30 @@ https://jp.sputniknews.com/science/201810255497849/
 国際宇宙ステーションの乗員を脅かす微生物について、学者が語った - Sputnik 日本
 現在ＩＳＳには約１００種類の微生物、菌類がおり、それらは生息しているだけでなく、変化しており、我々はそれらを宇宙飛行士にとって害となる要素を見なしているが、さらにそれらはステーションを構成するプラスチックや金属も食べている」。
 
+https://twitter.com/wired_jp/status/1054692945402753025
+WIRED.jp on Twitter: "人類は火星移住に向け、遺伝子改変で“進化”する──科学者の提案と、その倫理的な考察 https://t.co/UlJ2BPXpkL #最新記事"
+7:16 AM - 23 Oct 2018
+https://wired.jp/2018/10/23/genetic-engineering-for-mars/
+人類は火星移住に向け、遺伝子改変で“進化”する──科学者の提案と、その倫理的な考察｜WIRED.jp
+コーネル大学医学部に研究室をもつ遺伝学者のクリス・メイソンは現在、NASAのある研究に参加している。それは双子を被験者として、その1人が宇宙で1年間を過ごし、もう1人は地球にいたときに、2人にどのような違いが生じるのかを調べる研究だ。
+
 https://twitter.com/wired_jp/status/1050989590990020608
 WIRED.jp on Twitter: "宇宙での長旅が、人間の体や体内に棲む微生物の集合体であるマイクロバイオームにどんな影響を与えるのか。そんな調査プロジェクトが、 国際宇宙ステーション（ISS）で動き始めた。https://t.co/HNUtaBaiJ0"
 2:00 AM - 13 Oct 2018
+
+https://gigazine.net/news/20180103-astronauts-identify-microbes-in-space/
+国際宇宙ステーションの中で「宇宙育ち」の微生物のDNA解析に始めて成功、火星探査の実現に向けた大きな一歩に - GIGAZINE
+
+January 2, 2018
+https://www.space.com/39254-astronauts-sequence-microbes-dna-in-space.html
+Astronauts Identify Mystery Microbes in Space for the 1st Time
+of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
+"Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
+
+https://www.nature.com/articles/s41598-017-18364-0
+Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
+Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
+Castro-Wallace SL1, Chiu CY2,3, John KK4, Stahl SE5, Rubins KH6, McIntyre ABR7, Dworkin JP8, Lupisella ML9, Smith DJ10, Botkin DJ11, Stephenson TA12, Juul S13, Turner DJ13, Izquierdo F13, Federman S2,3, Stryke D2,3, Somasekar S2,3, Alexander N7, Yu G2,3, Mason CE7,14,15, Burton AS16.
 
 https://twitter.com/wired_jp/status/942685182297075712
 WIRED.jp on Twitter: "国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？ https://t.co/H7td2R7KQQ #最新記事"
@@ -122,6 +97,29 @@ Microbiome. 2017 Jul 17;5(1):81. doi: 10.1186/s40168-017-0292-4.
 Whole metagenome profiles of particulates collected from the International Space Station.
 Be NA1, Avila-Herrera A2, Allen JE2, Singh N3, Checinska Sielaff A3,4, Jaing C1, Venkateswaran K5.
 
+by Antonio Regalado2017.04.17
+https://www.technologyreview.jp/s/37865/engineering-the-perfect-astronaut/
+MIT Tech Review: 宇宙飛行士（遺伝子組み換え）の極秘？研究
+ワイルコーネル医科大学のクリストファー・メイソン准教授（生理学・生物理学部）は、このアイデアを模索しているひとりだ。2011年にメイソン准教授は人間を地球から送り出す「500年計画」を発案した。
+メイソン准教授の研究所が参加している、米国航空宇宙局（NASA）の双子研究では、双子の片方が国際宇宙ステーションに送られ、1年間宇宙飛行士として過ごし、地球に残ったもう片方との生理学上の変化を追跡する。
+
+https://twitter.com/wired_jp/status/832893488907898880
+WIRED.jp on Twitter: "宇宙と地球、わかれて暮らした双子の宇宙飛行士の遺伝子に起きたこと https://t.co/EWRtmWbkal #最新記事"
+5:04 AM - 18 Feb 2017
+https://wired.jp/2017/02/18/astronaut-twin/
+宇宙と地球、わかれて暮らした双子の宇宙飛行士の遺伝子に起きたこと｜WIRED.jp
+研究のまとめ役となったのは、ニューヨーク・コーネル大学の遺伝学者クリストファー・メイソンだ。
+
+https://gigazine.net/news/20170201-nasa-twins-study/
+宇宙と地上に分かれて1年間過ごした双子の宇宙飛行士の体にはどんな違いが出るのか - GIGAZINE
+
+・マイクロバイオーム(人体の微生物相)
+フレッド・テューレック氏によれば「異なる食事」「異なる環境」でマイクロバイオームは大きく変化するとのこと。調査をしたところ、スコット氏は地上から宇宙に上がったことで消化管内のフィルミクテスとバクテロイデスの割合が大きく変わっていたことがわかりました。なお、地上に帰還すると、この割合は元に戻りました。
+
+・遺伝子
+白血球内に含まれるDNAとRNAについて調べたクリス・メーソン氏によると、2人のゲノム配列には正常変異による何百もの独自の変化があったとのこと。RNAでは、20万以上の異なる配列があったそうです。これは、スコット氏が宇宙に滞在したことで「宇宙遺伝子(space gene)」が活性化したものかもしれないとのこと。
+
+![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/the-twins-study_m.jpg)
 
 04 MAY 2016
 http://www.alexandrinepress.co.uk/blogged-environment/extreme-built-environments
@@ -145,6 +143,37 @@ http://iss.jaxa.jp/kiboexp/theme/second/microbe/
 カビやバクテリアは宇宙でどうなるの？
 きぼう船内の微生物叢（そう）※を解明せよ。
 「国際宇宙ステーション内における微生物動態に関する研究」
+
+----------
+## space
+
+Jan 21, 2017
+https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
+Microbes in Orbit: Is Space Bacteria the Future of Astronaut Food?
+
+25 November 2015
+https://www.newscientist.com/article/mg22830494-300-mission-space-food-sugar-growing-bacteria-go-into-orbit/
+Mission space food: Sugar-growing bacteria go into orbit | New Scientist
+
+宇宙食への有効利用が期待されるAnabaena属の細菌
+
+https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
+
+```
+grep "Anabaena" overview.txt
+Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
+Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
+Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
+
+$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
+   1 Chromosome
+   3 Complete Genome
+   4 Contig
+   5 Scaffold
+
+$grep "Anabaena" viruses.txt 
+Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
+```
 
 ----------
 ## Hong Kong subway system
