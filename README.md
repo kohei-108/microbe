@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-02-11
+Last Update: 2019-02
 
 ----------
 
@@ -47,14 +47,6 @@ Y Tambe先生の「はしか」の話 - Togetter
 
 https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
 「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
-
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
-
-https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
-「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
 
 https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
 エリザベス・マーチソン：感染性のガンと闘う | TED Talk
@@ -217,17 +209,6 @@ https://tylerbarnum.wordpress.com/2018/06/22/searching-uncultivated-bacteria-and
 Searching Uncultivated Bacteria and Archaea (UBA) Genomes for Important Genes – The Biolo-Gist
 June 22, 2018
 
-https://twitter.com/level3defless/status/1008994650957332481
-Koichi Higashi on Twitter: "論文（やっと）出ました。約3万サンプルの微生物群集構造に関する公共データ（メタ16S、メタゲノム）を対象に自然言語情報と系統の対応関係を調べて、その結果を遊べるようにしたツールです。 #PLOSCompBio: Latent environment allocation of microbial community data https://t.co/YHJSNJVLfx"
-4:47 AM - 19 Jun 2018
-
-https://twitter.com/NIG_idenken/status/1008941881051398144
-国立遺伝学研究所 on Twitter: "遺伝研の研究成果について、新しい記事を公開しました。 ゲノム進化研究室・黒川研究室 「環境と微生物をビッグデータでつなぐ ～「環境」から微生物を検索し、微生物から「環境」を予測するウェブツール「LEA」を開発～」… "
-1:17 AM - 19 Jun 2018
-
-https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180619.html
-環境と微生物をビッグデータでつなぐ ～「環境」から微生物を検索し、微生物から「環境」を予測するウェブツール「LEA」を開発～
-
 2018年6月14日
 https://www.natureasia.com/ja-jp/nature/pr-highlights/12552
 【微生物学】地面を掘って抗生物質を探す
@@ -322,8 +303,6 @@ Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
 Castro-Wallace SL1, Chiu CY2,3, John KK4, Stahl SE5, Rubins KH6, McIntyre ABR7, Dworkin JP8, Lupisella ML9, Smith DJ10, Botkin DJ11, Stephenson TA12, Juul S13, Turner DJ13, Izquierdo F13, Federman S2,3, Stryke D2,3, Somasekar S2,3, Alexander N7, Yu G2,3, Mason CE7,14,15, Burton AS16.
 一歩に - GIGAZINE
 
-https://wired.jp/2017/12/18/bacteria-from-space/
-国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？｜WIRED.jp
 
 Jan 21, 2017
 https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
@@ -484,10 +463,6 @@ https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_bi
 https://adgang.jp/2014/10/77120.html
 オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
 
-https://twitter.com/wired_jp/status/621524881675411456
-WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
-11:40 PM - 15 Jul 2015
-
 
 https://twitter.com/endBooks/status/385905594026033153
 科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
@@ -557,6 +532,18 @@ https://www.kinokuniya.co.jp/banner/9784314011570.pdf
 https://ee.asahipress.com/bookdetail_norm/9784255010571/
 細菌が人をつくる | 書籍 | 朝日出版社
 ［著者紹介］ ロブ・ナイト 著 / ブレンダン・ビューラー 著 / ［訳者紹介］ 山田拓司＋東京工業大学山田研究室 訳
+
+### 2018-03-20
+
+![](https://image.honto.jp/item/1/265/2883/6173/28836173_1.png)
+
+http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1553-5.html
+闘う微生物
+闘う微生物  抗生物質と農薬の濫用から人体を守る
+エミリー・モノッソン［著］　小山重郎［訳］
+
+http://odokon.org/archives/2018/0319_132207.php
+新刊紹介: 闘う微生物--抗生物質と農薬の濫用から人体を守る | 応動昆
 
 ### 2017/09/20
 ![](https://www.iwanami.co.jp//images/book/309292.png)
@@ -755,188 +742,6 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
 [PDF]過小評価されているファージの宿主域
 井町 寛之
 
-
-----------
-## database
-
-http://msphere.asm.org/content/2/4/e00237-17
-Hiding in Plain Sight: Mining Bacterial Species Records for Phenotypic Trait Information | mSphere
-https://figshare.com/articles/International_Journal_of_Systematic_and_Evolutionary_Microbiology_IJSEM_phenotypic_database/4272392
-
-https://www.ncbi.nlm.nih.gov/pubmed/24152717
-ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176. Epub 2013 Oct 24.
-MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.
-
-### MetaMetaDB
-http://mmdb.aori.u-tokyo.ac.jp
-MetaMetaDB: To the Habitabilities of Microbes
-
-https://www.ncbi.nlm.nih.gov/pubmed/24475242
-PLoS One. 2014 Jan 27;9(1):e87126. doi: 10.1371/journal.pone.0087126. eCollection 2014.
-MetaMetaDB: a database and analytic system for investigating microbial habitability.
-Yang CC1, Iwasaki W1.
-
-27 Jan 2014
-https://twitter.com/iwasakiw/status/427965935094222849
-Wataru IWASAKI on Twitter: "MetaMetaDBは、様々な環境のメタゲノム（"メタ・メタゲノム"）をまとめ、微生物がどのような環境に生息できるかの指標（"Microbial Habitability"）を簡便に得られるようにしたデータベースです。URLは http://t.co/zfQ8d84v6k"
-
-https://www.jst.go.jp/kisoken/crest/research/nenpou/h25/JST_1111065_11103779_2013_YR.pdf
-遺伝子解析基盤技術グループは、これまでに世界中の様々な環境か ら得られたメタゲノムデータを収集した網羅的メタゲノムデータベース(MetaMetaDB) を開発し、海洋環境中に新たなグループの微生物が見つかった場合にその由来となった環 境を遺伝子情報から迅速に解析し、遺伝子情報に基づいた生態系評価を行うための基盤を 作った。
-
-### MicrobeDB
-http://microbedb.jp/MDB/
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon59/MicrobeDB.jp
-MicrobeDB.jpポータル開発 - TogoWiki
-
-### PATRIC
-https://patricbrc.org
-
-PATRICBRC on Twitter: "New study by Junqueira examined microbiomes of blowflies and houseflies using the PATRIC metadata on habitat and potential disease associati… https://t.co/hoJoiSB6sK"
-https://www.nature.com/articles/s41598-017-16353-x
-The cross-validated set of 33 species identified in blowfly and housefly microbiomes were categorized according to the habitat from which they have been isolated and assigned to the potential disease association record of the Pathosystems Resource Integration Center (PATRIC)35. 
-
-https://patricbrc.org/view/Taxonomy/2#view_tab=genomes
-Bacteria::Taxonomy Genomes
-
-http://rd-alliance.github.io/metadata-directory/standards/genome-metadata.html
-Genome Metadata
-
-http://enews.patricbrc.org/faqs/2-genome-data-and-tools/genome-metadata-faqs/
-
-### NCBI
-https://www.ncbi.nlm.nih.gov/genome/167
-Escherichia coli
-
-	Escherichia coli str. K-12 substr. MG1655
-	Submitter: Univ. Wisconsin
-	Morphology: Gram:Negative, Shape:Bacilli, Motility:Yes
-	Environment: OxygenReq:Facultative, OptimumTemperature:37, TemperatureRange:Mesophilic, Habitat:HostAssociated
-
-### GOLD
-Genomes OnLine Database
-https://gold.jgi.doe.gov
-
-https://www.ncbi.nlm.nih.gov/pubmed/27794040
-Nucleic Acids Res. 2017 Jan 4;45(D1):D446-D456. doi: 10.1093/nar/gkw992. Epub 2016 Oct 27.
-Genomes OnLine Database (GOLD) v.6: data updates and feature enhancements.
-
-### 
-https://gatesopenresearch.org/articles/2-3/v1
-Gates Open Res 2018, 2:3 (doi: 10.12688/gatesopenres.12772.1)
-The Microbe Directory: An annotated, searchable inventory of microbes’ characteristics - Gates Open Research
-https://twitter.com/search?q=Microbe%20Directory
-metadata
-
-https://www.ncbi.nlm.nih.gov/pubmed/26013493
-J Bacteriol. 2015 Aug 1;197(15):2458-67. doi: 10.1128/JB.00330-15. Epub 2015 May 26.
-Databases for Microbiologists.
-Zhulin IB1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25098325
-PLoS One. 2014 Aug 6;9(8):e103548. doi: 10.1371/journal.pone.0103548. eCollection 2014.
-MediaDB: a database of microbial growth conditions in defined media.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4123892/
-The Growth_Data table links the tables describing an organism, medium, and literature source, and adds information about temperature, pH, growth rate, product secretion rates, and nutrient uptake rates (whenever reported in the literature source). MediaDB currently contains 765 growth conditions.
-https://mediadb.systemsbiology.net
-Defined Media Database
-https://mediadb.systemsbiology.net/defined_media/growthdata/
-Media database: GrowthData
-https://mediadb.systemsbiology.net/defined_media/growthdata/page/4
-    Escherichia coli BL21 on M9 0.24% pyruvate
-https://mediadb.systemsbiology.net/defined_media/growthdata/387/
- Growth Rate: 	0.20776 (1/h)
-
-----------
-
-https://github.com/haruosuz/mgsa/tree/master/traitar
-https://www.ncbi.nlm.nih.gov/pubmed/28066816
-mSystems. 2016 Dec 27;1(6). pii: e00101-16. doi: 10.1128/mSystems.00101-16. eCollection 2016 Nov-Dec.
-From Genomes to Phenotypes: Traitar, the Microbial Trait Analyzer.
-Weimann A1, Mooren K2, Frank J3, Pope PB3, Bremges A4, McHardy AC1.
-Traitar provides phenotype classifiers to predict 67 traits related to the use of various substrates as carbon and energy sources, oxygen requirement, morphology, antibiotic susceptibility, proteolysis, and enzymatic activities.
-
-
-2013年9月現在、細菌23,458菌株のメタ情報（分類群、培養条件、分離場所、配列データ）を含む
-https://www.ncbi.nlm.nih.gov/pubmed/24214959
-Nucleic Acids Res. 2014 Jan;42(Database issue):D592-9. doi: 10.1093/nar/gkt1058. Epub 2013 Nov 7.
-BacDive--the Bacterial Diversity Metadatabase.
-Söhngen C1, Bunk B, Podstawka A, Gleim D, Overmann J.
-
-https://bacdive.dsmz.de/
-BacDive | The Bacterial Diversity Metadatabase
-
-https://bacdive.dsmz.de/strain/17849
-https://bacdive.dsmz.de/strain/131145
-
-数十の大腸菌のゲノム配列データからゲノムスケールの代謝モデルを構築し、様々な培養条件での増殖を予測
-https://www.ncbi.nlm.nih.gov/pubmed/24277855
-Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20338-43. doi: 10.1073/pnas.1307797110. Epub 2013 Nov 25.
-Genome-scale metabolic reconstructions of multiple Escherichia coli strains highlight strain-specific adaptations to nutritional environments.
-Monk JM1, Charusanti P, Aziz RK, Lerman JA, Premyodhin N, Orth JD, Feist AM, Palsson BØ.
-
-212種類の培養条件で得られたコロニー形成細菌群集
-https://www.ncbi.nlm.nih.gov/pubmed/23033984
-Clin Microbiol Infect. 2012 Dec;18(12):1185-93. doi: 10.1111/1469-0691.12023. Epub 2012 Oct 3.
-Microbial culturomics: paradigm shift in the human gut microbiome study.
-Lagier JC1, Armougom F, Million M, Hugon P, Pagnier I, Robert C, Bittar F, Fournous G, Gimenez G, Maraninchi M, Trape JF, Koonin EV, La Scola B, Raoult D.
-
-----------
-### growth rate
-増殖速度
-
-https://twitter.com/mason_lab/status/987315842948960256
-Christopher Mason on Twitter: "Growth Rate Index (GRiD) measures bacterial growth rate from draft genomes and metagenomic bins at ultra-low sequencing coverage (> 0.2x) https://t.co/EhpVAES1QL from Julia Oh, Ph.D @jacksonlab"
-9:03 AM - 20 Apr 2018
-
-https://twitter.com/hornistyf/status/806723634165227520
-Y. Furuta on Twitter: "昨年先に出た似た話。こちらは完全ゲノム必要。／Growth dynamics of gut microbiota in health and disease inferred from single metagenomic... https://t.co/UtVM1E9S92"
-11:54 PM - 7 Dec 2016
-
-https://twitter.com/hornistyf/status/806723370062467072
-Y. Furuta on Twitter: "細菌叢中の各種の複製スピードをメタゲノムリードから推測する話。ドラフトゲノムでOK。／Measurement of bacterial replication rates in microbial communities https://t.co/ujR3TKUFnI"
-11:53 PM - 7 Dec 2016
-
-https://www.ncbi.nlm.nih.gov/pubmed/27819664
-Nat Biotechnol. 2016 Dec;34(12):1256-1263. doi: 10.1038/nbt.3704. Epub 2016 Nov 7.
-Measurement of bacterial replication rates in microbial communities.
-Brown CT1, Olm MR1, Thomas BC2, Banfield JF2,3,4.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5538567/
-iRep and bPTR software are maintained under github.com/christophertbrown/iRep (v1.10 used in this analysis: github.com/christophertbrown/iRep/releases/tag/v1.10; Supplementary Code).
-
-https://github.com/christophertbrown/iRep
-iRep is a method for determining replication rates for bacteria from single time point metagenomics sequencing and draft-quality genomes.
-
-https://github.com/banfieldlab/BanfieldLabProjects
-iRep - estimating bacteria replication rates based on population genome copy number variation
-
-https://www.ncbi.nlm.nih.gov/pubmed/26229116
-Science. 2015 Sep 4;349(6252):1101-1106. doi: 10.1126/science.aac4812. Epub 2015 Jul 30.
-Growth dynamics of gut microbiota in health and disease inferred from single metagenomic samples.
-
-https://www.ncbi.nlm.nih.gov/pubmed/20308095
-Philos Trans R Soc Lond B Biol Sci. 2010 Apr 27;365(1544):1203-12. doi: 10.1098/rstb.2009.0305.
-Forces that influence the evolution of codon bias.
-Sharp PM1, Emery LR, Zeng K.
-- Here we show that the strength of selected codon usage bias is highly correlated with bacterial growth rate, suggesting that selection has favoured translational efficiency. 
-
-https://www.ncbi.nlm.nih.gov/pubmed/20090831
-PLoS Genet. 2010 Jan 15;6(1):e1000808. doi: 10.1371/journal.pgen.1000808.
-The systemic imprint of growth and its uses in ecological (meta)genomics.
-Vieira-Silva S1, Rocha EP.
-
-https://www.ncbi.nlm.nih.gov/pubmed/15479947
-Genome Res. 2004 Nov;14(11):2279-86. Epub 2004 Oct 12.
-Codon usage bias from tRNA's point of view: redundancy, specialization, and efficient decoding for translation optimization.
-Rocha EP1.
-- We show that as minimal generation times get shorter, the genomes contain more tRNA genes, but fewer anticodon species. 
-- It also provides new evidence that a selective force for the optimization of the translation machinery is the maximization of growth.
-
-https://genome.cshlp.org/content/14/11/2279/suppl/DC1
-Supplemental Research Data
-https://genome.cshlp.org/content/suppl/2004/10/18/gr.2896904.DC1/tableA1.pdf
-Table A1- Data table with major results. 
-the growth rate class (μ). the optimal doubling time (1/μ).
 
 ----------
 ## five-second rule
@@ -1264,6 +1069,9 @@ DNAの塩基配列を入力するとすぐに何の生き物かを検索して�
 https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
 これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
 
+https://wired.jp/2018/07/04/nasas-astro-mice/
+宇宙での生活は、腸内細菌にどんな影響を及ぼすか？ 答えはNASAのネズミが知っている｜WIRED.jp
+
 https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
 飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
 
@@ -1273,6 +1081,9 @@ https://wired.jp/2018/01/14/the-post-antibiotic-era/
 
 https://wired.jp/2018/02/10/norovirus-pyeongchang-olympic/
 ノロウイルスの脅威から、どうすればオリンピック選手を守れるか──平昌五輪を襲った「強敵」の撃退法｜WIRED.jp
+
+https://wired.jp/2017/12/18/bacteria-from-space/
+国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？｜WIRED.jp
 
 https://wired.jp/2017/07/14/obesity-surgery-may-work-remaking-gut-microbiome/
 「体重を減らす微生物群」のつくり方、米研究チームが発見──手術しない肥満治療につながるか｜WIRED.jp
@@ -1308,6 +1119,18 @@ https://wired.jp/2014/09/05/electronic-nose-superbug/
 
 https://wired.jp/2003/01/24/バイオテロ検知に環境モニタリングシステムを改/
 バイオテロ検知に環境モニタリングシステムを改装｜WIRED.jp
+
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
+11:40 PM - 15 Jul 2015
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
 
 ----------
 微生物の「指紋」
