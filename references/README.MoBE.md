@@ -309,6 +309,8 @@ https://gigazine.net/news/20170201-nasa-twins-study/
 ・遺伝子
 白血球内に含まれるDNAとRNAについて調べたクリス・メーソン氏によると、2人のゲノム配列には正常変異による何百もの独自の変化があったとのこと。RNAでは、20万以上の異なる配列があったそうです。これは、スコット氏が宇宙に滞在したことで「宇宙遺伝子(space gene)」が活性化したものかもしれないとのこと。
 
+![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/snap2260.png)
+
 ![](https://i.gzn.jp/img/2017/02/01/nasa-twins-study/the-twins-study_m.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/27019789
