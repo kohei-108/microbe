@@ -12,7 +12,6 @@ Last Update: 2019-02
 - 微生物群集 [microbiome](https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md)
 - [featuring](#featuring)
 - [updates](#updates)
-- [space](#space)
 - [airport](#airport)
 - [video](#video)
 - [books](#books)
@@ -32,6 +31,59 @@ Last Update: 2019-02
 - [twitter](#twitter)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
+- [infection](#infection)
+- [protists](#protists)
+
+----------
+## protists
+原生生物
+
+https://twitter.com/DiamantisSellis/status/1088834133944688640
+Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… "
+11:21 AM - 25 Jan 2019
+https://www.nature.com/articles/s41396-018-0341-4
+Genetic basis for the establishment of endosymbiosis in Paramecium | The ISME Journal
+
+![](Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… ")
+
+https://www.ncbi.nlm.nih.gov/pubmed/28540488
+Microb Ecol. 2017 Nov;74(4):923-936. doi: 10.1007/s00248-017-0996-9. Epub 2017 May 24.
+An 18S rRNA Workflow for Characterizing Protists in Sewage, with a Focus on Zoonotic Trichomonads.
+Maritz JM1, Rogers KH2, Rock TM1, Liu N3, Joseph S1, Land KM3, Carlton JM4.
+
+http://metasub.org/meetings/2015-meetings/2015-session-1/
+“Identifying Protists in NYC Subway Samples” – Julia Maritz, New York University, USA
+
+----------
+## infection
+感染症
+
+https://twitter.com/search?q=感染経路
+豚コレラ、見えぬ感染経路＝愛知で殺処分継続
+
+https://ja.wikipedia.org/wiki/豚コレラ
+豚コレラ（とんコレラ、英: classical swine fever、hog cholera）は、フラビウイルス属、ペスチウイルス属によるブタのウイルス性疾病であり、症状はコレラとは異なる。
+https://ja.wikipedia.org/wiki/ペスチウイルス属
+ペスチウイルス属（ペスチウイルスぞく、Genus Pestivirus）とはエンベロープを持つ、約12.3kbの一本鎖（+）RNAウイルスの総称。
+
+2019年02月15日 17時45分
+https://news.nifty.com/article/domestic/society/12256-900001/
+はしか感染者が新幹線利用で大阪府が注意喚起　不特定多数と接触の可能性｜ニフティニュース
+
+https://ja.wikipedia.org/wiki/麻疹
+麻疹（ましん、英: measles, rubeola、別名・痲疹）とは、麻疹ウイルスによる急性熱性発疹性感染症[1]。
+https://ja.wikipedia.org/wiki/麻疹ウイルス
+麻疹ウイルスは麻疹の原因となるウイルスで、パラミクソウイルス科モルビリウイルス属に属するRNAウイルスである。
+
+
+2016年9月2日23時23分
+https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
+リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
+
+https://ja.wikipedia.org/wiki/ジカ熱
+ジカ熱（Zika fever）もしくはジカウイルス感染症（Zika virus disease）は、フラビウイルス科のジカウイルスによって引き起こされる病気[1]
+ジカウイルス（英: Zika virus）は、フラビウイルス科に属する+鎖のRNAウイルスの1種である。
+https://ja.wikipedia.org/wiki/ジカウイルス
 
 ----------
 ## featuring
@@ -67,6 +119,7 @@ https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
 
+
 ----------
 ## updates
 
@@ -74,6 +127,22 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2019
+
+https://twitter.com/NatureRevMicro/status/1095678559404900352
+Nature Rev Microbiol on Twitter: "Bacteria and archaea on Earth and their abundance in biofilms https://t.co/4rsoiohF3Q Flemming and Wuertz propose that biofilms are the most prominent and influential type of microbial life.… https://t.co/ZglukPpbaJ"
+8:38 AM - 13 Feb 2019
+![](https://pbs.twimg.com/media/DzShzgAWwAAZ4Hm.png)
+
+https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz099/5319939
+Bacterial Feature Finder (BaFF) – a system for extracting features overrepresented in sets of prokaryotic organisms | Bioinformatics | Oxford Academic
+Published: 14 February 2019
+The web server is freely available at http://csbg.cnb.csic.es/BaFF.
+
+
+https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz093/5307751
+RiboD: A comprehensive database for prokaryotic riboswitches | Bioinformatics | Oxford Academic
+Published: 06 February 2019
+RiboD can be freely accessed on the web at http://ribod.iiserkol.ac.in/
 
 1:36 PM - 2 Feb 2019
 https://twitter.com/KeikoUTorii/status/1091767336523026437
@@ -284,53 +353,6 @@ A new view of the tree of life | Nature Microbiology
 2012年 09月 25日
 https://shinka3.exblog.jp/18493096/
 ウイルスは退化しているもののやはり生物だった : 5号館を出て
-
-----------
-## space
-
-https://gigazine.net/news/20180103-astronauts-identify-microbes-in-space/
-国際宇宙ステーションの中で「宇宙育ち」の微生物のDNA解析に始めて成功、火星探査の実現に向けた大きな
-
-January 2, 2018
-https://www.space.com/39254-astronauts-sequence-microbes-dna-in-space.html
-Astronauts Identify Mystery Microbes in Space for the 1st Time
-of the three colonies grown and then sequenced on the space station, one ended up being Staphylococcus capitis and two were Staphylococcus hominis.
-"Staphylococcus hominis and Staphylococcus capitis are commonly associated with the human microbiome," 
-
-https://www.nature.com/articles/s41598-017-18364-0
-Sci Rep. 2017 Dec 21;7(1):18022. doi: 10.1038/s41598-017-18364-0.
-Nanopore DNA Sequencing and Genome Assembly on the International Space Station.
-Castro-Wallace SL1, Chiu CY2,3, John KK4, Stahl SE5, Rubins KH6, McIntyre ABR7, Dworkin JP8, Lupisella ML9, Smith DJ10, Botkin DJ11, Stephenson TA12, Juul S13, Turner DJ13, Izquierdo F13, Federman S2,3, Stryke D2,3, Somasekar S2,3, Alexander N7, Yu G2,3, Mason CE7,14,15, Burton AS16.
-一歩に - GIGAZINE
-
-
-Jan 21, 2017
-https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
-Microbes in Orbit: Is Space Bacteria the Future of Astronaut Food?
-
-25 November 2015
-https://www.newscientist.com/article/mg22830494-300-mission-space-food-sugar-growing-bacteria-go-into-orbit/
-Mission space food: Sugar-growing bacteria go into orbit | New Scientist
-
-宇宙食への有効利用が期待されるAnabaena属の細菌
-
-https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
-
-```
-grep "Anabaena" overview.txt
-Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
-Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
-Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
-
-$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
-   1 Chromosome
-   3 Complete Genome
-   4 Contig
-   5 Scaffold
-
-$grep "Anabaena" viruses.txt 
-Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
-```
 
 ----------
 
@@ -1407,6 +1429,12 @@ New papers on Microbiology of the Built Environment, November 19, 2016 – micro
 By Marcus Leung  Posted on August 20, 2017
 https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
 The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
+
+スペイン バルセロナの地下鉄における空気中の微生物叢
+https://www.ncbi.nlm.nih.gov/pubmed/27687789
+Indoor Air. 2017 May;27(3):564-575. doi: 10.1111/ina.12343. Epub 2016 Oct 26.
+Bioaerosols in the Barcelona subway system.
+Triadó-Margarit X1, Veillette M2, Duchaine C2, Talbot M2, Amato F3, Minguillón MC3, Martins V3, de Miguel E4, Casamayor EO1, Moreno T3.
 
 https://www.ncbi.nlm.nih.gov/pubmed/25172855
 Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
