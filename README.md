@@ -44,7 +44,7 @@ Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Pa
 https://www.nature.com/articles/s41396-018-0341-4
 Genetic basis for the establishment of endosymbiosis in Paramecium | The ISME Journal
 
-![](Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… ")
+![](https://pbs.twimg.com/media/DxxQ39nX4AM-jos.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/28540488
 Microb Ecol. 2017 Nov;74(4):923-936. doi: 10.1007/s00248-017-0996-9. Epub 2017 May 24.
