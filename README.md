@@ -54,6 +54,22 @@ Maritz JM1, Rogers KH2, Rock TM1, Liu N3, Joseph S1, Land KM3, Carlton JM4.
 http://metasub.org/meetings/2015-meetings/2015-session-1/
 “Identifying Protists in NYC Subway Samples” – Julia Maritz, New York University, USA
 
+2017年5月29日
+https://academist-cf.com/journal/?p=4858
+「細胞内共生は、非常にすぐれた『進化の原動力』である」 – 山口大学創成科学研究科 ・藤島政博教授 | academist Journal
+ミドリゾウリムシには、真核生物であるクロレラだけでなく、原核生物である「ホロスポラ」という細菌が共生している場合があります。このホロスポラは、クロレラとは異なり、もう宿主外では増殖はできません。
+ホロスポラが共生したゾウリムシは寒さに強くなり、また、塩濃度の高い水の中でも生きていけるようになります。そのため、寒冷な地域の汽水域（河口付近）でゾウリムシを採集すると、ホロスポラが共生したゾウリムシが得られる可能性が高まると考えられます。
+
+https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char/ja/
+総説
+ミドリゾウリムシにおける細胞内共生研究の現状と課題
+早川 昌志, 洲崎 敏伸
+2016 年 33 巻 3 号 p. 108-115
+
+http://www.nibb.ac.jp/press/2014/06/11.html
+プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
+
+
 ----------
 ## infection
 感染症
