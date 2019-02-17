@@ -47,6 +47,15 @@ Genetic basis for the establishment of endosymbiosis in Paramecium | The ISME Jo
 
 ![](https://pbs.twimg.com/media/DxxQ39nX4AM-jos.jpg)
 
+ホロスポラのゲノム比較
+https://www.ncbi.nlm.nih.gov/pubmed/29713316
+Front Microbiol. 2018 Apr 16;9:738. doi: 10.3389/fmicb.2018.00738. eCollection 2018.
+Comparative Genomic Analysis of Holospora spp., Intranuclear Symbionts of Paramecia.
+Garushyants SK1,2, Beliavskaia AY3,4, Malko DB5, Logacheva MD1,6, Rautian MS4, Gelfand MS1,2,5,7.
+ Holospora curviuscula, a macronuclear symbiont of Paramecium bursaria,
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/
+![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5911502_fmicb-09-00738-g001.jpg)
+
 https://www.ncbi.nlm.nih.gov/pubmed/28540488
 Microb Ecol. 2017 Nov;74(4):923-936. doi: 10.1007/s00248-017-0996-9. Epub 2017 May 24.
 An 18S rRNA Workflow for Characterizing Protists in Sewage, with a Focus on Zoonotic Trichomonads.
@@ -69,6 +78,10 @@ https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char
 
 http://www.nibb.ac.jp/press/2014/06/11.html
 プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
+
+
+
+
 
 
 ----------
