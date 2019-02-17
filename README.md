@@ -37,6 +37,7 @@ Last Update: 2019-02
 ----------
 ## protists
 原生生物
+https://ja.wikipedia.org/wiki/ゾウリムシ
 
 https://twitter.com/DiamantisSellis/status/1088834133944688640
 Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… "
