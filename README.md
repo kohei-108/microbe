@@ -54,7 +54,7 @@ Comparative Genomic Analysis of Holospora spp., Intranuclear Symbionts of Parame
 Garushyants SK1,2, Beliavskaia AY3,4, Malko DB5, Logacheva MD1,6, Rautian MS4, Gelfand MS1,2,5,7.
  Holospora curviuscula, a macronuclear symbiont of Paramecium bursaria,
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/
-![](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5911502_fmicb-09-00738-g001.jpg)
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/figure/F1/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5911502_fmicb-09-00738-g001.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/28540488
 Microb Ecol. 2017 Nov;74(4):923-936. doi: 10.1007/s00248-017-0996-9. Epub 2017 May 24.
