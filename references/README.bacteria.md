@@ -1617,6 +1617,15 @@ https://kotobank.jp/word/ボルバキア-669591
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
 Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
 
+https://www.ncbi.nlm.nih.gov/pubmed/30202647
+PeerJ. 2018 Sep 3;6:e5486. doi: 10.7717/peerj.5486. eCollection 2018.
+A bioinformatics approach to identifying Wolbachia infections in arthropods.
+Pascar J1,2, Chandler CH1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126470/
+- Here, we look for evidence of Wolbachia infection across a wide array of arthropod species using a bioinformatic approach to detect the Wolbachia genes ftsZ, wsp, and the groE operon in next-generation sequencing samples available through the NCBI Sequence Read Archive. 
+- Meta-analysis indicates that the infection distribution in the total number of species may be closer to 66% (Hilgenboecker et al., 2008).
+- A metagenomics-based approach can also be useful for characterizing microbiomes, including looking for Wolbachia and other symbionts (e.g. Dittmer & Bouchon, 2018), 
+
 動画
 Nov 29, 2017
 https://www.youtube.com/watch?v=S2tND3OmwzY
