@@ -371,25 +371,28 @@ Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podovirida
 ## subway
 地下鉄
 
-https://www.ncbi.nlm.nih.gov/pubmed/26594662
-Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
-Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
-
+ボストン
 https://www.ncbi.nlm.nih.gov/pubmed/27822528
 mSystems. 2016 Jun 28;1(3). pii: e00018-16. eCollection 2016 May-Jun.
 Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5069760/
 
+ニューヨーク
+https://www.ncbi.nlm.nih.gov/pubmed/26594662
+Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
+Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
+
 ----------
 ### hong-kong-subway
+香港
+Hong Kong Mass Transit Railway (MTR) system
 
 https://www.ncbi.nlm.nih.gov/pubmed/30067975
 Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
 The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
 Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
-
-Hong Kong Mass Transit Railway (MTR) system
+https://www.sciencedirect.com/science/article/pii/S2211124718310519?via%3Dihub
 
 https://twitter.com/skym_k/status/1068837422509654024
 やましゃけ on Twitter: "地下鉄の吊革に住む微生物を解析したそうです。 病気の原因となる微生物もいれば、その抗生物質を生む微生物もいたそうで、結論・健康なのか不健康なのかよく読み取れませんでしたが興味はあ... #NewsPicks https://t.co/FEnZ7degCt"
