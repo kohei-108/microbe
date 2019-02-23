@@ -11,12 +11,14 @@
 - [japan](#japan)
 - [school](#school)
 - [review](#review)
-- [Hong Kong subway system](#Hong Kong subway system)
-
+- [subway](#subway)
 
 ----------
 ## featuring
 
+Published on Nov 13, 2013
+https://www.youtube.com/watch?v=UcCnFukGr6Y
+The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
 
 ----------
 ## updates
@@ -25,12 +27,10 @@
 
 ## 2017
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/29238327
 Front Microbiol. 2017 Nov 29;8:2336. doi: 10.3389/fmicb.2017.02336. eCollection 2017.
 Transmission of Airborne Bacteria across Built Environments and Its Measurement Standards: A Review.
 Fujiyoshi S1, Tanaka D2, Maruyama F1,3.
-
 
 https://www.microbe.net/2017/02/10/genomes-of-eight-bacteria-from-the-built-environment/
 Genomes of eight bacteria from the built environment – microBEnet: the microbiology of the Built Environment network
@@ -39,6 +39,8 @@ Stand Genomic Sci. 2017 Jan 31;12:17. doi: 10.1186/s40793-017-0223-9. eCollectio
 Draft genome sequences of eight bacteria isolated from the indoor environment: Staphylococcus capitis strain H36, S. capitis strain H65, S. cohnii strain H62, S. hominis strain H69, Microbacterium sp. strain H83, Mycobacterium iranicum strain H39, Plantibacter sp. strain H53, and Pseudomonas oryzihabitans strain H72.
 Lymperopoulou DS1, Coil DA2, Schichnes D3, Lindow SE1, Jospin G2, Eisen JA2,4,5, Adams RI1.
 
+https://www.microbe.net/2016/05/26/the-built-environment-reference-genome-collection-a-first-taste/
+The Built Environment Reference Genome Collection… A First Taste – microBEnet: the microbiology of the Built Environment network
 
 ### MoBE 2017
 
@@ -366,7 +368,28 @@ Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podovirida
 ```
 
 ----------
-## Hong Kong subway system
+## subway
+地下鉄
+
+https://www.ncbi.nlm.nih.gov/pubmed/26594662
+Cell Syst. 2015 Jul 29;1(1):72-87. Epub 2015 Mar 3.
+Geospatial Resolution of Human and Bacterial Diversity with City-Scale Metagenomics.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4651444/
+
+https://www.ncbi.nlm.nih.gov/pubmed/27822528
+mSystems. 2016 Jun 28;1(3). pii: e00018-16. eCollection 2016 May-Jun.
+Urban Transit System Microbial Communities Differ by Surface Type and Interaction with Humans and the Environment.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5069760/
+
+----------
+### hong-kong-subway
+
+https://www.ncbi.nlm.nih.gov/pubmed/30067975
+Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
+The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
+Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
+
+Hong Kong Mass Transit Railway (MTR) system
 
 https://twitter.com/skym_k/status/1068837422509654024
 やましゃけ on Twitter: "地下鉄の吊革に住む微生物を解析したそうです。 病気の原因となる微生物もいれば、その抗生物質を生む微生物もいたそうで、結論・健康なのか不健康なのかよく読み取れませんでしたが興味はあ... #NewsPicks https://t.co/FEnZ7degCt"
@@ -383,14 +406,6 @@ https://twitter.com/uranus_2/status/1025811324830248960
 https://phys.org/news/2018-07-microbes-hong-kong-subway-evening.html
 Microbes in the Hong Kong subway system mix together by evening rush hour
 July 31, 2018, Cell Press
-
-https://www.ncbi.nlm.nih.gov/pubmed/30067975
-Cell Rep. 2018 Jul 31;24(5):1190-1202.e5. doi: 10.1016/j.celrep.2018.06.109.
-The Environmental Exposures and Inner- and Intercity Traffic Flows of the Metro System May Contribute to the Skin Microbiome and Resistome.
-Kang K1, Ni Y1, Li J1, Imamovic L2, Sarkar C3, Kobler MD4, Heshiki Y1, Zheng T1, Kumari S3, Wong JCY5, Archna A5, Wong CWM5, Dingle C6, Denizen S7, Baker DM5, Sommer MOA2, Webster CJ3, Panagiotou G8.
-
-Hong Kong Mass Transit Railway (MTR) system
-
 
 25 NOV 2016
 http://www.scmp.com/magazines/post-magazine/short-reads/article/2048971/antibiotic-resistant-superbugs-hong-kong-mtr
