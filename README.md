@@ -33,6 +33,35 @@ Last Update: 2019-02
 - [uniRef](#uniref)
 - [infection](#infection)
 - [protists](#protists)
+- [sports](#sports)
+
+----------
+## sports
+
+https://nrid.nii.ac.jp/ja/nrid/1000070074630/
+長舩 哲齊  OSAFUNE Tetsuaki
+ スポーツ競技施設の微生物汚染に関する基礎的研究
+
+https://twitter.com/gelcyz/status/903992889247621126
+松崎貴之 on Twitter: "目をひくタイトルの論文が並ぶ。「相撲土俵の細菌叢の研究」「国技館土俵の塩濃度と細菌叢の変化」「ラグビー場土壌の細菌叢の研究」「柔道場畳の細菌と真菌との相関性」「剣道防具由来細菌の分離と同定」「 レスリング試合（マット）の細菌叢の調査」https://t.co/muFpQsTo4b"
+10:47 AM - 2 Sep 2017
+http://www.nittai.ac.jp/parsonal/osafune/sports.html
+
+https://www.mbs.jp/jounetsu-old/2016/01_31.shtml
+2016年01月31日放送
+福田真嗣（農学博士）: 情熱大陸
+フレッシュな便を採取し即冷凍、そして搬送中の温度管理など困難が多い中、より稀有な「便サンプル」を求めて福田が向かったのは相撲部屋。
+ちゃんこ鍋という文字通り「同じ釜の飯を食うアスリート」の便を求め、九州場所を前にした 大嶽部屋の門を叩く。待ち受けるのは大相撲初のアフリカ大陸力士として話題の大砂嵐関らだがさて一体どうなるのやら…。
+
+2001 年 34 巻 2 号 p. 31-39
+https://www.jstage.jst.go.jp/article/budo1968/34/2/34_31/_article/-char/ja/
+相撲土俵土壌の細菌叢の研究: 破傷風菌の分離同定
+三星 暢公, 長舩 哲齊, Harvard LYMAN, 松本 茂, 小川 光哉, 塔尾 武夫
+
+2000/10/07 - 2000/10/09
+https://www.jstage.jst.go.jp/article/jspeconf/51/0/51_463/_article/-char/ja/
+109E26109 土俵の細菌叢と塩濃度との相関性
+三星 暢公, 田中 和幸, 遠藤 麻美, 長船 哲齋, 松本 茂, 小川 光哉, 塔尾 武夫
 
 ----------
 ## protists
@@ -478,6 +507,19 @@ Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at
 3:06 AM - 5 Sep 2018
 
 ----------
+#### ted_craig_venter
+- https://www.ted.com/talks/craig_venter_unveils_synthetic_life?language=ja
+Craig Venter: クレイグ・ベンター：「人工生命」について発表する | TED Talk
+TED in the Field | May 2010
+• 18:17
+- https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life?language=ja
+Craig Venter: クレイグ・ベンター：目前に迫る合成生命の創造 | TED Talk
+TED2008 | February 2008
+• 15:54
+- https://www.ted.com/talks/craig_venter_on_dna_and_the_sea?language=ja
+クレイグ・ヴェンター: DNAと海 | TED Talk
+TEDGlobal 2005 | February 2005
+• 16:51
 
 ----------
 ## video
@@ -500,7 +542,6 @@ https://www.ted.com/talks/anne_madden_meet_the_microscopic_life_in_your_home_and
 - [クレイグ・ベンター：目前に迫る合成生命の創造](https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life?language=ja) TED2008 · 15:54 · Filmed Feb 2008
 - [クレイグ・ヴェンター: DNAと海](https://www.ted.com/talks/craig_venter_on_dna_and_the_sea?language=ja) TEDGlobal 2005 · 16:51 · Filmed Feb 2005
 
-
 http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
 英語で読む「TED Talks」: Smelfie におい自撮り［Ani Liu］
 
@@ -508,7 +549,6 @@ http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
 https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_biology?language=ja
 アニー・リュー: においの「自撮り」やその他の合成生物学的な実験 | TED Talk
 • 7:20
-
 
 ----------
 
@@ -945,6 +985,17 @@ https://antibioticawarenessjp.jimdo.com/
 
 ![[(https://pbs.twimg.com/media/DqP240aWkAEFR73.jpg)
 
+
+https://ja.wikipedia.org/wiki/バンコマイシンヘテロ耐性黄色ブドウ球菌
+ヘテロVISAを理解するには、ヘテロ耐性の理解が必要である。
+ヘテロ耐性とは、同一細胞集団内に感受性の異なった個々の細胞が存在すること意味する。
+多くが、大多数の感性細胞とごく少数の耐性細胞が混在している。
+この状態をヘテロ耐性と呼ぶ。
+
+https://www.nature.com/articles/s41564-018-0342-0
+The high prevalence of antibiotic heteroresistance in pathogenic bacteria is mainly caused by gene amplification | Nature Microbiology
+
+
 https://twitter.com/AMRCRC_JAPAN/status/1063265446508531712
 AMR臨床リファレンスセンター on Twitter: "抗菌薬・抗生物質は多くの人の命を救ってきました。しかし本来必要のない場面で使ってしまうと、副作用だけでなく薬剤耐性菌による悪影響が生じてしまいます。抗菌薬は「風邪を早く治す強い薬」では　#KeepAntibioticsWorking https://t.co/cg0j77Aidy"
 10:00 PM - 15 Nov 2018
@@ -1117,6 +1168,9 @@ DNAの塩基配列を入力するとすぐに何の生き物かを検索して�
 
 ----------
 ## wired
+
+https://wired.jp/2019/02/22/antibiotics-are-failing-us-crispr-is-hope/
+耐性菌の蔓延で抗生物質が効かない世界は、「遺伝子編集」で阻止できるのか？｜WIRED.jp
 
 https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
 これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
@@ -1525,6 +1579,11 @@ LPSN - List of Prokaryotic names with Standing in Nomenclature
 
 
 ## Twitter
+
+https://twitter.com/WMicrobiomeDay
+World Microbiome Day (@WMicrobiomeDay) | Twitter
+June 27th is a day to celebrate all things Microbiome around the world. The 1st World Microbiome Day was launched by APC Microbiome Ireland in 2018.
+
 
 - https://twitter.com/Med_Microbe_bot 感染微生物bot (@Med_Microbe_bot)
 - https://twitter.com/biseibutsu__bot 微生物bot (@biseibutsu__bot)
