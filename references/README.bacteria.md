@@ -1565,36 +1565,6 @@ https://core.ac.uk/download/pdf/96948362.pdf
 博士論文土壌環境における亜ヒ酸の挙動に及ぼす細菌群集の影響
 2-6-1 供試菌株供試菌株として Alphaproteobacteria 綱に属する亜ヒ酸酸化細菌 Shinorhizobium sp. KGO-5 (Dong et al., 2014)を用いた。KGO-5 株は本研究室にお いて高度ヒ素汚染土壌から単離された通性独立栄養性の亜ヒ酸酸化細菌である。2-6-2 KGO-5 株の培養及び菌体懸濁液の調製
 ----------
-
-## Rickettsiales
-- https://ja.wikipedia.org/wiki/リケッチア目
-- https://en.wikipedia.org/wiki/Holosporaceae
-- https://ja.wikipedia.org/wiki/ホロスポラ属
-- https://ja.wikipedia.org/wiki/ケディバクター属
-
-https://ja.wikipedia.org/wiki/ミディクロリア
-(Candidatus Midichloria mitochondrii)はミトコンドリアに細胞内共生するリケッチアであり、マダニの卵巣に見出される。この名は映画スター・ウォーズ・シリーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名されている[1]。
-
-http://www.nikkei-science.com/?p=46394
-ミトコンドリアの起源に新説〜日経サイエンス2015年4月号より
-リケッチアが祖先である可能性が浮上
-
-https://www.ncbi.nlm.nih.gov/pubmed/25609566
-Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
-An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
-Wang Z1, Wu M1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25333787
-PLoS One. 2014 Oct 15;9(10):e110685. doi: 10.1371/journal.pone.0110685. eCollection 2014.
-Phylogenomic reconstruction indicates mitochondrial ancestor was an energy parasite.
-Wang Z1, Wu M1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/16703114
-PLoS Genet. 2006 May;2(5):e76. Epub 2006 May 12.
-Genome sequence of Rickettsia bellii illuminates the role of amoebae in gene exchanges between intracellular pathogens.
-Ogata H1, La Scola B, Audic S, Renesto P, Blanc G, Robert C, Fournier PE, Claverie JM, Raoult D.
-
-----------
 ## Wolbachia
 - https://sites.google.com/site/kageyama000jp/
 陰山大輔
@@ -1673,8 +1643,42 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 細菌が操る性転換 | 日経サイエンス　
 昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
 
+
+----------
+
+## Rickettsiales
+- https://ja.wikipedia.org/wiki/リケッチア目
+- https://en.wikipedia.org/wiki/Holosporaceae
+- https://ja.wikipedia.org/wiki/ホロスポラ属
+- https://ja.wikipedia.org/wiki/ケディバクター属
+
+https://ja.wikipedia.org/wiki/ミディクロリア
+(Candidatus Midichloria mitochondrii)はミトコンドリアに細胞内共生するリケッチアであり、マダニの卵巣に見出される。この名は映画スター・ウォーズ・シリーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名されている[1]。
+
+http://www.nikkei-science.com/?p=46394
+ミトコンドリアの起源に新説〜日経サイエンス2015年4月号より
+リケッチアが祖先である可能性が浮上
+
+https://www.ncbi.nlm.nih.gov/pubmed/25609566
+Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
+An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
+Wang Z1, Wu M1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25333787
+PLoS One. 2014 Oct 15;9(10):e110685. doi: 10.1371/journal.pone.0110685. eCollection 2014.
+Phylogenomic reconstruction indicates mitochondrial ancestor was an energy parasite.
+Wang Z1, Wu M1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16703114
+PLoS Genet. 2006 May;2(5):e76. Epub 2006 May 12.
+Genome sequence of Rickettsia bellii illuminates the role of amoebae in gene exchanges between intracellular pathogens.
+Ogata H1, La Scola B, Audic S, Renesto P, Blanc G, Robert C, Fournier PE, Claverie JM, Raoult D.
+
 ----------
 ## mitochondria
+
+https://elifesciences.org/articles/42535
+An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | eLife
 
 https://www.biorxiv.org/content/early/2018/11/05/462648
 An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | bioRxiv
@@ -1711,9 +1715,6 @@ Georgiades K1, Madoui MA, Le P, Robert C, Raoult D.
 https://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
 PRJDB5044 - Project Detail
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436463/
-Draft Genome Sequence of Roseovarius sp. A-2, an Iodide-Oxidizing Bacterium Isolated from Natural Gas Brine Water, Chiba, Japan
-
 https://www.ncbi.nlm.nih.gov/nuccore/BDIY00000000
 Roseovarius sp. A-2, whole genome shotgun sequencing project - Nucleotide - NCBI
 
@@ -1725,6 +1726,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/28529651
 J Genomics. 2017 Apr 6;5:51-53. doi: 10.7150/jgen.19846. eCollection 2017.
 Draft Genome Sequence of Roseovarius sp. A-2, an Iodide-Oxidizing Bacterium Isolated from Natural Gas Brine Water, Chiba, Japan.
 Yuliana T, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436463/
+The genome contained four multicopper oxidase genes. Among these, one was closely related to ioxA, which was previously found to be involved in iodide oxidation in Iodidimonas sp. Q-1 4. 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27738047
 Genome Announc. 2016 Oct 13;4(5). pii: e01155-16. doi: 10.1128/genomeA.01155-16.
@@ -1746,7 +1749,10 @@ Genome Announc. 2014 Jul 3;2(4). pii: e00659-14. doi: 10.1128/genomeA.00659-14.
 Draft genome sequence of strain Q-1, an iodide-oxidizing alphaproteobacterium isolated from natural gas brine water.
 Ehara A, Suzuki H, Kanesaki Y, Yoshikawa H, Amachi S.
 
-
+https://www.ncbi.nlm.nih.gov/pubmed/22447601
+Appl Environ Microbiol. 2012 Jun;78(11):3941-9. doi: 10.1128/AEM.00084-12. Epub 2012 Mar 23.
+Iodide oxidation by a novel multicopper oxidase from the alphaproteobacterium strain Q-1.
+Suzuki M1, Eda Y, Ohsawa S, Kanesaki Y, Yoshikawa H, Tanaka K, Muramatsu Y, Yoshikawa J, Sato I, Fujii T, Amachi S.
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27612520
@@ -1764,6 +1770,9 @@ Biosci Biotechnol Biochem. 2014;78(11):1963-70. doi: 10.1080/09168451.2014.94027
 Arsenite oxidation by a facultative chemolithoautotrophic Sinorhizobium sp. KGO-5 isolated from arsenic-contaminated soil.
 Dong D1, Ohtsuka T, Dong DT, Amachi S.
 
+
+
+
 Mini Reviews
 https://www.ncbi.nlm.nih.gov/pubmed/21558718
 Microbes Environ. 2008;23(4):269-76.
@@ -1780,10 +1789,10 @@ Appl Environ Microbiol. 2007 Sep;73(18):5725-30. Epub 2007 Jul 20.
 Dissimilatory iodate reduction by marine Pseudomonas sp. strain SCT.
 Amachi S1, Kawaguchi N, Muramatsu Y, Tsuchiya S, Watanabe Y, Shinoyama H, Fujii T.
 
-2016年6月3日
-https://www.amano-enzyme.co.jp/jp/company/17_pro.html
+2016/06/03
+http://ipst.adm.ehime-u.ac.jp/pages/?p=5106
 新規マルチ銅オキシダーゼIOXを活用した酵素殺菌剤の殺菌メカニズムの解明
-https://www.amano-enzyme.co.jp/jp/company/pdf/17/pg05.pdf
+https://www.amano-enzyme.co.jp/corporate/foundation/pdf/17/pg05.pdf
 Q-1 株
 
 2014年5月26日
@@ -1794,8 +1803,6 @@ OR-1株のゲノムにはヒ素代謝遺伝子群を コードする領域
 2012.12.13
 http://tenbou.nies.go.jp/news/jnews/detail.php?i=9992
 千葉大学、微生物酵素による放射性ヨウ素の土壌中での安定化プロセスを解明
-
-
 
 http://www.jsmrs.jp/journal/No32_2/No32_2_115.pdf
 Microb. Resour. Syst., 2016
