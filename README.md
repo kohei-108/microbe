@@ -34,6 +34,43 @@ Last Update: 2019-02
 - [infection](#infection)
 - [protists](#protists)
 - [sports](#sports)
+- [phone](#phone)
+
+----------
+## phone
+携帯電話
+
+![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
+
+[StuckOnU](https://github.com/haruosuz/metasub/blob/master/README.md#stuckonu)
+
+http://www.jgenomics.com/v07p0026
+SELfies and CELLfies: Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology [Abstract]
+
+2015年01月29日
+http://karapaia.com/archives/52183300.html
+なぜ可視化したし。スマートフォンに付着したバクテリアを可視化した写真（英研究）※細菌注意 : カラパイア
+
+https://pulmonary.exblog.jp/20663210/
+スマホは病原微生物のコンタミネーションのリスク : 呼吸器内科医
+
+
+https://www.aqua-club.co.jp/products/mil-kin/
+バクテリア・セルフチェッカー『mil-kin（見る菌)』 – アクアシステム
+飲食店舗や食品工場や飲料・製薬工場の気になるところを、スマートフォンやタブレットを使い、リアルタイムに微生物の有無のチェックができる衛生管理のアイテムをご紹介。
+
+https://www.mil-kin.com/
+バクテリアセルフチェッカー mil-kin
+
+
+----------
+### Jack Gilbert
+
+https://www.youtube.com/watch?v=z6AiKkewR0U
+It's not just phones! Find out what... - YouTube
+
+https://www.youtube.com/watch?v=HDLEL36Fu1E
+Why getting dirty is the new clean | Jack Gilbert | TEDxNaperville - YouTube
 
 ----------
 ## sports
@@ -107,10 +144,6 @@ https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char
 
 http://www.nibb.ac.jp/press/2014/06/11.html
 プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
-
-
-
-
 
 
 ----------
@@ -1237,6 +1270,9 @@ https://wired.jp/special/2016/biology/
 
 https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
 「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+https://wired.jp/2013/08/13/charge-smart-phone/
+尿と微生物でスマートフォンを充電しよう！｜WIRED.jp
 
 ----------
 微生物の「指紋」
