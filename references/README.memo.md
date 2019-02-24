@@ -18,9 +18,100 @@
   - [duvallet](#duvallet) Claire Duvallet
 - [prokaryote](#prokaryote)
 - [replication](#replication)
-
 - [papers](#papers)
+- [GWAS](#gwas)
 
+----------
+### GWAS
+- [Genome-wide association study (GWAS)](https://en.wikipedia.org/wiki/Genome-wide_association_study)
+- [ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析)
+- [[PDF]次世代GWAS研究 - イルミナ株式会社](https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/primer_next_generation_gwas_research-j.pdf)
+
+https://twitter.com/Tyu_Shi/status/1053687083284348928
+Tyu_Shi on Twitter: "それらの論文読んだ後に、GWASとの対比でメタゲコホート研究を論じたこのReviewを読んだが、現状の問題点の整理にとても良かった。提案しているindexはちょっと微妙だが。Host genetics and microbiome associations through the lens of genome wide association studies https://t.co/a7DIpB9Aqs"
+12:39 PM - 20 Oct 2018
+https://www.ncbi.nlm.nih.gov/pubmed/29909175
+Curr Opin Microbiol. 2018 Aug;44:9-19. doi: 10.1016/j.mib.2018.05.003. Epub 2018 Jun 14.
+Host genetics and microbiome associations through the lens of genome wide association studies.
+Weissbrod O1, Rothschild D1, Barkan E1, Segal E2.
+
+https://twitter.com/johnlees6/status/1013791082872745985
+John Lees on Twitter: "Have a look at our (now published) short note about our microbial GWAS software pyseer: https://t.co/7u8ko59mb1 More info here: https://t.co/xOsJbzci33 We've also got some new features coming soon, how exciting"
+10:26 AM - 2 Jul 2018
+
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty539/5047751
+pyseer: a comprehensive tool for microbial pangenome-wide association studies | Bioinformatics | Oxford Academic
+
+http://pyseer.readthedocs.io/en/master/
+pyseer documentation — pyseer 1.1.1 documentation
+
+
+https://www.biorxiv.org/content/early/2018/02/15/266312
+pyseer: a comprehensive tool for microbial pangenome-wide association studies | bioRxiv
+- https://github.com/mgalardini/pyseer
+- http://pyseer.readthedocs.io
+
+6 Feb 2018
+https://twitter.com/strnr/status/960873677532385280
+Stephen Turner on Twitter: "treeWAS: A phylogenetic tree-based approach to genome-wide association studies in microbes code https://t.co/JprApEzBbj paper https://t.co/DZN9Jod0tQ docs https://t.co/e5aExAXb1L… https://t.co/ghmiArcTyI"
+
+https://www.ncbi.nlm.nih.gov/pubmed/27840430
+Nat Rev Genet. 2017 Jan;18(1):41-50. doi: 10.1038/nrg.2016.132. Epub 2016 Nov 14.
+Microbial genome-wide association studies: lessons from human GWAS.
+Power RA1, Parkhill J2, de Oliveira T1,2,3.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27887642
+Genome Biol. 2016 Nov 25;17(1):238.
+Rapid scoring of genes in microbial pan-genome-wide association studies with Scoary.
+Brynildsrud O1, Bohlin J2, Scheffer L2,3, Eldholm V2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27572652
+Nat Microbiol. 2016 Apr 26;1:16059. doi: 10.1038/nmicrobiol.2016.59.
+Bacterial genomics: Microbial GWAS coming of age.
+Falush D1.
+
+https://www.biostars.org/p/197270/
+Is there any good GWAS software for the whole bacterial genomes?
+
+https://www.ncbi.nlm.nih.gov/pubmed/27892531
+Sci Rep. 2016 Nov 28;6:37811. doi: 10.1038/srep37811.
+A genome-wide association study identifies a horizontally transferred bacterial surface adhesin gene associated with antimicrobial resistant strains.
+Suzuki M1, Shibayama K1, Yahara K1.
+http://www.aeplan.co.jp/sgmj2017/pdf/program_neminar.pdf
+3O1-09
+ゲノムワイド関連解析による水平伝達に由来しカルバペネム耐性株に広く保存された 細胞表面接着因子の発見
+
+https://twitter.com/search?q=GWAS%20microbiome
+
+https://www.ncbi.nlm.nih.gov/pubmed/28824167
+Nat Rev Genet. 2017 Nov;18(11):690-699. doi: 10.1038/nrg.2017.63. Epub 2017 Aug 21.
+Human genetic variation and the gut microbiome in disease.
+Hall AB1,2, Tolonen AC1, Xavier RJ1,2,3,4.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27694959
+Nat Genet. 2016 Nov;48(11):1407-1412. doi: 10.1038/ng.3663. Epub 2016 Oct 3.
+The effect of host genetics on the gut microbiome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26528553
+PLoS One. 2015 Nov 3;10(11):e0140301. doi: 10.1371/journal.pone.0140301. eCollection 2015.
+Genome-Wide Association Studies of the Human Gut Microbiota.
+Davenport ER1, Cusanovich DA1, Michelini K1, Barreiro LB2, Ober C1, Gilad Y1.
+
+2016年7月11日
+http://first.lifesciencedb.jp/archives/12735
+ゲノムワイド関連解析を用いたイネにおける農業形質にかかわる新規の遺伝子の同定
+
+http://plaza.umin.ac.jp/~yokada/yokada.files/JSHG2012_YukinoriOkada_Award.pdf
+2012/10/26 日本人類遺伝学会第57回大会 奨励賞受賞講演
+ゲノムワイド関連解析を通じた疾患感受性遺伝子の同定
+
+2009年3月26日
+https://www.natureasia.com/ja-jp/jobs/tokushu/detail/154
+ゲノムを巨視的にとらえる…GWASとエピジェネティクスの試み
+
+2009年3月
+https://ci.nii.ac.jp/els/contentscinii_20180212133359.pdf?id=ART0009161346
+全ゲノム関連解析 (GWAS)の統計的手法
 
 ----------
 ### paper
