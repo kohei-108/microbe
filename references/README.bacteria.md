@@ -58,8 +58,19 @@ https://www.ncbi.nlm.nih.gov/pubmed/30405552
 Front Microbiol. 2018 Oct 23;9:2473. doi: 10.3389/fmicb.2018.02473. eCollection 2018.
 Distribution of Arsenic Resistance Genes in Prokaryotes.
 Ben Fekih I1, Zhang C1, Li YP1, Zhao Y2, Alwathnani HA3, Saquib Q4, Rensing C1,5, Cervantes C6.
+```
+Numerous ars operons, with a variety of genes and different combinations of them, populate the prokaryotic genomes, including their accessory plasmids, transposons, and genomic islands. 
+This review summarizes the presence, distribution, organization, and redundance of arsenic resistance genes in prokaryotes.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/
+Additional Arsenic Resistance Genes
 However, the arsenite transport pathway was unknown until an aquaglyceroporin, the glycerol facilitator GlpF, was discovered in E. coli as an “accidental” arsenite uptake transporter (Sanders et al., 1997; Rosen, 2002; Meng et al., 2004). 
+```
+
+Distribution of ars genes in arsenic-resistant prokaryotes. 
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/figure/F1/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6205960_fmicb-09-02473-g001.jpg)
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/bin/fmicb-09-02473-g001.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/23669886
 Nat Rev Microbiol. 2013 Jun;11(6):371-84. doi: 10.1038/nrmicro3028. Epub 2013 May 13.
