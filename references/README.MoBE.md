@@ -77,6 +77,10 @@ https://wired.jp/special/2016/biology/
 これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
 未来のバイオは建築や都市デザインまでも変えてゆく。
 
+Nov 9, 2015
+https://www.youtube.com/watch?v=GUfR_81fmLE
+【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
+
 https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
 「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
 
@@ -84,9 +88,37 @@ Feb 2013
 http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
 ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
 
+January 2013
+https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
+Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
+
 Jul 2011
 http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
 ジェシカ・グリーン「微生物を正しく取り除くために」
+
+### phylagen
+
+https://twitter.com/phylagen
+https://phylagen.com/
+Every object & every place has a 
+naturally occurring microbial fingerprint
+
+### roxana_hickey
+
+JANUARY 28, 2016
+http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
+We’re All Sitting in Clouds of Bacteria | Mental Floss
+Jan 25, 2016
+https://www.youtube.com/watch?v=2_ib7Z4bmrg
+Your Very Special Bacterial Cloud - YouTube
+
+Sep 7, 2016
+https://www.youtube.com/watch?v=vbYJlEItP7g
+Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
+
+https://twitter.com/roxana_hickey/status/877713794733973504
+Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
+10:24 PM - 21 Jun 2017
 
 ----------
 ## featuring
