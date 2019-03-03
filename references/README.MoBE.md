@@ -57,6 +57,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/25170151
 Science. 2014 Aug 29;345(6200):1048-52. doi: 10.1126/science.1254529.
 Longitudinal analysis of microbial interaction between humans and the indoor environment.
 Lax S1, Smith DP2, Hampton-Marcell J1, Owens SM3, Handley KM1, Scott NM1, Gibbons SM4, Larsen P5, Shogan BD6, Weiss S7, Metcalf JL8, Ursell LK9, Vázquez-Baeza Y10, Van Treuren W8, Hasan NA11, Gibson MK12, Colwell R11, Dantas G12, Knight R13, Gilbert JA14.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337996/
+Figure 2
+Widespread sharing of microbial taxa between human and home surfaces
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4337996/bin/nihms663075f2.jpg)
 
 https://phys.org/news/2014-08-home-microbiome-results-household-microbes.html
