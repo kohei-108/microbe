@@ -12,6 +12,81 @@
 - [school](#school)
 - [review](#review)
 - [subway](#subway)
+- [home](#home)
+- [jessica_green](#jessica_green)
+
+----------
+## home
+家
+
+http://www.jchm.jp/
+http://www.jchm.jp/humanFloraMap.pdf
+“Home microbiome project”とはアメリカのアルゴンヌ国立研究所が行っ
+ている研究で、住宅とヒトの皮膚の細菌フローラがどのように関係している
+のかに関する研究です。同じ家の中では場所が変わっても細菌フローラは
+似ており、そこに住むヒトの細菌フローラともよく似ています。たとえば、キー
+ボードと床の細菌フローラはどちらもそこに住むヒトの皮膚の細菌フローラ
+と似ています。ヒト・室内環境・微生物の相互作用を調べることで、これ
+から様々なことが明らかになるでしょう。
+
+https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/publicaton_metagenome_for-human-health-j.pdf
+ヒトの健康における
+細菌およびメタゲノム
+イルミナテクノロジーを使用した最新論文の概要
+
+Lax S., Smith D. P., Hampton-Marcell J., Owens S. M., Handley K. M., et al. (2014)
+Longitudinal analysis of microbial interaction between humans and the indoor
+environment. Science 345: 1048-1052
+ヒトは特定の微生物コミュニティーと共存しています。このような住宅は、室内に生息する微生物のプロファ
+イルと住人への影響をモニターするのに利用できます。Home Microbiome Project では、16S rRNA
+V4アンプリコンシーケンスを行って皮膚と住宅の微生物コミュニティーをモニターしました。新居への引っ
+越し前後をモニターした 3 家族を含め、全 10 戸を 6 週間モニターしました。居住者がこれら細菌叢の主
+因だったため、微生物コミュニティーは各住宅 / 家族のペアに特異的であり、引っ越し直後に同じ微生物
+コミュニティーが居住家族に確認されています。遺伝的関連性のある個人では細菌叢にわずかな違いがみ
+られましたが、共通のエリアを共有する遺伝的関連性のない個人では大きな違いを示しました。ショットガン
+メタゲノムシーケンスを行った結果、特定の居住者にみられた病原菌および病原性遺伝子が、キッチンカ
+ウンターの表面にはほとんど存在しないことが明らかになりました。この研究では、ヒトと環境との相互作
+用、およびこの関係が健康状態に及ぼす影響をクローズアップしています。
+
+2014年8月31日
+http://aasj.jp/news/watch/2102
+住宅環境と皮膚細菌叢（８月２９日号Science誌掲載論文）
+タイトルは「Longitudinal analysis of microbial interaction between humans and the indoor environment（ヒトと室内環境の細菌叢相互作用に関する長期分析）」だ。研究では、１０の家で４−６週間、室内の様々な場所と、住人の手、顔、足の皮膚の細菌叢に存在する細菌の種類を次世代シークエンサーで調べただけの仕事だ。
+
+https://www.ncbi.nlm.nih.gov/pubmed/25170151
+Science. 2014 Aug 29;345(6200):1048-52. doi: 10.1126/science.1254529.
+Longitudinal analysis of microbial interaction between humans and the indoor environment.
+Lax S1, Smith DP2, Hampton-Marcell J1, Owens SM3, Handley KM1, Scott NM1, Gibbons SM4, Larsen P5, Shogan BD6, Weiss S7, Metcalf JL8, Ursell LK9, Vázquez-Baeza Y10, Van Treuren W8, Hasan NA11, Gibson MK12, Colwell R11, Dantas G12, Knight R13, Gilbert JA14.
+
+https://phys.org/news/2014-08-home-microbiome-results-household-microbes.html
+Home Microbiome Project announces results of study on household microbes
+August 28, 2014, Argonne National Laboratory
+
+https://www.youtube.com/watch?v=dQCBpmUZlF4
+The Home Microbiome Project - YouTube
+Published on Aug 25, 2014
+
+https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-and-the-home-microbiome-project/
+Websites for the Hospital Microbiome Project and the Home Microbiome Project – microBEnet: the microbiology of the Built Environment network
+
+----------
+## jessica_green
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+Feb 2013
+http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
+ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
+
+Jul 2011
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+ジェシカ・グリーン「微生物を正しく取り除くために」
 
 ----------
 ## featuring
@@ -23,10 +98,12 @@ The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
 https://twitter.com/copypasteusa/status/1093071982155845632
 建築環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
 
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
-Comparative genomics of Bacteria commonly identified in the built environment
-Nancy Merino, Shu Zhang, Masaru Tomita and Haruo Suzuki
-BMC Genomics2019
+
+https://www.ncbi.nlm.nih.gov/pubmed/30691394
+BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment.
+Merino N, Zhang S, Tomita M, Suzuki H.
+
 
 背景
 建築環境（built environment）の微生物群集は、人々の生活に影響を与える可能性があり、様々な屋内・屋外・地下・極限環境で研究されてきた。従来、これらの微生物は培養法または培養非依存法（アンプリコンシークエンシング）によって研究されてきた。しかしながら、いずれの方法にも限界があり、複数の研究結果を比較することは困難であり、微生物のライフスタイル（宿主との共生、自由生活性、増殖スピードなど）に関する情報はほとんど得られない。建築環境の微生物をより深く理解するためには、DNA配列が完全に解読されたゲノムから情報を得る方法が有効と考えられる。そこで、建築環境で共通して同定される細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）を調査することにより、これらの細菌のライフスタイルを理解するための第一歩を提供することを目的とした。
@@ -121,14 +198,6 @@ Science. 2014 Aug 29;345(6200):1048-52. doi: 10.1126/science.1254529.
 Longitudinal analysis of microbial interaction between humans and the indoor environment.
 Lax S1, Smith DP2, Hampton-Marcell J1, Owens SM3, Handley KM1, Scott NM1, Gibbons SM4, Larsen P5, Shogan BD6, Weiss S7, Metcalf JL8, Ursell LK9, Vázquez-Baeza Y10, Van Treuren W8, Hasan NA11, Gibson MK12, Colwell R11, Dantas G12, Knight R13, Gilbert JA14.
 
-
-2014年8月31日
-http://aasj.jp/news/watch/2102
-住宅環境と皮膚細菌叢（８月２９日号Science誌掲載論文）
-
-
-
-----------
 
 
 ----------
