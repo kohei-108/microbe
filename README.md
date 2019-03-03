@@ -594,11 +594,16 @@ https://twitter.com/endBooks/status/385905594026033153
 7:13 PM - 3 Oct 2013
 
 ----------
-
-## books
+## nikkei-science
 
 http://www.nikkei-science.com/?tag=微生物学
 微生物学 | 日経サイエンス
+
+http://www.nikkei-science.com/?tag=感染症
+感染症 | 日経サイエンス
+
+http://www.nikkei-science.com/201810_057.html
+特別リポート：変貌する感染症の脅威 | 日経サイエンス
 
 http://www.nikkei-science.com/201803_068.html
 バイオフィルムを退治する | 日経サイエンス
@@ -610,6 +615,9 @@ http://www.nikkei-science.com/201605_072.html
 http://www.nikkei-science.com/?p=44051
 鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
 苦味受容体が細菌の侵入と闘っている
+
+----------
+## books
 
 ### 2018-12-14
 ![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
@@ -1207,6 +1215,10 @@ https://wired.jp/2019/02/22/antibiotics-are-failing-us-crispr-is-hope/
 
 https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
 これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
+```
+社食いらずのゲオバクター・メタリレデュセンス Geobacter metallireducens
+多様性にはボルバキア Wolbachia
+```
 
 https://wired.jp/2018/07/04/nasas-astro-mice/
 宇宙での生活は、腸内細菌にどんな影響を及ぼすか？ 答えはNASAのネズミが知っている｜WIRED.jp
@@ -1223,6 +1235,9 @@ https://wired.jp/2018/02/10/norovirus-pyeongchang-olympic/
 
 https://wired.jp/2017/12/18/bacteria-from-space/
 国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？｜WIRED.jp
+
+https://wired.jp/2017/12/14/catalogue-every-microbe/
+地球上の無数の細菌をすべてカタログ化──壮大なプロジェクトが目指すもの｜WIRED.jp
 
 https://wired.jp/2017/07/14/obesity-surgery-may-work-remaking-gut-microbiome/
 「体重を減らす微生物群」のつくり方、米研究チームが発見──手術しない肥満治療につながるか｜WIRED.jp
