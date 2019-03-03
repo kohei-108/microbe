@@ -123,6 +123,7 @@ Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment t
 https://twitter.com/roxana_hickey/status/877713794733973504
 Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
 10:24 PM - 21 Jun 2017
+![](https://pbs.twimg.com/media/DC5ECfiV0AAX2bo.jpg)
 
 ----------
 ## featuring
