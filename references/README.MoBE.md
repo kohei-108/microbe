@@ -103,6 +103,10 @@ https://phylagen.com/
 Every object & every place has a 
 naturally occurring microbial fingerprint
 
+https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
+This Startup Uses Dust to Fight Sweatshops - leapsmag
+Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
+
 ### roxana_hickey
 
 JANUARY 28, 2016
