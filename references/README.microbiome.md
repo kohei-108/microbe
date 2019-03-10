@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-01-22
+Last Update: 2019-03-10
 
 ----------
 
@@ -7,8 +7,11 @@ Last Update: 2019-01-22
 **微生物群集**
 
 ## Table of Contents
-- [host](#host) 宿主
+
 - [featuring](#featuring)
+- [updates](#updates)
+- [forensic](#forensic) 法科学
+- [host](#host) 宿主
 - [16S](#16s)
 - [amplicon-shotgun](#amplicon-shotgun)
 - [mothur-qiime](#mothur-qiime)
@@ -25,13 +28,24 @@ https://github.com/haruosuz/metasub
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 都市の微生物群集
 
-
-
 ----------
 ## featuring
 
 ----------
-## Updates
+## updates
+
+### 2019
+
+国際会議のデータ解析イベント
+https://twitter.com/CAMDA_conf
+CAMDA 2019 (@CAMDA_conf) | Twitter
+International Conference on Critical Assessment of Massive Data Analysis
+
+http://camda.info/
+The Metagenomic Forensics Challenge presents thousands of city microbiome profiles in a global context. Construct multi-source microbiome fingerprints and predict the geographical origin of mystery samples.
+
+ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland
+
 
 ### 2018
 
@@ -51,31 +65,70 @@ https://twitter.com/merenbey/status/999416078446071809
 A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
 6:25 PM - 23 May 2018
 
-
-
 ----------
-## amplicon-shotgun
+## forensic
+https://ja.wikipedia.org/wiki/法科学
 
-targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
+https://twitter.com/search?q=forensic%20microbiome
 
-https://www.ncbi.nlm.nih.gov/pubmed/28337071
-J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
-International Standards for Genomes, Transcriptomes, and Metagenomes.
-Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
-TABLE 3
-Comparison of metagenomic assay capabilities and limitations
+https://microbiomedigest.com/microbiome-papers-collection/non-human-microbiome-paper-collection/forensic-microbiology/
+Forensic Microbiology | Microbiome Digest - Bik's Picks
 
-https://www.ncbi.nlm.nih.gov/pubmed/28761145
-Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
-Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+https://www.nij.gov/topics/forensics/evidence/Pages/microbiome.aspx
+Forensic Applications of Microbiomes
 
-https://www.ncbi.nlm.nih.gov/pubmed/21121044
-Pac Symp Biocomput. 2011:165-76.
-Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
-Shah N1, Tang H, Doak TG, Ye Y.
+https://www.npa.go.jp/nrips/jp/first/section5.html
+生物第五研究室 - 科学警察研究所
 
+2018.3.20 07:30
+https://www.sankei.com/west/news/180320/wst1803200001-n1.html
+皮膚のウイルスに日本人特有のＤＮＡ、犯罪捜査への応用も…高知大チームが発見（1/3ページ） - 産経ニュース
+
+https://www.jcvi.org/forensics-microbiome-database
+Forensics Microbiome Database | J. Craig Venter Institute
+https://www.ncbi.nlm.nih.gov/pubmed/28728057
+Forensic Sci Int Genet. 2017 Sep;30:141-147. doi: 10.1016/j.fsigen.2017.06.008. Epub 2017 Jun 27.
+Integrating the microbiome as a resource in the forensics toolkit.
+Clarke TH1, Gomez A1, Singh H1, Nelson KE1, Brinkac LM2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28887423
+Appl Environ Microbiol. 2017 Sep 8. pii: AEM.01672-17. doi: 10.1128/AEM.01672-17. [Epub ahead of print]
+Forensic human identification using skin microbiomes.
+Schmedes SE1,2, Woerner AE2, Budowle B3,4.
+
+2017-07-20
+https://katosei.jsbba.or.jp/view_html.php?aid=840
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/55/8/55_559/_pdf
+犯罪捜査におけるDNA鑑定によるヒトの異同識別
+微生物群集構造プロファイリングによる新たな法科学的手法の可能性
+
+https://www.ncbi.nlm.nih.gov/pubmed/28244273
+Microb Biotechnol. 2017 Mar;10(2):228-230. doi: 10.1111/1751-7915.12699.
+The human microbiome: an emerging tool in forensics.
+Hampton-Marcell JT1,2,3, Lopez JV4, Gilbert JA1,3,5.
+
+https://nge.jp/2015/05/16/post-104618
+犯罪捜査の手掛かりとなるか？体内細菌群から個人を特定する研究結果が発表 | FUTURUS（フトゥールス）
+https://www.ncbi.nlm.nih.gov/pubmed/25964341
+Proc Natl Acad Sci U S A. 2015 Jun 2;112(22):E2930-8. doi: 10.1073/pnas.1423854112. Epub 2015 May 11.
+Identifying personal microbiomes using metagenomic codes.
+Franzosa EA1, Huang K2, Meadow JF3, Gevers D2, Lemon KP4, Bohannan BJ3, Huttenhower C5.
+forensic genetics; human microbiome; metagenomics; microbial ecology; strain variation
+
+https://wired.jp/2015/10/11/bacteria-clouds/
+人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
+
+https://gigazine.net/news/20151012-microbial-cloud/
+各個人が固有で持ち、指紋やDNAのように個人を特定できる「微生物雲」とは？ - GIGAZINE
+その結果、人間は1時間あたり100万個のバクテリアを空気中に放出しており、実験開始から4時間程度でそれぞれの被験者を明確に区別できるほどの特徴を持つパターンが確認されたとのこと。確認されたバクテリアは連鎖球菌やプロピオン酸菌属、コリネバクテリウム属に含まれるものだったそうです。
+![https://gigazine.net/news/20151012-microbial-cloud/](https://i.gzn.jp/img/2015/10/12/microbial-cloud/01_m.png)
+https://www.ncbi.nlm.nih.gov/pubmed/26417541
+PeerJ. 2015 Sep 22;3:e1258. doi: 10.7717/peerj.1258. eCollection 2015.
+Humans differ in their personal microbial cloud.
+Meadow JF1, Altrichter AE1, Bateman AC1, Stenson J2, Brown GZ2, Green JL3, Bohannan BJ1.
+
+https://www.natureasia.com/static/ja-jp/ndigest/pdf/v5/n10/ndigest.2008.081034.pdf
+microbial forensics: 微生物法医学、微生物鑑識学
 
 ----------
 ## host
@@ -89,7 +142,6 @@ Sharpton TJ1,2.
 https://twitter.com/animalculum/status/946402176921980928
 Lukas VF Novak on Twitter: ""We compare microbiomes from human populations, placing them in the context of microbes from humanity’s near and distant animal relatives. We discuss potential mechanisms to generate host-specific microbiome configurations and the consequences of disrupting those configurations"… https://t.co/XAtRg1eMDk"
 10:27 AM - 28 Dec 2017
-
 https://www.ncbi.nlm.nih.gov/pubmed/29282061
 BMC Biol. 2017 Dec 27;15(1):127. doi: 10.1186/s12915-017-0454-7.
 The human microbiome in evolution.
@@ -117,6 +169,29 @@ https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_pdf
 生まれる前の動物の消化管は通常無菌である（
 
 ----------
+## amplicon-shotgun
+
+targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28337071
+J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
+International Standards for Genomes, Transcriptomes, and Metagenomes.
+Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
+TABLE 3
+Comparison of metagenomic assay capabilities and limitations
+
+https://www.ncbi.nlm.nih.gov/pubmed/28761145
+Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
+Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
+Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21121044
+Pac Symp Biocomput. 2011:165-76.
+Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
+Shah N1, Tang H, Doak TG, Ye Y.
+
+----------
 ## Knight R
 
 https://knightlab.ucsd.edu/wordpress/?page_id=25
@@ -130,7 +205,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/29795540
 Nat Microbiol. 2018 Jun;3(6):652-661. doi: 10.1038/s41564-018-0156-0. Epub 2018 May 24.
 Methods for phylogenetic analysis of microbiome data.
 Washburne AD1, Morton JT2,3, Sanders J3, McDonald D3, Zhu Q3, Oliverio AM4,5, Knight R2,3.
-
 
 ----------
 ## Mason CE
@@ -163,7 +237,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/28934964
 Genome Biol. 2017 Sep 21;18(1):182. doi: 10.1186/s13059-017-1299-7.
 Comprehensive benchmarking and ensemble approaches for metagenomic classifiers.
 McIntyre ABR1,2,3, Ounit R4, Afshinnekoo E2,3,5, Prill RJ6, Hénaff E2,3, Alexander N2,3, Minot SS7, Danko D1,2,3, Foox J2,3, Ahsanuddin S2,3, Tighe S8, Hasan NA9,10, Subramanian P9, Moffat K9, Levy S11, Lonardi S4, Greenfield N7, Colwell RR9,12, Rosen GL13, Mason CE14,15,16.
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/28349976
 Nat Microbiol. 2017 Mar 28;2:16275. doi: 10.1038/nmicrobiol.2016.275.
