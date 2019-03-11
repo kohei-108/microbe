@@ -36,17 +36,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ### 2019
 
-国際会議のデータ解析イベント
-https://twitter.com/CAMDA_conf
-CAMDA 2019 (@CAMDA_conf) | Twitter
-International Conference on Critical Assessment of Massive Data Analysis
-
-http://camda.info/
-The Metagenomic Forensics Challenge presents thousands of city microbiome profiles in a global context. Construct multi-source microbiome fingerprints and predict the geographical origin of mystery samples.
-
-ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland
-
-
 ### 2018
 
 https://www.ncbi.nlm.nih.gov/pubmed/29950328
@@ -71,14 +60,23 @@ https://ja.wikipedia.org/wiki/法科学
 
 https://twitter.com/search?q=forensic%20microbiome
 
+https://www.npa.go.jp/nrips/jp/first/section5.html
+生物第五研究室 - 科学警察研究所
+バイオテロや犯罪現場の環境試料、関係者の衣服・所持品及び生体成分等からの微生物の分離同定法、異同識別法の開発など鑑定に資する法微生物学研究をおこなう。
+
+http://www.vet.kagoshima-u.ac.jp/kadai/V-PUB/okamaoto/vetpub/Dr_Okamoto/Terrestrial%20Animal%20Health%20Code/Veterinary%20education/food%20safety.htm
+発生動向調査と分子疫学
+「法微生物学（forensic microbiology）」
+
 https://microbiomedigest.com/microbiome-papers-collection/non-human-microbiome-paper-collection/forensic-microbiology/
 Forensic Microbiology | Microbiome Digest - Bik's Picks
 
 https://www.nij.gov/topics/forensics/evidence/Pages/microbiome.aspx
 Forensic Applications of Microbiomes
 
-https://www.npa.go.jp/nrips/jp/first/section5.html
-生物第五研究室 - 科学警察研究所
+都市の微生物群集メタゲノム配列データ解析
+http://camda.info/
+The Metagenomic Forensics Challenge presents thousands of city microbiome profiles in a global context. Construct multi-source microbiome fingerprints and predict the geographical origin of mystery samples.
 
 2018.3.20 07:30
 https://www.sankei.com/west/news/180320/wst1803200001-n1.html
