@@ -578,22 +578,6 @@ Mission space food: Sugar-growing bacteria go into orbit | New Scientist
 
 https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
 
-```
-grep "Anabaena" overview.txt
-Anabaena	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	5.88674	2	-	3	11
-Anabaena cylindrica	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	7.06328	1	-	2
-Anabaena phage A-4L	Viruses	dsDNA viruses, no RNA stage	Podoviridae	0.04175	1	-	-	1
-
-$grep "Anabaena" prokaryotes.txt | cut -f16 | sort | uniq -c
-   1 Chromosome
-   3 Complete Genome
-   4 Contig
-   5 Scaffold
-
-$grep "Anabaena" viruses.txt 
-Anabaena phage A-4L	1357732	253321	253321	dsDNA viruses, no RNA stage	Podoviridae	41.75	43.4	bacteria	 Unknown:NC_024358.1/KF356198.1	38	38	2013/07/18	2018/08/13	Complete Genome
-```
-
 ----------
 ### iss
 International Space Station (ISS)
@@ -705,6 +689,13 @@ https://www.ncbi.nlm.nih.gov/pubmed/27019789
 PeerJ. 2016 Mar 22;4:e1842. doi: 10.7717/peerj.1842. eCollection 2016.
 Growth of 48 built environment bacterial isolates on board the International Space Station (ISS).
 Coil DA1, Neches RY1, Lang JM1, Brown WE2, Severance M3, Cavalier D3, Eisen JA4.
+
+クリーンルーム
+https://www.ncbi.nlm.nih.gov/pubmed/26502721
+Microbiome. 2015 Oct 27;3:50. doi: 10.1186/s40168-015-0116-3.
+Microbiomes of the dust particles collected from the International Space Station and Spacecraft Assembly Facilities.
+Checinska A1, Probst AJ2, Vaishampayan P1, White JR3, Kumar D4, Stepanov VG4, Fox GE4, Nilsson HR5, Pierson DL6, Perry J7, Venkateswaran K8.
+Actinobacteria were predominant in the ISS samples whereas Proteobacteria, least abundant in the ISS, dominated in the cleanroom samples.
 
 http://iss.jaxa.jp/kiboexp/field/scientific/
 科学利用:「きぼう」での実験 - 宇宙ステーション・きぼう広報・情報センター - JAXA
