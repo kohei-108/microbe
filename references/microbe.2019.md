@@ -5,8 +5,9 @@ Last Update: 2019-03
 
 # microbe 2019
 
-## Table of Contents
-- [hydrothermal vent](#hydrothermal-vent) 熱水噴出孔 
+**Table of Contents**
+- [hydrothermal vent](#hydrothermal-vent) 熱水噴出孔
+- [nutritional_groups](#nutritional_groups) 栄養的分類
 - [temperature](#temperature) 温度
   - [psychrophile](#psychrophile) 低温菌
 - [porphyrin](#porphyrin) ポルフィリン
@@ -19,6 +20,10 @@ Last Update: 2019-03
 http://www.kashiwashobo.co.jp/book/b286870.html
 世界は細菌にあふれ、人は細菌によって生かされる
 安部　恵子 訳
+
+https://www.youtube.com/channel/UCnZK1E7WoLpFNIHHChgVMtw
+I Contain Multitudes - YouTube
+ Ed Yong
 
 https://www.youtube.com/watch?v=8W_ywzhkR90&list=PLWYyvE5z4B2j4SIAVRtlxNkQF40nv8Ia-
 How Giant Tube Worms Survive at Hydrothermal Vents | I Contain Multitudes - YouTube
@@ -33,6 +38,32 @@ https://ja.wikipedia.org/wiki/硫黄細菌
 上記のような化学合成生物である硫黄細菌のほかに、光合成細菌である緑色硫黄細菌・紅色硫黄細菌などを含めて硫黄細菌とよぶ場合もある[2]。
 
 https://ja.wikipedia.org/wiki/化学合成生物
+化学合成生物（かがくごうせいせいぶつ Chemotroph）は、周囲環境にある電子供与体の酸化によってエネルギーを得る生物である。化学栄養生物とも言う[1][2]。 使う分子は有機物の場合もあるし無機物を使う例もある。前者の場合は化学合成有機栄養生物（chemoorganotroph）、後者の場合は化学合成無機栄養生物（chemolithotroph）と言う。化学合成生物は、太陽光エネルギーを利用する光合成生物と対比する称呼である。
+
+http://photosyn.jp/pwiki/index.php?化学無機栄養%28生物%29
+化学無機栄養(生物)[chemolithotrophy (chemolithotroph)] †
+
+https://kotobank.jp/word/化学合成無機栄養生物-762904
+化学合成独立栄養生物，無機栄養生物，独立栄養生物，独立栄養体，自家栄養生物ともいわれる生物，すなわちエネルギーの獲得と自己の体成分の合成を無機物のみからできる生物のうち光を必要としないもの．硫黄細菌，鉄細菌，硝化細菌，水素細菌など．
+
+https://www.weblio.jp/content/化学合成無機栄養生物
+chemoautotroph
+独立栄養の生物で、無機物の酸化に伴うエネルギーを利用して生活するもの。硝酸細菌など。
+
+----------
+## nutritional_groups
+栄養的分類
+
+https://en.wikipedia.org/wiki/Primary_nutritional_groups
+
+https://www.academickids.com/encyclopedia/index.php/Primary_nutritional_groups
+ja:栄養的分類
+
+http://www.research.kobe-u.ac.jp/ans-koala/bunrui.html
+栄養的分類 - Wikiwand
+
+http://www.research.kobe-u.ac.jp/ans-koala/bunrui.html
+細菌の栄養的分類
 
 ----------
 ## temperature
