@@ -8,6 +8,7 @@ Last Update: 2019-03
 ## Table of Contents
 - [hydrothermal vent](#hydrothermal-vent) 熱水噴出孔 
 - [temperature](#temperature) 温度
+  - [psychrophile](#psychrophile) 低温菌
 - [porphyrin](#porphyrin) ポルフィリン
   - [hemoglobin](#hemoglobin) ヘモグロビン
 
@@ -36,9 +37,6 @@ https://ja.wikipedia.org/wiki/化学合成生物
 ----------
 ## temperature
 温度
-
-- https://ja.wikipedia.org/wiki/好熱菌 thermophile
-- https://ja.wikipedia.org/wiki/低温菌 psychrophile
 
 最適増殖温度の予測
 https://www.ncbi.nlm.nih.gov/pubmed/30689741
@@ -75,6 +73,35 @@ https://www.ncbi.nlm.nih.gov/pubmed/12364606
 Nucleic Acids Res. 2002 Oct 1;30(19):4272-7.
 Synonymous codon usage is subject to selection in thermophilic bacteria.
 Lynn DJ1, Singer GA, Hickey DA.
+
+- https://ja.wikipedia.org/wiki/好熱菌 thermophile
+- https://ja.wikipedia.org/wiki/低温菌 psychrophile
+
+----------
+### psychrophile
+低温菌、好冷菌、寒冷生物
+
+https://www.ncbi.nlm.nih.gov/pubmed/28515455
+Sci Rep. 2017 May 17;7(1):2055. doi: 10.1038/s41598-017-02191-4.
+Comparative genomic analysis reveals the environmental impacts on two Arcticibacter strains including sixteen Sphingobacteriaceae species.
+Shen L1,2,3, Liu Y4,5, Xu B1,2, Wang N2,6, Zhao H1,2, Liu X1, Liu F7.
+How the genomic diversity of species is driven by geographical isolation and environmental factors are not well understood for cold environments. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/26637477
+FEMS Microbiol Ecol. 2016 Feb;92(2). pii: fiv154. doi: 10.1093/femsec/fiv154. Epub 2015 Dec 3.
+Cold adaptive traits revealed by comparative genomic analysis of the eurypsychrophile Rhodococcus sp. JG3 isolated from high elevation McMurdo Dry Valley permafrost, Antarctica.
+Goordial J1, Raymond-Bouchard I2, Zolotarov Y2, de Bethencourt L, Ronholm J2, Shapiro N3, Woyke T3, Stromvik M2, Greer CW4, Bakermans C5, Whyte L2.
+
+総説
+https://www.ncbi.nlm.nih.gov/pubmed/24671034
+EMBO Rep. 2014 May;15(5):508-17. doi: 10.1002/embr.201338170. Epub 2014 Mar 26.
+Some like it cold: understanding the survival strategies of psychrophiles.
+De Maayer P1, Anderson D, Cary C, Cowan DA.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210084/
+Reviews
+
+Table 1
+Current status of genome sequencing of psychrophiles
 
 ----------
 ## porphyrin
@@ -143,8 +170,17 @@ p.467-468.:
 図14-25. ヘム基中の鉄は電子受容体となる。
 シトクロムc酸化酵素 cytochrome c oxidase は、呼吸鎖の最後にある電子運搬体で, 酸化還元電位は最も高い。このタンパク複合体はシトクロムcから電子を受け取ることでシトクロムを酸化するので、こう名づけられた。
 
+----------
+
+http://kagakubar.com/evolution/05.html
+進化の歴史｜科学バー
+第5話
+偶然性の重視
+◎ダーウィンの「自然選択説」
+ダーウィンの「自然選択説」は、このようなデザイン論や目的論を否定する。彼は、集団中に偶然に生ずるたくさんの変異のなかからさまざまな環境によりよく適応した個体が生き残ることによって、進化が起るとした。多様な生物が進化する仕組みとして自然選択説を考えたのであった。目的論に頼らなくても、ランダムに起きる変異のなかからより適応した個体が選択されることによって、結果的に進化に方向性を与えられるのだ。無目的な偶然的な現象によって、生物の合目的性がもたらされるというこの考えは、画期的なものであった。
 
 ----------
+
 
 
 
