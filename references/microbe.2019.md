@@ -107,6 +107,12 @@ Nucleic Acids Res. 2002 Oct 1;30(19):4272-7.
 Synonymous codon usage is subject to selection in thermophilic bacteria.
 Lynn DJ1, Singer GA, Hickey DA.
 
+原核生物の増殖温度データベース
+https://www.ncbi.nlm.nih.gov/pubmed/14734322
+Bioinformatics. 2004 Jan 22;20(2):276-8.
+PGTdb: a database providing growth temperatures of prokaryotes.
+Huang SL1, Wu LC, Liang HK, Pan KT, Horng JT, Ko MT.
+
 - https://ja.wikipedia.org/wiki/好熱菌 thermophile
 - https://ja.wikipedia.org/wiki/低温菌 psychrophile
 
@@ -137,12 +143,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210084/table/tbl1/
 Table 1
 Current status of genome sequencing of psychrophiles
 好冷菌のゲノム配列解読状況
-
-原核生物の増殖度データベース
-https://www.ncbi.nlm.nih.gov/pubmed/14734322
-Bioinformatics. 2004 Jan 22;20(2):276-8.
-PGTdb: a database providing growth temperatures of prokaryotes.
-Huang SL1, Wu LC, Liang HK, Pan KT, Horng JT, Ko MT.
 
 ----------
 ## porphyrin
