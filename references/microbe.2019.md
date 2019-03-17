@@ -125,18 +125,24 @@ FEMS Microbiol Ecol. 2016 Feb;92(2). pii: fiv154. doi: 10.1093/femsec/fiv154. Ep
 Cold adaptive traits revealed by comparative genomic analysis of the eurypsychrophile Rhodococcus sp. JG3 isolated from high elevation McMurdo Dry Valley permafrost, Antarctica.
 Goordial J1, Raymond-Bouchard I2, Zolotarov Y2, de Bethencourt L, Ronholm J2, Shapiro N3, Woyke T3, Stromvik M2, Greer CW4, Bakermans C5, Whyte L2.
 
-総説
 https://www.ncbi.nlm.nih.gov/pubmed/24671034
 EMBO Rep. 2014 May;15(5):508-17. doi: 10.1002/embr.201338170. Epub 2014 Mar 26.
 Some like it cold: understanding the survival strategies of psychrophiles.
 De Maayer P1, Anderson D, Cary C, Cowan DA.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210084/
 Reviews
-
+総説
+A keyword search for “psychrophile” against the GOLD database 17 shows that 83 complete or permanent draft psychrophile genomes have been sequenced, with another 102 genomes targeted or incomplete (Table ​(Table1).1). 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4210084/table/tbl1/
 Table 1
 Current status of genome sequencing of psychrophiles
+好冷菌のゲノム配列解読状況
 
-好冷菌のゲノム配列決定の現状
+原核生物の増殖度データベース
+https://www.ncbi.nlm.nih.gov/pubmed/14734322
+Bioinformatics. 2004 Jan 22;20(2):276-8.
+PGTdb: a database providing growth temperatures of prokaryotes.
+Huang SL1, Wu LC, Liang HK, Pan KT, Horng JT, Ko MT.
 
 ----------
 ## porphyrin
@@ -165,8 +171,10 @@ Chlorophyll)
 
 http://www.onsenmaru.com/topics/T-350/T-355-ikablood-N.htm
 　では、ヘモシアニンとヘモグロビンとは何が違うのでしょうか。まず、基本成分の差から。
+```
 　　ヘモグロビン = ヘム （鉄イオン＋ポルフィリン）＋ タンパク質
 　　ヘモシアニン = 銅イオン＋タンパク質
+```
 
 https://ja.wikipedia.org/wiki/ヘモシアニン
 酸素の結合力は、ポルフィリン環内に鉄が配位されたヘモグロビンよりも弱い。
