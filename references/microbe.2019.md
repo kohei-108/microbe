@@ -76,6 +76,7 @@ Predicting the Optimal Growth Temperatures of Prokaryotes using only Genome Deri
 Sauer DB1, Wang DN1.
 The accuracy can be further improved for specific taxonomic clades or by excluding psychrophiles. 
 
+微生物のライフスタイルとゲノムの特徴
 https://www.ncbi.nlm.nih.gov/pubmed/23024607
 Curr Genomics. 2012 Apr;13(2):153-62.
 Microbial lifestyle and genome signatures.
@@ -133,6 +134,8 @@ Reviews
 
 Table 1
 Current status of genome sequencing of psychrophiles
+
+好冷菌のゲノム配列決定の現状
 
 ----------
 ## porphyrin
