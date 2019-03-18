@@ -6,6 +6,8 @@ Last Update: 2019-03
 # microbe 2019
 
 **Table of Contents**
+- [featuring](#featuring)
+- [updates](#updates)
 - [hydrothermal vent](#hydrothermal-vent) 熱水噴出孔
 - [nutritional_groups](#nutritional_groups) 栄養的分類
 - [temperature](#temperature) 温度
@@ -13,6 +15,18 @@ Last Update: 2019-03
 - [porphyrin](#porphyrin) ポルフィリン
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
+- [2019-03-02](#2019-03-02)
+
+----------
+## featuring
+----------
+## updates
+## 2019
+### 2019-03-18
+
+https://twitter.com/tomatom01987693/status/1107126896649601025
+トマン on Twitter: "100年以上にわたり子宮と胎児は無菌状態と考えられ, 児は産道で初めて細菌に暴露されると考えられてきた. が, 近年の研究では正常妊娠・出産例の胎盤, 羊水, 胎便から細菌が検出され, これら細菌の正常な胎児発育への関与が想定されている. (Nature. 2018; 553: 264-266) https://t.co/c9kane7jTz… https://t.co/ThmM8mjXXD"
+11:49 PM - 16 Mar 2019
 
 ----------
 ## hydrothermal vent
@@ -234,3 +248,89 @@ http://kagakubar.com/evolution/05.html
 
 
 
+----------
+## 2019-03-02
+
+Subject: 最先端科学プログラム：都市の微生物、感染症、腸と脳、心を操る微生物、皮膚・腸内細菌、beewolf
+
+----------
+https://github.com/haruosuz/metasub/blob/master/README.md
+都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に
+
+https://github.com/haruosuz/metasub/blob/master/README.md#csd
+MetaSUB国際コンソーシアムでは、都市建造環境（地下鉄、バスなどの公共交通システム）の微生物群集を調査するために、2019年6月21日 (金) Global City Sampling Day (CSD) に世界同時サンプリングを実施する予定です。
+
+----------
+http://www.nikkei-science.com/?tag=感染症
+感染症 | 日経サイエンス
+
+----------
+https://www.kinokuniya.co.jp/f/dsg-01-9784314011570
+腸と脳 
+【ためし読みはこちらから】 https://www.kinokuniya.co.jp/banner/9784314011570.pdf
+
+http://sciencebook.blog110.fc2.com/blog-entry-2222.html
+『 ミニ特集：心の健康と腸内フローラ 』
+
+https://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
+建造環境の微生物群集とメンタルヘルス 
+
+----------
+http://www.kawade.co.jp/np/isbn/9784309253527/
+あなたの体は９割が細菌 :アランナ・コリン,矢野　真千子｜河出書房新社
+
+https://diamond.jp/articles/-/131873
+抗生物質を安易に使うと危険！人体の9割は細菌でできている | 要約の達人 from flier | ダイヤモンド・オンライン
+
+https://diamond.jp/articles/-/131873?page=2
+◆二一世紀の病気
+◇人体は微生物生態系に満ちている
+　人体のうち外界と接しているのは皮膚だけではない。消化管など私たちが体内だと思っている場所も「外側」であり、微生物の棲息地となっている。中でもその多くを抱えているのは腸であり、腸の中には常に肝臓と同じ重量に相当する1.5キロの細菌がいるという。
+
+https://diamond.jp/articles/-/131873?page=3
+◆あらゆる病気は腸からはじまる
+◇カロリー計算で体重コントロールはできない
+
+◇心を操る微生物
+自閉症だけでなく、統合失調症などと診断される病気も腸内細菌の組成比が影響しているという研究結果が出たのはごく最近のことだ。
+
+◇抗生物質が微生物集団の構成を変える
+
+https://diamond.jp/articles/-/131873?page=4
+◇産道にいる微生物
+先進国ではお産の三割程度が帝王切開で行われるが、帝王切開で生まれた子は感染症やアレルギー、さらには自閉症や肥満になりやすいというデータもある。
+
+◇母乳の中にいる微生物
+粉ミルクで育つ赤ん坊は感染症にかかりやすい。乳幼児突然死症候群で死亡するリスクも二倍だ。そして、皮膚炎や喘息、過体重にもなりやすい。
+
+https://diamond.jp/articles/-/131873?page=5
+◇他人の糞便を分けてもらう
+
+https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are/transcript?language=ja#t-445571
+ロブ・ナイト: 微生物がどのようにして私達を作っているのか | TED Talk
+普通分娩で産まれた赤ちゃんは 基本的に母親の膣内微生物叢を持ち 一方 帝王切開で産まれた赤ちゃんの 微生物は全て皮膚常在菌となります 帝王切開で産まれた人は 微生物との関わりがある 嘆息 アレルギーそして肥満さえも 普通分娩の人より罹り易く 出産と健康との関係が 考えられています 
+
+https://www.pbs.org/video/microbes-from-mom-vaginal-birth-vs-c-section-mf6ctd/
+Microbes from Mom — Vaginal Birth vs C-Section | Season 1 Episode 10 | I Contain Multitudes | PBS
+https://www.youtube.com/watch?v=YB0WDp-Stys
+Microbes from Mom — Vaginal Birth vs C-Section - YouTube
+
+----------
+http://www.kashiwashobo.co.jp/book/b286870.html
+世界は細菌にあふれ、人は細菌によって生かされる
+I Contain Multitudes: The Microbes Within Us and a Grander View of Life 
+Ed Yong  (著)
+
+https://www.pbs.org/video/a-wasp-moms-gift-blankets-of-bacteria-wudslq/
+A Wasp Mom’s Gift: Blankets of Bacteria | Season 1 Episode 5 | I Contain Multitudes | PBS
+https://www.youtube.com/watch?v=2vf0SilBNRQ
+A Wasp Mom’s Gift: Blankets of Bacteria | I Contain Multitudes - YouTube
+
+http://news.line.me/issue/oa-natgeomagjp/06e5cc327597
+卵みずから毒ガス放ち巣を守る、寄生バチで発見 (ナショナル ジオグラフィック日本版) - LINEアカウントメディア
+https://natgeo.nikkeibp.co.jp/atcl/news/19/020700091/
+卵みずから毒ガス放ち巣を守る、ハチで発見 | ナショナルジオグラフィック日本版サイト
+https://www.biorxiv.org/content/10.1101/495085v2
+Nitric oxide radicals are emitted by wasp eggs to kill mold fungi | bioRxiv
+
+----------
