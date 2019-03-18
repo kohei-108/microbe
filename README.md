@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-02
+Last Update: 2019-03
 
 ----------
 
@@ -16,9 +16,8 @@ Last Update: 2019-02
 - [video](#video)
 - [books](#books)
 - [virus](#virus)
-- [database](#database)
-- [growth rate](#growth-rate)
 - [five-second rule](#five-second-rule)
+- [infection](#infection)
 - [products](#products)
   - [aobiome](#aobiome)
 - [secretion](#secretion)
@@ -31,151 +30,11 @@ Last Update: 2019-02
 - [twitter](#twitter)
 - [unclassified](#unclassified)
 - [uniRef](#uniref)
-- [infection](#infection)
+- [people](#people)
+  - [Jack Gilbert](#jack-gilbert)
 - [protists](#protists)
 - [sports](#sports)
-- [phone](#phone)
 
-----------
-## phone
-携帯電話
-
-[StuckOnU](https://github.com/haruosuz/metasub/blob/master/README.md#stuckonu)
-
-![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
-
-http://www.jgenomics.com/v07p0026
-SELfies and CELLfies: Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology [Abstract]
-
-2015年01月29日
-http://karapaia.com/archives/52183300.html
-なぜ可視化したし。スマートフォンに付着したバクテリアを可視化した写真（英研究）※細菌注意 : カラパイア
-
-https://pulmonary.exblog.jp/20663210/
-スマホは病原微生物のコンタミネーションのリスク : 呼吸器内科医
-
-
-https://www.aqua-club.co.jp/products/mil-kin/
-バクテリア・セルフチェッカー『mil-kin（見る菌)』 – アクアシステム
-飲食店舗や食品工場や飲料・製薬工場の気になるところを、スマートフォンやタブレットを使い、リアルタイムに微生物の有無のチェックができる衛生管理のアイテムをご紹介。
-
-https://www.mil-kin.com/
-バクテリアセルフチェッカー mil-kin
-
-
-----------
-### Jack Gilbert
-
-https://www.youtube.com/watch?v=z6AiKkewR0U
-It's not just phones! Find out what... - YouTube
-
-https://www.youtube.com/watch?v=HDLEL36Fu1E
-Why getting dirty is the new clean | Jack Gilbert | TEDxNaperville - YouTube
-
-----------
-## sports
-
-https://nrid.nii.ac.jp/ja/nrid/1000070074630/
-長舩 哲齊  OSAFUNE Tetsuaki
- スポーツ競技施設の微生物汚染に関する基礎的研究
-
-https://twitter.com/gelcyz/status/903992889247621126
-松崎貴之 on Twitter: "目をひくタイトルの論文が並ぶ。「相撲土俵の細菌叢の研究」「国技館土俵の塩濃度と細菌叢の変化」「ラグビー場土壌の細菌叢の研究」「柔道場畳の細菌と真菌との相関性」「剣道防具由来細菌の分離と同定」「 レスリング試合（マット）の細菌叢の調査」https://t.co/muFpQsTo4b"
-10:47 AM - 2 Sep 2017
-http://www.nittai.ac.jp/parsonal/osafune/sports.html
-
-https://www.mbs.jp/jounetsu-old/2016/01_31.shtml
-2016年01月31日放送
-福田真嗣（農学博士）: 情熱大陸
-フレッシュな便を採取し即冷凍、そして搬送中の温度管理など困難が多い中、より稀有な「便サンプル」を求めて福田が向かったのは相撲部屋。
-ちゃんこ鍋という文字通り「同じ釜の飯を食うアスリート」の便を求め、九州場所を前にした 大嶽部屋の門を叩く。待ち受けるのは大相撲初のアフリカ大陸力士として話題の大砂嵐関らだがさて一体どうなるのやら…。
-
-2001 年 34 巻 2 号 p. 31-39
-https://www.jstage.jst.go.jp/article/budo1968/34/2/34_31/_article/-char/ja/
-相撲土俵土壌の細菌叢の研究: 破傷風菌の分離同定
-三星 暢公, 長舩 哲齊, Harvard LYMAN, 松本 茂, 小川 光哉, 塔尾 武夫
-
-2000/10/07 - 2000/10/09
-https://www.jstage.jst.go.jp/article/jspeconf/51/0/51_463/_article/-char/ja/
-109E26109 土俵の細菌叢と塩濃度との相関性
-三星 暢公, 田中 和幸, 遠藤 麻美, 長船 哲齋, 松本 茂, 小川 光哉, 塔尾 武夫
-
-----------
-## protists
-原生生物
-https://ja.wikipedia.org/wiki/ゾウリムシ
-
-https://twitter.com/DiamantisSellis/status/1088834133944688640
-Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… "
-11:21 AM - 25 Jan 2019
-https://www.nature.com/articles/s41396-018-0341-4
-Genetic basis for the establishment of endosymbiosis in Paramecium | The ISME Journal
-
-![](https://pbs.twimg.com/media/DxxQ39nX4AM-jos.jpg)
-
-ホロスポラのゲノム比較
-https://www.ncbi.nlm.nih.gov/pubmed/29713316
-Front Microbiol. 2018 Apr 16;9:738. doi: 10.3389/fmicb.2018.00738. eCollection 2018.
-Comparative Genomic Analysis of Holospora spp., Intranuclear Symbionts of Paramecia.
-Garushyants SK1,2, Beliavskaia AY3,4, Malko DB5, Logacheva MD1,6, Rautian MS4, Gelfand MS1,2,5,7.
- Holospora curviuscula, a macronuclear symbiont of Paramecium bursaria,
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/figure/F1/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5911502_fmicb-09-00738-g001.jpg)
-
-https://www.ncbi.nlm.nih.gov/pubmed/28540488
-Microb Ecol. 2017 Nov;74(4):923-936. doi: 10.1007/s00248-017-0996-9. Epub 2017 May 24.
-An 18S rRNA Workflow for Characterizing Protists in Sewage, with a Focus on Zoonotic Trichomonads.
-Maritz JM1, Rogers KH2, Rock TM1, Liu N3, Joseph S1, Land KM3, Carlton JM4.
-
-http://metasub.org/meetings/2015-meetings/2015-session-1/
-“Identifying Protists in NYC Subway Samples” – Julia Maritz, New York University, USA
-
-2017年5月29日
-https://academist-cf.com/journal/?p=4858
-「細胞内共生は、非常にすぐれた『進化の原動力』である」 – 山口大学創成科学研究科 ・藤島政博教授 | academist Journal
-ミドリゾウリムシには、真核生物であるクロレラだけでなく、原核生物である「ホロスポラ」という細菌が共生している場合があります。このホロスポラは、クロレラとは異なり、もう宿主外では増殖はできません。
-ホロスポラが共生したゾウリムシは寒さに強くなり、また、塩濃度の高い水の中でも生きていけるようになります。そのため、寒冷な地域の汽水域（河口付近）でゾウリムシを採集すると、ホロスポラが共生したゾウリムシが得られる可能性が高まると考えられます。
-
-https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char/ja/
-総説
-ミドリゾウリムシにおける細胞内共生研究の現状と課題
-早川 昌志, 洲崎 敏伸
-2016 年 33 巻 3 号 p. 108-115
-
-http://www.nibb.ac.jp/press/2014/06/11.html
-プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
-
-
-----------
-## infection
-感染症
-
-https://twitter.com/search?q=感染経路
-豚コレラ、見えぬ感染経路＝愛知で殺処分継続
-
-https://ja.wikipedia.org/wiki/豚コレラ
-豚コレラ（とんコレラ、英: classical swine fever、hog cholera）は、フラビウイルス属、ペスチウイルス属によるブタのウイルス性疾病であり、症状はコレラとは異なる。
-https://ja.wikipedia.org/wiki/ペスチウイルス属
-ペスチウイルス属（ペスチウイルスぞく、Genus Pestivirus）とはエンベロープを持つ、約12.3kbの一本鎖（+）RNAウイルスの総称。
-
-2019年02月15日 17時45分
-https://news.nifty.com/article/domestic/society/12256-900001/
-はしか感染者が新幹線利用で大阪府が注意喚起　不特定多数と接触の可能性｜ニフティニュース
-
-https://ja.wikipedia.org/wiki/麻疹
-麻疹（ましん、英: measles, rubeola、別名・痲疹）とは、麻疹ウイルスによる急性熱性発疹性感染症[1]。
-https://ja.wikipedia.org/wiki/麻疹ウイルス
-麻疹ウイルスは麻疹の原因となるウイルスで、パラミクソウイルス科モルビリウイルス属に属するRNAウイルスである。
-
-
-2016年9月2日23時23分
-https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
-リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
-
-https://ja.wikipedia.org/wiki/ジカ熱
-ジカ熱（Zika fever）もしくはジカウイルス感染症（Zika virus disease）は、フラビウイルス科のジカウイルスによって引き起こされる病気[1]
-ジカウイルス（英: Zika virus）は、フラビウイルス科に属する+鎖のRNAウイルスの1種である。
-https://ja.wikipedia.org/wiki/ジカウイルス
 
 ----------
 ## featuring
@@ -220,6 +79,35 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2019
 
+2019.01.16
+https://research-er.jp/articles/view/76638
+【プレスリリース】メタゲノムとエピゲノムを融合した「メタエピゲノム」解析の提唱と実証 〜環境細菌叢が持つゲノム修飾機構の広大な未開拓領域の解明へ〜 | 日本の研究.com
+
+
+https://otonanswer.jp/post/34076/
+感染力の強い「はしか」、どれくらいの距離や接触でうつる？　病院までの移動手段は？ | オトナンサー
+
+https://mainichi.jp/articles/20190227/dde/001/040/040000c
+チェック：はしか、渡航者が「輸入」　排除国認定の日本、今年２００人超　政府「旅行前のワクチン接種を」 - 毎日新聞
+
+ 2017年7月30日 /  2019年2月24日
+https://www.dr-kid.net/mycoplasma-resistence
+日本の小児のマイコプラズマ感染は９割が耐性菌！？【マイコプラズマ肺炎】｜Dr.KIDの小児科クリニック
+
+
+
+科学に佇むｻﾝｸｺｽﾄ on Twitter:
+http://sciencebook.blog110.fc2.com/blog-entry-2917.html
+『 もやしもんと感染症屋の気になる菌辞典 』
+
+
+
+https://www.link-j.org/report/post-409.html
+シンポジウム「マイクロバイオーム研究開発の最前線」を開催（1/25） | イベントレポート | LINK-J
+https://www.youtube.com/watch?v=m0exKTjJ2cM
+マイクロバイオーム研究の最前線～カリフォルニア大学サンディエゴ校ロブ・ナイト教授講演会～ - YouTube
+
+
 https://twitter.com/NatureRevMicro/status/1095678559404900352
 Nature Rev Microbiol on Twitter: "Bacteria and archaea on Earth and their abundance in biofilms https://t.co/4rsoiohF3Q Flemming and Wuertz propose that biofilms are the most prominent and influential type of microbial life.… https://t.co/ZglukPpbaJ"
 8:38 AM - 13 Feb 2019
@@ -257,7 +145,6 @@ https://note.mu/rt_nakano/n/n213cf290635e
 「微生物の機能を考えるにあたり16S rRNAはあてにならない」
 
 単一ゲノム内のマルチコピーの存在や遺伝子の水平伝搬 (horizontal gene transfer) などの問題もよく知られておりおり、たとえば16S rRNAで割り当てられた分類群が、全ゲノム配列をもとに割り当てられる分類群と違っていたということがあったりもします。そのため現在では16S rRNA配列による細菌分類は便利ではあるものの正確性に欠くことが広く知られ、より厳密な手法として「シングルコピーで、垂直にのみ遺伝する複数のハウスキーピング遺伝子の連結配列」をもとに分類していく手法（AMPHORA）などが提唱されています。
-
 
 ## 2018
 
@@ -800,83 +687,6 @@ http://honz.jp/articles/-/41635
 
 
 ----------
-## virus
-
-https://twitter.com/Virus_Evolution/status/1077745814066229255
-Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
-9:00 PM - 25 Dec 2018
-
-![](https://pbs.twimg.com/media/DumlVsJU8AIMyZ2.jpg)
-
-2018年2月13日
-https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
-空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2018.02.08
-http://tocana.jp/2018/02/post_15942_entry.html
-【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
-地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
-
-2016-02-21
-http://yokazaki.hatenablog.com/entry/2016/02/21/010028
-1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
-ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
-
-2012/04/17
-https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
-35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
-
-生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
-
-生命誌ジャーナル2015年間テーマうつる
-http://www.brh.co.jp/seimeishi/journal/084/research/1.html
-RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
-
-![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
-
-
-http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
-From design of a genome sequence to generation of a synthetic virus
-- Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
-
-日経サイエンス　 2005年3月号
-http://www.nikkei-science.com/page/magazine/0503/virus.html
-ウイルスは生きているのか | 日経サイエンス
-
-### HIV
-
-https://en.wikipedia.org/wiki/Paul_M._Sharp
-
-2018.01.05
-https://logmi.jp/business/articles/257503
-感染源はチンパンジーだった？　HIVの起源をたどる - ログミー[o_O]
-
-https://www.ncbi.nlm.nih.gov/pubmed/22229120
-Cold Spring Harb Perspect Med. 2011 Sep;1(1):a006841. doi: 10.1101/cshperspect.a006841.
-Origins of HIV and the AIDS pandemic.
-Sharp PM1, Hahn BH.
-
-https://www.ncbi.nlm.nih.gov/pubmed/20643738
-Philos Trans R Soc Lond B Biol Sci. 2010 Aug 27;365(1552):2487-94. doi: 10.1098/rstb.2010.0031.
-The evolution of HIV-1 and the origin of AIDS.
-Sharp PM1, Hahn BH.
-
-https://wired.jp/2003/06/19/hivの起源は「サルを食べたチンパンジー」か/
-「チンパンジーを殺してその肉を食べるという、ヒトが最初に感染したと想定されるルートと似ている」と研究チームのメンバーで、イギリスのノッティンガム大学遺伝学研究所に所属するポール・M・シャープ教授は述べている。
-http://pages.ucsd.edu/~jmoore/publications/hivhooper.html
-Paul Sharp
-
-
-
-----------
-## phage
-
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
-[PDF]過小評価されているファージの宿主域
-井町 寛之
-
-
-----------
 ## five-second rule
 5秒ルール
 
@@ -925,6 +735,37 @@ https://www.ncbi.nlm.nih.gov/pubmed/27590818
 Appl Environ Microbiol. 2016 Oct 14;82(21):6490-6496. Print 2016 Nov 1.
 Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food.
 Miranda RC1, Schaffner DW2.
+
+----------
+## infection
+感染症
+
+https://twitter.com/search?q=感染経路
+豚コレラ、見えぬ感染経路＝愛知で殺処分継続
+
+https://ja.wikipedia.org/wiki/豚コレラ
+豚コレラ（とんコレラ、英: classical swine fever、hog cholera）は、フラビウイルス属、ペスチウイルス属によるブタのウイルス性疾病であり、症状はコレラとは異なる。
+https://ja.wikipedia.org/wiki/ペスチウイルス属
+ペスチウイルス属（ペスチウイルスぞく、Genus Pestivirus）とはエンベロープを持つ、約12.3kbの一本鎖（+）RNAウイルスの総称。
+
+2019年02月15日 17時45分
+https://news.nifty.com/article/domestic/society/12256-900001/
+はしか感染者が新幹線利用で大阪府が注意喚起　不特定多数と接触の可能性｜ニフティニュース
+
+https://ja.wikipedia.org/wiki/麻疹
+麻疹（ましん、英: measles, rubeola、別名・痲疹）とは、麻疹ウイルスによる急性熱性発疹性感染症[1]。
+https://ja.wikipedia.org/wiki/麻疹ウイルス
+麻疹ウイルスは麻疹の原因となるウイルスで、パラミクソウイルス科モルビリウイルス属に属するRNAウイルスである。
+
+
+2016年9月2日23時23分
+https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
+リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
+
+https://ja.wikipedia.org/wiki/ジカ熱
+ジカ熱（Zika fever）もしくはジカウイルス感染症（Zika virus disease）は、フラビウイルス科のジカウイルスによって引き起こされる病気[1]
+ジカウイルス（英: Zika virus）は、フラビウイルス科に属する+鎖のRNAウイルスの1種である。
+https://ja.wikipedia.org/wiki/ジカウイルス
 
 ----------
 
@@ -1027,14 +868,18 @@ https://antibioticawarenessjp.jimdo.com/
 ![[(https://pbs.twimg.com/media/DqP240aWkAEFR73.jpg)
 
 
+https://www.nature.com/articles/s41564-018-0342-0
+The high prevalence of antibiotic heteroresistance in pathogenic bacteria is mainly caused by gene amplification | Nature Microbiology
 https://ja.wikipedia.org/wiki/バンコマイシンヘテロ耐性黄色ブドウ球菌
 ヘテロVISAを理解するには、ヘテロ耐性の理解が必要である。
 ヘテロ耐性とは、同一細胞集団内に感受性の異なった個々の細胞が存在すること意味する。
 多くが、大多数の感性細胞とごく少数の耐性細胞が混在している。
 この状態をヘテロ耐性と呼ぶ。
 
-https://www.nature.com/articles/s41564-018-0342-0
-The high prevalence of antibiotic heteroresistance in pathogenic bacteria is mainly caused by gene amplification | Nature Microbiology
+
+https://twitter.com/NCBI/status/1105181364721250304
+NCBI Staff on Twitter: "Give the National Database of Antibiotic Resistant Organisms (NDARO) a try today! https://t.co/D1t5XTp4JZ #AntibioticResistance #AntimicrobialResistance"
+2:59 PM - 11 Mar 2019
 
 
 https://twitter.com/AMRCRC_JAPAN/status/1063265446508531712
@@ -1201,8 +1046,12 @@ What is a resistance gene? Ranking risk in resistomes. [Nat Rev Microbiol. 2015]
 ----------
 ## gigazine
 
+
 https://gigazine.net/news/20160523-how-gut-affects-mood/
 腸が人間の気分を左右する仕組み - GIGAZINE
+
+https://gigazine.net/news/20151012-microbial-cloud/
+各個人が固有で持ち、指紋やDNAのように個人を特定できる「微生物雲」とは？ - GIGAZINE
 
 https://gigazine.net/news/20140513-helix-i-o/
 DNAの塩基配列を入力するとすぐに何の生き物かを検索して表示する「Helix I/O」 - GIGAZINE
@@ -1210,8 +1059,20 @@ DNAの塩基配列を入力するとすぐに何の生き物かを検索して�
 ----------
 ## wired
 
+### 2019
+
 https://wired.jp/2019/02/22/antibiotics-are-failing-us-crispr-is-hope/
 耐性菌の蔓延で抗生物質が効かない世界は、「遺伝子編集」で阻止できるのか？｜WIRED.jp
+
+2019.01.28 MON 08:30
+https://wired.jp/2019/01/28/we-can-avoid-deadly-flu-season/
+インフルエンザの感染拡大を止めるために、わたしたちができること｜WIRED.jp
+
+2019.01.15 TUE 09:00
+https://wired.jp/2019/01/15/universal-flu-vaccine-berg/
+あらゆるインフルエンザに効く「万能ワクチン」が、ついに誕生する？｜WIRED.jp
+
+### 2018
 
 https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
 これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
@@ -1233,6 +1094,8 @@ https://wired.jp/2018/01/14/the-post-antibiotic-era/
 https://wired.jp/2018/02/10/norovirus-pyeongchang-olympic/
 ノロウイルスの脅威から、どうすればオリンピック選手を守れるか──平昌五輪を襲った「強敵」の撃退法｜WIRED.jp
 
+### 2017
+
 https://wired.jp/2017/12/18/bacteria-from-space/
 国際宇宙ステーションの外で微生物を発見──これはもしかしてエイリアンなのか？｜WIRED.jp
 
@@ -1242,11 +1105,16 @@ https://wired.jp/2017/12/14/catalogue-every-microbe/
 https://wired.jp/2017/07/14/obesity-surgery-may-work-remaking-gut-microbiome/
 「体重を減らす微生物群」のつくり方、米研究チームが発見──手術しない肥満治療につながるか｜WIRED.jp
 
+https://wired.jp/2017/03/31/richard-lenski/
+30年間「進化」を目撃してきた生物学者、リチャード・レンスキーが語る「生命の独創性」｜WIRED.jp
+
 https://wired.jp/2017/02/23/office-microbiome/
 超清潔社会は健康にマイナスか──密閉されたオフィスとマイクロバイオーム｜WIRED.jp
 
 https://wired.jp/2017/02/16/your-office-equipment/
 「キーボード上の微生物」から持ち主が特定できる：研究結果｜WIRED.jp
+
+### 2016
 
 2016.09.21
 https://wired.jp/special/2016/dear-synechococcus/
@@ -1261,6 +1129,8 @@ https://wirelesswire.jp/2016/06/53675/
 https://wired.jp/2016/05/15/tim-spector/
 脂肪をガマンするよりも──食生活にも「多様性」が必要だ｜WIRED.jp
 マクドナルドの同じメニューを10日間にわたり毎日食べ続けた結果、腸内細菌叢の多様性は40パーセント減少し、健康状態も悪くなった実験などを紹介。
+
+### 2015
 
 https://wired.jp/2015/10/11/bacteria-clouds/
 人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
@@ -1383,218 +1253,6 @@ http://pediatricsurgery.hatenadiary.jp/entry/2017/03/13/152234
 
 
 ----------
-2016/03/24
-https://news.mynavi.jp/article/20160324-a137/
-外国人は日本のお金を見てどう思った? | マイナビニュース
-
-2015/06/01
-https://doctors-me.com/doctor/symptom/84/column/1188
-知らなかった！ じつは雑菌だらけの10のモノ
-1. 台所のスポンジ 
-2. まな板 
-3. お金 
-4. スマホ 
-5. 水道の蛇口 
-6. パソコンのキーボード 
-7. マットレス 
-8. ハンドバッグやポーチ 
-9. レストランのメニュー 
-10. カーペット 
-
-2015年5月19日 
-http://trapradar.net/life/dirty-things/
-実はトイレより汚い意外な物13選 | トラップ・レーダー
-
-2014年06月07日
-https://matome.naver.jp/odai/2140057460215399801
-手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
-1.スマートフォン
-2.お金
-3.パソコンのキーボード、マウス
-4.トイレのドアノブや蛇口
-
-----------
-
-## restroom
-トイレの微生物
-
-https://www.ncbi.nlm.nih.gov/pubmed/25398865
-Appl Environ Microbiol. 2015 Jan;81(2):765-73. doi: 10.1128/AEM.03117-14. Epub 2014 Nov 14.
-Ecological succession and viability of human-associated microbiota on restroom surfaces.
-
-Gibbons SM1, Schwartz T2, Fouquier J3, Mitchell M2, Sangwan N4, Gilbert JA5, Kelley ST2.
-https://www.microbe.net/2014/11/17/toilet-ecology/
-Toilet Ecology – microBEnet: the microbiology of the Built Environment network
-
-トイレ表面 restroom surfaces に言及した箇所
-http://msystems.asm.org/content/1/3/e00018-16
-- In restrooms and classrooms, variation in microbial community composition across surface types was associated with variations in human contact with those surfaces: desks contained human skin and oral microbes, while chairs contained intestinally and urogenitally derived microbes (5, 6). 
-- There are few nonopportunistic pathogens in the built environment outside hospitals (43). None were reported for restrooms (5), classrooms (6), or Hong Kong subway aerosols (8), possibly due to lack of phylogenetic resolution with 16S sequencing. During partial assembly of home (2) and rest room (44) surface metagenomes, shotgun sequencing facilitated identification of opportunists with pathogenic potential, but even with the increased resolution, outright virulence factors were rare. 
-
-引用文献は下記
-
-Ref. # 44
-Ecological succession and viability of human-associated microbiota on restroom surfaces. Appl Environ Microbiol. 2015 Jan;81(2):765-73. https://www.ncbi.nlm.nih.gov/pubmed/25398865
-
-Ref. # 5
-Microbial biogeography of public restroom surfaces. PLoS One. 2011;6(11):e28132. https://www.ncbi.nlm.nih.gov/pubmed/22132229
-
-Ref. # 6
-Bacterial communities on classroom surfaces vary with human contact. Microbiome. 2014 Mar 7;2(1):7. https://www.ncbi.nlm.nih.gov/pubmed/24602274
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945812/
-- Several studies suggest that this may be the case. In a recent survey of public restroom surfaces, Flores and colleagues [7] found that microbes on restroom surfaces were similar to those found on specific human body parts, with the strongest association observed between toilet surfaces and gut and vaginal communities. These associations are to be expected given the direct contact common in this environment between surfaces and the human body.
-- Recent evidence has suggested that the unique microbial assemblages detected on different human body parts can be transferred to indoor surfaces following contact [26,31], and that these bacterial traces of human contact are evident in places such as restrooms [7]. 
-
-----------
-
-## subway
-地下鉄の微生物
-
-----------
-
-マイクロバイオームの世界: あなたの中と表面と周りにいる何兆もの微生物たち
-
-p. 122
-韓国のソウル、日本の東京、ノルウェーのオスロの地下鉄でも分析したところ、
-
-p. 274
-地下鉄のマイクロバイオームの参考文献としては、
-
-https://www.ncbi.nlm.nih.gov/pubmed/23542619
-Appl Environ Microbiol. 2013 Jun;79(11):3485-93. doi: 10.1128/AEM.00331-13. Epub 2013 Mar 29.
-Culture-independent analysis of aerosol microbiology in a metropolitan subway system.
-Robertson CE1, Baumgartner LK, Harris JK, Peterson KL, Stevens MJ, Frank DN, Pace NR.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648054/
-12. Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmos. Environ. 39: 337– 341
-
-https://www.ncbi.nlm.nih.gov/pubmed/22247150
-Appl Environ Microbiol. 2012 Mar;78(6):1917-29. doi: 10.1128/AEM.07212-11. Epub 2012 Jan 13.
-Characterization of airborne bacteria at an underground subway station.
-Dybwad M1, Granum PE, Bruheim P, Blatny JM.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3298144/
-
-The dispersion of sarin nerve gas (a chemical threat agent) by the Japanese religious cult, Aum Shinrikyo, killed 11 and injured over 5,000 persons in the Tokyo subway in 1995 (50). Aum Shinrikyo failed in causing anthrax infection when aerosolizing B. anthracis in Tokyo 2 years earlier, due to the use of a low-virulence vaccine strain (68).
-
-Airborne bacterial concentration.
-Bioaerosol surveys investigating airborne bacteria have been performed at subway stations in various countries, including the United States (7), Japan (35, 62), Korea (34, 38, 41), China (18), Russia (8), Egypt (4), the United Kingdom (27), and Hungary (66, 67), but have not previously been carried out in Norway. 
-
-35. Kawasaki T, et al. 2010. Distribution and identification of airborne fungi in railway stations in Tokyo, Japan. J. Occup. Health 52:186–193 [PubMed]
-
-50. Okumura T, et al. 1996. Report on 640 victims of the Tokyo subway sarin attack. Ann. Emerg. Med. 28:129–135 [PubMed]
-
-62. Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmos. Environ. 39:337–341
-
-68. Takahashi H, et al. 2004. Bacillus anthracis incident, Kameido, Tokyo, 1993. Emerg. Infect. Dis. 10:117–120 [PMC free article] [PubMed]
-
-https://www.ncbi.nlm.nih.gov/pubmed/21173524
-Ind Health. 2011;49(2):242-8. Epub 2010 Dec 16.
-Exposure level and distribution characteristics of airborne bacteria and fungi in Seoul metropolitan subway stations.
-Kim KY1, Kim YS, Kim D, Kim HT.
-
-----------
-
-## Money
-お金の微生物
-
-https://twitter.com/Newsweek_JAPAN/status/866774474166874113
-ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
-5:55 PM - 22 May 2017
-
-2017年5月22日
-http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
-細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
-Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
-＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
-紙幣が細菌追跡の目印に
-都市の細菌集団探しは成長分野
-耐性菌との戦いに役立つ
-
-2017-04-13
-https://twitter.com/yokadzaki/status/852704490436177921
-Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28450856
-Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
-Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
-
-September 6, 2017
-http://time.com/4918626/money-germs-microbes-dirty/
-Here's How Dirty Your Money Really Is | Time
-
-https://www.ncbi.nlm.nih.gov/pubmed/28384336
-PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
-Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
-Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
-
-January 4, 2017
-http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
-Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
-The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
-
-2016/02/02
-http://fukuyuki.net/post-639/
-硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
-
-2013.06.19
-https://www.atpress.ne.jp/news/36512
-現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
-- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
-
-![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
-
-----------
-## ATM
-
-https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
-New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
-
-- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
-- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
-
-----------
-## Air Microbiome
-空気中の微生物
-
-By Marcus Leung  Posted on August 20, 2017
-https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
-The air microbiome of a zero carbon building: personal thoughts – microBEnet: the microbiology of the Built Environment network
-
-スペイン バルセロナの地下鉄における空気中の微生物叢
-https://www.ncbi.nlm.nih.gov/pubmed/27687789
-Indoor Air. 2017 May;27(3):564-575. doi: 10.1111/ina.12343. Epub 2016 Oct 26.
-Bioaerosols in the Barcelona subway system.
-Triadó-Margarit X1, Veillette M2, Duchaine C2, Talbot M2, Amato F3, Minguillón MC3, Martins V3, de Miguel E4, Casamayor EO1, Moreno T3.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25172855
-Appl Environ Microbiol. 2014 Nov;80(21):6760-70. doi: 10.1128/AEM.02244-14. Epub 2014 Aug 29.
-Indoor-air microbiome in an urban subway network: diversity and dynamics.
-Leung MH1, Wilkins D1, Li EK1, Kong FK1, Lee PK2.
-
-- [Air Microbiome of Hong Kong's Subways. Patrick Lee.](http://nebula.wsimg.com/83b61d25af77152a5cca036a87435faa?AccessKeyId=EE67D855699D9B3A8843&disposition=0&alloworigin=1)
-- [Behzad H, Gojobori T, Mineta K. Genome Biol Evol. 2015 May 6;7(5):1216-26. "Challenges and opportunities of airborne metagenomics."](http://www.ncbi.nlm.nih.gov/pubmed/25953766)
-- [Robertson CE et al. Appl Environ Microbiol. 2013 Jun;79(11):3485-93. "Culture-independent analysis of aerosol microbiology in a metropolitan subway system."](http://www.ncbi.nlm.nih.gov/pubmed/23542619)
-- [Kawasaki T et al. J Occup Health. 2013;55(6):495-502. "Distribution of airborne bacteria in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/24025860)
-- [Kawasaki T et al. J Occup Health. 2010;52(3):186-93. "Distribution and identification of airborne fungi in railway stations in Tokyo, Japan."](http://www.ncbi.nlm.nih.gov/pubmed/20299760) | [pdf](http://joh.sanei.or.jp/pdf/E52/E52_3_05.pdf)
-- [Kawasaki T et al. "Indoor air quality at stations: Development of a methodology for quantifying railway customers’ perception of odor at stations"](http://www.railway-research.org/IMG/pdf/e5_kawasaki_tanami.pdf)
-- [駅構内の空気質に与える微生物の影響評価　RTRI REPORT Vol. 22, No. 5, May. 2008](http://bunken.rtri.or.jp/PDF/cdroms1/0001/2008/0001003044.pdf)
-- [駅構内の空気質に与える微生物の影響評価　(鉄道総研報告,2008 年 5 月号)](http://www.rtri.or.jp/publish/rtrirep/2008/r_digest/05/0805_6.pdf)
-
-https://www.rtri.or.jp/rd/news/human/human_201107.html#sect05
-公益財団法人鉄道総合技術研究所｜人間科学ニュース 2011年7月号（第174号）
-においと微生物の関係
-
-https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
-公益財団法人鉄道総合技術研究所｜人間科学ニュース 2009年9月号（第163号）
-「カビくさい」の正体を探る
-
-
-----------
 ### Allergy
 アレルギー
 
@@ -1615,6 +1273,172 @@ https://www.ncbi.nlm.nih.gov/pubmed/28600901
 Allergy. 2017 Dec;72(12):1859-1867. doi: 10.1111/all.13220. Epub 2017 Jun 28.
 Influences of environmental bacteria and their metabolites on allergies, asthma, and host microbiota.
 http://onlinelibrary.wiley.com/doi/10.1111/all.13220/full
+
+
+
+
+
+
+----------
+## people
+### Jack Gilbert
+
+https://www.youtube.com/watch?v=z6AiKkewR0U
+It's not just phones! Find out what... - YouTube
+
+https://www.youtube.com/watch?v=HDLEL36Fu1E
+Why getting dirty is the new clean | Jack Gilbert | TEDxNaperville - YouTube
+
+
+----------
+## protists
+原生生物
+https://ja.wikipedia.org/wiki/ゾウリムシ
+
+https://twitter.com/DiamantisSellis/status/1088834133944688640
+Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… "
+11:21 AM - 25 Jan 2019
+https://www.nature.com/articles/s41396-018-0341-4
+Genetic basis for the establishment of endosymbiosis in Paramecium | The ISME Journal
+
+![](https://pbs.twimg.com/media/DxxQ39nX4AM-jos.jpg)
+
+ホロスポラのゲノム比較
+https://www.ncbi.nlm.nih.gov/pubmed/29713316
+Front Microbiol. 2018 Apr 16;9:738. doi: 10.3389/fmicb.2018.00738. eCollection 2018.
+Comparative Genomic Analysis of Holospora spp., Intranuclear Symbionts of Paramecia.
+Garushyants SK1,2, Beliavskaia AY3,4, Malko DB5, Logacheva MD1,6, Rautian MS4, Gelfand MS1,2,5,7.
+ Holospora curviuscula, a macronuclear symbiont of Paramecium bursaria,
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5911502/figure/F1/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=5911502_fmicb-09-00738-g001.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28540488
+Microb Ecol. 2017 Nov;74(4):923-936. doi: 10.1007/s00248-017-0996-9. Epub 2017 May 24.
+An 18S rRNA Workflow for Characterizing Protists in Sewage, with a Focus on Zoonotic Trichomonads.
+Maritz JM1, Rogers KH2, Rock TM1, Liu N3, Joseph S1, Land KM3, Carlton JM4.
+
+http://metasub.org/meetings/2015-meetings/2015-session-1/
+“Identifying Protists in NYC Subway Samples” – Julia Maritz, New York University, USA
+
+2017年5月29日
+https://academist-cf.com/journal/?p=4858
+「細胞内共生は、非常にすぐれた『進化の原動力』である」 – 山口大学創成科学研究科 ・藤島政博教授 | academist Journal
+ミドリゾウリムシには、真核生物であるクロレラだけでなく、原核生物である「ホロスポラ」という細菌が共生している場合があります。このホロスポラは、クロレラとは異なり、もう宿主外では増殖はできません。
+ホロスポラが共生したゾウリムシは寒さに強くなり、また、塩濃度の高い水の中でも生きていけるようになります。そのため、寒冷な地域の汽水域（河口付近）でゾウリムシを採集すると、ホロスポラが共生したゾウリムシが得られる可能性が高まると考えられます。
+
+https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char/ja/
+総説
+ミドリゾウリムシにおける細胞内共生研究の現状と課題
+早川 昌志, 洲崎 敏伸
+2016 年 33 巻 3 号 p. 108-115
+
+http://www.nibb.ac.jp/press/2014/06/11.html
+プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
+
+----------
+## sports
+
+https://nrid.nii.ac.jp/ja/nrid/1000070074630/
+長舩 哲齊  OSAFUNE Tetsuaki
+ スポーツ競技施設の微生物汚染に関する基礎的研究
+
+https://twitter.com/gelcyz/status/903992889247621126
+松崎貴之 on Twitter: "目をひくタイトルの論文が並ぶ。「相撲土俵の細菌叢の研究」「国技館土俵の塩濃度と細菌叢の変化」「ラグビー場土壌の細菌叢の研究」「柔道場畳の細菌と真菌との相関性」「剣道防具由来細菌の分離と同定」「 レスリング試合（マット）の細菌叢の調査」https://t.co/muFpQsTo4b"
+10:47 AM - 2 Sep 2017
+http://www.nittai.ac.jp/parsonal/osafune/sports.html
+
+https://www.mbs.jp/jounetsu-old/2016/01_31.shtml
+2016年01月31日放送
+福田真嗣（農学博士）: 情熱大陸
+フレッシュな便を採取し即冷凍、そして搬送中の温度管理など困難が多い中、より稀有な「便サンプル」を求めて福田が向かったのは相撲部屋。
+ちゃんこ鍋という文字通り「同じ釜の飯を食うアスリート」の便を求め、九州場所を前にした 大嶽部屋の門を叩く。待ち受けるのは大相撲初のアフリカ大陸力士として話題の大砂嵐関らだがさて一体どうなるのやら…。
+
+2001 年 34 巻 2 号 p. 31-39
+https://www.jstage.jst.go.jp/article/budo1968/34/2/34_31/_article/-char/ja/
+相撲土俵土壌の細菌叢の研究: 破傷風菌の分離同定
+三星 暢公, 長舩 哲齊, Harvard LYMAN, 松本 茂, 小川 光哉, 塔尾 武夫
+
+2000/10/07 - 2000/10/09
+https://www.jstage.jst.go.jp/article/jspeconf/51/0/51_463/_article/-char/ja/
+109E26109 土俵の細菌叢と塩濃度との相関性
+三星 暢公, 田中 和幸, 遠藤 麻美, 長船 哲齋, 松本 茂, 小川 光哉, 塔尾 武夫
+
+----------
+## phage
+
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
+[PDF]過小評価されているファージの宿主域
+井町 寛之
+
+
+----------
+## virus
+
+https://twitter.com/Virus_Evolution/status/1077745814066229255
+Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
+9:00 PM - 25 Dec 2018
+
+![](https://pbs.twimg.com/media/DumlVsJU8AIMyZ2.jpg)
+
+2018年2月13日
+https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
+空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2018.02.08
+http://tocana.jp/2018/02/post_15942_entry.html
+【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
+地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
+
+2016-02-21
+http://yokazaki.hatenablog.com/entry/2016/02/21/010028
+1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
+ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
+
+2012/04/17
+https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
+35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
+
+生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
+
+生命誌ジャーナル2015年間テーマうつる
+http://www.brh.co.jp/seimeishi/journal/084/research/1.html
+RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
+
+![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
+
+
+http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
+From design of a genome sequence to generation of a synthetic virus
+- Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
+
+日経サイエンス　 2005年3月号
+http://www.nikkei-science.com/page/magazine/0503/virus.html
+ウイルスは生きているのか | 日経サイエンス
+
+### HIV
+
+https://en.wikipedia.org/wiki/Paul_M._Sharp
+
+2018.01.05
+https://logmi.jp/business/articles/257503
+感染源はチンパンジーだった？　HIVの起源をたどる - ログミー[o_O]
+
+https://www.ncbi.nlm.nih.gov/pubmed/22229120
+Cold Spring Harb Perspect Med. 2011 Sep;1(1):a006841. doi: 10.1101/cshperspect.a006841.
+Origins of HIV and the AIDS pandemic.
+Sharp PM1, Hahn BH.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20643738
+Philos Trans R Soc Lond B Biol Sci. 2010 Aug 27;365(1552):2487-94. doi: 10.1098/rstb.2010.0031.
+The evolution of HIV-1 and the origin of AIDS.
+Sharp PM1, Hahn BH.
+
+https://wired.jp/2003/06/19/hivの起源は「サルを食べたチンパンジー」か/
+「チンパンジーを殺してその肉を食べるという、ヒトが最初に感染したと想定されるルートと似ている」と研究チームのメンバーで、イギリスのノッティンガム大学遺伝学研究所に所属するポール・M・シャープ教授は述べている。
+http://pages.ucsd.edu/~jmoore/publications/hivhooper.html
+Paul Sharp
+
+
 
 ----------
 
