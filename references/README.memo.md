@@ -1,13 +1,13 @@
 # memo
 
 ## Table of Contents
-- [species](#species)
-- [taxonomy](#taxonomy)
 - [featuring](#featuring)
 - [updates](#updates)
 - [2018](#2018)
 - [2017](#2017)
 - [2016](#2016)
+- [species](#species)
+- [taxonomy](#taxonomy)
 - [archaea](#archaea)
 - [primer](#primer)
 - [CAMI_challenge](#cami) Critical Assessment of Metagenome Interpretation
@@ -21,11 +21,236 @@
 - [papers](#papers)
 - [GWAS](#gwas)
 
+
+----------
+## updates
+
+https://news.biglobe.ne.jp/list/012/899/微生物.html
+微生物の話題・最新情報｜BIGLOBEニュース
+
+## 2019
+
+## 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/29309930
+Clin Microbiol Infect. 2018 Apr;24(4):350-354. doi: 10.1016/j.cmi.2017.12.016. Epub 2018 Jan 5.
+Whole genome sequencing options for bacterial strain typing and epidemiologic analysis based on single nucleotide polymorphism versus gene-by-gene-based approaches.
+Schürch AC1, Arredondo-Alonso S1, Willems RJL1, Goering RV2.
+
+## 2017
+
+https://www.ncbi.nlm.nih.gov/pubmed/29258574
+Genome Biol. 2017 Dec 19;18(1):233. doi: 10.1186/s13059-017-1367-z.
+MICRA: an automatic pipeline for fast characterization of microbial genomes from high-throughput sequencing data.
+Caboche S1,2, Even G3,4, Loywick A3,4, Audebert C3,4, Hot D5,4.
+
+http://nobukoba1988.hatenablog.com/entry/2017/12/10/144459
+細菌が作り出す真核生物の交配を導く媚薬 〜その名はEroS〜 - 高等ムーミンをめぐる冒険
+
+https://twitter.com/PLOSCompBiol/status/936576580742270981
+PLOS Comp Biol on Twitter: "Congrats to @HusonDaniel and colleagues for winning our 2017 #PLOSCompBiol #ResearchPrize in the category Exemplary Methods/Software for their tool MEGAN CE that analyzes the genetic diversity of #microbiomes https://t.co/eBB8N4hNZk… https://t.co/ifKpnQ0voc"
+7:43 AM - 1 Dec 2017
+
+![](https://pbs.twimg.com/media/DP9jGWnUIAAFLW2.jpg)
+
+https://twitter.com/Tyu_Shi/status/942824493285703680
+Tyu_Shi on Twitter: "poplarとmaizeの根から単離されたバクテリア484株のゲノムを読んで、既知のゲノム3千株以上と比較ゲノム解析してplant-associated gene clustersを探索したのか。 https://t.co/DVNlG9j13e"
+1:30 PM - 18 Dec 2017
+https://www.ncbi.nlm.nih.gov/pubmed/24567124
+Nat Genet. 2018 Jan;50(1):138-150. doi: 10.1038/s41588-017-0012-9. Epub 2017 Dec 18.
+Genomic features of bacterial adaptation to plants.
+
+
+
+https://twitter.com/MicrobiomDigest/status/936394562381029377
+Elisabeth Bik on Twitter: "Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome Metagenomic study of microbial… https://t.co/sSXhDvasCH"
+7:40 PM - 30 Nov 2017
+
+https://twitter.com/thePeerJ/status/932675684543139845
+PeerJ - the journal on Twitter: "PBxplore: a tool to analyze local protein structure and deformability with Protein Blocks https://t.co/p86EiqUZst #bioinformatics https://t.co/fJ1DjbVwFL"
+1:23 PM - 20 Nov 2017
+
+![](https://pbs.twimg.com/media/DPGHl2cW0AYCa1a.jpg)
+
+https://twitter.com/Tyu_Shi/status/940987045790412800
+Tyu_Shi on Twitter: "Metagenome Assembled Genomesの評価方法としてよく使われている、Single copy genesを用いたcompletenessとcontaminationの指標についての、コンパクトにまとまった良い説明だ。 https://t.co/rfYMlQba35"
+11:49 AM - 13 Dec 2017
+
+https://www.microbe.net/2017/12/13/why-genome-completeness-and-contamination-estimates-are-more-complicated-than-you-think/ 
+Why genome completeness and contamination estimates are more complicated than you think – microBEnet: the microbiology of the Built Environment network
+
+
+12:19 PM - 11 Dec 2017
+https://twitter.com/NatureBiotech/status/940269831181557760
+Nature Biotechnology on Twitter: "Metagenomic binning and association of plasmids with bacterial host genomes using DNA methylation https://t.co/Un1Mm1p561 #epigenomics… https://t.co/FCvLuBgoxb"
+
+
+
+https://twitter.com/pathogenomenick/status/939889344453730304
+"On the Problem of Sequence Leakage" by @OmicsOmicsBlog 
+http://omicsomics.blogspot.co.uk/2017/12/on-problem-of-sequence-leakage.html …
+
+Related: have noticed that students are confused that genome 'X' not in GenBank when they know it's been sequenced.
+4 replies 13 retweets 29 likes
+Reply  4   Retweeted  13   Like  29   Direct message
+
+https://twitter.com/ASMicrobiology/status/939872479820111872
+@ASMicrobiology
+ Dec 10
+More
+WGS shows that one species is actually (at least) four. Increasing our concept of a microbial species has many implications, including in understanding infections http://ow.ly/PsSI30h5qLc 
+
+
+https://twitter.com/Tyu_Shi/status/938098486280515584
+Tyu_Shi on Twitter: "J. Bacteriol.がこの1-2年で出した、Chromosome & Gene expression regulation, Bacterial cell, Pathogenesis & Host interactionのminireviewのThematic collection、とても勉強になる。個人的には前2つが特に。　https://t.co/Lb68EKtbRb"
+
+evolvability
+https://twitter.com/mbiojournal/status/932941916211175424
+mBio on Twitter: "Refactoring the genetic code for increased evolvability https://t.co/DUl2Jc3did… "
+
+Curtis Huttenhowerラボの論文
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1359-z
+Experimental design and quantitative analysis of microbial community multiomics
+Genome Biology2017
+
+
+1 Dec 2017
+https://twitter.com/thePeerJ/status/936536355772993537
+PeerJ - the journal on Twitter: "Kullback Leibler divergence in complete bacterial and phage genomes https://t.co/qN0QBSUXeR #Genomics https://t.co/CaMp8FbmKe"
+
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29204318
+PeerJ. 2017 Nov 30;5:e4026. doi: 10.7717/peerj.4026. eCollection 2017.
+Kullback Leibler divergence in complete bacterial and phage genomes.
+Akhter S1, Aziz RK2,3, Kashef MT2, Ibrahim ES2, Bailey B4, Edwards RA1,3,4,5.
+Here, we calculated the Kullback-Leibler divergence from the mean amino acid content as a metric to compare the amino acid composition for a large set of bacterial and phage genome sequences. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/29038487
+Nat Ecol Evol. 2017 Nov;1(11):1606-1615. doi: 10.1038/s41559-017-0340-2. Epub 2017 Oct 16.
+The microbiome beyond the horizon of ecological and evolutionary theory.
+Koskella B1, Hall LJ2, Metcalf CJE3.
+horizontal gene transfer, the production of public goods, toxin and antibiotic production, rapid evolution, and feedbacks between the microbiome and its host
+
+https://www.ncbi.nlm.nih.gov/pubmed/29021594
+Nat Rev Microbiol. 2017 Oct 12;15(11):639-640. doi: 10.1038/nrmicro.2017.121.
+Understanding drug resistance will improve the treatment of bacterial infections.
+Piddock LJV1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29018197
+Nat Commun. 2017 Oct 10;8(1):841. doi: 10.1038/s41467-017-00808-w.
+The chromosomal organization of horizontal gene transfer in bacteria.
+Oliveira PH1,2, Touchon M3,4, Cury J5,6, Rocha EPC5,6.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28604660
+Nat Biotechnol. 2017 Jul;35(7):676-683. doi: 10.1038/nbt.3886. Epub 2017 Jun 12.
+1,003 reference genomes of bacterial and archaeal isolates expand coverage of the tree of life.
+
+
+
+----------
+## 2016
+
+https://www.ncbi.nlm.nih.gov/pubmed/27541692
+PLoS Biol. 2016 Aug 19;14(8):e1002533. doi: 10.1371/journal.pbio.1002533. eCollection 2016 Aug.
+Revised Estimates for the Number of Human and Bacteria Cells in the Body.
+Sender R1, Fuchs S2, Milo R1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26867134
+PLoS Comput Biol. 2016 Feb 11;12(2):e1004739. doi: 10.1371/journal.pcbi.1004739. eCollection 2016 Feb.
+Practical Approaches for Detecting Selection in Microbial Genomes.
+Hedge J1, Wilson DJ1,2.
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25410596
+Genome Biol. 2014;15(11):524.
+The Harvest suite for rapid core-genome alignment and visualization of thousands of intraspecific microbial genomes.
+Treangen TJ, Ondov BD, Koren S, Phillippy AM.
+
+
+----------
+## species
+
+https://www.sciencedirect.com/science/article/pii/S0960982219300624
+Systematics: The Cohesive Nature of Bacterial Species Taxa - ScienceDirect
+
+
+https://twitter.com/WvSchaik/status/1069298727238713346
+Willem van Schaik on Twitter: "Spoiler: microbial species are a thing.… "
+1:34 PM - 2 Dec 2018
+https://twitter.com/aphillippy/status/1068497439617966080
+Adam Phillippy on Twitter: "Our latest: Are microbial species actually a thing? FastANI gives us a peek. More great work from @chirgjain. Great to see this published! https://t.co/2igLJex2rA"
+8:30 AM - 30 Nov 2018
+https://www.nature.com/articles/s41467-018-07641-9
+High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries | Nature Communications
+
+https://twitter.com/digitalwright/status/1047618983497818114
+Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
+6:46 PM - 3 Oct 2018
+
+http://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
+MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
+
+バクテリア（および他の微生物）が離散したクラスター（discrete clusters ）（species）を形成するか、または水平遺伝子伝達（HGT）の頻度が高く、ゆっくりと減衰するキネティクスのために、連続的な遺伝的多様性が観察されるかどうかである。Closely relatedな少数のゲノムに基づく研究は、genetic continuum（連続性）が優先される可能性があることを示している（例えば、ref.1）。他方、HGTは種間の境界を歪めるほど頻繁ではないかもしれない、あるいは同じ種内の生物が種間の生物に比べてより頻繁に遺伝子交換を行い、それによって異なるクラスターを維持するとの研究がある（例えばref.2）。
+
+種の境界を評価する際の1つの基本的な作業は、2つのゲノム間の遺伝的関連性の推定である。The whole-genome average nucleotide identity（ANI）は、同じ種に属する生物が典型的にはそれらの間に≥95％のANIを示すため（ref.3,4）、近年この作業のための堅牢な方法として浮上している。 
+
+January 16, 2017
+http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
+Small Things Considered: Do bacterial species really exist and why should we care?
+
+----------
+## taxonomy
+
+http://gtdb.ecogenomic.org/
+Genome Taxonomy Database
+
+https://www.ncbi.nlm.nih.gov/pubmed/30148503
+Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
+Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
+
+https://twitter.com/NatureBiotech/status/1034201413717450753
+Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
+6:10 PM - 27 Aug 2018
+![](https://pbs.twimg.com/media/Dlo37tsUYAAcnP8.jpg)
+
+https://twitter.com/NatureRevMicro/status/1036595989816246272
+Nature Rev Microbiol on Twitter: "#ResearchHighlight: Next-generation bacterial taxonomy https://t.co/Acx8vB0XuW"
+8:45 AM - 3 Sep 2018
+
+https://twitter.com/RPoretsky/status/1034446295451226113
+Rachel Poretsky on Twitter: "The @PhilHugenholtz et al. paper that contributed to heated #ISME17 discussions is out! A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life. https://t.co/lvWwHKS7OD"
+10:23 AM - 28 Aug 2018
+
+https://twitter.com/NatureRevMicro/status/1034357487355539456
+Nature Rev Microbiol on Twitter: "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life @NatureBiotech https://t.co/Hro7pynEPQ… https://t.co/ev7En4LKdL"
+4:30 AM - 28 Aug 2018
+![](https://pbs.twimg.com/media/DlrGnFvX4AA_a4L.jpg)
+
+https://twitter.com/WvSchaik/status/1034188127261405185
+Willem van Schaik on Twitter: "Exciting paper: 'A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life' by @PhilHugenholtz https://t.co/ABzGHUSuPn"
+5:17 PM - 27 Aug 2018
+
+https://twitter.com/Tyu_Shi/status/1034217003936931841
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
+7:12 PM - 27 Aug 2018
+
+
+
 ----------
 ### GWAS
 - [Genome-wide association study (GWAS)](https://en.wikipedia.org/wiki/Genome-wide_association_study)
 - [ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析)
 - [[PDF]次世代GWAS研究 - イルミナ株式会社](https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/primer_next_generation_gwas_research-j.pdf)
+
+https://twitter.com/The_Microbiome/status/1099955581140508672
+The Microbiome on Twitter: "A new workflow able to integrate #GWAS, #microbiome and #metabolic results to obtain causal inferences about #diabetes and the #SCFA #butyrate and #propionate. @NatureGenet The Microbiome Portal: https://t.co/ZnYwPAYxZC… https://t.co/YWAKHSJZwY"
+3:53 AM - 25 Feb 2019
+http://themicrobiome.com/en/publications/causal-relationships-among-the-gut-microbiome-shortchain-fatty-acids-and-metabolic-diseases
+Mendelian randomization
 
 https://twitter.com/Tyu_Shi/status/1053687083284348928
 Tyu_Shi on Twitter: "それらの論文読んだ後に、GWASとの対比でメタゲコホート研究を論じたこのReviewを読んだが、現状の問題点の整理にとても良かった。提案しているindexはちょっと微妙だが。Host genetics and microbiome associations through the lens of genome wide association studies https://t.co/a7DIpB9Aqs"
@@ -112,231 +337,6 @@ https://www.natureasia.com/ja-jp/jobs/tokushu/detail/154
 2009年3月
 https://ci.nii.ac.jp/els/contentscinii_20180212133359.pdf?id=ART0009161346
 全ゲノム関連解析 (GWAS)の統計的手法
-
-----------
-### paper
-
-https://www.ncbi.nlm.nih.gov/pubmed/29309930
-Clin Microbiol Infect. 2018 Apr;24(4):350-354. doi: 10.1016/j.cmi.2017.12.016. Epub 2018 Jan 5.
-Whole genome sequencing options for bacterial strain typing and epidemiologic analysis based on single nucleotide polymorphism versus gene-by-gene-based approaches.
-Schürch AC1, Arredondo-Alonso S1, Willems RJL1, Goering RV2.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25410596
-Genome Biol. 2014;15(11):524.
-The Harvest suite for rapid core-genome alignment and visualization of thousands of intraspecific microbial genomes.
-Treangen TJ, Ondov BD, Koren S, Phillippy AM.
-
-
-----------
-## species
-
-https://twitter.com/WvSchaik/status/1069298727238713346
-Willem van Schaik on Twitter: "Spoiler: microbial species are a thing.… "
-1:34 PM - 2 Dec 2018
-https://twitter.com/aphillippy/status/1068497439617966080
-Adam Phillippy on Twitter: "Our latest: Are microbial species actually a thing? FastANI gives us a peek. More great work from @chirgjain. Great to see this published! https://t.co/2igLJex2rA"
-8:30 AM - 30 Nov 2018
-https://www.nature.com/articles/s41467-018-07641-9
-High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries | Nature Communications
-
-https://twitter.com/digitalwright/status/1047618983497818114
-Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
-6:46 PM - 3 Oct 2018
-
-http://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
-MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
-
-バクテリア（および他の微生物）が離散したクラスター（discrete clusters ）（species）を形成するか、または水平遺伝子伝達（HGT）の頻度が高く、ゆっくりと減衰するキネティクスのために、連続的な遺伝的多様性が観察されるかどうかである。Closely relatedな少数のゲノムに基づく研究は、genetic continuum（連続性）が優先される可能性があることを示している（例えば、ref.1）。他方、HGTは種間の境界を歪めるほど頻繁ではないかもしれない、あるいは同じ種内の生物が種間の生物に比べてより頻繁に遺伝子交換を行い、それによって異なるクラスターを維持するとの研究がある（例えばref.2）。
-
-種の境界を評価する際の1つの基本的な作業は、2つのゲノム間の遺伝的関連性の推定である。The whole-genome average nucleotide identity（ANI）は、同じ種に属する生物が典型的にはそれらの間に≥95％のANIを示すため（ref.3,4）、近年この作業のための堅牢な方法として浮上している。 
-
-January 16, 2017
-http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
-Small Things Considered: Do bacterial species really exist and why should we care?
-
-----------
-## taxonomy
-
-http://gtdb.ecogenomic.org/
-Genome Taxonomy Database
-
-https://www.ncbi.nlm.nih.gov/pubmed/30148503
-Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
-Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
-
-https://twitter.com/NatureBiotech/status/1034201413717450753
-Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
-6:10 PM - 27 Aug 2018
-![](https://pbs.twimg.com/media/Dlo37tsUYAAcnP8.jpg)
-
-https://twitter.com/NatureRevMicro/status/1036595989816246272
-Nature Rev Microbiol on Twitter: "#ResearchHighlight: Next-generation bacterial taxonomy https://t.co/Acx8vB0XuW"
-8:45 AM - 3 Sep 2018
-
-https://twitter.com/RPoretsky/status/1034446295451226113
-Rachel Poretsky on Twitter: "The @PhilHugenholtz et al. paper that contributed to heated #ISME17 discussions is out! A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life. https://t.co/lvWwHKS7OD"
-10:23 AM - 28 Aug 2018
-
-https://twitter.com/NatureRevMicro/status/1034357487355539456
-Nature Rev Microbiol on Twitter: "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life @NatureBiotech https://t.co/Hro7pynEPQ… https://t.co/ev7En4LKdL"
-4:30 AM - 28 Aug 2018
-![](https://pbs.twimg.com/media/DlrGnFvX4AA_a4L.jpg)
-
-https://twitter.com/WvSchaik/status/1034188127261405185
-Willem van Schaik on Twitter: "Exciting paper: 'A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life' by @PhilHugenholtz https://t.co/ABzGHUSuPn"
-5:17 PM - 27 Aug 2018
-
-https://twitter.com/Tyu_Shi/status/1034217003936931841
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
-7:12 PM - 27 Aug 2018
-
-
-----------
-
-## 2018
-
-----------
-## 2017
-
-https://www.ncbi.nlm.nih.gov/pubmed/29258574
-Genome Biol. 2017 Dec 19;18(1):233. doi: 10.1186/s13059-017-1367-z.
-MICRA: an automatic pipeline for fast characterization of microbial genomes from high-throughput sequencing data.
-Caboche S1,2, Even G3,4, Loywick A3,4, Audebert C3,4, Hot D5,4.
-
-http://nobukoba1988.hatenablog.com/entry/2017/12/10/144459
-細菌が作り出す真核生物の交配を導く媚薬 〜その名はEroS〜 - 高等ムーミンをめぐる冒険
-
-https://twitter.com/PLOSCompBiol/status/936576580742270981
-PLOS Comp Biol on Twitter: "Congrats to @HusonDaniel and colleagues for winning our 2017 #PLOSCompBiol #ResearchPrize in the category Exemplary Methods/Software for their tool MEGAN CE that analyzes the genetic diversity of #microbiomes https://t.co/eBB8N4hNZk… https://t.co/ifKpnQ0voc"
-7:43 AM - 1 Dec 2017
-
-![](https://pbs.twimg.com/media/DP9jGWnUIAAFLW2.jpg)
-
-https://twitter.com/Tyu_Shi/status/942824493285703680
-Tyu_Shi on Twitter: "poplarとmaizeの根から単離されたバクテリア484株のゲノムを読んで、既知のゲノム3千株以上と比較ゲノム解析してplant-associated gene clustersを探索したのか。 https://t.co/DVNlG9j13e"
-1:30 PM - 18 Dec 2017
-https://www.ncbi.nlm.nih.gov/pubmed/24567124
-Nat Genet. 2018 Jan;50(1):138-150. doi: 10.1038/s41588-017-0012-9. Epub 2017 Dec 18.
-Genomic features of bacterial adaptation to plants.
-
-
-
-https://twitter.com/MicrobiomDigest/status/936394562381029377
-Elisabeth Bik on Twitter: "Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome Metagenomic study of microbial… https://t.co/sSXhDvasCH"
-7:40 PM - 30 Nov 2017
-
-https://twitter.com/thePeerJ/status/932675684543139845
-PeerJ - the journal on Twitter: "PBxplore: a tool to analyze local protein structure and deformability with Protein Blocks https://t.co/p86EiqUZst #bioinformatics https://t.co/fJ1DjbVwFL"
-1:23 PM - 20 Nov 2017
-
-![](https://pbs.twimg.com/media/DPGHl2cW0AYCa1a.jpg)
-
-https://twitter.com/Tyu_Shi/status/940987045790412800
-Tyu_Shi on Twitter: "Metagenome Assembled Genomesの評価方法としてよく使われている、Single copy genesを用いたcompletenessとcontaminationの指標についての、コンパクトにまとまった良い説明だ。 https://t.co/rfYMlQba35"
-11:49 AM - 13 Dec 2017
-
-https://www.microbe.net/2017/12/13/why-genome-completeness-and-contamination-estimates-are-more-complicated-than-you-think/ 
-Why genome completeness and contamination estimates are more complicated than you think – microBEnet: the microbiology of the Built Environment network
-
-
-12:19 PM - 11 Dec 2017
-https://twitter.com/NatureBiotech/status/940269831181557760
-Nature Biotechnology on Twitter: "Metagenomic binning and association of plasmids with bacterial host genomes using DNA methylation https://t.co/Un1Mm1p561 #epigenomics… https://t.co/FCvLuBgoxb"
-
-
-
-https://twitter.com/NatureMicrobiol/status/940566982742740992
-Nature Microbiology‏ 
-@NatureMicrobiol
- Dec 12
-More
-Current issue: #pangenome correspondences: 
-
-1. Michiel Vos & @AdamEyreWalker: are #pangenomes adaptive? http://bit.ly/2nHM5DU  
-
-2. @bjesseshapiro on applying population genetics: http://bit.ly/2nHM82y  
-
-3. @jomcinerney @alanmcn1 & @Evol_Molly reply: http://bit.ly/2nHMaaG 
-
-
-https://twitter.com/pathogenomenick/status/939889344453730304
-"On the Problem of Sequence Leakage" by @OmicsOmicsBlog 
-http://omicsomics.blogspot.co.uk/2017/12/on-problem-of-sequence-leakage.html …
-
-Related: have noticed that students are confused that genome 'X' not in GenBank when they know it's been sequenced.
-4 replies 13 retweets 29 likes
-Reply  4   Retweeted  13   Like  29   Direct message
-
-https://twitter.com/ASMicrobiology/status/939872479820111872
-@ASMicrobiology
- Dec 10
-More
-WGS shows that one species is actually (at least) four. Increasing our concept of a microbial species has many implications, including in understanding infections http://ow.ly/PsSI30h5qLc 
-
-
-https://twitter.com/Tyu_Shi/status/938098486280515584
-Tyu_Shi on Twitter: "J. Bacteriol.がこの1-2年で出した、Chromosome & Gene expression regulation, Bacterial cell, Pathogenesis & Host interactionのminireviewのThematic collection、とても勉強になる。個人的には前2つが特に。　https://t.co/Lb68EKtbRb"
-
-evolvability
-https://twitter.com/mbiojournal/status/932941916211175424
-mBio on Twitter: "Refactoring the genetic code for increased evolvability https://t.co/DUl2Jc3did… "
-
-Curtis Huttenhowerラボの論文
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1359-z
-Experimental design and quantitative analysis of microbial community multiomics
-Genome Biology2017
-
-
-1 Dec 2017
-https://twitter.com/thePeerJ/status/936536355772993537
-PeerJ - the journal on Twitter: "Kullback Leibler divergence in complete bacterial and phage genomes https://t.co/qN0QBSUXeR #Genomics https://t.co/CaMp8FbmKe"
-
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/29204318
-PeerJ. 2017 Nov 30;5:e4026. doi: 10.7717/peerj.4026. eCollection 2017.
-Kullback Leibler divergence in complete bacterial and phage genomes.
-Akhter S1, Aziz RK2,3, Kashef MT2, Ibrahim ES2, Bailey B4, Edwards RA1,3,4,5.
-Here, we calculated the Kullback-Leibler divergence from the mean amino acid content as a metric to compare the amino acid composition for a large set of bacterial and phage genome sequences. 
-
-https://www.ncbi.nlm.nih.gov/pubmed/29038487
-Nat Ecol Evol. 2017 Nov;1(11):1606-1615. doi: 10.1038/s41559-017-0340-2. Epub 2017 Oct 16.
-The microbiome beyond the horizon of ecological and evolutionary theory.
-Koskella B1, Hall LJ2, Metcalf CJE3.
-horizontal gene transfer, the production of public goods, toxin and antibiotic production, rapid evolution, and feedbacks between the microbiome and its host
-
-https://www.ncbi.nlm.nih.gov/pubmed/29021594
-Nat Rev Microbiol. 2017 Oct 12;15(11):639-640. doi: 10.1038/nrmicro.2017.121.
-Understanding drug resistance will improve the treatment of bacterial infections.
-Piddock LJV1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/29018197
-Nat Commun. 2017 Oct 10;8(1):841. doi: 10.1038/s41467-017-00808-w.
-The chromosomal organization of horizontal gene transfer in bacteria.
-Oliveira PH1,2, Touchon M3,4, Cury J5,6, Rocha EPC5,6.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28604660
-Nat Biotechnol. 2017 Jul;35(7):676-683. doi: 10.1038/nbt.3886. Epub 2017 Jun 12.
-1,003 reference genomes of bacterial and archaeal isolates expand coverage of the tree of life.
-
-
-
-----------
-## 2016
-
-https://www.ncbi.nlm.nih.gov/pubmed/27541692
-PLoS Biol. 2016 Aug 19;14(8):e1002533. doi: 10.1371/journal.pbio.1002533. eCollection 2016 Aug.
-Revised Estimates for the Number of Human and Bacteria Cells in the Body.
-Sender R1, Fuchs S2, Milo R1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/26867134
-PLoS Comput Biol. 2016 Feb 11;12(2):e1004739. doi: 10.1371/journal.pcbi.1004739. eCollection 2016 Feb.
-Practical Approaches for Detecting Selection in Microbial Genomes.
-Hedge J1, Wilson DJ1,2.
-
-
 
 
 
