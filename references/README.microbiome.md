@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03-10
+Last Update: 2019-03
 
 ----------
 
@@ -12,6 +12,7 @@ Last Update: 2019-03-10
 - [updates](#updates)
 - [forensic](#forensic) 法科学
 - [host](#host) 宿主
+- [MAG](#mag)
 - [16S](#16s)
 - [amplicon-shotgun](#amplicon-shotgun)
 - [mothur-qiime](#mothur-qiime)
@@ -30,6 +31,83 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 
 ----------
 ## featuring
+
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/20090831
+PLoS Genet. 2010 Jan 15;6(1):e1000808. doi: 10.1371/journal.pgen.1000808.
+The systemic imprint of growth and its uses in ecological (meta)genomics.
+Vieira-Silva S1, Rocha EP.
+Our predictor allows inferring growth rates in the vast majority of uncultivable prokaryotes and paves the way to the understanding of community dynamics from metagenomic data.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797632/
+
+----------
+## MAG
+Metagenome Assembled Genome (MAG)
+
+https://www.ddbj.nig.ac.jp/ddbj/qualifiers.html
+DDBJ Qualifier key
+metagenome_source
+定義	Metagenome Assembled Genome (MAG) として得られた配列、すなわち、metagenome から単一 taxon として assemble された場合に、その由来となった metagenome を記載します。
+
+https://twitter.com/jgi/status/1106429999974772736
+Joint Genome Inst. on Twitter: "Read "Novel insights from uncultivated genomes of the global human gut #microbiome" in @nature from @BerkeleyLab @LBNLBioSci @jgi and @GladstoneInst @UCSF @czbiohub researchers: https://t.co/5dUrX7zHzd #BioEGSB #DataScience… https://t.co/ExoEkSqpRp"
+1:40 AM - 15 Mar 2019
+![](https://pbs.twimg.com/media/D1rUODCUgAA8bDz.jpg)
+
+https://twitter.com/TrendsMicrobiol/status/1106251713122578433
+Trends Microbiol on Twitter: "Sam Minot spotlights how de novo assembly vastly expands the known microbial universe of the gut microbiome https://t.co/kyUgu6tu1Q"
+1:52 PM - 14 Mar 2019
+https://www.sciencedirect.com/science/article/pii/S0966842X19300587
+
+https://www.ncbi.nlm.nih.gov/pubmed/30867587
+Nature. 2019 Mar 13. doi: 10.1038/s41586-019-1058-x. [Epub ahead of print]
+Novel insights from uncultivated genomes of the global human gut microbiome.
+Nayfach S1,2, Shi ZJ3,4, Seshadri R5,6, Pollard KS3,4,7, Kyrpides N8,9.
+
+2019Feb28
+https://bibgraph.hpcr.jp/abst/pubmed/30816235
+メタゲノム集合ゲノムはロシアのカムチャツカにおける2つの温泉プールの微生物多様性への新しい洞察を提供する - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
+
+再現性のあるパイプライン
+https://github.com/WatsonLab/MAGpy
+https://www.ncbi.nlm.nih.gov/pubmed/30418481
+Bioinformatics. 2018 Nov 10. doi: 10.1093/bioinformatics/bty905. [Epub ahead of print]
+MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs).
+Stewart RD1, Auffret M2, Snelling TJ3, Roehe R2, Watson M1.
+
+http://kazumaxneo.hatenablog.com/entry/2018/10/09/003000
+NGSデータまたはアセンブリからバクテリアやアーキアのtaxanomic assignmentを行い、ゲノムのnoveltyなどを評価する MIGA - macでインフォマティクス
+　微生物ゲノムアトラス（MiGA）プロジェクトは、ANIに基づいてクエリーゲノムまたはアセンブリされたコンティグ配列の頑強な分類学的分類を提供する。
+　さらに、クエリーゲノム配列は、単離されたが分類されていないゲノムや、metagenome-assembled genomes（MAG）およびsingle-cell amplified genome（SAG）コレクションに対して検索し、利用可能な全ゲノム配列空間における最も近いrelativesを同定することができる。
+
+http://kazumaxneo.hatenablog.com/entry/2018/05/08/212758
+クラスタを自動で決めてビニングする BinSanity - macでインフォマティクス
+。Metagenome-assembled genomes （MAG）にcontigを分類することは、メタゲノムデータを分析する際に直面するハードルの1つである。
+
+https://www.ncbi.nlm.nih.gov/pubmed/29234139
+Nat Microbiol. 2018 Feb;3(2):253. doi: 10.1038/s41564-017-0083-5.
+Author Correction: Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life.
+Parks DH1, Rinke C1, Chuvochina M1, Chaumeil PA1, Woodcroft BJ1, Evans PN1, Hugenholtz P2, Tyson GW3.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28894102
+Nat Microbiol. 2017 Nov;2(11):1533-1542. doi: 10.1038/s41564-017-0012-7. Epub 2017 Sep 11.
+Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life.
+Parks DH1, Rinke C1, Chuvochina M1, Chaumeil PA1, Woodcroft BJ1, Evans PN1, Hugenholtz P2, Tyson GW3.
+
+2017年09月12日
+http://crisp-bio.blog.jp/archives/3772216.html
+メタゲノムからアッセンブルしたゲノムにより微生物系統樹30％以上拡張
+
+2017-03
+https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/227988/1/scr_2017_56.pdf
+Title 琵琶湖沖に生息する細菌・ウイルスのメタゲノム解析
+Author(s) 岡崎, 友輔
+細菌メタゲノムにおいては、SPAdes でアセンブリされた塩基配列断片に対し、4-mer および
+サンプル間のカバレッジの差異を用いてクラスタリングする手法(binning) を用いた。これによ
+り、各細菌系統の MAG(Metagenome Assembled Genome)を構築し、琵琶湖の表水層および
+深水層に生息する優占的な細菌系統のゲノムを 90％以上の Completeness で得ることができ
+た。
 
 ----------
 ## updates
@@ -626,7 +704,10 @@ https://www.jstage.jst.go.jp/article/kagakutoseibutsu/51/12/51_802/_pdf
 http://www.nikkei-science.com/?p=14373
 Science誌の選ぶこの10年の10大成果：マイクロバイオーム | 日経サイエンス
 
-
+
+----------
+https://academic.oup.com/bioinformatics/article-abstract/35/5/807/5078473Batch effects correction for microbiome data with Dirichlet-multinomial regression
+
 ----------
 ## meta-analysis
 https://ja.wikipedia.org/wiki/メタアナリシス
