@@ -76,10 +76,16 @@ Bioinformatics. 2018 Nov 10. doi: 10.1093/bioinformatics/bty905. [Epub ahead of 
 MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs).
 Stewart RD1, Auffret M2, Snelling TJ3, Roehe R2, Watson M1.
 
+未培養原核生物のゲノム
+https://www.ncbi.nlm.nih.gov/pubmed/30266101
+Microbiome. 2018 Sep 28;6(1):173. doi: 10.1186/s40168-018-0550-0.
+Genomes from uncultivated prokaryotes: a comparison of metagenome-assembled and single-amplified genomes.
+Alneberg J1, Karlsson CMG2, Divne AM3, Bergin C3, Homa F3, Lindh MV2,4, Hugerth LW1,5, Ettema TJG3, Bertilsson S6, Andersson AF7, Pinhassi J8.
+
 http://kazumaxneo.hatenablog.com/entry/2018/10/09/003000
 NGSデータまたはアセンブリからバクテリアやアーキアのtaxanomic assignmentを行い、ゲノムのnoveltyなどを評価する MIGA - macでインフォマティクス
 　微生物ゲノムアトラス（MiGA）プロジェクトは、ANIに基づいてクエリーゲノムまたはアセンブリされたコンティグ配列の頑強な分類学的分類を提供する。
-　さらに、クエリーゲノム配列は、単離されたが分類されていないゲノムや、metagenome-assembled genomes（MAG）およびsingle-cell amplified genome（SAG）コレクションに対して検索し、利用可能な全ゲノム配列空間における最も近いrelativesを同定することができる。
+　さらに、クエリーゲノム配列は、単離されたが分類されていないゲノムや、metagenome-assembled genomes（MAG）およびsingle-cell amplified genome（SAG）コレクションに対して検索し、
 
 http://kazumaxneo.hatenablog.com/entry/2018/05/08/212758
 クラスタを自動で決めてビニングする BinSanity - macでインフォマティクス
