@@ -93,6 +93,11 @@ DarwinBioprospecting on Twitter: "Bacteria from the built environment: the inner
 
 ## 2015
 
+https://twitter.com/phylogenomics/status/680137280934158336
+Jonathan Eisen on Twitter: "Nice microbiology of the built environment paper: Sources of indoor air bacteria… https://t.co/DEYhzTihaU https://t.co/IZo4uM65as"
+4:25 PM - 24 Dec 2015
+![](https://pbs.twimg.com/media/CXBVQJ7UEAA7rBG.png)
+
 https://wired.jp/2015/10/11/bacteria-clouds/
 人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
 
