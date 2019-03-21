@@ -1,11 +1,12 @@
-# memo
+# microbe.memo
 
 ## Table of Contents
 - [featuring](#featuring)
 - [updates](#updates)
-- [2018](#2018)
-- [2017](#2017)
-- [2016](#2016)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+- [ANI](#ani) Average Nucleotide Identity
 - [species](#species)
 - [taxonomy](#taxonomy)
 - [archaea](#archaea)
@@ -20,7 +21,6 @@
 - [replication](#replication)
 - [papers](#papers)
 - [GWAS](#gwas)
-
 
 ----------
 ## updates
@@ -169,6 +169,33 @@ Genome Biol. 2014;15(11):524.
 The Harvest suite for rapid core-genome alignment and visualization of thousands of intraspecific microbial genomes.
 Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
+----------
+## ANI
+Average Nucleotide Identity
+
+https://twitter.com/ChristianRinke/status/1108470780348649472
+Chris Rinke on Twitter: "NCBI will use average nucleotide identity (ANI) analysis to correct existing public records in GenBank. https://t.co/Qis6BSy2Y1"
+https://ncbiinsights.ncbi.nlm.nih.gov/2019/02/06/correct-existing-taxonomic-info-genbank-ani-analysis/amp/
+https://www.ncbi.nlm.nih.gov/pubmed/29792589
+Int J Syst Evol Microbiol. 2018 Jul;68(7):2386-2392. doi: 10.1099/ijsem.0.002809. Epub 2018 May 24.
+Using average nucleotide identity to improve taxonomic assignments in prokaryotic genomes at the NCBI.
+Ciufo S1, Kannan S1, Sharma S1, Badretdin A1, Clark K1, Turner S1, Brover S1, Schoch CL1, Kimchi A1, DiCuccio M1.
+
+http://kazumaxneo.hatenablog.com/archive/category/ANI
+ANI カテゴリーの記事一覧 - macでインフォマティクス
+
+https://www.nite.go.jp/nbrc/cultures/others/nbrcnews/news_vol43.html#news43_3
+NBRCニュース No. 43（2017.2.1）
+　３．バイテク分析法（3）細菌の分類同定における全ゲノム配列の利用
+　現在、OGRIで利用されている手法として、ゲノム配列の相同性をコンピューター上で解
+析するin silico DDH法があります。その中でも、2つのゲノム配列上のオーソログな領域
+における相同値の平均値を計算する方法であるANI（Average Nucleotide Identity）が最
+も利用されており、ANI値とDDH相同値には高い相関が確認されています(4)。
+
+https://www.nite.go.jp/nbrc/safety/risk_assessment.html
+微生物利用におけるリスク評価に関する技術情報の提供 | バイオテクノロジー | 製品評価技術基盤機構
+菌種の同定法　～ Average Nucleotide Identity （ANI）について～
+![](https://www.nite.go.jp/data/000060544.png)
 
 ----------
 ## species
@@ -176,6 +203,9 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 https://www.sciencedirect.com/science/article/pii/S0960982219300624
 Systematics: The Cohesive Nature of Bacterial Species Taxa - ScienceDirect
 
+https://twitter.com/digitalwright/status/1047618983497818114
+Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
+6:46 PM - 3 Oct 2018
 
 https://twitter.com/WvSchaik/status/1069298727238713346
 Willem van Schaik on Twitter: "Spoiler: microbial species are a thing.… "
@@ -186,16 +216,20 @@ Adam Phillippy on Twitter: "Our latest: Are microbial species actually a thing? 
 https://www.nature.com/articles/s41467-018-07641-9
 High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries | Nature Communications
 
-https://twitter.com/digitalwright/status/1047618983497818114
-Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
-6:46 PM - 3 Oct 2018
-
 http://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
 MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
+- バクテリア（および他の微生物）が離散したクラスター（discrete clusters ）（species）を形成するか、または水平遺伝子伝達（HGT）の頻度が高く、ゆっくりと減衰するキネティクスのために、連続的な遺伝的多様性が観察されるかどうかである。Closely relatedな少数のゲノムに基づく研究は、genetic continuum（連続性）が優先される可能性があることを示している（例えば、ref.1）。他方、HGTは種間の境界を歪めるほど頻繁ではないかもしれない、あるいは同じ種内の生物が種間の生物に比べてより頻繁に遺伝子交換を行い、それによって異なるクラスターを維持するとの研究がある（例えばref.2）。
+- 種の境界を評価する際の1つの基本的な作業は、2つのゲノム間の遺伝的関連性の推定である。The whole-genome average nucleotide identity（ANI）は、同じ種に属する生物が典型的にはそれらの間に≥95％のANIを示すため（ref.3,4）、近年この作業のための堅牢な方法として浮上している。
 
-バクテリア（および他の微生物）が離散したクラスター（discrete clusters ）（species）を形成するか、または水平遺伝子伝達（HGT）の頻度が高く、ゆっくりと減衰するキネティクスのために、連続的な遺伝的多様性が観察されるかどうかである。Closely relatedな少数のゲノムに基づく研究は、genetic continuum（連続性）が優先される可能性があることを示している（例えば、ref.1）。他方、HGTは種間の境界を歪めるほど頻繁ではないかもしれない、あるいは同じ種内の生物が種間の生物に比べてより頻繁に遺伝子交換を行い、それによって異なるクラスターを維持するとの研究がある（例えばref.2）。
+http://kazumaxneo.hatenablog.com/entry/2018/09/11/234212
+gANIを計算するツール ANIcalculator - macでインフォマティクス
+- 微生物は数と多様性の両方で生命の樹木を支配しており、その自然分類を困難かつ重要なものにしている。動物では、種は一般に交配可能な生物群と定義されるが（biological species concept）、この定義は無性生物の集合体に直接適用することはできない。結果として、微生物分類学は、生物に関する遺伝子型、表現型および化学感受性の情報を統合し、利用可能なデータのコンセンサスに基づいて微生物種を描写する多相性のアプローチ（論文よりref.2,3）を採用する。
+- Whole-genome based Average Nucleotide Identity (gANI) は、KonstantinidisとTiedjeにより、2ゲノム間の類似性の尺度として提案された（ref.4）。
 
-種の境界を評価する際の1つの基本的な作業は、2つのゲノム間の遺伝的関連性の推定である。The whole-genome average nucleotide identity（ANI）は、同じ種に属する生物が典型的にはそれらの間に≥95％のANIを示すため（ref.3,4）、近年この作業のための堅牢な方法として浮上している。 
+https://www.ncbi.nlm.nih.gov/pubmed/26150420
+Nucleic Acids Res. 2015 Aug 18;43(14):6761-71. doi: 10.1093/nar/gkv657. Epub 2015 Jul 6.
+Microbial species delineation using whole genome sequences.
+Varghese NJ1, Mukherjee S1, Ivanova N1, Konstantinidis KT2, Mavrommatis K3, Kyrpides NC4, Pati A4.
 
 January 16, 2017
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
