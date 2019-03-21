@@ -97,6 +97,10 @@ https://twitter.com/phylogenomics/status/680137280934158336
 Jonathan Eisen on Twitter: "Nice microbiology of the built environment paper: Sources of indoor air bacteria… https://t.co/DEYhzTihaU https://t.co/IZo4uM65as"
 4:25 PM - 24 Dec 2015
 ![](https://pbs.twimg.com/media/CXBVQJ7UEAA7rBG.png)
+https://www.ncbi.nlm.nih.gov/pubmed/26653310
+Microbiome. 2015 Dec 10;3:61. doi: 10.1186/s40168-015-0128-z.
+Relative and contextual contribution of different sources to the composition and abundance of indoor air bacteria in residences.
+Miletto M1, Lindow SE2.
 
 https://wired.jp/2015/10/11/bacteria-clouds/
 人間は「微生物のクラウド」に包まれている：マイクロバイオーム最新研究より｜WIRED.jp
