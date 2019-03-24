@@ -44,6 +44,7 @@ NCBI配列データベース
 
 https://twitter.com/hashtag/togotv18
 [生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+
 ![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
 
 https://twitter.com/hashtag/jsbba2019
