@@ -26,17 +26,6 @@ Last Update: 2019-03
 https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
 NCBI配列データベース
 
-2015年9月 [デング熱ストッパー | 日経サイエンス](http://www.nikkei-science.com/201509_046.html)
-自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。　
-
-![](https://pbs.twimg.com/media/DHWayFxXkAEKzM4.jpg)
-
-2002年7月 [細菌が操る性転換 | 日経サイエンス](http://www.nikkei-science.com/page/sci_book/bessatu/51221.html)
-昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
-
-![](https://pbs.twimg.com/media/DRoodFWVQAEesVG.jpg)
-
-
 https://www.sgmj.org/sgmj2019/program.html
 第13回日本ゲノム微生物学会年会 - プログラム・日程表
 タイトル	北極と南極の雪を赤く染める藻類の地理的分布
