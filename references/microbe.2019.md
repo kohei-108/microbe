@@ -39,15 +39,8 @@ https://github.com/haruosuz/metasub/blob/master/README.md#twitter
 https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
 NCBI配列データベース
 
-DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
-https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
-
-UniProtウェブサイトで"cold shock protein"を検索した結果です。
-https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
-
 https://twitter.com/hashtag/jsbba2019
 日本農芸化学会2019年度大会事務局
-
 https://twitter.com/sugargroove/status/1108211332048781313
 Shinya Fushinobu on Twitter: "ジュニア農芸化学会2019、大会２日目の25日（月）に開かれます。 より多くの方に高校生のポスター発表をご審査頂くため、大会に参加される皆様は、是非、ジュニアの会場にもお越しください。交流会・表彰式の参加も歓迎いたします。何卒よろしくお願いします！ #jsbba2019 https://t.co/kQcqPD7r7m… https://t.co/uIaLADCt3X"
 
