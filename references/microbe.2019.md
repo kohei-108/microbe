@@ -16,38 +16,10 @@ Last Update: 2019-03
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
 - [2019-03-24](#2019-03-24)
+- [2019-03-20](#2019-03-20)
+- [2019-03-11](#2019-03-11)
 - [2019-03-02](#2019-03-02)
-
-----------
-## 2019-03-24
-
-https://twitter.com/sugargroove/status/1108211332048781313
-Shinya Fushinobu on Twitter: "ジュニア農芸化学会2019、大会２日目の25日（月）に開かれます。 より多くの方に高校生のポスター発表をご審査頂くため、大会に参加される皆様は、是非、ジュニアの会場にもお越しください。交流会・表彰式の参加も歓迎いたします。何卒よろしくお願いします！ #jsbba2019 https://t.co/kQcqPD7r7m… https://t.co/uIaLADCt3X"
-
-https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
-NCBI配列データベース
-
-DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
-https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
-
-UniProtウェブサイトで"cold shock protein"を検索した結果です。
-https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
-
-ヒト（皮膚・腸内）微生物群集解析に関連して
-法微生物学 Forensic Microbiology に関する情報です。
-https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#forensic
-
-建造環境の微生物 Microbiology of the Built Environment に関する情報です。
-https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-
-https://www.sgmj.org/sgmj2019/program.html
-第13回日本ゲノム微生物学会年会 - プログラム・日程表
-タイトル	北極と南極の雪を赤く染める藻類の地理的分布
-演者	瀬川 高弘（山梨大学　総合分析実験センター）
-
-https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお知らせ/
-13:30-15:00 古代DNA（瀬川高弘　山梨大学、森宙史　国立遺伝学研究所）内容
-https://kimuraseminar.wordpress.com/2017年8月5日-古代dna/
+- [metasub](#metasub)
 
 ----------
 ## metasub
@@ -60,6 +32,64 @@ https://github.com/haruosuz/metasub/blob/master/README.md#twitter
 実際のサンプリング作業は、動画 (https://www.youtube.com/watch?v=boIK-ezDuuI&t=2s) にあるように約3分間、表面（椅子、床、壁など）を綿棒で拭います。
 
 東京サンプルの一部は国際会議のデータ解析イベント（CAMDA2019 Metagenomic Forensics Challenge https://twitter.com/CAMDA_conf ）で使用される予定です。CAMDA2019参加者によるデータ解析結果は、ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland で発表されます。
+
+----------
+## 2019-03-24
+
+https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
+NCBI配列データベース
+
+DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
+https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
+
+UniProtウェブサイトで"cold shock protein"を検索した結果です。
+https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
+
+https://twitter.com/hashtag/jsbba2019
+日本農芸化学会2019年度大会事務局
+
+https://twitter.com/sugargroove/status/1108211332048781313
+Shinya Fushinobu on Twitter: "ジュニア農芸化学会2019、大会２日目の25日（月）に開かれます。 より多くの方に高校生のポスター発表をご審査頂くため、大会に参加される皆様は、是非、ジュニアの会場にもお越しください。交流会・表彰式の参加も歓迎いたします。何卒よろしくお願いします！ #jsbba2019 https://t.co/kQcqPD7r7m… https://t.co/uIaLADCt3X"
+
+http://www.nikkei-science.com/page/sci_book/bessatu/51185.html
+進化が語る 現在・過去・未来 | 日経サイエンス
+http://www.nikkei-science.com/page/magazine/1003/201003_036.html
+深海底のロストシティーが語る生命の起源
+熱水噴出孔
+
+https://www.sgmj.org/sgmj2019/program.html
+第13回日本ゲノム微生物学会年会 - プログラム・日程表
+タイトル	北極と南極の雪を赤く染める藻類の地理的分布
+演者	瀬川 高弘（山梨大学　総合分析実験センター）
+
+https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお知らせ/
+13:30-15:00 古代DNA（瀬川高弘　山梨大学、森宙史　国立遺伝学研究所）内容
+https://kimuraseminar.wordpress.com/2017年8月5日-古代dna/
+
+----------
+## 2019-03-20
+
+最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）
+https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#temperature
+
+DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
+https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
+
+UniProtウェブサイトで“cold shock protein”を検索した結果です。
+https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
+
+----------
+## 2019-03-11
+
+異なる環境（ヒト、土壌、建造環境である国際宇宙ステーション）に由来する細菌（黄色ブドウ球菌、セレウス菌）のゲノム配列解析に関する研究論文です。
+https://www.ncbi.nlm.nih.gov/pubmed/30637341 Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
+
+ヒト（皮膚・腸内）微生物群集解析に関連して
+法微生物学 Forensic Microbiology に関する情報です。
+https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#forensic
+
+建造環境の微生物 Microbiology of the Built Environment に関する情報です。
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
 ----------
 ## featuring
