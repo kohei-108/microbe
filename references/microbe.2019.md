@@ -47,6 +47,18 @@ https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお�
 https://kimuraseminar.wordpress.com/2017年8月5日-古代dna/
 
 ----------
+## metasub
+
+MetaSUB国際コンソーシアム (http://metasub.org) では、都市建造環境の微生物群集を調査するために、2019年6月21日 (金) Global City Sampling Day (CSD) に世界同時サンプリングを実施する予定です。batch effectを最小化するために、サンプル処理（DNA抽出、ライブラリ調製、シークエンシング）は各ラボではなく一施設で実施しますので、データ取得までに時間を要することが予想されますが、サンプリング参加者にはデータが共有されます。研究対象微生物（遺伝子）の地理空間情報マップの作成、教材として、貴研究所施設・最寄駅からのサンプリングはいかがでしょうか。
+
+Twitterでハッシュタグをつけてサンプリング風景が投稿された例です。
+https://github.com/haruosuz/metasub/blob/master/README.md#twitter
+
+実際のサンプリング作業は、動画 (https://www.youtube.com/watch?v=boIK-ezDuuI&t=2s) にあるように約3分間、表面（椅子、床、壁など）を綿棒で拭います。
+
+東京サンプルの一部は国際会議のデータ解析イベント（CAMDA2019 Metagenomic Forensics Challenge https://twitter.com/CAMDA_conf ）で使用される予定です。CAMDA2019参加者によるデータ解析結果は、ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland で発表されます。
+
+----------
 ## featuring
 ----------
 ## updates
