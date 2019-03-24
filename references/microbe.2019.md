@@ -16,8 +16,6 @@ Last Update: 2019-03
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
 - [2019-03-24](#2019-03-24)
-- [2019-03-20](#2019-03-20)
-- [2019-03-11](#2019-03-11)
 - [2019-03-02](#2019-03-02)
 
 ----------
@@ -25,6 +23,19 @@ Last Update: 2019-03
 
 https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
 NCBI配列データベース
+
+DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
+https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
+
+UniProtウェブサイトで"cold shock protein"を検索した結果です。
+https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
+
+ヒト（皮膚・腸内）微生物群集解析に関連して
+法微生物学 Forensic Microbiology に関する情報です。
+https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#forensic
+
+建造環境の微生物 Microbiology of the Built Environment に関する情報です。
+https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
 https://www.sgmj.org/sgmj2019/program.html
 第13回日本ゲノム微生物学会年会 - プログラム・日程表
@@ -34,35 +45,6 @@ https://www.sgmj.org/sgmj2019/program.html
 https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお知らせ/
 13:30-15:00 古代DNA（瀬川高弘　山梨大学、森宙史　国立遺伝学研究所）内容
 https://kimuraseminar.wordpress.com/2017年8月5日-古代dna/
-
-
-
-----------
-## 2019-03-20
-
-実験ではなくバイオインフォマティクス解析を行います。
-最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）を論文・データベースで調べ、それらの細菌のDNA/タンパク質の配列解析を行います。
-https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#temperature
-
-DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
-https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
-
-UniProtウェブサイトで“cold shock protein”を検索した結果です。
-https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
-
-----------
-## 2019-03-11
-
-環境の微生物群集を構成する細菌のゲノム配列解析はいかがでしょうか。
-例えば、以下は、異なる環境（ヒト、土壌、建造環境である国際宇宙ステーション）に由来する細菌（黄色ブドウ球菌、セレウス菌）のゲノム配列解析に関する研究論文です。
-https://www.ncbi.nlm.nih.gov/pubmed/30637341 Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
-
-ヒト（皮膚・腸内）微生物群集解析に関連して
-法微生物学 Forensic Microbiology に関する情報です。
-https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#forensic
-
-建造環境の微生物 Microbiology of the Built Environment に関する情報です。
-https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
 ----------
 ## featuring
