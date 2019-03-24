@@ -39,6 +39,13 @@ https://github.com/haruosuz/metasub/blob/master/README.md#twitter
 https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
 NCBI配列データベース
 
+[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+
+https://twitter.com/hashtag/togotv18
+[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
+
 https://twitter.com/hashtag/jsbba2019
 日本農芸化学会2019年度大会事務局
 https://twitter.com/sugargroove/status/1108211332048781313
