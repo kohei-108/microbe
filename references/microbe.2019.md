@@ -21,6 +21,9 @@ Last Update: 2019-03
 ----------
 ## 2019-03-24
 
+https://twitter.com/sugargroove/status/1108211332048781313
+Shinya Fushinobu on Twitter: "ジュニア農芸化学会2019、大会２日目の25日（月）に開かれます。 より多くの方に高校生のポスター発表をご審査頂くため、大会に参加される皆様は、是非、ジュニアの会場にもお越しください。交流会・表彰式の参加も歓迎いたします。何卒よろしくお願いします！ #jsbba2019 https://t.co/kQcqPD7r7m… https://t.co/uIaLADCt3X"
+
 https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
 NCBI配列データベース
 
