@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-01
+Last Update: 2019-03
 
 ----------
 
@@ -27,9 +27,10 @@ Last Update: 2019-01
 - [Shewanella](#shewanella)
 - [Sinorhizobium](#sinorhizobium)
   - KGO-5
-- [Rickettsiales](#rickettsiales)
-- [Wolbachia](#wolbachia)
-- [mitochondria](#mitochondria)
+- [mitochondria](#mitochondria) 
+- [Rickettsiales](#rickettsiales) リケッチア目
+- [Holospora](#holospora) ホロスポラ属
+- [Wolbachia](#wolbachia) ボルバキア
 
 ----------
 ## heavy metals
@@ -67,8 +68,6 @@ However, the arsenite transport pathway was unknown until an aquaglyceroporin, t
 ```
 
 Distribution of ars genes in arsenic-resistant prokaryotes. 
-
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/figure/F1/](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=6205960_fmicb-09-02473-g001.jpg)
 
 ![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/bin/fmicb-09-02473-g001.jpg)
 
@@ -1244,6 +1243,24 @@ Environ. Sci. Technol. Lett., 2017, 4 (12), pp 562–566
 ----------
 ### Shewanella
 
+ヨウ素 還元
+
+https://twitter.com/jcamthrash/status/1107773917534392321
+Cameron Thrash on Twitter: "Dalton Hardisty is talking about iodate as a redox tracer in marine systems in today’s @USC_earth seminar."
+6:40 PM - 18 Mar 2019
+
+https://www.ncbi.nlm.nih.gov/pubmed/30446562
+Appl Environ Microbiol. 2019 Jan 23;85(3). pii: e02115-18. doi: 10.1128/AEM.02115-18. Print 2019 Feb 1.
+Metal Reduction and Protein Secretion Genes Required for Iodate Reduction by Shewanella oneidensis.
+Toporek YJ1, Mok JK1, Shin HD1, Lee BD2, Lee MH3, DiChristina TJ4.
+
+28 Mar 2018
+https://www.tandfonline.com/doi/abs/10.1080/01490451.2018.1430189?journalCode=ugmb20
+Iodate Reduction by Shewanella oneidensis Does Not Involve Nitrate Reductase
+Jung Kee Mok, Yael J. Toporek, Hyun-Dong Shin, Brady D. Lee, M. Hope Lee & Thomas J. DiChristina
+https://pdfs.semanticscholar.org/213e/63ea4dfb579e2e08f1a3e8d74eedbc0e03e2.pdf
+
+
 https://ja.wikipedia.org/wiki/シェワネラ属
 、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
 
@@ -1574,94 +1591,66 @@ Sinorhizobium sp. DAO10 16S ribosomal RNA gene, partial sequence
 
 https://core.ac.uk/download/pdf/96948362.pdf
 博士論文土壌環境における亜ヒ酸の挙動に及ぼす細菌群集の影響
-2-6-1 供試菌株供試菌株として Alphaproteobacteria 綱に属する亜ヒ酸酸化細菌 Shinorhizobium sp. KGO-5 (Dong et al., 2014)を用いた。KGO-5 株は本研究室にお いて高度ヒ素汚染土壌から単離された通性独立栄養性の亜ヒ酸酸化細菌である。2-6-2 KGO-5 株の培養及び菌体懸濁液の調製
-----------
-## Wolbachia
-- https://sites.google.com/site/kageyama000jp/
-陰山大輔
-- https://twitter.com/Symbionticism
-Seth Bordenstein
-- https://twitter.com/chicaScientific
-Irene Newton
-- https://twitter.com/WolbachiaProj
-WolbachiaProject
-
-![](https://pbs.twimg.com/profile_images/993264779862204424/5kIwxeRL_bigger.jpg)
-
-https://ja.wikipedia.org/wiki/ボルバキア
-
-https://kotobank.jp/word/ボルバキア-669591
-昆虫類、クモ・ダニ類、フィラリア線虫などの細胞内に寄生する共生細菌。宿主の卵細胞の細胞質を通じて母性遺伝する。
-[補説]ボルバキアは宿主の生殖を操作することが知られている。感染したメスが単為生殖を行う、感染したオスと感染していないメスが交配すると受精卵が発育しない、感染したオスの個体がメス化する、感染したオスだけが死亡する、などの生殖異常を引き起こして感染したメスを増加させる。
-
-2019
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
-Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
-
-https://www.ncbi.nlm.nih.gov/pubmed/30202647
-PeerJ. 2018 Sep 3;6:e5486. doi: 10.7717/peerj.5486. eCollection 2018.
-A bioinformatics approach to identifying Wolbachia infections in arthropods.
-Pascar J1,2, Chandler CH1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126470/
-- Here, we look for evidence of Wolbachia infection across a wide array of arthropod species using a bioinformatic approach to detect the Wolbachia genes ftsZ, wsp, and the groE operon in next-generation sequencing samples available through the NCBI Sequence Read Archive. 
-- Meta-analysis indicates that the infection distribution in the total number of species may be closer to 66% (Hilgenboecker et al., 2008).
-- A metagenomics-based approach can also be useful for characterizing microbiomes, including looking for Wolbachia and other symbionts (e.g. Dittmer & Bouchon, 2018), 
-
-動画
-Nov 29, 2017
-https://www.youtube.com/watch?v=S2tND3OmwzY
-Mosquitoes Might SAVE Lives, Thanks To Bacteria | I Contain Multitudes - YouTube
-http://www.kashiwashobo.co.jp/book/b286870.html
-世界は細菌にあふれ、人は細菌によって生かされる
-
-2017年3月9日 
-https://www.natureasia.com/ja-jp/nature/highlights/83856
-微生物学： ボルバキア菌による昆虫の生存操作
-
-ボルバキア由来のプロファージWOがコードする2つの遺伝子が、細胞質不和合を再現する
-
-2016年10月12日 
-https://www.natureasia.com/ja-jp/ncomms/pr-highlights/11040
-【進化】細菌に感染するウイルスがクロゴケグモと同じDNAを持っていた
-ファージWO（ボルバキア菌に感染するウイルス）のゲノム配列を解読し、そのゲノムの一部を構成する遺伝子が真核生物の遺伝子に類似していることを発見した。
-
-2015年9月
-http://www.nikkei-science.com/201509_046.html
-デング熱ストッパー | 日経サイエンス　
-自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。
-
-![](http://www.nikkei-science.com/wp-content/uploads/2015/07/97dcb51ba1ce46920d90238bf2990859.jpg)
-
-2014 陰山大輔
-https://www.jstage.jst.go.jp/article/konchubiotec/83/3/83_3_243/_pdf
-昆虫の生殖を操作する細胞内共生細菌 Wolbachia の機能と特徴
-
-http://www.aist.go.jp/aist_j/press_release/pr2014/pr20140701/pr20140701.html
-産総研：トコジラミの生存を支える共生細菌ボルバキアのビタミンB7合成能力
-
-![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig1.jpg)
-![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig2.jpg)
-
-http://www.nikkei-science.com/page/magazine/1006/201006_062.html
-細菌によって変わる虫たち
-
-2005年9月1日
-http://www.natureasia.com/ja-jp/reviews/highlight/10933
-不和合性の解析：ボルバキア(Wolbachia)を対象にする
-
-2002年7月
-http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
-細菌が操る性転換 | 日経サイエンス　
-昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
-
+2-6-1 供試菌株供試菌株として Alphaproteobacteria 綱に属する亜ヒ酸酸化細菌 Shinorhizobium sp. KGO-5 (Dong et al., 2014)を用いた。KGO-5 株は本研究室にお いて高度ヒ素汚染土壌から単離された通性独立栄養性の亜ヒ酸酸化細菌である。2-6-2 KGO-5 株の培養及び菌体懸濁液の調製
 
 ----------
+## Alphaproteobacteria
+https://ja.wikipedia.org/wiki/アルファプロテオバクテリア綱
+Pelagibacter属、Pelagibacter ubiqueは他の属と遺伝子の数やGC含量が大きく異なり、系統図上の位置について議論がある 。Pelagibacterales属、Rickettsiales属およびHolosporales属のゲノムは特にATリッチである。
+リボソームRNAのGC含量は伝統的な系統学的特徴の標識であり、ゲノムのGC含量への反映が小さいためである。例えば、Holosporales属の種のゲノムのGC含量はPelagibacterales属とRickettsiales属のそれと同様に小さいが、リボソームRNAのGC含量は2属と比べて非常に高い。したがって、Holosporales属は後者の2属よりもゲノム高GC含量の種とより関連が深い。
 
+https://www.ncbi.nlm.nih.gov/pubmed/30789345
+Elife. 2019 Feb 21;8. pii: e42535. doi: 10.7554/eLife.42535. [Epub ahead of print]
+An updated phylogeny of the Alphaproteobacteria reveals that the parasitic Rickettsiales and Holosporales have independent origins.
+Muñoz-Gómez SA1, Hess S1, Burger G2, Lang BF2, Susko E3, Slamovits CH1, Roger AJ1.
+https://elifesciences.org/articles/42535
+55 The great diversity of the Alphaproteobacteria itself presents a challenge to deciphering
+56 the deepest divergences within the group. Such diversity encompasses a broad
+57 spectrum of genome (nucleotide) and proteome (amino acid) compositions (e.g., the
+58 A+T%-rich Pelagibacterales versus the G+C%-rich Acetobacteraceae) and molecular
+59 evolutionary rates (e.g., the fast-evolving Pelagibacteriales, Rickettsiales or
+60 Holosporales versus many slow-evolving species in the Rhodospirillales) (Ettema and
+61 Andersson 2009). This diversity may lead to pervasive artefacts when inferring the
+62 phylogeny of the Alphaproteobacteria, e.g., long-branch attraction (LBA) between the
+63 Rickettsiales and Pelagibacterales, especially when including mitochondria (
+
+長枝誘引（LBA: Long-Branch Attraction）
+
+https://ja.wikipedia.org/wiki/最大節約法
+より根本的に重大な問題として、形質の数が少なく、比較を行う生物種によって進化速度が大きく異なるような場合には誤りをもたらすことがある（Felsenstein、1978年）。これはロングブランチアトラクション (Long branch attraction) と呼ばれ、次のような場合に起きる。
+
+----------
+## mitochondria
+
+https://www.ncbi.nlm.nih.gov/pubmed/25609566
+Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
+An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
+Wang Z1, Wu M1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302308/
+3) Extreme sequence composition bias. Mitochondria and the obligate intracellular Alphaproteobacteria are in general extremely AT rich in their genome sequences. It is well established that sequence composition bias could adversely affect the phylogenetic reconstruction and lead to statistically robust but misleading conclusions9,10,11.
+
+However, this hypothesis has been convincingly refuted by more recent studies demonstrating that this sister-clade relationship is a tree reconstruction artifact resulted from sequence composition bias21,23,24.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22291975
+PLoS One. 2012;7(1):e30520. doi: 10.1371/journal.pone.0030520. Epub 2012 Jan 23.
+The SAR11 group of alpha-proteobacteria is not related to the origin of mitochondria.
+Rodríguez-Ezpeleta N1, Embley TM.
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030520
+Figure 1. Nucleotide and amino acid composition of the dataset used in this study. A
+
+https://www.ncbi.nlm.nih.gov/pubmed/21957463
+PLoS One. 2011;6(9):e24857. doi: 10.1371/journal.pone.0024857. Epub 2011 Sep 21.
+Phylogenomic analysis of Odyssella thessalonicensis fortifies the common origin of Rickettsiales, Pelagibacter ubique and Reclimonas americana mitochondrion.
+Georgiades K1, Madoui MA, Le P, Robert C, Raoult D.
+
+----------
 ## Rickettsiales
 - https://ja.wikipedia.org/wiki/リケッチア目
-- https://en.wikipedia.org/wiki/Holosporaceae
-- https://ja.wikipedia.org/wiki/ホロスポラ属
-- https://ja.wikipedia.org/wiki/ケディバクター属
+  - リケッチア科 Rickettsiaceae
+  - アナプラズマ科 Anaplasmataceae
+  - ホロスポラ科 Holosporaceae
+
+リケッチア目には、主として海洋から見出されるSAR11という難培養系統を含んでいる。ここには自由生活性で浮遊性の種が多数存在しており、例えば世界中の海洋に遍在する細菌（暫定的にCandidatus Pelagibacter ubiqueと命名された）が所属している[4]。この系統はリケッチア目の中でも最も祖先的な位置から派生しており、ミトコンドリアの起源は自由生活性のSAR11とその他の細胞内寄生性のリケッチアとの間に由来すると考えられる[5][6]。一方、ミトコンドリア膜間腔に共生するミディクロリアもリケッチア目に含まれている。
 
 https://ja.wikipedia.org/wiki/ミディクロリア
 (Candidatus Midichloria mitochondrii)はミトコンドリアに細胞内共生するリケッチアであり、マダニの卵巣に見出される。この名は映画スター・ウォーズ・シリーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名されている[1]。
@@ -1686,38 +1675,200 @@ Genome sequence of Rickettsia bellii illuminates the role of amoebae in gene exc
 Ogata H1, La Scola B, Audic S, Renesto P, Blanc G, Robert C, Fournier PE, Claverie JM, Raoult D.
 
 ----------
-## mitochondria
+## Caedibacter
 
-https://elifesciences.org/articles/42535
-An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | eLife
+- https://ja.wikipedia.org/wiki/ケディバクター属
+ケディバクター属（Caedibacter）[1] はリケッチア目で科の所属が明らかでない属で、グラム陰性非運動性偏性細胞内共生桿菌ないし球菌。
 
-https://www.biorxiv.org/content/early/2018/11/05/462648
-An updated phylogeny of the Alphaproteobacteria reveals that the Rickettsiales and Holosporales have independent origins | bioRxiv
-https://www.biorxiv.org/content/biorxiv/early/2018/11/05/462648.full.pdf
-This diversity may lead to pervasive artefacts when inferring the
-66 phylogeny of the Alphaproteobacteria, e.g., long-branch attraction (LBA) between the
-67 Rickettsiales and Pelagibacterales, especially when including mitochondria (Rodríguez68 Ezpeleta and Embley 2012; Viklund, Ettema, and Andersson 2012; Viklund et al. 2013).
+https://www.ncbi.nlm.nih.gov/pubmed/29348333
+Genome Announc. 2018 Jan 18;6(3). pii: e01418-17. doi: 10.1128/genomeA.01418-17.
+Draft Genome Sequence and Annotation of the Obligate Bacterial Endosymbiont Caedibacter taeniospiralis, Causative Agent of the Killer Phenotype in Paramecium tetraurelia.
+Zaburannyi N1,2, Grosser K3, Gasparoni G4, Müller R1,2, Schrallhammer M5, Simon M6.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26543129
+Genome Announc. 2015 Nov 5;3(6). pii: e01310-15. doi: 10.1128/genomeA.01310-15.
+Draft Genome Sequence of Caedibacter varicaedens, a Kappa Killer Endosymbiont Bacterium of the Ciliate Paramecium biaurelia.
+Suzuki H1, Dapper AL2, Jackson CE3, Lee H4, Pejaver V4, Doak TG2, Lynch M2, Preer JR Jr2.
 
 https://www.ncbi.nlm.nih.gov/pubmed/25609566
 Sci Rep. 2015 Jan 22;5:7949. doi: 10.1038/srep07949.
 An integrated phylogenomic approach toward pinpointing the origin of mitochondria.
 Wang Z1, Wu M1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4302308/
-3) Extreme sequence composition bias. Mitochondria and the obligate intracellular Alphaproteobacteria are in general extremely AT rich in their genome sequences. It is well established that sequence composition bias could adversely affect the phylogenetic reconstruction and lead to statistically robust but misleading conclusions9,10,11.
+Candidatus Caedibacter acanthamoebae
 
-However, this hypothesis has been convincingly refuted by more recent studies demonstrating that this sister-clade relationship is a tree reconstruction artifact resulted from sequence composition bias21,23,24.
+----------
+## Holospora
+- https://en.wikipedia.org/wiki/Holosporaceae
+- https://ja.wikipedia.org/wiki/ホロスポラ属
 
-https://www.ncbi.nlm.nih.gov/pubmed/22291975
-PLoS One. 2012;7(1):e30520. doi: 10.1371/journal.pone.0030520. Epub 2012 Jan 23.
-The SAR11 group of alpha-proteobacteria is not related to the origin of mitochondria.
-Rodríguez-Ezpeleta N1, Embley TM.
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030520
-Figure 1. Nucleotide and amino acid composition of the dataset used in this study. A
+https://www.ncbi.nlm.nih.gov/pubmed/30124811
+FEMS Microbiol Ecol. 2018 Nov 1;94(11). doi: 10.1093/femsec/fiy162.
+Identification of novel Legionella genes required for endosymbiosis in Paramecium based on comparative genome analysis with Holospora spp.
+Watanabe K1,2, Suzuki H3, Nishida T1, Mishima M2, Tachibana M4, Fujishima M5,6, Shimizu T1,2, Watarai M1,2.
 
-https://www.ncbi.nlm.nih.gov/pubmed/21957463
-PLoS One. 2011;6(9):e24857. doi: 10.1371/journal.pone.0024857. Epub 2011 Sep 21.
-Phylogenomic analysis of Odyssella thessalonicensis fortifies the common origin of Rickettsiales, Pelagibacter ubique and Reclimonas americana mitochondrion.
-Georgiades K1, Madoui MA, Le P, Robert C, Raoult D.
+https://www.ncbi.nlm.nih.gov/pubmed/29713316
+Front Microbiol. 2018 Apr 16;9:738. doi: 10.3389/fmicb.2018.00738. eCollection 2018.
+Comparative Genomic Analysis of Holospora spp., Intranuclear Symbionts of Paramecia.
+Garushyants SK1,2, Beliavskaia AY3,4, Malko DB5, Logacheva MD1,6, Rautian MS4, Gelfand MS1,2,5,7.
+the newly sequenced genome of Holospora curviuscula, a macronuclear symbiont of Paramecium bursaria, 
+
+https://www.ncbi.nlm.nih.gov/pubmed/25115770
+FEMS Microbiol Lett. 2014 Oct;359(1):16-8.
+Draft genome sequences of three Holospora species (Holospora obtusa, Holospora undulata, and Holospora elegans), endonuclear symbiotic bacteria of the ciliate Paramecium caudatum.
+Dohra H, Tanaka K, Suzuki T, Fujishima M, Suzuki H.
+
+http://bio.w3.kanazawa-u.ac.jp/bio/seminar_20170929.pdf
+タイトル：ゾウリムシを用いた細胞内共生成立のしくみの研究
+講演者：藤島政博 山口大学 大学院創成科学研究科
+日時：平成２９年９月２９日（金） 13時30分～14時30分
+
+プロテアバクテリアαサブグループのホロスポラ(Holospora)属細菌は、ゾウ
+リムシ属を宿主とする核内共生細菌で、真核細胞と原核細胞の細胞内共生（一
+次共生）が成立する仕組みの解明に適した材料です。この細菌は、宿主の食胞
+を経由して大核か小核の特定核の核膜を識別して核内に侵入し、核内で増殖し、
+宿主の特定遺伝子の発現を変化させて温度耐性や塩濃度耐性に宿主を形質転換
+させます。これによって、宿主は生息可能範囲を広げています。ホロスポラは
+縮小したゲノムサイズのために（1.4 Mbp 程度）、宿主外では増殖できません。
+しかし、宿主には細胞分裂回数に依存した寿命があるため、ホロスポラは宿主
+のタンパク質合成活性の低下を引き金にして宿主外に脱出し、若い宿主に感染
+する機会を得ています。講演の前半ではホロスポラの生存戦略と宿主に及ぼす
+影響を説明します。
+
+http://www.lc.shizuoka.ac.jp/pdf/baio30doura.pdf
+道羅 英夫
+グリーン科学技術研究所 准教授 
+ゾウリムシ共生系における分子基盤の解明及び
+新規共生系の構築とその利用 
+図. ホロスポラ・オブツサの感染過程
+
+----------
+## Wolbachia
+
+https://ja.wikipedia.org/wiki/ボルバキア
+
+https://kotobank.jp/word/ボルバキア-669591
+昆虫類、クモ・ダニ類、フィラリア線虫などの細胞内に寄生する共生細菌。宿主の卵細胞の細胞質を通じて母性遺伝する。
+[補説]ボルバキアは宿主の生殖を操作することが知られている。感染したメスが単為生殖を行う、感染したオスと感染していないメスが交配すると受精卵が発育しない、感染したオスの個体がメス化する、感染したオスだけが死亡する、などの生殖異常を引き起こして感染したメスを増加させる。
+
+- https://sites.google.com/site/kageyama000jp/
+陰山大輔
+- https://twitter.com/Symbionticism
+Seth Bordenstein
+- https://twitter.com/chicaScientific
+Irene Newton
+- https://twitter.com/WolbachiaProj
+WolbachiaProject
+
+![](https://pbs.twimg.com/profile_images/993264779862204424/5kIwxeRL_bigger.jpg)
+
+2019
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
+Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
+
+https://www.ncbi.nlm.nih.gov/pubmed/30202647
+PeerJ. 2018 Sep 3;6:e5486. doi: 10.7717/peerj.5486. eCollection 2018.
+A bioinformatics approach to identifying Wolbachia infections in arthropods.
+Pascar J1,2, Chandler CH1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126470/
+- Here, we look for evidence of Wolbachia infection across a wide array of arthropod species using a bioinformatic approach to detect the Wolbachia genes ftsZ, wsp, and the groE operon in next-generation sequencing samples available through the NCBI Sequence Read Archive. 
+- Meta-analysis indicates that the infection distribution in the total number of species may be closer to 66% (Hilgenboecker et al., 2008).
+- A metagenomics-based approach can also be useful for characterizing microbiomes, including looking for Wolbachia and other symbionts (e.g. Dittmer & Bouchon, 2018), 
+
+
+https://twitter.com/Daphnia_t_ponyo/status/1075403162817687552
+ミクロ・コスモス on Twitter: "【共生細菌が産生するオス殺しの毒素】 ボルバキアなど一部の節足動物の共生細菌は感染宿主がオスだった場合"オス殺し"を行うことが知られていますがその分子基盤は半世紀もの間なぞでした しかし共生細菌がコードするオス殺しの遺伝子がついに発見されたようです https://t.co/Igom7oMyyI"
+9:51 AM - 19 Dec 2018
+
+02 May 2018
+https://www.nature.com/articles/s41586-018-0086-2
+Male-killing toxin in a bacterial symbiont of Drosophila | Nature
+
+https://www.ncbi.nlm.nih.gov/pubmed/29214346
+Mol Genet Genomics. 2018 Apr;293(2):525-540. doi: 10.1007/s00438-017-1402-5. Epub 2017 Dec 6.
+Comparative genomics reveals the presence of putative toxin-antitoxin system in Wolbachia genomes.
+Singhal K1, Mohanty S2.
+
+
+
+
+
+動画
+Nov 29, 2017
+https://www.youtube.com/watch?v=S2tND3OmwzY
+Mosquitoes Might SAVE Lives, Thanks To Bacteria | I Contain Multitudes - YouTube
+http://www.kashiwashobo.co.jp/book/b286870.html
+世界は細菌にあふれ、人は細菌によって生かされる
+
+2017年3月9日 
+https://www.natureasia.com/ja-jp/nature/highlights/83856
+微生物学： ボルバキア菌による昆虫の生存操作
+
+ボルバキア由来のプロファージWOがコードする2つの遺伝子が、細胞質不和合を再現する
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28005061
+Nat Microbiol. 2016 Dec 22;2:16241. doi: 10.1038/nmicrobiol.2016.241.
+Comparative genomics provides a timeframe for Wolbachia evolution and exposes a recent biotin synthesis operon transfer.
+Gerth M1, Bleidorn C2,3.
+
+2016年10月12日 
+https://www.natureasia.com/ja-jp/ncomms/pr-highlights/11040
+【進化】細菌に感染するウイルスがクロゴケグモと同じDNAを持っていた
+ファージWO（ボルバキア菌に感染するウイルス）のゲノム配列を解読し、そのゲノムの一部を構成する遺伝子が真核生物の遺伝子に類似していることを発見した。
+https://www.nature.com/articles/ncomms13155
+Eukaryotic association module in phage WO genomes from Wolbachia
+
+https://www.ncbi.nlm.nih.gov/pubmed/27194801
+G3 (Bethesda). 2016 Jul 7;6(7):2113-23. doi: 10.1534/g3.116.028449.
+Comparative Genomics of a Parthenogenesis-Inducing Wolbachia Symbiont.
+Lindsey AR1, Werren JH2, Richards S3, Stouthamer R4.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27189996
+Genome Biol Evol. 2016 Jun 3;8(5):1526-42. doi: 10.1093/gbe/evw096.
+Comparative Genomics of Two Closely Related Wolbachia with Different Reproductive Effects on Hosts.
+Newton IL1, Clark ME2, Kent BN3, Bordenstein SR4, Qu J5, Richards S5, Kelkar YD6, Werren JH2.
+
+2015年9月
+http://www.nikkei-science.com/201509_046.html
+デング熱ストッパー | 日経サイエンス　
+自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。
+
+![](http://www.nikkei-science.com/wp-content/uploads/2015/07/97dcb51ba1ce46920d90238bf2990859.jpg)
+
+https://www.a.u-tokyo.ac.jp/topics/2015/20150715-1.html
+共生細菌ヴォルバキアの「オス殺し」は宿主昆虫のオス化因子の発現を抑制することで達成される
+勝間准教授のグループは、2014年にカイコにおいて雄化と遺伝子量補償を担う分子としてMasc遺伝子を同定しています（http://www.a.u-tokyo.ac.jp/topics/2014/20140515-1.html）。RNA干渉法によってカイコのオス胚子でMasc mRNA量を低下させると、性分化のマーカーであるdoublesex (dsx)のスプライシングがメス型になり、遺伝子量補償が破綻することで胚致死してしまいます。このカイコにおける実験ではメスは胚致死しないことから、人為的に「オス殺し」現象を再現できたと言えます。そこで、ヴォルバキアによる「オス殺し」のターゲットがMascまたはその下流の因子であると仮定し、本研究を開始しました。
+
+2014 陰山大輔
+https://www.jstage.jst.go.jp/article/konchubiotec/83/3/83_3_243/_pdf
+昆虫の生殖を操作する細胞内共生細菌 Wolbachia の機能と特徴
+
+http://www.aist.go.jp/aist_j/press_release/pr2014/pr20140701/pr20140701.html
+産総研：トコジラミの生存を支える共生細菌ボルバキアのビタミンB7合成能力
+
+![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig1.jpg)
+![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig2.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/23593012
+PLoS Genet. 2013 Apr;9(4):e1003381. doi: 10.1371/journal.pgen.1003381. Epub 2013 Apr 4.
+Comparative genomics of Wolbachia and the bacterial species concept.
+Ellegaard KM1, Klasson L, Näslund K, Bourtzis K, Andersson SG.
+
+http://www.nikkei-science.com/page/magazine/1006/201006_062.html
+日経サイエンス　 2010年6月号
+対談
+細菌によって変わる虫たち
+深津武馬（産業技術総合研究所） 茂木健一郎（ソニーコンピュータサイエンス研究所）
+
+2005年9月1日
+http://www.natureasia.com/ja-jp/reviews/highlight/10933
+不和合性の解析：ボルバキア(Wolbachia)を対象にする
+
+2002年7月
+http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
+細菌が操る性転換 | 日経サイエンス　
+昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
 
 ----------
 ### Amachi Seigo
