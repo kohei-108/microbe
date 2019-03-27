@@ -10,9 +10,9 @@ Last Update: 2019-03
 
 - [featuring](#featuring)
 - [updates](#updates)
+- [MAG](#mag) Metagenome Assembled Genome
 - [forensic](#forensic) 法科学
 - [host](#host) 宿主
-- [MAG](#mag)
 - [16S](#16s)
 - [amplicon-shotgun](#amplicon-shotgun)
 - [mothur-qiime](#mothur-qiime)
@@ -40,6 +40,46 @@ The systemic imprint of growth and its uses in ecological (meta)genomics.
 Vieira-Silva S1, Rocha EP.
 Our predictor allows inferring growth rates in the vast majority of uncultivable prokaryotes and paves the way to the understanding of community dynamics from metagenomic data.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797632/
+
+----------
+## updates
+
+### 2019
+
+
+
+
+https://twitter.com/Tyu_Shi/status/1110601849386618880
+Tyu_Shi on Twitter: "マウスgut microbiomeの解析でベンダーが違うマウスは別物として扱うのはほぼ常識なので驚きは無いが、こういうのを論文にしてくれるのは引用で済ませられるのでありがたい。 Mouse vendor influence on the bacterial and viral gut composition exceeds the effect of diet https://t.co/mwS8HwmvMf"
+1:58 PM - 26 Mar 2019
+
+https://twitter.com/Tyu_Shi/status/1110583615526596609
+reference basedとde novo basedのhybrid型ということで一時期持て囃されて流行りそうになったopen or closed reference OTU clustering法が、わりとしっかりと批判されている。
+12:45 PM - 26 Mar 2019
+
+https://twitter.com/PatSchloss/status/1110509388664619009
+Pat Schloss on Twitter: "Please stop using the open (and closed) reference clustering methods based on USEARCH/VSEARCH. Instead, use de novo clustering algorithms to form OTUs 1/"
+7:50 AM - 26 Mar 2019
+
+### 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/29950328
+J Clin Microbiol. 2018 Aug 27;56(9). pii: e00813-18. doi: 10.1128/JCM.00813-18. Print 2018 Sep.
+Lowering the Barriers to Routine Whole-Genome Sequencing of Bacteria in the Clinical Microbiology Laboratory.
+Rhoads DD1,2.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29460198
+J Plant Res. 2018 Jul;131(4):709-717. doi: 10.1007/s10265-018-1017-x. Epub 2018 Feb 19.
+Collaborative environmental DNA sampling from petal surfaces of flowering cherry Cerasus × yedoensis 'Somei-yoshino' across the Japanese archipelago.
+Ohta T1, Kawashima T2, Shinozaki NO3, Dobashi A4, Hiraoka S5, Hoshino T6, Kanno K7, Kataoka T8, Kawashima S9, Matsui M10, Nemoto W11, Nishijima S12,13,14, Suganuma N15, Suzuki H16, Taguchi YH17, Takenaka Y18, Tanigawa Y19, Tsuneyoshi M20, Yoshitake K21, Sato Y22, Yamashita R22, Arakawa K23, Iwasaki W10.
+
+Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
+https://twitter.com/merenbey/status/999416078446071809
+A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
+6:25 PM - 23 May 2018
+
+
 
 ----------
 ## MAG
@@ -115,28 +155,7 @@ Author(s) 岡崎, 友輔
 深水層に生息する優占的な細菌系統のゲノムを 90％以上の Completeness で得ることができ
 た。
 
-----------
-## updates
 
-### 2019
-
-### 2018
-
-https://www.ncbi.nlm.nih.gov/pubmed/29950328
-J Clin Microbiol. 2018 Aug 27;56(9). pii: e00813-18. doi: 10.1128/JCM.00813-18. Print 2018 Sep.
-Lowering the Barriers to Routine Whole-Genome Sequencing of Bacteria in the Clinical Microbiology Laboratory.
-Rhoads DD1,2.
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/29460198
-J Plant Res. 2018 Jul;131(4):709-717. doi: 10.1007/s10265-018-1017-x. Epub 2018 Feb 19.
-Collaborative environmental DNA sampling from petal surfaces of flowering cherry Cerasus × yedoensis 'Somei-yoshino' across the Japanese archipelago.
-Ohta T1, Kawashima T2, Shinozaki NO3, Dobashi A4, Hiraoka S5, Hoshino T6, Kanno K7, Kataoka T8, Kawashima S9, Matsui M10, Nemoto W11, Nishijima S12,13,14, Suganuma N15, Suzuki H16, Taguchi YH17, Takenaka Y18, Tanigawa Y19, Tsuneyoshi M20, Yoshitake K21, Sato Y22, Yamashita R22, Arakawa K23, Iwasaki W10.
-
-Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
-https://twitter.com/merenbey/status/999416078446071809
-A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
-6:25 PM - 23 May 2018
 
 ----------
 ## forensic
