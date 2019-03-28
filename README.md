@@ -79,6 +79,23 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2019
 
+https://twitter.com/phylogenomics/status/1110563943695572992
+Jonathan Eisen on Twitter: "And today in the "Are you F#$*(#ing kidding me #ClosedAccess Irony Award" -- paper on "The urgent need for microbiology literacy in society" https://t.co/qDc8hwpMcO is behind a massive paywall… https://t.co/FpOJ2sSgkc"
+11:27 AM - 26 Mar 2019
+
+https://twitter.com/NatureRevMicro/status/1110131599088209920
+Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
+6:49 AM - 25 Mar 2019
+
+
+
+https://twitter.com/bluebacks_pub/status/1107464016031436800
+講談社ブルーバックス on Twitter: "【解析で「広大な世界」がわかる理由】 「微生物群集は環境に対して一意に決まる、いわば裏切らない生物だからです。その生物に聞けば、人為の及ばない、客観的な観察データが得られます」 https://t.co/KDyXz2OFXk #ブルーバックス"
+10:09 PM - 17 Mar 2019
+https://gendai.ismedia.jp/articles/-/59676?media=bb
+環境全体が即座にわかる！「メタゲノム解析」が明かす「ゲノムの謎」（サイエンスリポート） | ブルーバックス | 講談社（1/3）
+
+
 2019.01.16
 https://research-er.jp/articles/view/76638
 【プレスリリース】メタゲノムとエピゲノムを融合した「メタエピゲノム」解析の提唱と実証 〜環境細菌叢が持つゲノム修飾機構の広大な未開拓領域の解明へ〜 | 日本の研究.com
@@ -505,6 +522,13 @@ http://www.nikkei-science.com/?p=44051
 
 ----------
 ## books
+
+### 2019-03-22
+![](https://www.msz.co.jp/_cover/front/08767.jpg)
+
+https://www.msz.co.jp/book/detail/08767.html
+これからの微生物学
+マイクロバイオータからCRISPRへ
 
 ### 2018-12-14
 ![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
