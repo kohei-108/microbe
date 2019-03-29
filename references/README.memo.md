@@ -21,6 +21,8 @@
 - [replication](#replication)
 - [papers](#papers)
 - [GWAS](#gwas)
+- [metadata](#metadata)
+  - [source](#source) 分離源
 
 ----------
 ## updates
@@ -173,6 +175,9 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 ## ANI
 Average Nucleotide Identity
 
+https://img.jgi.doe.gov/docs/docs/ANI.pdf
+
+
 https://twitter.com/ChristianRinke/status/1108470780348649472
 Chris Rinke on Twitter: "NCBI will use average nucleotide identity (ANI) analysis to correct existing public records in GenBank. https://t.co/Qis6BSy2Y1"
 https://ncbiinsights.ncbi.nlm.nih.gov/2019/02/06/correct-existing-taxonomic-info-genbank-ani-analysis/amp/
@@ -245,6 +250,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/30148503
 Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
 A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
 Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
+https://www.nature.com/articles/nbt.4229
+A bacterial genome tree was inferred from the dereplicated data set by applying FastTree to a concatenated alignment of 120 ubiquitous single-copy proteins22 (subsequently referred to as 'bac120') comprising a total of 34,744 columns after trimming of 1,021 columns represented in <50% of the genomes and 5,390 columns with an amino acid consensus <25% (Online Methods).
 
 https://twitter.com/NatureBiotech/status/1034201413717450753
 Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
@@ -782,10 +789,58 @@ Rocha E1.
 Fig. 2. Distribution of the percentage of genes in the leading strand (a)
 
 ----------
+## metadata
+### source
+分離源
 
+https://www.ncbi.nlm.nih.gov/pubmed/30910818
+G3 (Bethesda). 2019 Mar 25. pii: g3.200978.2018. doi: 10.1534/g3.118.200978. [Epub ahead of print]
+Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation.
+Harada M, Ito K, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
+http://www.g3journal.org/content/early/2019/03/25/g3.118.200978.long
+http://www.g3journal.org/content/ggg/early/2019/03/25/g3.118.200978.full.pdf
+Table 1. Genomic features of Pseudomonas strains analyzed
+Isolation source
 
+https://www.ncbi.nlm.nih.gov/pubmed/24625962
+Genome Biol Evol. 2014 Apr;6(4):741-53. doi: 10.1093/gbe/evu048.
+Phylogenomics and the dynamic genome evolution of the genus Streptococcus.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007547/table/evu048-T1/
+Table 1
+Genome Sequence Details
+Source
 
+https://www.ncbi.nlm.nih.gov/pubmed/24488312
+J Bacteriol. 2014 Apr;196(7):1458-70. doi: 10.1128/JB.01439-13. Epub 2014 Jan 31.
+Comparative functional genomics of Lactobacillus spp. reveals possible mechanisms for specialization of vaginal lactobacilli to their environment.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3993339/table/T1/
+TABLE 1
+Genomic characteristics of the strains analyzed in this study
+Source
 
+https://www.ncbi.nlm.nih.gov/pubmed/25107967
+Appl Environ Microbiol. 2014 Oct;80(20):6383-94. doi: 10.1128/AEM.02004-14. Epub 2014 Aug 8.
+Investigation of the evolutionary development of the genus Bifidobacterium by comparative genomics.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178631/table/T1/
+TABLE 1
+Bifidobacterium genome list
+Source of isolation
 
+https://www.ncbi.nlm.nih.gov/pubmed/24581150
+BMC Genomics. 2014 Mar 1;15:170. doi: 10.1186/1471-2164-15-170.
+Comparative genomics of the Bifidobacterium breve taxon.
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007704/table/Tab1/
+Table 1
+List of Bifidobacterium breve representatives
+Ecological origin
 
+https://www.ncbi.nlm.nih.gov/pubmed/22031452
+Microb Ecol. 2012 Apr;63(3):651-73. doi: 10.1007/s00248-011-9948-y. Epub 2011 Oct 27.
+Comparative genomics of Bifidobacterium, Lactobacillus and related probiotic genera.
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3324989/table/Tab1/
+Table 1
+Genomes selected for analysis
+Strain characteristics
+
+----------
 
