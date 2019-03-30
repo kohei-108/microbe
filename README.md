@@ -82,6 +82,13 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2019
 
+https://twitter.com/bluebacks_pub/status/1111843876170432512
+【いったい何が起きているのか？】
+「薬剤耐性菌」は2050年に全世界で1000万人の死亡者を出すとの予測も出ている。だが「ウイルスが耐性菌を倒した」ケースもある……
+https://gendai.ismedia.jp/articles/-/63743?media=bb … #ブルーバックス
+12:13 AM - 30 Mar 2019
+
+
 https://twitter.com/phylogenomics/status/1110563943695572992
 Jonathan Eisen on Twitter: "And today in the "Are you F#$*(#ing kidding me #ClosedAccess Irony Award" -- paper on "The urgent need for microbiology literacy in society" https://t.co/qDc8hwpMcO is behind a massive paywall… https://t.co/FpOJ2sSgkc"
 11:27 AM - 26 Mar 2019
