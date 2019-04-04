@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-04
 
 ----------
 
@@ -81,6 +81,18 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2019
+
+ – 腸内フローラ移植、便移植専門｜FMTクリニック（シンバイオシス研究所）
+https://shinbiosis.com/intestine-flora/anaerobic-bacteria/
+前編｜腸に住んでいる菌たち（嫌気性菌）は空気に触れると死ぬのか
+https://shinbiosis.com/intestine-flora/anaerobic-bacteria-2/
+後編｜腸に住んでいる菌たち（嫌気性菌）は空気に触れると死ぬのか
+1 芽胞を形成（クロストリジウム属など）
+2 莢膜（きょうまく）で自分を守る（乳酸菌、バクテロイデス、クレブシエラなど）
+
+https://twitter.com/shinbiosis/status/1113607149953921026
+シンバイオシス研究所 -微生物との共存共栄- on Twitter: "～過去記事～ 後編｜腸に住んでいる菌たち（嫌気性菌）は空気に触れると死ぬのか https://t.co/AdDwj0JqwX"
+9:00 PM - 3 Apr 2019
 
 https://twitter.com/bluebacks_pub/status/1111843876170432512
 【いったい何が起きているのか？】
