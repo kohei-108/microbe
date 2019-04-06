@@ -270,6 +270,13 @@ New papers on Microbiology of the Built Environment, November 19, 2016 – micro
 ## air
 空気中の微生物
 
+https://link.springer.com/article/10.1007/s00248-019-01348-0
+Bacillus-Dominant Airborne Bacterial Communities Identified During Asian Dust Events | SpringerLink
+PM10
+
+https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
+地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
+
 https://twitter.com/Casasagi2107/status/1100201054031929345
 Casasagi on Twitter: "この30年来増えているPM2.5 と花粉症は無関係ではなく、PM2.5の粒子には黴菌やウイルスも付着していて、その放線菌割合比は6割。 「3都市のPM2．5から検出された浮遊微生物はプロテオバクテリア、フィルミクテス門、放線菌が全体の67．3％を占めた。」 https://t.co/YfyspHd06h"
 
@@ -281,8 +288,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/28717138
 Sci Rep. 2017 Jul 17;7(1):5545. doi: 10.1038/s41598-017-05862-4.
 Airborne Bacterial Communities in Three East Asian Cities of China, South Korea, and Japan.
 Lee JY1, Park EH1, Lee S2,3, Ko G1,2,3,4, Honda Y5, Hashizume M6, Deng F7, Yi SM1, Kim H8.
-
-
 
 
 By Marcus Leung  Posted on August 20, 2017
@@ -458,8 +463,21 @@ https://www.ncbi.nlm.nih.gov/pubmed/28486462
 Nat Biotechnol. 2017 May 9;35(5):401-403.
 Living in a microbial world.
 Schmidt C.
+https://www.nature.com/articles/nbt.3868?draft=journal
 
-The indoor microbiome is influenced by building design and operations, human inhabitants and their activities.
+http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
+The indoor microbiome is influenced by building design and operations, human inhabitants and their activities. Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
+
+*Building -> Restrooms, Offices, Classrooms*
+![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
+
+Gilbert found something similar; within five to eight hours of being completely sterilized, public restrooms at a school campus were full of human skin and gut bacteria, most of them completely harmless7.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398865/
+FIG 1
+(A) Samples were collected from three surfaces in both female and male restrooms at San Diego State University. The surfaces analyzed were the toilet seat, the floor in front of the toilet, and the soap dispenser pump. 
+
+サンディエゴ州立大学の男性用と女性用のトイレ3表面：便座、トイレの前の床、石鹸ディスペンサーポンプ
 
 https://www.ncbi.nlm.nih.gov/pubmed/27748568
 Microb Biotechnol. 2017 Jan;10(1):11-13. doi: 10.1111/1751-7915.12430. Epub 2016 Oct 17.
@@ -724,15 +742,15 @@ http://iss.jaxa.jp/kiboexp/theme/second/microbe/
 きぼう船内の微生物叢（そう）※を解明せよ。
 「国際宇宙ステーション内における微生物動態に関する研究」
 
-
-
-
 ----------
 ## subway
 地下鉄
 
-https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
-地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
+https://en.wikipedia.org/wiki/London_Underground_mosquito
+
+https://twitter.com/Alien_Evolve/status/483872602293686272
+深野　祐也 on Twitter: "@MasakiHoso 僕も今調べていたのですが、世界中の地下タイプCulex pipiens molestusは単系統で地理的に分化しているようです。つまり、この蚊は地下鉄環境に最近適応したのではなく、人類以前に既に存在していた地下タイプが最近増えたということですかね。"
+
 
 ----------
 ### hong-kong-subway
@@ -919,6 +937,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/30691394
 BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
 Comparative genomics of Bacteria commonly identified in the built environment.
 Merino N, Zhang S, Tomita M, Suzuki H.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 
 
 背景
