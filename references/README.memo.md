@@ -25,6 +25,25 @@
   - [source](#source) 分離源
 
 ----------
+## featuring
+
+https://home.hiroshima-u.ac.jp/sust6aoi/ja/styled-5/index.html
+AOI LAB
+
+https://researchmap.jp/read0206124/
+青井　議輝 - 研究者 - researchmap
+
+https://www.jseb.jp/wordpress/wp-content/uploads/16-01-59.pdf
+培養できない微生物とは？どうしたら培養できるのか？―培養手法の革新―
+環境バイオテクノロジー学会誌   16(1) 59-64   2016年
+
+なぜ培養できないのか？ 分離培養手法の革新
+化学と生物   53(7) 429-431   2015年 
+https://katosei.jsbba.or.jp/view_html.php?aid=404
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/53/7/53_429/_article/-char/ja/
+
+----------
+
 ## updates
 
 https://news.biglobe.ne.jp/list/012/899/微生物.html
