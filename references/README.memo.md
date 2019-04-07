@@ -23,9 +23,13 @@
 - [GWAS](#gwas)
 - [metadata](#metadata)
   - [source](#source) 分離源
-
 ----------
 ## featuring
+
+----------
+## culture
+
+https://ja.wikipedia.org/wiki/培養
 
 https://home.hiroshima-u.ac.jp/sust6aoi/ja/styled-5/index.html
 AOI LAB
@@ -37,10 +41,9 @@ https://www.jseb.jp/wordpress/wp-content/uploads/16-01-59.pdf
 培養できない微生物とは？どうしたら培養できるのか？―培養手法の革新―
 環境バイオテクノロジー学会誌   16(1) 59-64   2016年
 
-なぜ培養できないのか？ 分離培養手法の革新
-化学と生物   53(7) 429-431   2015年 
 https://katosei.jsbba.or.jp/view_html.php?aid=404
-https://www.jstage.jst.go.jp/article/kagakutoseibutsu/53/7/53_429/_article/-char/ja/
+なぜ培養できないのか？ 分離培養手法の革新
+化学と生物   53(7) 429-431   2015年
 
 ----------
 
