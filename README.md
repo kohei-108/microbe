@@ -34,7 +34,38 @@ Last Update: 2019-04
   - [Jack Gilbert](#jack-gilbert)
 - [protists](#protists)
 - [sports](#sports)
+- [SDG](#sdg)
 
+----------
+## SDG
+Sustainable Development Goal (SDG)
+持続可能な開発目標
+
+https://twitter.com/dr_soof/status/1115966036959010816
+Sufia R on Twitter: "Hannah Sampson links #SDG13 to her research on air pollution and microbiomes @MicrobioSoc #Microbio19 #MicroGlobalChallenges… https://t.co/MB8iO4d6fL"
+9:13 AM - 10 Apr 2019 from Belfast, Northern Ireland
+
+![](https://pbs.twimg.com/media/D3y1MOwXoAAfqcL.jpg)
+
+https://microbiologysociety.org/publication/current-issue/oceans/article/microbiology-and-the-un-sustainable-development-goals.html
+Microbiology and the UN Sustainable Development Goals | Microbiology Society
+Issue: February 2019
+
+https://www.ncbi.nlm.nih.gov/pubmed/28696041
+Microb Biotechnol. 2017 Sep;10(5):1066-1069. doi: 10.1111/1751-7915.12752. Epub 2017 Jul 11.
+The contribution of microbial biotechnology to sustainable development goals: microbiome therapies.
+O'Toole PW1,2, Paoli M2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609341/
+SDG(s) addressed
+Using microbiota for therapeutic purposes contributes directly to Sustainable Development Goal (SDG) no. 3, ‘Good Health and Well‐being’. In fact, live biotherapeutics products (LBPs) can serve either as the main therapeutic or as an ‘add‐on’ integrating factor; thus, they act by restoring health or helping and assisting to improve general well‐being. Given that a great deal of interconnections and interdependence exist between SDGs, improvements of human health are also associated with reduction in poverty (SDG 1, ‘No Poverty’). In addition, LBPs promote novel approaches to treatment and in the medical sciences in general, leading to innovation in the pharmaceutical industrial sector, which is relevant to SDG 9 (‘Industry, Innovation and Infrastructure’). Finally, the concept of the microbiome puts forward a new way of thinking about the interaction between bacteria and the human body: these insights are overturning previous assumptions, thereby endowing knowledge and endorsing high‐level education (SDG 4, ‘Quality Education’).
+
+http://breakthrough.unglobalcompact.org/disruptive-technologies/the-microbiome/
+The microbiome: our microscopic allies
+UPDATED ON: 24 MAY 2017
+Advancing the Sustainable Development Goals (SDGs)
+The microbiome has the potential to advance many of the SDGs. Below are some examples of areas of application across a wide variety of sectors.
+
+![](http://breakthrough.unglobalcompact.org/site/assets/files/1555/6_9_39099_microbiome_5.1630x0.jpg)
 
 ----------
 ## featuring
@@ -1334,6 +1365,21 @@ It's not just phones! Find out what... - YouTube
 
 https://www.youtube.com/watch?v=HDLEL36Fu1E
 Why getting dirty is the new clean | Jack Gilbert | TEDxNaperville - YouTube
+
+### kurokawa
+
+2019/03/18
+https://gunosy.com/articles/afm0O
+環境全体が即座にわかる！「メタゲノム解析」が明かす「ゲノムの謎」
+
+このデータに、たとえば人口分布や犯罪率といった流域周辺の社会環境のデータを組み合わせることで、今度は地域環境を評価することができるようになると期待しています。
+
+https://www.nig.ac.jp/nig/ja/research/interviews/faculty-interviews
+メタゲノム解析で微生物集団のふるまいを記述し、そして予測する
+PDF
+ゲノム進化研究室 黒川研究室
+https://www.nig.ac.jp/nig/pdf/research/ja/interviews/faculty-interviews/FI_kurokawa.pdf
+
 
 
 ----------
