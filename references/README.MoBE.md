@@ -613,6 +613,11 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
+https://japanese.engadget.com/2019/04/09/iss/
+「ISSの中はバクテリアや菌がたくさん」と学術誌に報告。将来の宇宙旅行、宇宙生活に役立つ研究課題 - Engadget 日本版
+学会誌Microbiomeで発表しました。
+研究を共同執筆したNASAジェット推進研究所(JPL)の上級研究員Kasthuri Venkateswaran博士
+
 https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
 https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
 https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
