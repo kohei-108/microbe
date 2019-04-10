@@ -45,8 +45,6 @@ https://twitter.com/dr_soof/status/1115966036959010816
 Sufia R on Twitter: "Hannah Sampson links #SDG13 to her research on air pollution and microbiomes @MicrobioSoc #Microbio19 #MicroGlobalChallenges… https://t.co/MB8iO4d6fL"
 9:13 AM - 10 Apr 2019 from Belfast, Northern Ireland
 
-![](https://pbs.twimg.com/media/D3y1MOwXoAAfqcL.jpg)
-
 https://microbiologysociety.org/publication/current-issue/oceans/article/microbiology-and-the-un-sustainable-development-goals.html
 Microbiology and the UN Sustainable Development Goals | Microbiology Society
 Issue: February 2019
