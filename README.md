@@ -59,6 +59,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609341/
 SDG(s) addressed
 Using microbiota for therapeutic purposes contributes directly to Sustainable Development Goal (SDG) no. 3, ‘Good Health and Well‐being’. In fact, live biotherapeutics products (LBPs) can serve either as the main therapeutic or as an ‘add‐on’ integrating factor; thus, they act by restoring health or helping and assisting to improve general well‐being. Given that a great deal of interconnections and interdependence exist between SDGs, improvements of human health are also associated with reduction in poverty (SDG 1, ‘No Poverty’). In addition, LBPs promote novel approaches to treatment and in the medical sciences in general, leading to innovation in the pharmaceutical industrial sector, which is relevant to SDG 9 (‘Industry, Innovation and Infrastructure’). Finally, the concept of the microbiome puts forward a new way of thinking about the interaction between bacteria and the human body: these insights are overturning previous assumptions, thereby endowing knowledge and endorsing high‐level education (SDG 4, ‘Quality Education’).
 
+https://www.ncbi.nlm.nih.gov/pubmed/28840959
+Microb Biotechnol. 2017 Sep;10(5):999-1003. doi: 10.1111/1751-7915.12804. Epub 2017 Aug 25.
+Tiny Microbes, Big Yields: enhancing food crop production with biological solutions.
+Trivedi P1, Schenk PM2, Wallenstein MD3,4, Singh BK5,6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609239/
+Sustainable development goals and agriculture productivity
+Sustainable increases in agricultural productivity are critical to address multiple Sustainable Development Goals (SDGs) including zero hunger (SDG 2), no poverty (SDG 1) and good health and well‐being (SDG 3). Increased productivity can also significantly contribute to various other SDGs including SDG 6 (clean water and sanitation), SDG 9 (industry, innovation and infrastructure), SDG 13 (climate Action) and SDG 15 (life on land). 
+
 http://breakthrough.unglobalcompact.org/disruptive-technologies/the-microbiome/
 The microbiome: our microscopic allies
 UPDATED ON: 24 MAY 2017
