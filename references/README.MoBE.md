@@ -617,6 +617,9 @@ https://twitter.com/pathogenomenick/status/1115930415649447936
 Nick Loman on Twitter: "FTFY: The ISS has exactly the kind of microbial flora you'd expect from a building inhabited by humans.… "
 6:51 AM - 10 Apr 2019
 
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
+Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces | Microbiome | Full Text
+
 https://japanese.engadget.com/2019/04/09/iss/
 「ISSの中はバクテリアや菌がたくさん」と学術誌に報告。将来の宇宙旅行、宇宙生活に役立つ研究課題 - Engadget 日本版
 学会誌Microbiomeで発表しました。
