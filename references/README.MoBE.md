@@ -277,18 +277,18 @@ PM10
 https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
 地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
 
-https://twitter.com/Casasagi2107/status/1100201054031929345
-Casasagi on Twitter: "この30年来増えているPM2.5 と花粉症は無関係ではなく、PM2.5の粒子には黴菌やウイルスも付着していて、その放線菌割合比は6割。 「3都市のPM2．5から検出された浮遊微生物はプロテオバクテリア、フィルミクテス門、放線菌が全体の67．3％を占めた。」 https://t.co/YfyspHd06h"
-
 2017年8月28日
 https://www.recordchina.co.jp/b188759-s0-c30-d0054.html
 韓国のPM2．5は中国から飛来？含まれる細菌の83％類似―韓国メディア
+研究チームが1年かけて、ソウル大学、中国の北京大学、長崎大学の建物の屋上でそれぞれ、PM2．5を採取し、ソウル大学で総括的に細菌DNAを抽出し塩基配列を分析したところ、北京とソウルの浮遊細菌の多様性は、それぞれ長崎の2倍、1．5倍の水準であることが分かった。 
+3都市のPM2．5から検出された浮遊微生物はプロテオバクテリア、フィルミクテス門、放線菌が全体の67．3％を占めた。これらの細菌はすべて、人体から発見された種だ。 
+細菌種の類似性は、ソウルと北京が83％、ソウルと長崎が73％を記録した。季節的には冬と春に類似性が高く、夏に最も低かった。 
 
 https://www.ncbi.nlm.nih.gov/pubmed/28717138
 Sci Rep. 2017 Jul 17;7(1):5545. doi: 10.1038/s41598-017-05862-4.
 Airborne Bacterial Communities in Three East Asian Cities of China, South Korea, and Japan.
 Lee JY1, Park EH1, Lee S2,3, Ko G1,2,3,4, Honda Y5, Hashizume M6, Deng F7, Yi SM1, Kim H8.
-
+Beijing (China) had more diverse airborne bacteria, followed by Seoul (South Korea) and Nagasaki (Japan), and seasonal variations were observed. 
 
 By Marcus Leung  Posted on August 20, 2017
 https://www.microbe.net/2017/08/20/the-air-microbiome-of-a-zero-carbon-building-personal-thoughts/
@@ -592,6 +592,18 @@ https://www.mil-kin.com/
 
 ----------
 ## space
+
+https://twitter.com/mainichi/status/1116516282835320832
+毎日新聞 on Twitter: "国際宇宙ステーションと地上に分かれて1年間を過ごした双子の飛行士の体を詳しく調べると、宇宙では免疫に関係する遺伝子や腸内細菌の構成などに変化が見られました。 #NASA https://t.co/OhURYmigu1"
+9:40 PM - 11 Apr 2019
+
+https://twitter.com/nhk_kabun/status/1116505024937390081
+NHK科学文化部 on Twitter: "ＮＡＳＡなどの研究グループは、2015年３月からほぼ１年間国際宇宙ステーションに滞在した宇宙飛行士、スコット・ケリーさんと一卵性の双子の兄弟を比較して、宇宙で起きたケリーさんの変化を詳しく調べ、その結果を11日、科学雑誌「サイエンス」に発表しました。 https://t.co/vxhFmRHpf9"
+8:55 PM - 11 Apr 2019
+
+https://science.sciencemag.org/content/364/6436/eaau8650
+The NASA Twins Study: A multidimensional analysis of a year-long human spaceflight | Science
+
 
 Jan 21, 2017
 https://quarkmag.com/microbes-in-orbit-is-space-bacteria-the-future-of-astronaut-food-3bac2a78e4
