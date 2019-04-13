@@ -625,17 +625,22 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
+#### 2019-04-08
+
 https://twitter.com/pathogenomenick/status/1115930415649447936
 Nick Loman on Twitter: "FTFY: The ISS has exactly the kind of microbial flora you'd expect from a building inhabited by humans.… "
 6:51 AM - 10 Apr 2019
-
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
-Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces | Microbiome | Full Text
 
 https://japanese.engadget.com/2019/04/09/iss/
 「ISSの中はバクテリアや菌がたくさん」と学術誌に報告。将来の宇宙旅行、宇宙生活に役立つ研究課題 - Engadget 日本版
 学会誌Microbiomeで発表しました。
 研究を共同執筆したNASAジェット推進研究所(JPL)の上級研究員Kasthuri Venkateswaran博士
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
+Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces | Microbiome | Full Text
+Before DNA extraction, half of the sample was treated with propidium monoazide (PMA) so that the microbiome of intact/viable cells (PMA treatment) could be characterized. The PMA-untreated samples yielded information about the total microbial population (including free DNA, dead cells, cells with a compromised cell membrane, intact cells, and viable cells). 
+
+#### 
 
 https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
 https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
@@ -644,6 +649,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/30637341
 mSystems. 2019 Jan 8;4(1). pii: e00281-18. doi: 10.1128/mSystems.00281-18. eCollection 2019 Jan-Feb.
 Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
 Blaustein RA1, McFarland AG1, Ben Maamar S1, Lopez A2, Castro-Wallace S3, Hartmann EM1.
+
+#### 
 
 二次代謝産物
 https://www.ncbi.nlm.nih.gov/pubmed/30539259
