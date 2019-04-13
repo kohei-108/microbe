@@ -640,7 +640,7 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
 Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces | Microbiome | Full Text
 Before DNA extraction, half of the sample was treated with propidium monoazide (PMA) so that the microbiome of intact/viable cells (PMA treatment) could be characterized. The PMA-untreated samples yielded information about the total microbial population (including free DNA, dead cells, cells with a compromised cell membrane, intact cells, and viable cells). 
 
-#### 
+#### 2019-01-08
 
 https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
 https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
