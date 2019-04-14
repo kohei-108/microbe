@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-04
 
 ----------
 
@@ -1242,11 +1242,16 @@ Environ. Sci. Technol. Lett., 2017, 4 (12), pp 562–566
 ----------
 ### Shewanella
 
+https://ja.wikipedia.org/wiki/シェワネラ属
+、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
+
+#### Iodate Reduction
 ヨウ素 還元
 
 https://twitter.com/jcamthrash/status/1107773917534392321
 Cameron Thrash on Twitter: "Dalton Hardisty is talking about iodate as a redox tracer in marine systems in today’s @USC_earth seminar."
 6:40 PM - 18 Mar 2019
+Btw, Shewanella, Pseudomonas, and Desulfovibrio can all reduce iodate.
 
 https://www.ncbi.nlm.nih.gov/pubmed/30446562
 Appl Environ Microbiol. 2019 Jan 23;85(3). pii: e02115-18. doi: 10.1128/AEM.02115-18. Print 2019 Feb 1.
@@ -1259,9 +1264,7 @@ Iodate Reduction by Shewanella oneidensis Does Not Involve Nitrate Reductase
 Jung Kee Mok, Yael J. Toporek, Hyun-Dong Shin, Brady D. Lee, M. Hope Lee & Thomas J. DiChristina
 https://pdfs.semanticscholar.org/213e/63ea4dfb579e2e08f1a3e8d74eedbc0e03e2.pdf
 
-
-https://ja.wikipedia.org/wiki/シェワネラ属
-、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
+#### space
 
 https://www.ncbi.nlm.nih.gov/genome/?term=Shewanella+oneidensis
 Publications
@@ -1294,10 +1297,15 @@ ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – 
 
 このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
 
+#### Shewanella genome
+
 https://www.ncbi.nlm.nih.gov/pubmed/30026808
 Biotechnol Biofuels. 2018 Jul 17;11:193. doi: 10.1186/s13068-018-1201-1. eCollection 2018.
 Pan-genome analyses of 24 Shewanella strains re-emphasize the diversification of their functions yet evolutionary dynamics of metal-reducing pathway.
 Zhong C1, Han M1, Yu S1, Yang P1, Li H1, Ning K1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/
+Gene family
+To understand the evolutionary relationship of Shewanella, we conducted systematic comparative genomic studies. Full protein-coding genes of 24 Shewanella strains were used to construct gene families using OrthoMCL (v2) [44] with a BLAST E-value cut-off of 1e−5 and an inflation parameter of 1.5. Here, the clustering results yielded 7830 homologous clusters, 1788 of which were single-copy gene families, and then they were parsed and concatenated.
 
 https://www.ncbi.nlm.nih.gov/pubmed/29504926
 Int J Syst Evol Microbiol. 2018 Apr;68(4):1356-1360. doi: 10.1099/ijsem.0.002678. Epub 2018 Mar 5.
