@@ -33,6 +33,8 @@ Last Update: 2019-04
 - [Rickettsiales](#rickettsiales) リケッチア目
 - [Holospora](#holospora) ホロスポラ属
 - [Wolbachia](#wolbachia) ボルバキア
+- [excerpt](#excerpt) 抜粋［引用］
+
 
 ----------
 ## featuring
@@ -2043,10 +2045,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/24994802
 Genome Announc. 2014 Jul 3;2(4). pii: e00659-14. doi: 10.1128/genomeA.00659-14.
 Draft genome sequence of strain Q-1, an iodide-oxidizing alphaproteobacterium isolated from natural gas brine water.
 Ehara A, Suzuki H, Kanesaki Y, Yoshikawa H, Amachi S.
-
-
-
-
 
 
 ----------
