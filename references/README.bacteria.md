@@ -114,6 +114,12 @@ Páez-Espino D1, Tamames J, de Lorenzo V, Cánovas D.
 https://www.nies.go.jp/kanko/news/26/26-5/26-5-03.html
 微生物を利用して汚染土壌からヒ素を除去する （2007年度 26巻5号）｜国環研ニュース 26巻｜国立環境研究所
 
+
+
+
+
+
+
 ----------
 ## antimony
 https://ja.wikipedia.org/wiki/アンチモン
@@ -1996,5 +2002,59 @@ https://www.jstage.jst.go.jp/article/geochemproc/57/0/57_0_61/_pdf
 ヨウ素の水圏循環に与える微生物の影響
 SCT 株
 
+----------
+
+## excerpt
+抜粋［引用］
+
+https://www.ncbi.nlm.nih.gov/pubmed/30910818
+G3 (Bethesda). 2019 Mar 25. pii: g3.200978.2018. doi: 10.1534/g3.118.200978. [Epub ahead of print]
+Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation.
+Harada M, Ito K, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
+http://www.g3journal.org/content/early/2019/03/25/g3.118.200978.long
+http://www.g3journal.org/content/ggg/early/2019/03/25/g3.118.200978.full.pdf
+
+Bacteria, such as Pseudomonas putida KT2440 and P. stutzeri TS44, possess genes whose products allow resistance to and metabolism of arsenic compounds (Andres and Bertin, 2016). We report that the SCT genome contains genes putatively involved in such processes; these include several genes encoding ArsR family transcriptional regulators; spxA (locus_tag: PSCT_01329) and arsC (locus_tag: PSCT_01343 and PSCT_04450); genes encoding "arsenate reductase [EC:1.20.4.1]" (KEGG: K00537 and K03741), arsA (locus_tag: PSCT_02478), which encodes "arsenite/tail-anchored protein-transporting ATPase [EC:3.6.3.16 3.6.3.-]" (KEGG: K01551); and ubiG (locus_tag: PSCT_04351), which encodes "arsenite methyltransferase [EC:2.1.1.137]" (KEGG: K07755). There is a cluster of six genes azr-ywlE-aseR-arsC1-czcO-CDS (contig accession number: BDJA01000003; locus_tag range: PSCT_01732 to PSCT_01737); of these, azr encodes "arsenical resistance protein ArsH" (KEGG: K11811), ywlE encodes "arsenate reductase [EC:1.20.4.1]" (KEGG: K03741), aseR and arsC1 encode "ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor" (KEGG: K03892), czcO encodes "putative oxidoreductase CzcO", and the CDS encodes "arsenite transporter" (KEGG: K03325). These results suggest that strain SCT can potentially resist and metabolize arsenic compounds.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30510597
+J Genomics. 2018 Nov 15;6:122-126. doi: 10.7150/jgen.27741. eCollection 2018.
+Genomic Analysis of Rhodococcus sp. Br-6, a Bromate Reducing Bacterium Isolated From Soil in Chiba, Japan.
+Ito K, Harada M, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6275400/
+We searched for genes involved in various biological functions of strain Br-6. The Br-6 genome contained at least 13 genes coding for c-type cytochromes and at least 19 genes putatively involved in arsenic resistance or arsenic metabolism: several genes encoding HTH-type, ArsR family transcriptional regulators, arsB encoding the membrane arsenic pump protein (locus_tag: Br6_00718), aioB encoding the arsenite oxidase subunit AioB precursor (locus_tag: Br6_00766), arsA encoding the arsenic pump-driving ATPase (locus_tag: Br6_00780 and Br6_04451), arsC encoding the arsenate reductase (locus_tag: Br6_01479), and a cluster of three genes (locus_tag: Br6_04407, Br6_04408, and Br6_04409; UniProt: E4WCD3, E4WCD4, and E4WCD5) which appear to form the arsRBC operon 18. The draft genome contains a nitrate reductase gene cluster (locus_tag: Br6_04375, Br6_04376, Br6_04377, and Br6_04378) and denitrification regulatory proteins (locus_tag: Br6_04870 and Br6_04921), but does not contain nitrogenase genes. As expected by the fact that Rhodococcus is non-motile, the Br-6 genome did not contain any genes involved in motility.
+
+http://www.ncbi.nlm.nih.gov/pubmed/25977440
+Genome Announc. 2015 May 14;3(3). pii: e00472-15. doi: 10.1128/genomeA.00472-15.
+Draft Genome Sequence of Anaeromyxobacter sp. Strain PSR-1, an Arsenate-Respiring Bacterium Isolated from Arsenic-Contaminated Soil.
+Tonomura M, Ehara A, Suzuki H, Amachi S.
+Here, we report a draft genome sequence of Anaeromyxobacter sp. strain PSR-1, an arsenate-respiring bacterium isolated from arsenic-contaminated soil. It contained three distinct arsenic resistance gene clusters (ars operons), while no respiratory arsenate reductase gene (arr) was identified.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432346/
+The genome contains three distinct arsenic resistance gene clusters (ars operons), each of which includes a detoxifying arsenate reductase gene (arsC). One consists of genes for a regulatory protein (arsR), an arsenite efflux pump (arsB), a pump-driving ATPase (arsA), and a chaperone of the pump (arsD) (arsD-arsA-uspA-arsR-arsB-arsC-arsD-ORFs-arsA). The second one consists of similar genes as well as an arsenite methyltransferase gene (arsM) (arsD-arsC-uspA-arsB-arsR-arsM). Respiratory arsenate reductase genes (arrAB) were not identified, despite a unique characteristic of this strain to respire arsenate. The draft genome contains at least 64 genes coding for c-type cytochromes, among which 54 are multiheme cytochromes. 
+
+http://www.ncbi.nlm.nih.gov/pubmed/25635012
+Genome Announc. 2015 Jan 29;3(1). pii: e01478-14. doi: 10.1128/genomeA.01478-14.
+Draft Genome Sequence of Geobacter sp. Strain OR-1, an Arsenate-Respiring Bacterium Isolated from Japanese Paddy Soil.
+Ehara A, Suzuki H, Amachi S.
+Here, we report a draft genome sequence of Geobacter sp. strain OR-1, an arsenate-respiring bacterium isolated from Japanese paddy soil. It contained two distinct arsenic islands, one including genes for a respiratory arsenate reductase (Arr) as well as for arsenic resistance (arsD-arsA-acr3-arsR-arrA-arrB) and the second containing only genes for arsenic resistance.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4319506/
+The genome contains two distinct arsenic islands. One consists of genes for a respiratory arsenate reductase (arrAB), and they are also flanked with genes for arsenic resistance including arsR for a regulatory protein, acr3 for an arsenite efflux pump, arsA for a pump-driving ATPase, and arsD for a chaperone of the pump. Another island consists mainly of genes for arsenic resistance including that for a detoxifying arsenate reductase ArsC (arsR-arsC-acr3-uspA-uspA-ORF-arsA-arsD-ORFs-arsD). The draft genome contains at least 83 genes coding for c-type cytochromes, among which 73 are multiheme cytochromes. 
+
+http://www.ncbi.nlm.nih.gov/pubmed/24994802
+Genome Announc. 2014 Jul 3;2(4). pii: e00659-14. doi: 10.1128/genomeA.00659-14.
+Draft genome sequence of strain Q-1, an iodide-oxidizing alphaproteobacterium isolated from natural gas brine water.
+Ehara A, Suzuki H, Kanesaki Y, Yoshikawa H, Amachi S.
+
+
+
+
+
 
 ----------
+
+
+
+
+
+
+
+
