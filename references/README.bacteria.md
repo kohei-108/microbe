@@ -71,6 +71,14 @@ https://ja.wikipedia.org/wiki/亜ヒ酸
 
 https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#distribution
 原核生物におけるヒ素耐性遺伝子の分布
+https://www.ncbi.nlm.nih.gov/pubmed/30405552
+Front Microbiol. 2018 Oct 23;9:2473. doi: 10.3389/fmicb.2018.02473. eCollection 2018.
+Distribution of Arsenic Resistance Genes in Prokaryotes.
+Ben Fekih I1, Zhang C1, Li YP1, Zhao Y2, Alwathnani HA3, Saquib Q4, Rensing C1,5, Cervantes C6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205960/
+- The arsR gene encodes ArsR, a member of the SmtB/ArsR family of metalloregulatory proteins (reviewed in Busenlehner et al., 2003). ArsR is a trans-acting transcriptional repressor protein that binds to the promoter region of ars operons. The interaction of ArsR with arsenite dissociates the repressor protein from the DNA thus allowing transcription of the operon.
+- The arsM gene, encoding ArsM, an As(III) S-adenosylmethionine methyl transferase enzyme, was first identified in a megaplasmid from the arsenic-resistant archaea Halobacterium sp. (Figure ​(Figure1).1). This gene was linked to an ars operon, and arsenite resistance was lost when arsM was deleted (Wang et al., 2004). 
+- ArsM is regulated by the As(III)-responsive repressor ArsR and is thus thus dependent on the presence of arsenite.
 
 https://www.ncbi.nlm.nih.gov/pubmed/23669886
 Nat Rev Microbiol. 2013 Jun;11(6):371-84. doi: 10.1038/nrmicro3028. Epub 2013 May 13.
@@ -119,6 +127,11 @@ https://www.nies.go.jp/kanko/news/26/26-5/26-5-03.html
 - https://ja.wikipedia.org/wiki/メチオニン-S-メチルトランスフェラーゼ
 - https://ja.wikipedia.org/wiki/メチルトランスフェラーゼ
 
+https://www.ncbi.nlm.nih.gov/pubmed/28266584
+Sci Rep. 2017 Mar 7;7:42198. doi: 10.1038/srep42198.
+Arsenic Methylation and its Relationship to Abundance and Diversity of arsM Genes in Composting Manure.
+Zhai W1, Wong MT2, Luo F2, Hashmi MZ3, Liu X1, Edwards EA2, Tang X1,2, Xu J1.
+
 2016-04-01 – 2019-03-31
 https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16K00589/
 KAKEN — 研究課題をさがす | ヒ素メチル基転移酵素を使ったメチル化反応による無機ヒ素の無毒化に関する研究 (KAKENHI-PROJECT-16K00589)
@@ -136,6 +149,10 @@ http://www.naro.affrc.go.jp/archive/niaes/sinfo/result/result31/result31_40.html
 arsM 遺伝子の機能は、亜ヒ酸に S-アデノシル－L-メチオニン（SAM）のメチル基を転位する酵素であることが知られているため、
 
 ### arsR
+
+https://www.wikigenes.org/e/gene/e/948013.html
+arsR  -  arsenical resistance operon...
+Synonyms: arsE
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/
 The ArsR acts as a transcriptional repressor regulating the expression of itself and downstream genes of the ars operon. 
