@@ -2103,6 +2103,21 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4082002/
 
 ----------
 
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/26059449
+BMC Genomics. 2015 Jun 10;16(1):448. doi: 10.1186/s12864-015-1663-5.
+Comparative genomic and phenomic analysis of Clostridium difficile and Clostridium sordellii, two related pathogens with differing host tissue preference.
+Scaria J, Suzuki H, Ptak CP, Chen JW, Zhu Y, Guo XK, Chang YF.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462011/
+To gain different aspects and maximize coverage, protein families were annotated by multiple databases. We performed BLASTP searches of protein sequences against NCBI nr (non-redundant) database, COG [62], KEGG [39], UniProtKB/Uniref90 [96], Virulence Factors Database (VFDB) [60], and assigned the functional annotations of the most similar protein sequences in each database.
+
+
+
+
+
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/22155358
 Infect Genet Evol. 2012 Mar;12(2):274-7. doi: 10.1016/j.meegid.2011.11.004. Epub 2011 Dec 3.
 Functional bias of positively selected genes in Streptococcus genomes.
@@ -2112,11 +2127,18 @@ https://www.ncbi.nlm.nih.gov/pubmed/22272658
 BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
 Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae.
 Suzuki H, Lefébure T, Bitar PP, Stanhope MJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
 
 https://www.ncbi.nlm.nih.gov/pubmed/21282711
 Genome Biol Evol. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
 Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution.
 Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
+
+
+----------
+
+
+
 
 
 
