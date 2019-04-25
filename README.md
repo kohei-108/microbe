@@ -33,47 +33,39 @@ Last Update: 2019-04
 - [people](#people)
   - [Jack Gilbert](#jack-gilbert)
 - [protists](#protists)
-- [sports](#sports)
 - [SDG](#sdg)
+- [sports](#sports)
+- [meeting](#meeting)
 
 ----------
-## SDG
-Sustainable Development Goal (SDG)
-持続可能な開発目標
+## meeting
 
-https://twitter.com/dr_soof/status/1115966036959010816
-Sufia R on Twitter: "Hannah Sampson links #SDG13 to her research on air pollution and microbiomes @MicrobioSoc #Microbio19 #MicroGlobalChallenges… https://t.co/MB8iO4d6fL"
-9:13 AM - 10 Apr 2019 from Belfast, Northern Ireland
+https://asme-tsme-2019.weebly.com/
+ASME & TSME meeting 2019
+​May 11-13, 2019 Tunghai University, Taiwan
+https://asme-tsme-2019.weebly.com/abstract-submission.html
+Please be noted that the submission deadline is 4/30/2019.
 
-https://microbiologysociety.org/publication/current-issue/oceans/article/microbiology-and-the-un-sustainable-development-goals.html
-Microbiology and the UN Sustainable Development Goals | Microbiology Society
-Issue: February 2019
+https://meetings.cshl.edu/meetings.aspx?meet=BIOME&year=19
+Microbiome | CSHL
+July 18 - 21, 2019
+Abstract Deadline: May 3, 2019
 
-https://www.ncbi.nlm.nih.gov/pubmed/28696041
-Microb Biotechnol. 2017 Sep;10(5):1066-1069. doi: 10.1111/1751-7915.12752. Epub 2017 Jul 11.
-The contribution of microbial biotechnology to sustainable development goals: microbiome therapies.
-O'Toole PW1,2, Paoli M2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609341/
-SDG(s) addressed
+https://twitter.com/NatureRevMicro/status/1110131599088209920
+Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
+6:49 AM - 25 Mar 2019
 
-https://www.ncbi.nlm.nih.gov/pubmed/28840959
-Microb Biotechnol. 2017 Sep;10(5):999-1003. doi: 10.1111/1751-7915.12804. Epub 2017 Aug 25.
-Tiny Microbes, Big Yields: enhancing food crop production with biological solutions.
-Trivedi P1, Schenk PM2, Wallenstein MD3,4, Singh BK5,6.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609239/
-Sustainable development goals and agriculture productivity
+https://isme17.isme-microbes.org/abstracts
+ISME
+It is no longer possible to submit an abstract for the consideration of inclusion in the ISME17 Program.
+The deadline for submitting an abstract for the consideration of an oral presentation was 30 March, whereas the system was open for poster submissions until 25 May.  
+ 
+https://www.isme-microbes.org/events-microbial-ecology
+Events in Microbial Ecology | ISME
 
-http://breakthrough.unglobalcompact.org/disruptive-technologies/the-microbiome/
-The microbiome: our microscopic allies
-UPDATED ON: 24 MAY 2017
-Advancing the Sustainable Development Goals (SDGs)
-The microbiome has the potential to advance many of the SDGs. Below are some examples of areas of application across a wide variety of sectors.
-
-![](http://breakthrough.unglobalcompact.org/site/assets/files/1555/6_9_39099_microbiome_5.1630x0.jpg)
 
 ----------
 ## featuring
-
 
 掲載日：2018年3月23日
 https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
@@ -117,6 +109,12 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2019
 
+https://www.ncbi.nlm.nih.gov/pubmed/30394664
+Environ Microbiol Rep. 2019 Feb;11(1):9-12. doi: 10.1111/1758-2229.12701. Epub 2018 Nov 5.
+Towards a systematic understanding of differences between archaeal and bacterial diversity.
+Spang A1,2, Offre P1.
+
+
  – 腸内フローラ移植、便移植専門｜FMTクリニック（シンバイオシス研究所）
 https://shinbiosis.com/intestine-flora/anaerobic-bacteria/
 前編｜腸に住んでいる菌たち（嫌気性菌）は空気に触れると死ぬのか
@@ -139,12 +137,6 @@ https://gendai.ismedia.jp/articles/-/63743?media=bb … #ブルーバックス
 https://twitter.com/phylogenomics/status/1110563943695572992
 Jonathan Eisen on Twitter: "And today in the "Are you F#$*(#ing kidding me #ClosedAccess Irony Award" -- paper on "The urgent need for microbiology literacy in society" https://t.co/qDc8hwpMcO is behind a massive paywall… https://t.co/FpOJ2sSgkc"
 11:27 AM - 26 Mar 2019
-
-https://twitter.com/NatureRevMicro/status/1110131599088209920
-Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
-6:49 AM - 25 Mar 2019
-
-
 
 https://twitter.com/bluebacks_pub/status/1107464016031436800
 講談社ブルーバックス on Twitter: "【解析で「広大な世界」がわかる理由】 「微生物群集は環境に対して一意に決まる、いわば裏切らない生物だからです。その生物に聞けば、人為の及ばない、客観的な観察データが得られます」 https://t.co/KDyXz2OFXk #ブルーバックス"
@@ -316,20 +308,6 @@ Nature ダイジェスト、編集部 on Twitter: "【インフルエンザゲ�
 https://twitter.com/rjp_news/status/1011883898316513280
 日本の研究.comニュース on Twitter: "【注目プレスリリース】日本列島の多様な菌から農業利用可能なものを選別 ～植物１５０種と真菌８，０８０系統からなる巨大ネットワーク・データ～ / 京都大学,科学技術振興機構 https://t.co/CtT6EMPvWF"
 4:08 AM - 27 Jun 2018
-
-https://www.ncbi.nlm.nih.gov/pubmed/29922519
-PeerJ. 2018 Jun 15;6:e5098. doi: 10.7717/peerj.5098. eCollection 2018.
-MLSTar: automatic multilocus sequence typing of bacterial genomes in R.
-Ferrés I1, Iraola G1,2.
-http://github.com/iferres/MLSTar
-
-https://twitter.com/tylerbarnumphd/status/1010247842772815872
-Tyler Barnum on Twitter: "I wrote a tutorial on how to find new proteins in the ~8,000 Uncultivated Bacteria and Archaea (UBA) genomes from @donovan_parks. It's the largest collection of genomes that you can't search for on BLAST or IMG. ~1,500 metagenomes. https://t.co/PgavpbmsQg Feedback welcome!"
-3:47 PM - 22 Jun 2018
-
-https://tylerbarnum.wordpress.com/2018/06/22/searching-uncultivated-bacteria-and-archaea-uba-genomes-for-important-genes/
-Searching Uncultivated Bacteria and Archaea (UBA) Genomes for Important Genes – The Biolo-Gist
-June 22, 2018
 
 2018年6月14日
 https://www.natureasia.com/ja-jp/nature/pr-highlights/12552
@@ -1207,6 +1185,9 @@ https://wired.jp/2016/07/30/messing-up-microbiomes/
 https://wirelesswire.jp/2016/06/53675/
 発展途上国の新生児を救うウェアラブル - WirelessWire News（ワイヤレスワイヤーニュース）
 
+https://wired.jp/2016/05/28/plague-village/
+17世紀「黒死病の村」をデータ分析してわかった「意外な感染経路」｜WIRED.jp
+
 https://wired.jp/2016/05/15/tim-spector/
 脂肪をガマンするよりも──食生活にも「多様性」が必要だ｜WIRED.jp
 マクドナルドの同じメニューを10日間にわたり毎日食べ続けた結果、腸内細菌叢の多様性は40パーセント減少し、健康状態も悪くなった実験などを紹介。
@@ -1307,32 +1288,6 @@ https://qiita.com/haruosuz/items/2e8692869887be8a808d
 http://www.asahi.com/articles/ASKCZ6GS4KCZUBQU011.html
 微生物学への扉を開いたレーウェンフックの顕微鏡：朝日新聞デジタル 
 
-### 2017
-
-https://www.microbe.net/2017/11/15/nice-title-nice-paper-microbiome-datasets-are-compositional-and-this-is-not-optional/
-Nice title, nice paper: Microbiome Datasets Are Compositional: And This Is Not Optional  – microBEnet: the microbiology of the Built Environment network
-
-1:39 PM - 18 Dec 2017
-https://twitter.com/Tyu_Shi/status/942826707022520320
-Tyu_Shi on Twitter: "まだ記事は少ないが、ヒト腸内メタ関連のDalhousie Universityでのjournal clubのblog。Points of InterestとPoints of Confusionが箇条書きにされているので、元論文自分で読んだ後にblog読んで人との解釈の差異を知る… https://t.co/HdO5AftF7a"
-
-1:30 PM - 18 Dec 2017
-https://twitter.com/Tyu_Shi/status/942824493285703680
-Tyu_Shi on Twitter: "poplarとmaizeの根から単離されたバクテリア484株のゲノムを読んで、既知のゲノム3千株以上と比較ゲノム解析してplant-associated gene clustersを探索したのか。 https://t.co/DVNlG9j13e"
-
-2017年11月23日
-http://www.natureasia.com/ja-jp/nature/551/7681/nature24460/
-バイオインフォマティクス：定量的マイクロバイオームプロファイリングで明らかになった腸内細菌群集の変動と微生物量の関連
-
-
-3:09 PM - 7 Nov 2017
-beneficial microbes 有益な微生物 https://twitter.com/phylogenomics/status/927991509017866240
-
-2017-03-13
-http://pediatricsurgery.hatenadiary.jp/entry/2017/03/13/152234
-16S rRNA遺伝子解析の限界と予測メタゲノム解析 - Piphillinの導入 - Note of Pediatric Surgery 
-
-
 ----------
 ### Allergy
 アレルギー
@@ -1430,6 +1385,45 @@ https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char
 
 http://www.nibb.ac.jp/press/2014/06/11.html
 プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
+
+
+
+
+
+----------
+## SDG
+Sustainable Development Goal (SDG)
+持続可能な開発目標
+
+https://twitter.com/dr_soof/status/1115966036959010816
+Sufia R on Twitter: "Hannah Sampson links #SDG13 to her research on air pollution and microbiomes @MicrobioSoc #Microbio19 #MicroGlobalChallenges… https://t.co/MB8iO4d6fL"
+9:13 AM - 10 Apr 2019 from Belfast, Northern Ireland
+
+https://microbiologysociety.org/publication/current-issue/oceans/article/microbiology-and-the-un-sustainable-development-goals.html
+Microbiology and the UN Sustainable Development Goals | Microbiology Society
+Issue: February 2019
+
+https://www.ncbi.nlm.nih.gov/pubmed/28696041
+Microb Biotechnol. 2017 Sep;10(5):1066-1069. doi: 10.1111/1751-7915.12752. Epub 2017 Jul 11.
+The contribution of microbial biotechnology to sustainable development goals: microbiome therapies.
+O'Toole PW1,2, Paoli M2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609341/
+SDG(s) addressed
+
+https://www.ncbi.nlm.nih.gov/pubmed/28840959
+Microb Biotechnol. 2017 Sep;10(5):999-1003. doi: 10.1111/1751-7915.12804. Epub 2017 Aug 25.
+Tiny Microbes, Big Yields: enhancing food crop production with biological solutions.
+Trivedi P1, Schenk PM2, Wallenstein MD3,4, Singh BK5,6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609239/
+Sustainable development goals and agriculture productivity
+
+http://breakthrough.unglobalcompact.org/disruptive-technologies/the-microbiome/
+The microbiome: our microscopic allies
+UPDATED ON: 24 MAY 2017
+Advancing the Sustainable Development Goals (SDGs)
+The microbiome has the potential to advance many of the SDGs. Below are some examples of areas of application across a wide variety of sectors.
+
+![](http://breakthrough.unglobalcompact.org/site/assets/files/1555/6_9_39099_microbiome_5.1630x0.jpg)
 
 ----------
 ## sports
