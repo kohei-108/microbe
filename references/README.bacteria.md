@@ -137,12 +137,18 @@ arsM 遺伝子の機能は、亜ヒ酸に S-アデノシル－L-メチオニン�
 
 ### arsR
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/ Microbial Antimony Biogeochemistry: Enzymes, Regulation, and Related Metabolic Pathways
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/
 The ArsR acts as a transcriptional repressor regulating the expression of itself and downstream genes of the ars operon. 
 
 土木学会第57回年次学術講演会（平成14年9月）
 http://library.jsce.or.jp/jsce/open/00035/2002/57-7/57-7-0279.pdf
-ArsR タンパク質は、大腸菌などヒ素耐性菌のゲノムにコードさ れているヒ素耐性遺伝子群で遺伝子発現の調節を行うリプレッサー のタンパク質である。
+ArsR タンパク質は、大腸菌などヒ素耐性菌のゲノムにコードさ
+れているヒ素耐性遺伝子群で遺伝子発現の調節を行うリプレッサー
+のタンパク質である。ヒ素のない環境下で ArsR タンパク質は、ヒ
+素耐性遺伝子群のオペレーション(O.P)部位に結合することで遺伝
+子群の発現を抑制している。しかし、ヒ素のある環境下で ArsR タ
+ンパク質は、ヒ素耐性遺伝子群を発現させるためにヒ素と優先的に
+結合し、O.P 部位から離れる働きがある。
 
 ----------
 ## antimony
@@ -205,17 +211,16 @@ Desulfuribacillus stibiiarsenatis strain MLFW-2, whole genome shotgun sequencing
 	Desulfuribacillus stibiiarsenatis	1390249	PRJNA343013	343013	Terrabacteria group	Firmicutes	3.1197	38.2	-	MJAT01	40	3076	2935	2016/09/22	2017/04/13	Contig	University of Georgia	SAMN05771867	GCA_001742305.1	REFR	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/742/305/GCA_001742305.1_ASM174230v1	-	MLFW-2
 
 #### kaken
-	2015-04-01 – 2018-03-31
+2015-04-01 – 2018-03-31
 https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15K14594/
 KAKEN — 研究課題をさがす | 毒性元素の生物利用機構から解き明かす微生物エネルギー代謝の多様性進化 (KAKENHI-PROJECT-15K14594)
 濱村 奈津子
 ヒ素と同族の毒性元素であるアンチモンに着目し、平成27年度は高濃度のアンチモンで汚染した環境試料からアンチモン代謝微生物群の集積培養を試みた。
 これまでに分離が報告されているアンチモン還元菌は2株のみであるが、本研究でアンチモン還元活性を示したコンソーシアからは、ヒ素やその他金属の還元菌と系統的類似度の高い多数のFirmicutes属の16S rRNA遺伝子配列とともに、アンチモン酸化および還元菌として報告のあるα-Proteobacteriaに近縁な配列が検出されたことから、これらの菌がアンチモン還元に関与している可能性が高い。
 
-	2015-04-01 – 2018-03-31
 https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15K12230/
 KAKEN — 研究課題をさがす | 微生物機能を利用した廃水からのアンチモン除去技術の基礎開発 (KAKENHI-PROJECT-15K12230)
-	2015-04-01 – 2018-03-31
+
 アンチモン還元菌の単離と特徴づけ
 
 ----------
@@ -368,8 +373,6 @@ Roy A1, Mukhopadhyay S, Sarkar I, Sen A.
 https://twitter.com/NatureRevMicro/status/1034357487355539456
 Nature Rev Microbiol on Twitter: "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life @NatureBiotech https://t.co/Hro7pynEPQ… https://t.co/ev7En4LKdL"
 4:30 AM - 28 Aug 2018
-
-![](https://pbs.twimg.com/media/DlrGnFvX4AA_a4L.jpg)
 
 https://www.nature.com/articles/nbt.4229
 
