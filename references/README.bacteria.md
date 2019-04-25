@@ -106,21 +106,43 @@ Microbes Environ. 2013;28(2):257-63. Epub 2013 May 11.
 Identification of antimony- and arsenic-oxidizing bacteria associated with antimony mine tailing.
 Hamamura N1, Fukushima K, Itai T.
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/19130261
 Biometals. 2009 Feb;22(1):117-30. doi: 10.1007/s10534-008-9195-y. Epub 2009 Jan 7.
 Microbial responses to environmental arsenic.
 Páez-Espino D1, Tamames J, de Lorenzo V, Cánovas D.
 
-
 https://www.nies.go.jp/kanko/news/26/26-5/26-5-03.html
 微生物を利用して汚染土壌からヒ素を除去する （2007年度 26巻5号）｜国環研ニュース 26巻｜国立環境研究所
 
+### arsM
+- https://ja.wikipedia.org/wiki/ヒ素の生化学#ヒ素のメチル化
+- https://ja.wikipedia.org/wiki/メチオニン-S-メチルトランスフェラーゼ
+- https://ja.wikipedia.org/wiki/メチルトランスフェラーゼ
 
+2016-04-01 – 2019-03-31
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16K00589/
+KAKEN — 研究課題をさがす | ヒ素メチル基転移酵素を使ったメチル化反応による無機ヒ素の無毒化に関する研究 (KAKENHI-PROJECT-16K00589)
+ヒ素メチル基転移酵素（arsM）
 
+平成26年 6月16日  2011~2013
+https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-23380044/23380044seika.pdf
+GSRB54 株はヒ素メチルトランスフェラーゼ(arsM)遺伝子を持ち、
+The arsenite S-adenosylmethionine methyltransferase (arsM) gene of GSRB54
 
+平成26年度 (第31集)
+http://www.naro.affrc.go.jp/archive/niaes/sinfo/result/result31/result31_40.html
+ヒ素をメチル化する根圏微生物の単離とその分子機構の解明 －稲に含まれるメチル化ヒ素の謎に迫る－（農業環境技術研究所）
+亜ヒ酸のメチル基転移酵素遺伝子（arsM）
+arsM 遺伝子の機能は、亜ヒ酸に S-アデノシル－L-メチオニン（SAM）のメチル基を転位する酵素であることが知られているため、
 
+### arsR
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/ Microbial Antimony Biogeochemistry: Enzymes, Regulation, and Related Metabolic Pathways
+The ArsR acts as a transcriptional repressor regulating the expression of itself and downstream genes of the ars operon. 
+
+土木学会第57回年次学術講演会（平成14年9月）
+http://library.jsce.or.jp/jsce/open/00035/2002/57-7/57-7-0279.pdf
+ArsR タンパク質は、大腸菌などヒ素耐性菌のゲノムにコードさ れているヒ素耐性遺伝子群で遺伝子発現の調節を行うリプレッサー のタンパク質である。
 
 ----------
 ## antimony
@@ -138,6 +160,9 @@ Appl Environ Microbiol. 2016 Aug 30;82(18):5482-95. doi: 10.1128/AEM.01375-16. P
 Microbial Antimony Biogeochemistry: Enzymes, Regulation, and Related Metabolic Pathways.
 Li J1, Wang Q1, Oremland RS2, Kulp TR3, Rensing C4, Wang G5.
 - In this review, we summarize the recent research on bacterial antimony transformations, especially those regarding antimony uptake, efflux, antimonite oxidation, and antimonate reduction.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/
+Antimony (Sb) occurs widely in soil and aquatic systems. It is a group 15 element in the periodic table, positioned directly below arsenic (As). It exists in four oxidation states (+V, +III, 0, and −III), of which pentavalent antimonate [Sb(V)] and trivalent antimonite [Sb(III)] are the prevalent forms in the environment (1).
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/26519630
 Water Res. 2016 Jan 1;88:467-474. doi: 10.1016/j.watres.2015.10.042. Epub 2015 Oct 23.
@@ -392,8 +417,13 @@ Nature. 2018 Jan 18;553(7688):291-294. doi: 10.1038/nature25178. Epub 2018 Jan 3
 Dietary trehalose enhances virulence of epidemic Clostridium difficile.
 Collins J1, Robinson C2, Danhof H1, Knetsch CW3, van Leeuwen HC3, Lawley TD4, Auchtung JM1, Britton RA1.
 
+米国ではC. difficileは、メチシリン耐性黄色ブドウ球菌（MRSA）以上に主要な医療関連感染の原因微生物として認識されるようになっている。近年では、CDIは、欧米において、、リボタイプ078株などに代表されるいわゆる強毒株による重症例や ...
+[PDF]ディフィシル菌感染症の基礎と臨床
+www.eiken.co.jp/modern_media/backnumber/pdf/MM1010_01.pdf
+神谷茂 著 - ‎被引用数: 8 - ‎関連記事
+（Clostridium difficile）は一部の健. 常者の腸内
 
-台湾の患者から分離されたNCKUH-21株に特異的なプロファージを発見
+ディフィシル菌（C.difficile）リボタイプ027株の比較ゲノムにより、台湾の患者から分離されたNCKUH-21株に特異的なプロファージを発見
 https://www.ncbi.nlm.nih.gov/pubmed/29213333
 Gut Pathog. 2017 Nov 29;9:70. doi: 10.1186/s13099-017-0219-4. eCollection 2017.
 Comparative genomic analysis of Clostridium difficile ribotype 027 strains including the newly sequenced strain NCKUH-21 isolated from a patient in Taiwan.
@@ -2051,15 +2081,22 @@ Ehara A, Suzuki H, Kanesaki Y, Yoshikawa H, Amachi S.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4082002/
 - There are no autotrophic CO2 fixation pathway genes such as those for ribulose-1,5-bisphosphate carboxylase/oxygenase and components of the reductive tricarboxylic acid (TCA) cycle in the draft genome sequence. A key gene encoding phosphofructokinase for glycolysis is absent, but a complete set of genes for the TCA cycle, pentose phosphate pathway, and Entner-Doudoroff pathway are predicted. 
 
-
-
-
 ----------
 
+https://www.ncbi.nlm.nih.gov/pubmed/22155358
+Infect Genet Evol. 2012 Mar;12(2):274-7. doi: 10.1016/j.meegid.2011.11.004. Epub 2011 Dec 3.
+Functional bias of positively selected genes in Streptococcus genomes.
+Suzuki H, Stanhope MJ.
 
+https://www.ncbi.nlm.nih.gov/pubmed/22272658
+BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
+Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae.
+Suzuki H, Lefébure T, Bitar PP, Stanhope MJ.
 
-
-
+https://www.ncbi.nlm.nih.gov/pubmed/21282711
+Genome Biol Evol. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
+Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution.
+Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
 
 
 
