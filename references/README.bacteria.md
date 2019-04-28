@@ -1939,15 +1939,24 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 ### Amachi Seigo
 天知 誠吾
 
+Genome sequencing of bacteria contributing to the geochemical cycling of arsenic, bromine, and iodine.
 https://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
-PRJDB5044 - Project Detail
+https://www.ncbi.nlm.nih.gov/bioproject/PRJDB5044
 
+#### Shewanella sp. M-Br
+http://meeting-jsme2018.com/program_pdf/Program_Poster%20Session%201.pdf
+＊ P1-043
+Bromate reduction by Shewanella sp.M-Br in the presence of chelated iron
+鉄を介して臭素酸を還元する？～Shewanella の新たな可能性を探る～
+〇Hiroko Fujiya、Seigo Amachi
+Horticul, Univ. of the Chiba
+
+#### Roseovarius sp. A-2
+https://www.ncbi.nlm.nih.gov/assembly/GCA_002072155.1
+Genome coverage: 248.96x
 https://www.ncbi.nlm.nih.gov/nuccore/BDIY00000000
-Roseovarius sp. A-2, whole genome shotgun sequencing project - Nucleotide - NCBI
-
-https://www.ncbi.nlm.nih.gov/Traces/wgs/?val=BDIY01#contigs
-Genome Coverage	: 248.96x
-
+WGS         BDIY01000001-BDIY01000126
+https://www.ncbi.nlm.nih.gov/Traces/wgs/BDIY01
 
 https://www.ncbi.nlm.nih.gov/pubmed/28529651
 J Genomics. 2017 Apr 6;5:51-53. doi: 10.7150/jgen.19846. eCollection 2017.
@@ -1956,6 +1965,7 @@ Yuliana T, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436463/
 The genome contained four multicopper oxidase genes. Among these, one was closely related to ioxA, which was previously found to be involved in iodide oxidation in Iodidimonas sp. Q-1 4. 
 
+#### 
 https://www.ncbi.nlm.nih.gov/pubmed/27738047
 Genome Announc. 2016 Oct 13;4(5). pii: e01155-16. doi: 10.1128/genomeA.01155-16.
 Draft Genome Sequence of Arenibacter sp. Strain C-21, an Iodine-Accumulating Bacterium Isolated from Surface Marine Sediment.
@@ -1970,16 +1980,6 @@ http://www.ncbi.nlm.nih.gov/pubmed/25635012
 Genome Announc. 2015 Jan 29;3(1). pii: e01478-14. doi: 10.1128/genomeA.01478-14.
 Draft Genome Sequence of Geobacter sp. Strain OR-1, an Arsenate-Respiring Bacterium Isolated from Japanese Paddy Soil.
 Ehara A, Suzuki H, Amachi S.
-
-http://www.ncbi.nlm.nih.gov/pubmed/24994802
-Genome Announc. 2014 Jul 3;2(4). pii: e00659-14. doi: 10.1128/genomeA.00659-14.
-Draft genome sequence of strain Q-1, an iodide-oxidizing alphaproteobacterium isolated from natural gas brine water.
-Ehara A, Suzuki H, Kanesaki Y, Yoshikawa H, Amachi S.
-
-https://www.ncbi.nlm.nih.gov/pubmed/22447601
-Appl Environ Microbiol. 2012 Jun;78(11):3941-9. doi: 10.1128/AEM.00084-12. Epub 2012 Mar 23.
-Iodide oxidation by a novel multicopper oxidase from the alphaproteobacterium strain Q-1.
-Suzuki M1, Eda Y, Ohsawa S, Kanesaki Y, Yoshikawa H, Tanaka K, Muramatsu Y, Yoshikawa J, Sato I, Fujii T, Amachi S.
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27612520
@@ -1998,6 +1998,20 @@ Arsenite oxidation by a facultative chemolithoautotrophic Sinorhizobium sp. KGO-
 Dong D1, Ohtsuka T, Dong DT, Amachi S.
 
 
+http://www.ncbi.nlm.nih.gov/pubmed/24994802
+Genome Announc. 2014 Jul 3;2(4). pii: e00659-14. doi: 10.1128/genomeA.00659-14.
+Draft genome sequence of strain Q-1, an iodide-oxidizing alphaproteobacterium isolated from natural gas brine water.
+Ehara A, Suzuki H, Kanesaki Y, Yoshikawa H, Amachi S.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22447601
+Appl Environ Microbiol. 2012 Jun;78(11):3941-9. doi: 10.1128/AEM.00084-12. Epub 2012 Mar 23.
+Iodide oxidation by a novel multicopper oxidase from the alphaproteobacterium strain Q-1.
+Suzuki M1, Eda Y, Ohsawa S, Kanesaki Y, Yoshikawa H, Tanaka K, Muramatsu Y, Yoshikawa J, Sato I, Fujii T, Amachi S.
+
+
+https://kaken.nii.ac.jp/en/report/KAKENHI-PROJECT-23580103/235801032012hokoku/
+KAKEN — Research Projects | 2012 Fiscal Year Research-status Report (KAKENHI-PROJECT-23580103)
+２．	ヒ酸を吸着させたフェリハイドライトからのヒ素の溶出試験：フェリハイドライトにヒ酸を吸着させたものを調製した。これを唯一の電子授与体として含む培地に、前年度分離に成功したヒ酸還元細菌Geobacter sp. OR-1株やAnaeromyxobacter sp. PSR-1株などを接種した。OR-1株とPSR-1株では培養に伴い2価鉄と亜ヒ酸が溶出した。これに対し、ヒ酸還元能を持たない鉄還元細菌Geobacter metallireducens GS-15株やShewanella oneidensis MR-1株では2価鉄の溶出はあったものの、亜ヒ酸の溶出は認められなかった。以上のことから、鉄鉱物に吸着したヒ素の溶出には鉄還元能とヒ酸還元能の両方を持つことが重要と考えられた。
 
 
 Mini Reviews
@@ -2104,6 +2118,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4082002/
 ----------
 
 
+http://www.ncbi.nlm.nih.gov/pubmed/25977442
+Genome Announc. 2015 May 14;3(3). pii: e00474-15. doi: 10.1128/genomeA.00474-15.
+Draft Genome Sequences of Five Legionella pneumophila Strains Isolated from Environmental Water Samples.
+Watanabe K, Suzuki H, Nakao R, Shimizu T, Watarai M.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432348/
 
 https://www.ncbi.nlm.nih.gov/pubmed/26059449
 BMC Genomics. 2015 Jun 10;16(1):448. doi: 10.1186/s12864-015-1663-5.
@@ -2111,10 +2130,6 @@ Comparative genomic and phenomic analysis of Clostridium difficile and Clostridi
 Scaria J, Suzuki H, Ptak CP, Chen JW, Zhu Y, Guo XK, Chang YF.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462011/
 To gain different aspects and maximize coverage, protein families were annotated by multiple databases. We performed BLASTP searches of protein sequences against NCBI nr (non-redundant) database, COG [62], KEGG [39], UniProtKB/Uniref90 [96], Virulence Factors Database (VFDB) [60], and assigned the functional annotations of the most similar protein sequences in each database.
-
-
-
-
 
 
 
