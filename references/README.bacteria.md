@@ -69,6 +69,10 @@ https://ja.wikipedia.org/wiki/ヒ素
 https://ja.wikipedia.org/wiki/亜ヒ酸
 亜ヒ酸（あヒさん、arsenous acid、arsenious acid）は、化学式がAs(OH)3の無機化合物である。
 
+https://www.pnas.org/content/early/2019/04/25/1818349116
+Complete arsenic-based respiratory cycle in the marine microbial communities of pelagic oxygen-deficient zones | PNAS
+We identified the presence and expression of genes for both arsenic reduction and oxidation in marine ODZs, suggesting the microbial community in these waters is also cycling arsenic for respiratory gain
+
 https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#distribution
 原核生物におけるヒ素耐性遺伝子の分布
 https://www.ncbi.nlm.nih.gov/pubmed/30405552
@@ -640,6 +644,15 @@ Holmes DE1, Giloteaux L2, Chaurasia AK2, Williams KH3, Luef B4, Wilkins MJ5, Wri
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303627/
 - The programs PHAST (Zhou et al., 2011) and/or Prophinder were also used to find phage-related sequences. Others were determined by the presence of known phage domains (http://pfam.sanger.ac.uk/, http://blast.jcvi.org/web-hmm/) or the word ‘phage' in protein coding features.
 - Further evidence that some of the subsurface Geobacter phage are lysogenic comes from the fact that multiple phage attachment sites (att) were detected in the Geobacter chromosomes, and the programs PHAST (Zhou et al., 2011 PHAST) and/or Prophinder (http://aclame.ulb.ac.be/Tools/Prophinder/) identified prophage in all five of the genomes.
+
+http://aclame.ulb.ac.be/perl/Aclame/Prophages/view_prophage.cgi?
+ACLAME: Prophinder
+```
+Geobacter metallireducens GS-15	NC_007517	chromosome
+Geobacter sulfurreducens PCA	NC_002939	chromosome
+Geobacter uraniireducens Rf4	NC_009483	chromosome
+Gloeobacter violaceus PCC 7421	NC_005125	chromosome
+```
 
 系統解析
 https://www.ncbi.nlm.nih.gov/pubmed/25139417
