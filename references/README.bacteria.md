@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-04
+Last Update: 2019-05
 
 ----------
 
@@ -185,6 +185,8 @@ Li J1, Wang Q1, Oremland RS2, Kulp TR3, Rensing C4, Wang G5.
 - In this review, we summarize the recent research on bacterial antimony transformations, especially those regarding antimony uptake, efflux, antimonite oxidation, and antimonate reduction.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/
 Antimony (Sb) occurs widely in soil and aquatic systems. It is a group 15 element in the periodic table, positioned directly below arsenic (As). It exists in four oxidation states (+V, +III, 0, and −III), of which pentavalent antimonate [Sb(V)] and trivalent antimonite [Sb(III)] are the prevalent forms in the environment (1).
+
+
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/26519630
@@ -606,20 +608,41 @@ Mycobacterium avium paratuberculosis 旧名＝Mycobacterium paratuberculosis BSL
 Mycobacterium avium silvaticum BSL2
 ```
 
+
 ----------
 ## Geobacter
 
 - https://ja.wikipedia.org/wiki/ゲオバクター属
 - http://www.bacterio.net/geobacter.html
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/27940542
 Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
 Arsenic Detoxification by Geobacter Species.
 Dang Y1,2, Walker DJ1, Vautour KE1, Dixon S3, Holmes DE4,3.
+- Analysis of 14 different Geobacter genomes showed that all of these species have genes coding for an arsenic detoxification system (ars operon), and several have genes required for arsenic respiration (arr operon) and methylation (arsM). Genes encoding four arsenic repressor-like proteins were detected in the genome of G. sulfurreducens; however, only one (ArsR1) regulated transcription of the ars operon. Elimination of arsR1 from the G. sulfurreducens chromosome resulted in enhanced transcription of genes coding for the arsenic efflux pump (Acr3) and arsenate reductase (ArsC). 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/
+- Some bacteria are able to methylate arsenic with S-adenosyl-l-methionine-dependent methyltransferase (ArsM), forming volatile methylarsines, which removes arsenic from the immediate environment by converting it into a gaseous compound (6). Other prokaryotes utilize arr and/or ars arsenic transformation systems. While both systems involve reduction of arsenate,
+- Arsenic detoxification machinery in Geobacter.
+All of the Geobacter genomes available to date have the arsenic detoxification machinery (ars genes), whereas only a few Geobacter species have genes required for arsenite methylation (arsM) and arsenate respiration (arr genes) (Table 1).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/table/T1/
+TABLE 1
+Arsenic detoxification and respiratory genes found in the genomes of the Geobacter species and strains used in this study
+- Regulation of the ars operon.
+The G. sulfurreducens genome has four different genes coding for putative ArsR-Smt family regulatory proteins scattered throughout the genome: GSU2952 (arsR1), GSU2149 (arsR2), GSU0399 (arsR3), and GSU2625 (arsR4). All four of these genes' proteins have the helix-turn-helix (HTH) motif that is characteristic of DNA binding transcriptional regulators (see Fig. S4A in the supplemental material), and all of them are found near transport proteins. 
+- REFERENCES
+6. Bentley R, Chasteen TG. 2002. Microbial methylation of metalloids: arsenic, antimony, and bismuth. Microbiol Mol Biol Rev 66:250–271. 
+
+ファージ
+https://www.ncbi.nlm.nih.gov/pubmed/25083935
+ISME J. 2015 Feb;9(2):333-46. doi: 10.1038/ismej.2014.128. Epub 2014 Aug 1.
+Evidence of Geobacter-associated phage in a uranium-contaminated aquifer.
+Holmes DE1, Giloteaux L2, Chaurasia AK2, Williams KH3, Luef B4, Wilkins MJ5, Wrighton KC6, Thompson CA2, Comolli LR3, Lovley DR2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303627/
+- The programs PHAST (Zhou et al., 2011) and/or Prophinder were also used to find phage-related sequences. Others were determined by the presence of known phage domains (http://pfam.sanger.ac.uk/, http://blast.jcvi.org/web-hmm/) or the word ‘phage' in protein coding features.
+- Further evidence that some of the subsurface Geobacter phage are lysogenic comes from the fact that multiple phage attachment sites (att) were detected in the Geobacter chromosomes, and the programs PHAST (Zhou et al., 2011 PHAST) and/or Prophinder (http://aclame.ulb.ac.be/Tools/Prophinder/) identified prophage in all five of the genomes.
 
 系統解析
-
 https://www.ncbi.nlm.nih.gov/pubmed/25139417
 Int J Syst Evol Microbiol. 2014 Nov;64(Pt 11):3786-91. doi: 10.1099/ijs.0.066662-0. Epub 2014 Aug 19.
 Geobacter soli sp. nov., a dissimilatory Fe(III)-reducing bacterium isolated from forest soil.
@@ -699,7 +722,6 @@ http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
 微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は She- wanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
 
 https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
-
 
 ----------
 
