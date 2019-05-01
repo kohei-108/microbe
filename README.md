@@ -40,6 +40,15 @@ Last Update: 2019-04
 ----------
 ## meeting
 
+https://twitter.com/NatureRevMicro/status/1110131599088209920
+Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
+6:49 AM - 25 Mar 2019
+
+http://www.microbial-ecology.jp/?p=8410
+日本微生物生態学会 » ASME in 台湾 （5/11-13）のお知らせ
+なお参加登録するにあたって当学会事務局に「参加します」の一報をご氏名ご所属とともに頂ければ助かります。
+これは日本からの参加者の人数をおおよそ把握するためです。ご協力お願い致します。
+
 https://asme-tsme-2019.weebly.com/
 ASME & TSME meeting 2019
 ​May 11-13, 2019 Tunghai University, Taiwan
@@ -51,9 +60,12 @@ Microbiome | CSHL
 July 18 - 21, 2019
 Abstract Deadline: May 3, 2019
 
-https://twitter.com/NatureRevMicro/status/1110131599088209920
-Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
-6:49 AM - 25 Mar 2019
+https://www.grc.org/ecological-and-evolutionary-genomics-grs-conference/2019/
+2019 Ecological and Evolutionary Genomics (GRS) Seminar GRC
+Genomic Changes Behind Adaptation and Ecosystem Functions
+July 13 - 14, 2019
+Applications for this meeting must be submitted by June 15, 2019.
+
 
 https://isme17.isme-microbes.org/abstracts
 ISME
@@ -108,6 +120,15 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2019
+
+
+https://thinkeroid.hateblo.jp/entry/20190501/1556698797
+まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
+
+2019/04/12
+https://toyokeizai.net/articles/-/276409
+人殺し｢耐性カンジダ菌｣世界同時発生の恐怖
+手を打たなければ世界で1000万人が犠牲に?
 
 https://www.ncbi.nlm.nih.gov/pubmed/30394664
 Environ Microbiol Rep. 2019 Feb;11(1):9-12. doi: 10.1111/1758-2229.12701. Epub 2018 Nov 5.
