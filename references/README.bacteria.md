@@ -620,7 +620,6 @@ Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689
 Arsenic Detoxification by Geobacter Species.
 Dang Y1,2, Walker DJ1, Vautour KE1, Dixon S3, Holmes DE4,3.
 - Analysis of 14 different Geobacter genomes showed that all of these species have genes coding for an arsenic detoxification system (ars operon), and several have genes required for arsenic respiration (arr operon) and methylation (arsM). Genes encoding four arsenic repressor-like proteins were detected in the genome of G. sulfurreducens; however, only one (ArsR1) regulated transcription of the ars operon. Elimination of arsR1 from the G. sulfurreducens chromosome resulted in enhanced transcription of genes coding for the arsenic efflux pump (Acr3) and arsenate reductase (ArsC). 
-
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/
 - Some bacteria are able to methylate arsenic with S-adenosyl-l-methionine-dependent methyltransferase (ArsM), forming volatile methylarsines, which removes arsenic from the immediate environment by converting it into a gaseous compound (6). Other prokaryotes utilize arr and/or ars arsenic transformation systems. While both systems involve reduction of arsenate,
 - Arsenic detoxification machinery in Geobacter.
