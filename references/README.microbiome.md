@@ -80,6 +80,26 @@ A. Murat Eren (Meren) on Twitter: "This is unfair to DADA2
 6:25 PM - 23 May 2018
 
 
+### 2017
+
+https://www.microbe.net/2017/11/15/nice-title-nice-paper-microbiome-datasets-are-compositional-and-this-is-not-optional/
+Nice title, nice paper: Microbiome Datasets Are Compositional: And This Is Not Optional  – microBEnet: the microbiology of the Built Environment network
+
+1:39 PM - 18 Dec 2017
+https://twitter.com/Tyu_Shi/status/942826707022520320
+Tyu_Shi on Twitter: "まだ記事は少ないが、ヒト腸内メタ関連のDalhousie Universityでのjournal clubのblog。Points of InterestとPoints of Confusionが箇条書きにされているので、元論文自分で読んだ後にblog読んで人との解釈の差異を知る… https://t.co/HdO5AftF7a"
+
+2017-03-13
+http://pediatricsurgery.hatenadiary.jp/entry/2017/03/13/152234
+16S rRNA遺伝子解析の限界と予測メタゲノム解析 - Piphillinの導入 - Note of Pediatric Surgery 
+
+
+2017年11月23日
+http://www.natureasia.com/ja-jp/nature/551/7681/nature24460/
+バイオインフォマティクス：定量的マイクロバイオームプロファイリングで明らかになった腸内細菌群集の変動と微生物量の関連
+
+3:09 PM - 7 Nov 2017
+beneficial microbes 有益な微生物 https://twitter.com/phylogenomics/status/927991509017866240
 
 ----------
 ## MAG
@@ -89,6 +109,17 @@ https://www.ddbj.nig.ac.jp/ddbj/qualifiers.html
 DDBJ Qualifier key
 metagenome_source
 定義	Metagenome Assembled Genome (MAG) として得られた配列、すなわち、metagenome から単一 taxon として assemble された場合に、その由来となった metagenome を記載します。
+
+2019年4月25日
+https://www.natureasia.com/ja-jp/nature/highlights/98543
+Nature ハイライト：ヒト腸内微生物相の構成をこれまでにない分解能で明らかにする
+、1万1850のヒト腸のマイクロバイオームから、9万2143のメタゲノムアセンブリーによる再構築ゲノム（MAG）を得て、1952種の未培養の候補細菌を特定した。
+、系統発生学的多様性を281％増大させた。
+、数百の新しい生合成遺伝子クラスターをコードしていることが分かった。
+https://www.nature.com/articles/s41586-019-0965-1
+A new genomic blueprint of the human gut microbiota | Nature
+Phylogenetic diversity was quantified by the sum of branch lengths using the phytools R package59.
+
 
 https://twitter.com/jgi/status/1106429999974772736
 Joint Genome Inst. on Twitter: "Read "Novel insights from uncultivated genomes of the global human gut #microbiome" in @nature from @BerkeleyLab @LBNLBioSci @jgi and @GladstoneInst @UCSF @czbiohub researchers: https://t.co/5dUrX7zHzd #BioEGSB #DataScience… https://t.co/ExoEkSqpRp"
@@ -741,6 +772,20 @@ https://github.com/haruosuz/statistics#meta-analysis
 
 https://twitter.com/search?f=tweets&q=microbiome%20meta-analysis
 
+### 2019
+
+https://twitter.com/EricTopol/status/1112741724302893056
+Eric Topol on Twitter: "It's not enough to characterize the gut #microbiome by bacterial content. How #metagenomics tracks with colon #cancer, specific signatures https://t.co/yIH1TeYeVg https://t.co/jqRIcffhGZ @NatureMedicine… https://t.co/VfDiUXjqvO"
+11:41 AM - 1 Apr 2019
+
+https://www.nature.com/articles/s41591-019-0406-6
+Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer | Nature Medicine
+Here, a meta-analysis of eight geographically and technically diverse fecal shotgun metagenomic studies of colorectal cancer (CRC, n = 768), which was controlled for several confounders, identified a core set of 29 species significantly enriched in CRC metagenomes (false discovery rate (FDR) < 1 × 10−5). 
+
+https://www.nature.com/articles/s41591-019-0405-7
+Metagenomic analysis of colorectal cancer datasets identifies cross-cohort microbial diagnostic signatures and a link with choline degradation | Nature Medicine
+We performed a meta-analysis of five publicly available datasets and two new cohorts and validated the findings on two additional cohorts, considering in total 969 fecal metagenomes. 
+
 ### Qiita
 
 https://twitter.com/strnr/status/1047841444214558720
@@ -771,6 +816,8 @@ https://www.nature.com/articles/s41592-018-0141-9
 Qiita: rapid, web-enabled microbiome meta-analysis
 
 ### almlab
+https://be.mit.edu/directory/eric-alm
+Eric Alm
 http://almlab.mit.edu/
 
 https://twitter.com/gibbological/status/988476547614105601
