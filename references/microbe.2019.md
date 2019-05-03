@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-04
 
 ----------
 
@@ -31,21 +31,55 @@ https://github.com/haruosuz/metasub/blob/master/README.md#twitter
 
 実際のサンプリング作業は、動画 (https://www.youtube.com/watch?v=boIK-ezDuuI&t=2s) にあるように約3分間、表面（椅子、床、壁など）を綿棒で拭います。
 
-東京サンプルの一部は国際会議のデータ解析イベント（CAMDA2019 Metagenomic Forensics Challenge https://twitter.com/CAMDA_conf ）で使用される予定です。CAMDA2019参加者によるデータ解析結果は、ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland で発表されます。
+サンプルの一部は国際会議のデータ解析イベント（CAMDA2019 Metagenomic Forensics Challenge https://twitter.com/CAMDA_conf ）で使用される予定です。CAMDA2019参加者によるデータ解析結果は、ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland で発表されます。
+
+----------
+## 2019-05-03
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4882832/
+ProCarDB: a database of bacterial carotenoids
+http://bioinfo.imtech.res.in/servers/procardb/
+Prokaryotic Bacterial Carotenoid DataBase Info
+The database also provides information of the pathways involved in the synthesis of carotenoids, enzymes, encoding genes, bacterial species possessing carotenoids.
+
+https://ja.wikipedia.org/wiki/脂質
+誘導脂質 (Derived lipid) - 単純脂質や複合脂質から、加水分解によって誘導される化合物。
+カロテノイド (Carotenoid))
+
+非極性脂質(Non polar lipids)または中性脂質(Neutral lipids)
+カロテノイド
+
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
+
+![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
+
+https://twitter.com/hashtag/togotv18
+[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+```
+Part 3 生命科学系データ解析の現場で，押さえておきたい「鉄板」ツール	
+10 章 MEGAで系統樹を作成する	
+　　　MEGA で配列のアラインメントや系統解析を行う
+　　　DoMosaics を使ってドメイン構造と系統樹を可視化する
+　　　MAFFT・RAxML・FigTree を組み合わせて分子系統解析を行う
+```
+
+[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+
+https://doi.org/10.7875/togotv.2018.093
+2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
+
+https://doi.org/10.7875/togotv.2017.077
+2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
+
+https://doi.org/10.7875/togotv.2011.076
+2011-07-05 MEGAを使って配列アラインメントおよび系統解析をする
 
 ----------
 ## 2019-03-24
 
 https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan#the-ncbi-sequence-database
 NCBI配列データベース
-
-[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
-
-https://twitter.com/hashtag/togotv18
-[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
-
-![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
 
 https://twitter.com/hashtag/jsbba2019
 日本農芸化学会2019年度大会事務局
@@ -196,11 +230,23 @@ Nucleic Acids Res. 2002 Oct 1;30(19):4272-7.
 Synonymous codon usage is subject to selection in thermophilic bacteria.
 Lynn DJ1, Singer GA, Hickey DA.
 
+https://www.ncbi.nlm.nih.gov/pubmed/20371310
+Biophys J. 2010 Apr 7;98(7):1109-18. doi: 10.1016/j.bpj.2009.11.048.
+Thermal adaptation of viruses and bacteria.
+Chen P1, Shakhnovich EI.
+
 原核生物の増殖温度データベース
 https://www.ncbi.nlm.nih.gov/pubmed/14734322
 Bioinformatics. 2004 Jan 22;20(2):276-8.
 PGTdb: a database providing growth temperatures of prokaryotes.
 Huang SL1, Wu LC, Liang HK, Pan KT, Horng JT, Ko MT.
+
+2011
+https://www.jstage.jst.go.jp/article/cookeryscience/44/1/44_88/_pdf
+　また，細菌は発育温度域によって，表  に示したように，
+低温性細菌（Psychrophiles），中温性細菌（Mesophiles）お
+よび高温性細菌（Thermophiles）に分けられる。
+
 
 - https://ja.wikipedia.org/wiki/好熱菌 thermophile
 - https://ja.wikipedia.org/wiki/低温菌 psychrophile
