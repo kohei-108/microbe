@@ -15,8 +15,6 @@
 - [k-mer](#k-mer)
 - [jsme2018](#jsme2018) Microbial lifestyle and genome signatures.
 - [2018-06](#2018-06)
-- [people](#people)
-  - [duvallet](#duvallet) Claire Duvallet
 - [prokaryote](#prokaryote)
 - [replication](#replication)
 - [papers](#papers)
@@ -90,15 +88,16 @@ https://twitter.com/MicrobiomDigest/status/936394562381029377
 Elisabeth Bik on Twitter: "Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome Metagenomic study of microbial… https://t.co/sSXhDvasCH"
 7:40 PM - 30 Nov 2017
 
-https://twitter.com/thePeerJ/status/932675684543139845
-PeerJ - the journal on Twitter: "PBxplore: a tool to analyze local protein structure and deformability with Protein Blocks https://t.co/p86EiqUZst #bioinformatics https://t.co/fJ1DjbVwFL"
-1:23 PM - 20 Nov 2017
 
-![](https://pbs.twimg.com/media/DPGHl2cW0AYCa1a.jpg)
+https://twitter.com/Tyu_Shi/status/942824493285703680
+Tyu_Shi on Twitter: "poplarとmaizeの根から単離されたバクテリア484株のゲノムを読んで、既知のゲノム3千株以上と比較ゲノム解析してplant-associated gene clustersを探索したのか。 https://t.co/DVNlG9j13e"
+1:30 PM - 18 Dec 2017
+
 
 https://twitter.com/Tyu_Shi/status/940987045790412800
 Tyu_Shi on Twitter: "Metagenome Assembled Genomesの評価方法としてよく使われている、Single copy genesを用いたcompletenessとcontaminationの指標についての、コンパクトにまとまった良い説明だ。 https://t.co/rfYMlQba35"
 11:49 AM - 13 Dec 2017
+
 
 https://www.microbe.net/2017/12/13/why-genome-completeness-and-contamination-estimates-are-more-complicated-than-you-think/ 
 Why genome completeness and contamination estimates are more complicated than you think – microBEnet: the microbiology of the Built Environment network
@@ -727,42 +726,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/29871915
 MBio. 2018 Jun 5;9(3). pii: e00525-18. doi: 10.1128/mBio.00525-18.
 Identifying and Overcoming Threats to Reproducibility, Replicability, Robustness, and Generalizability in Microbiome Research.
 Schloss PD1.
-
-----------
-
-
-
-----------
-## people
-
-## duvallet
-Claire Duvallet
-
-MITのEric Almラボ。微生物群集データのメタアナリシス。バッチ効果。
-
-https://twitter.com/cduvallet
-
-7:42 PM - 23 Apr 2018
-https://twitter.com/cduvallet/status/988563768765505536
-Claire Duvallet on Twitter: "Meaning to make a meta-analysis but blocked or bothered by batch effects? Use your controls as nulls: normalize features in cases relative to their distribution in control samples. Learn more at @PLOSCompBiol https://t.co/PHyVZoZlej Congrats @gibbological!! @ejalm"
-
-1:55 PM - 23 Apr 2018
-https://twitter.com/gibbological/status/988476547614105601
-Sean Gibbons on Twitter: "Befuddled by batch effects? Check out our simple, non-parametric solution for 16S case-control studies in @PLOSCompBiol https://t.co/grMDm7SIQl -- method available as a @qiime2 plugin thanks to @cduvallet"
-
-April 17, 2018
-https://cduvallet.github.io/posts/2018/04/microbiome-data
-An empirical analysis of microbiome data availability - Claire Duvallet
-
-19 January 2018
-https://onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13047
-Meta‐analysis generates and prioritizes hypotheses for translational microbiome research - Duvallet - 2018 - Microbial Biotechnology - Wiley Online Library
-Claire Duvallet
-
-05 December 2017
-https://www.nature.com/articles/s41467-017-01973-8
-Meta-analysis of gut microbiome studies identifies disease-specific and shared responses | Nature Communications
-Claire Duvallet, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry & Eric J. Alm
 
 ----------
 ## prokaryote
