@@ -79,19 +79,14 @@ Events in Microbial Ecology | ISME
 ----------
 ## featuring
 
+
 掲載日：2018年3月23日
 https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
 ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
 また、納豆やキムチなど各地固有の発酵食品を作り出し、食文化の一翼を担っています。
 また、グローバルな交通の発展により、多くの人と物資が世界中を移動しており、輸入感染症の拡大が懸念されています。
 
-https://togetter.com/li/1311731
-Y Tambe先生の「はしか」の話 - Togetter
-2019-01-21
-2019-01-23
 
-https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
-「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
 
 https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
 エリザベス・マーチソン：感染性のガンと闘う | TED Talk
@@ -122,6 +117,16 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 ## 2019
 
 
+
+https://twitter.com/bjesseshapiro/status/1123564054986018816
+Jesse Shapiro on Twitter: "What makes a pathogen? How can we optimize treatment strategies and reduce antimicrobial resistance? How can early detection of epidemics be facilitated? We ask (and attempt to answer) these questions in this review paper, almost two years in the making!… https://t.co/1M48M2KZ33"
+8:25 AM - 1 May 2019
+
+
+2019-04-23
+https://spee.hatenablog.com/entry/infection_history
+感染症の世界史という名著 - (続)とある最底辺歯科医の戯れ言集
+
 https://thinkeroid.hateblo.jp/entry/20190501/1556698797
 まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
 
@@ -134,6 +139,14 @@ https://www.ncbi.nlm.nih.gov/pubmed/30394664
 Environ Microbiol Rep. 2019 Feb;11(1):9-12. doi: 10.1111/1758-2229.12701. Epub 2018 Nov 5.
 Towards a systematic understanding of differences between archaeal and bacterial diversity.
 Spang A1,2, Offre P1.
+
+https://togetter.com/li/1311731
+Y Tambe先生の「はしか」の話 - Togetter
+2019-01-21
+2019-01-23
+
+https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
+「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
 
 
  – 腸内フローラ移植、便移植専門｜FMTクリニック（シンバイオシス研究所）
