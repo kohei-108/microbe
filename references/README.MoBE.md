@@ -1,4 +1,3 @@
-
 # MoBE
 **Microbiology of the Built Environment**
 **建造環境の微生物**
@@ -440,7 +439,6 @@ Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment t
 https://twitter.com/roxana_hickey/status/877713794733973504
 Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
 10:24 PM - 21 Jun 2017
-![](https://pbs.twimg.com/media/DC5ECfiV0AAX2bo.jpg)
 
 ----------
 ## review
@@ -448,17 +446,13 @@ Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues f
 https://twitter.com/NatureRevMicro/status/1031916837896957952
 Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
 10:52 AM - 21 Aug 2018
-![](https://pbs.twimg.com/media/DlIaeJdXsAERebp.jpg)
-
 https://www.ncbi.nlm.nih.gov/pubmed/30127345
 Nat Rev Microbiol. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
 Microbiology of the built environment.
 Gilbert JA1,2, Stephens B3.
 
-
 https://twitter.com/NatureBiotech/status/864838380353449984
 Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
-
 https://www.ncbi.nlm.nih.gov/pubmed/28486462
 Nat Biotechnol. 2017 May 9;35(5):401-403.
 Living in a microbial world.
@@ -468,8 +462,7 @@ https://www.nature.com/articles/nbt.3868?draft=journal
 http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
 The indoor microbiome is influenced by building design and operations, human inhabitants and their activities. Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
 
-*Building -> Restrooms, Offices, Classrooms*
-![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
+*Building -> Restrooms, Offices, Classrooms* ![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
 
 Gilbert found something similar; within five to eight hours of being completely sterilized, public restrooms at a school campus were full of human skin and gut bacteria, most of them completely harmless7.
 
@@ -543,14 +536,17 @@ microBEnet: the microbiology of the Built Environment network – At the interfa
 http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
 Call for Papers MoBE 2017 Microbiome Special Issue
 
-https://www.microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
+#### metadata
+
+https://microbe.net/resources/metadata-standards/
+Metadata Standards
+
+https://microbe.net/mobe-metadata-resources/
+MoBE Metadata Resources
+
+May 3, 2012
+https://microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
 Guest Post: Metadata for the Built Environment – MIxS-BE package
-
-
-
-
-
-
 
 ----------
 ## japan
@@ -616,6 +612,29 @@ Mission space food: Sugar-growing bacteria go into orbit | New Scientist
 宇宙食への有効利用が期待されるAnabaena属の細菌
 
 https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Anabaena
+
+----------
+### mars
+火星
+
+https://wired.jp/2018/10/23/genetic-engineering-for-mars/
+人類は火星移住に向け、遺伝子改変で“進化”する──科学者の提案と、その倫理的な考察｜WIRED.jp
+解剖学的に見ると、現生人類は30万年前から20万年前にかけて、アフリカで共生微生物とともに進化し、そのあと急速に世界中に広がっていったことがわかっている。
+
+https://natgeo.nikkeibp.co.jp/atcl/web/16/110400016/
+『マーズ 火星移住計画』から紹介 人類が挑む火星への飛躍 | ナショナルジオグラフィック日本版サイト
+
+2016年12月10日
+https://natgeo.nikkeibp.co.jp/atcl/web/16/110400016/120700005/
+第4回　火星に生命は存在するのか | ナショナルジオグラフィック日本版サイト
+
+　微生物のほとんどは生きたまま火星にたどり着くことができず、仮に生き残ったとしても99％は火星到着後24時間以内に強力な紫外線にやられて死滅するだろう。ただし、あくまでこれは無人ミッションの話だ。「1人の宇宙飛行士が運ぶ微生物の数と比べてください。人間の体内にいる微生物細胞は約30兆個にもなります。しかも、火星に到達するまでそのすべてがしっかりと生き残るのです。こんなにたくさんの同乗者がいては、火星に微生物が生息していたとしても、見つける作業は困難になります」とランメル氏は説明する。
+
+https://www.amazon.co.jp/dp/B01GNQDRA4
+WIRED VOL.24/特集 NEW CITY 新しい都市 雑誌 – 2016/8/9
+◆ぼくらは火星で微生物をまとい、微生物を食べ、微生物に住む
+20年後という近い未来、一部の人類は火星で生活をしているかもしれない。アストロバイオロジーの最先端、 
+NASAエイムズ・リサーチセンターを訪れ、宇宙の暮らしをリアルにする研究の最右翼に触れる。 
 
 ----------
 ### iss
@@ -960,6 +979,19 @@ Three scientific libraries in the city of Rome (Italy), were selected as exempli
 
 ----------
 ## unclassified
+
+https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
+２０１６年４月
+建築環境における微生物汚染機構の解明
+とその対策に関する一連の研究
+工学院大学 建築学部 建築学科 教授
+柳 宇，D.P.H.,Dr.Eng.
+
+https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
+社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
+2012.04.30調査研究
+社会福祉施設における粒子状物質と浮遊微生物に関する研究
+研究指導員：柳宇（工学院大学建築学部　教授）
 
 https://twitter.com/copypasteusa/status/1093071982155845632
 建築環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
