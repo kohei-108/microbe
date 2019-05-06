@@ -80,6 +80,12 @@ Events in Microbial Ecology | ISME
 ## featuring
 
 
+
+
+https://ja.wikipedia.org/wiki/アレルギー#衛生仮説
+https://en.wikipedia.org/wiki/Hygiene_hypothesis
+
+
 掲載日：2018年3月23日
 https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
 ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
