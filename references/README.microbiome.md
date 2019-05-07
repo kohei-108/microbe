@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-05
 
 ----------
 
@@ -20,8 +20,10 @@ Last Update: 2019-03
 - [Artificial sweeteners](#artificial-sweeteners)
 - [Earth Microbiome Project](#emp)
 - [meta-analysis](#meta-analysis)
-- [UniFrac](#unifrac)
 - [unclassified](#unclassified)
+- [people](#people)
+  - [duvallet](#duvallet) Claire Duvallet
+  - [danknights](#danknights) Dan Knights
 
 ----------
 
@@ -684,48 +686,6 @@ https://www.asm.org/index.php/podcasts/meet-the-microbiologist/item/6882-mtm-68
 Microbiomes everywhere with Jack Gilbert - MTM 68
 
 ----------
-## UniFrac
-
-https://en.wikipedia.org/wiki/UniFrac
-
-https://twitter.com/yoshikivb/status/1001558730490634243
-Yoshiki Vázquez B. on Twitter: "Ever wondered what a UniFrac ordination looked like with >110K samples? Wonder no more, you can now look at it live (will work best on your desktop): https://t.co/itSsrIzXhL thanks to a recent PR, @mcdonadt and @qiime2… https://t.co/6WPLTbyP6Q"
-
-
-平成 28 年 3 月版（Ver.0.9）
-https://www.nite.go.jp/data/000081956.pdf
-次世代シーケンサーを用いた菌叢解析
-（16S rRNA 遺伝子 PCR サンプルの解析）
-独立行政法人 製品評価技術基盤機構
-バイオテクノロジーセンター
-2.5 UniFrac 解析
-比較するサンプルの OTU 代表配列を用いて系統樹解析を行い、試料間で共有されるOTU の枝長と各試料で固有な枝長の割合から、菌叢構造の違いを距離 UniFrac distance として計算する解析方法をいう。算出された UniFrac distance を用いて、主座標分析(PCoA:Principal Coordinate Analysis)や UPGMA 法によるクラスタリング解析を行うことで、試料間の相違度を視覚化することができる。また、リード数を考慮し細菌叢の構成を表す Weighted UniFrac 解析と、リード数を考慮せず細菌叢の構成メンバーを表す UnweightedUniFrac 解析がある。
-
-2014 年
-https://www.jstage.jst.go.jp/article/jsci/37/5/37_412/_article/-char/ja/
-ヒト腸内マイクロバイオーム解析のための最新技術
-服部 正平
-https://www.jstage.jst.go.jp/article/jsci/37/5/37_412/_pdf/-char/ja
-二つ目は検出された OTU 間の配列類似度から各細菌叢の系統樹を作成し，その系統樹の類似性（比較する細菌叢との系統樹間で共有する枝の長さとそれぞれの細菌叢に固有な枝の割合）から，細菌叢間の全体構造の相違の程度を求める．この解析を UniFrac 解析と言い，細菌叢間の類似性を 0（100% 類似する）～ 1（100% 類似しない）の距離（UniFrac 距離）で表す6）．UniFrac 解析にはOTU に含まれるリード数（組成比）を考慮しないunweighted と考慮した weighted UniFrac 解析がある．前者は菌種の有無だけが，後者は同一菌種の組成比の相違が両細菌叢間の類似性の距離に反映される．
-
-https://twitter.com/Tyu_Shi/status/411124035401949184
-Tyu_Shi on Twitter: "昨日からの発表を聴いていると、みんなUniFrac Distanceを万能の距離尺度と考えて使っているように感じられるが、あれはUniFrac Distanceを計算する系統樹が問題無いことを前提にしているのだから、その前提の確認無しに信頼しすぎるのはマズいよ。"
-8:23 AM - 12 Dec 2013
-
-https://twitter.com/windowmoon/status/411154169328709633
-窓月㌠・CC-BY on Twitter: "@Tyu_Shi 万単位になってくるとブートストラップなしでも系統樹推定苦しいのでは。系統樹使わずに分子同定した上で、分類体系に合うように樹形制約を入れれば可能かもしれません。ブートストラップもなしで単発の推定結果を樹形の不確実性考慮せずに使うのはかなり拙いでしょうね。"
-10:22 AM - 12 Dec 2013
-
-https://twitter.com/yuifu/status/187741115720548352
-Haruka Ozaki on Twitter: "UniFracの元論文。細菌叢の配列集合間の距離を計算する手法。系統樹上で共有する枝長を使い、かつ、距離を定義したことが新しかったらしい。オルタナティブを作ろうとすると、優位性を示す方法がないことが課題。 http://t.co/nZudriEa #Everydayペーパー"
-11:19 PM - 4 Apr 2012
-
-https://www.ncbi.nlm.nih.gov/pubmed/20827291
-ISME J. 2011 Feb;5(2):169-72. doi: 10.1038/ismej.2010.133. Epub 2010 Sep 9.
-UniFrac: an effective distance metric for microbial community comparison.
-Lozupone C1, Lladser ME, Knights D, Stombaugh J, Knight R.
-
-----------
 ## unclassified
 
 https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/publicaton_metagenome_for-human-health-j.pdf
@@ -890,4 +850,63 @@ Adams RI1, Bateman AC2, Bik HM3,4, Meadow JF5.
 室内環境の微生物群集：メタアナリシス
 
 ----------
+## people
+
+### danknights
+
+https://www.tedmed.com/speakers/show?id=693178
+TEDMED - Speaker: Dan Knights
+
+https://www.youtube.com/user/danknights
+Dan Knights - YouTube
+
+Dan Knights
+Published on Mar 4, 2016
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
+Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+https://www.youtube.com/watch?v=6564K4-_DBI
+Microbiome Discovery 1: Intro to the Microbiome
+
+https://www.youtube.com/watch?v=FWT1HBzlWOE
+Microbiome Discovery 2: How microbiome data are generated
+
+### duvallet
+Claire Duvallet
+
+MITのEric Almラボ。微生物群集データのメタアナリシス。バッチ効果。
+
+https://twitter.com/cduvallet
+
+7:42 PM - 23 Apr 2018
+https://twitter.com/cduvallet/status/988563768765505536
+Claire Duvallet on Twitter: "Meaning to make a meta-analysis but blocked or bothered by batch effects? Use your controls as nulls: normalize features in cases relative to their distribution in control samples. Learn more at @PLOSCompBiol https://t.co/PHyVZoZlej Congrats @gibbological!! @ejalm"
+
+1:55 PM - 23 Apr 2018
+https://twitter.com/gibbological/status/988476547614105601
+Sean Gibbons on Twitter: "Befuddled by batch effects? Check out our simple, non-parametric solution for 16S case-control studies in @PLOSCompBiol https://t.co/grMDm7SIQl -- method available as a @qiime2 plugin thanks to @cduvallet"
+
+April 17, 2018
+https://cduvallet.github.io/posts/2018/04/microbiome-data
+An empirical analysis of microbiome data availability - Claire Duvallet
+
+19 January 2018
+https://onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13047
+Meta‐analysis generates and prioritizes hypotheses for translational microbiome research - Duvallet - 2018 - Microbial Biotechnology - Wiley Online Library
+Claire Duvallet
+
+05 December 2017
+https://www.nature.com/articles/s41467-017-01973-8
+Meta-analysis of gut microbiome studies identifies disease-specific and shared responses | Nature Communications
+Claire Duvallet, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry & Eric J. Alm
+
+
+
+
+
+----------
+
+
+
 
