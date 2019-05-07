@@ -2,6 +2,8 @@
 
 ## Table of Contents
 - [featuring](#featuring)
+- [culture](#culture)
+- [cell number](#cell-number)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
@@ -31,6 +33,7 @@ https://www.jstage.jst.go.jp/article/jsma/70/1/70_1_70/_article/-char/ja/
 
 http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
 インターネット講座２００１：２１世紀の感染症に挑む
+小林　和夫
 
 要　　　　旨
 感染症の増加には、社会要因として、都市化/過密、貧困、交通機関の発達による高速移動や国際化、宿主要因として、易感染性（高齢化、糖尿病、免疫抑制薬/臓器移植）、病原体要因として、病原性の変化や薬剤抵抗性などが関与しています。
@@ -41,12 +44,23 @@ http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
 新　興　・　再　興　感　染　症
 　新興・再興感染症の増加要因（表７）として、社会要因：国際化、交通機関の発達による人民の大量・高速移動（日本→外国：1,600万人/年、外国→日本：500-600万人/年）や食料品（日本の食料自給率：約40％）、都市化による過密/人口の集中、貧困、地球環境破壊/温暖化、病原体要因：抗微生物薬耐性/抵抗性、病原性の変化、宿主要因：易感染性宿主（高齢者、糖尿病、HIV/AIDSなど）の増加などが考えれています。また、最近まで、日本を含めた先進諸国では感染症を解決された過去の疾患と錯覚し、その対策を怠ってきたことも増加要因と考えられます。
 
-
-
 ----------
 ## culture
 
 https://ja.wikipedia.org/wiki/培養
+
+培養可能な細菌は1%未満という噂を検証
+
+https://twitter.com/search?q=%20High%20proportions%20of%20bacteria%20are%20culturable%20across%20major%20biomes
+
+Take notice. This paper reports more than 50% of all bacterial sequences have a close cultivatable relative, raising fresh doubt about the 1% rule of bacterial cultivation.  
+
+"High proportions of bacteria are culturable across major biomes", time to revisit the 1% culturable paradigm? 
+
+05 April 2019
+https://www.nature.com/articles/s41396-019-0410-3
+High proportions of bacteria are culturable across major biomes
+I found that the median 16S rRNA similarity of bacteria to known cultured relatives was 97.3 ± 2.3% (s.d.). Furthermore, 52.0 ± 24% of sequences and 34.9 ± 23% of taxa (defined as >97% similar) had a closely related cultured relative. 
 
 https://home.hiroshima-u.ac.jp/sust6aoi/ja/styled-5/index.html
 AOI LAB
@@ -61,6 +75,37 @@ https://www.jseb.jp/wordpress/wp-content/uploads/16-01-59.pdf
 https://katosei.jsbba.or.jp/view_html.php?aid=404
 なぜ培養できないのか？ 分離培養手法の革新
 化学と生物   53(7) 429-431   2015年
+
+
+----------
+## cell number
+
+2017-01
+http://www.asama-chemical.co.jp/PN/P176.PDF
+10倍という数. 字は魅力的で、この数字はその後検証されずに、あたかも. 真実であるかのように、科学者たちに信じられてきた。 ミロたちの再検討によれば、人がもっている細菌の数は. 39兆個（大部分は腸内細菌で38兆個）で、以前定説となっ. ていた数の1/10 ほどだと言うことになった。体の細胞数を. 30兆（大部分は赤血球）とすると、1.3倍ほど になる。
+
+https://twitter.com/kazuigarashi/status/787858559904063488
+Kazuhiko Igarashi on Twitter: "人の細胞数に関する話。最初の論文はこれ。 https://t.co/7BcokYUSs9 次に細菌数と比較した別グループの論文がbioRxiv経由でPlosBiolに。 https://t.co/YO8ue7sgEO"
+11:31 PM - 16 Oct 2016
+
+ヒト細胞あたり約1.3倍の細菌細胞
+https://www.ncbi.nlm.nih.gov/pubmed/27541692
+PLoS Biol. 2016 Aug 19;14(8):e1002533. doi: 10.1371/journal.pbio.1002533. eCollection 2016 Aug.
+Revised Estimates for the Number of Human and Bacteria Cells in the Body.
+Sender R1, Fuchs S2, Milo R1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991899/
+
+2018/07/14 23:52
+https://note.mu/shimasho_work/n/n6725ac4f5997
+『 #はたらく細胞 』で人体の細胞数が37兆個なのには根拠がある｜しましょ（島田祥輔）｜note
+
+https://www.ncbi.nlm.nih.gov/pubmed/23829164
+Ann Hum Biol. 2013 Nov-Dec;40(6):463-71. doi: 10.3109/03014460.2013.807878. Epub 2013 Jul 5.
+An estimation of the number of cells in the human body.
+Bianconi E1, Piovesan A, Facchin F, Beraudi A, Casadei R, Frabetti F, Vitale L, Pelleri MC, Tassani S, Piva F, Perez-Amodio S, Strippoli P, Canaider S.
+https://www.tandfonline.com/doi/abs/10.3109/03014460.2013.807878
+Results: A current estimation of human total cell number calculated for a variety of organs and cell types is presented. These partial data correspond to a total number of 3.72 × 1013.
+
 
 ----------
 
