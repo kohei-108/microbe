@@ -14,6 +14,7 @@ https://ja.wikipedia.org/wiki/建造環境
 - [money](#money) 金
   - [ATM](#atm)
 - [home](#home) 家
+- [hospital](#hospital) 病院
 - [japan](#japan)
 - [phone](#phone)
 - [people](#people)
@@ -28,9 +29,6 @@ https://ja.wikipedia.org/wiki/建造環境
 ----------
 ## featuring
 
-Published on Nov 13, 2013
-https://www.youtube.com/watch?v=UcCnFukGr6Y
-The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
 
 ----------
 ## updates
@@ -380,9 +378,34 @@ https://www.youtube.com/watch?v=dQCBpmUZlF4
 The Home Microbiome Project - YouTube
 Published on Aug 25, 2014
 
-https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-and-the-home-microbiome-project/
-Websites for the Hospital Microbiome Project and the Home Microbiome Project – microBEnet: the microbiology of the Built Environment network
+----------
+## hospital
+病院
 
+http://hospitalmicrobiome.com
+Hospital Microbiome Project
+
+https://www.ncbi.nlm.nih.gov/books/NBK458828/
+4. Tools for Characterizing Microbiome–Built Environment Interactions
+- The data collection effort undertaken for the Hospital Microbiome Project illustrates how such measurements can be implemented. This project explored the composition of microbial communities in 10 patient rooms and two nursing stations on two floors of a newly constructed hospital before and after occupancy by patients (Lax et al., 2017; Ramos et al., 2015; Shogan et al., 2013; Smith et al., 2013). 
+- The Hospital Microbiome Project, for example, used such tools as IR beams in doorways to determine how many times people entered or left a room (Ramos et al., 2015). Other measures can be used to gain information on occupants, including activity questionnaires; manual and video observations; smartphone technologies to track and monitor occupants (Zou et al., 2017); and indirect measures of human density, such as indoor CO2 concentrations (also employed in the Hospital Microbiome Project) (Ramos and Stephens, 2014). 
+
+Published on Nov 13, 2013
+https://www.youtube.com/watch?v=UcCnFukGr6Y
+The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
+
+https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-and-the-home-microbiome-project/
+Websites for the Hospital Microbiome Project and the Home Microbiome Project
+
+2016
+https://i.kawasaki-m.ac.jp/jsce/jjce25_2_82.pdf
+病院待合室における細菌叢の実態
+
+https://wired.jp/special/2016/biology/
+ある建築家によれば、コンクリートではなく木造の病院では、前者に比べて院内感染率が低かったそうです。
+
+https://wired.jp/2015/10/11/bacteria-clouds/
+（実のところ）病院内で細菌がどのように広がっているかわかっていないのだが、メドウはオレゴン州立大学での研究のあと、微生物への理解をMRSA（メチシリン耐性黄色ブドウ球菌）の院内感染といった事態を防ぐのに役立てるため、サンフランシスコにあるバイオ企業で取り組んでいる。
 
 ----------
 ## people
@@ -513,13 +536,6 @@ Microbiomes of the Built Environment
 
 https://www.ncbi.nlm.nih.gov/books/NBK458827/
 Microbiomes of the Built Environment - NCBI Bookshelf
-
-https://www.ncbi.nlm.nih.gov/books/NBK458828/
-4. Tools for Characterizing Microbiome–Built Environment Interactions
-- The data collection effort undertaken for the Hospital Microbiome Project illustrates how such measurements can be implemented. This project explored the composition of microbial communities in 10 patient rooms and two nursing stations on two floors of a newly constructed hospital before and after occupancy by patients (Lax et al., 2017; Ramos et al., 2015; Shogan et al., 2013; Smith et al., 2013). 
-
-http://hospitalmicrobiome.com
-Hospital Microbiome Project
 
 https://www.biomedcentral.com/collections/builtenvironment
 Microbiology of the Built Environment
