@@ -382,6 +382,16 @@ Published on Aug 25, 2014
 ## hospital
 病院
 
+2016
+https://i.kawasaki-m.ac.jp/jsce/jjce25_2_82.pdf
+病院待合室における細菌叢の実態
+
+https://wired.jp/special/2016/biology/
+ある建築家によれば、コンクリートではなく木造の病院では、前者に比べて院内感染率が低かったそうです。
+
+https://wired.jp/2015/10/11/bacteria-clouds/
+（実のところ）病院内で細菌がどのように広がっているかわかっていないのだが、メドウはオレゴン州立大学での研究のあと、微生物への理解をMRSA（メチシリン耐性黄色ブドウ球菌）の院内感染といった事態を防ぐのに役立てるため、サンフランシスコにあるバイオ企業で取り組んでいる。
+
 http://hospitalmicrobiome.com
 Hospital Microbiome Project
 
@@ -396,16 +406,6 @@ The Hospital Microbiome Projects -- Mapping Bacteria and Tracking HAIs
 
 https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-and-the-home-microbiome-project/
 Websites for the Hospital Microbiome Project and the Home Microbiome Project
-
-2016
-https://i.kawasaki-m.ac.jp/jsce/jjce25_2_82.pdf
-病院待合室における細菌叢の実態
-
-https://wired.jp/special/2016/biology/
-ある建築家によれば、コンクリートではなく木造の病院では、前者に比べて院内感染率が低かったそうです。
-
-https://wired.jp/2015/10/11/bacteria-clouds/
-（実のところ）病院内で細菌がどのように広がっているかわかっていないのだが、メドウはオレゴン州立大学での研究のあと、微生物への理解をMRSA（メチシリン耐性黄色ブドウ球菌）の院内感染といった事態を防ぐのに役立てるため、サンフランシスコにあるバイオ企業で取り組んでいる。
 
 ----------
 ## people
