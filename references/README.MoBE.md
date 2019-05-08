@@ -382,6 +382,10 @@ Published on Aug 25, 2014
 ## hospital
 病院
 
+https://twitter.com/uranus_2/status/935344236240576513
+マーキュリー２世 on Twitter: "NICUの乳児の消化管に生息する細菌叢は病室にいる細菌と重なるタイプがある。Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome　https://t.co/qbU3NytDWk"
+10:06 PM - 27 Nov 2017
+
 2016
 https://i.kawasaki-m.ac.jp/jsce/jjce25_2_82.pdf
 病院待合室における細菌叢の実態
