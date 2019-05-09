@@ -13,6 +13,7 @@ Last Update: 2019-05
 - [antimony](#antimony)
 - [halogen](#halogen)
 - [iodide](#iodide)
+  - [iodate reduction](#iodate-reduction)
 - [Bifidobacterium](#bifidobacterium)
 - [Clostridium](#clostridium)
   - [Clostridium difficile](#clostridium-difficile)
@@ -34,7 +35,6 @@ Last Update: 2019-05
 - [Holospora](#holospora) ホロスポラ属
 - [Wolbachia](#wolbachia) ボルバキア
 - [excerpt](#excerpt) 抜粋［引用］
-
 
 ----------
 ## featuring
@@ -364,6 +364,25 @@ http://www.wmsym.org/archives/2015/papers/15226.pdf
 WM2015 Conference, March 15-19, 2015, Phoenix, Arizona, USA.Dissimilatory Iodate Reduction by Hanford Microbial Isolates – 15226Joshua T. Ellis*, Alex Dodwell*, Danielle Saunders*, Brady Lee*, and M. Hope Lee* *Pacific Northwest National Laboratory (USA)
 
 An iodate reducing organism, designated as Agrobacterium tumefaciens strain AD35, was isolated from
+
+### iodate reduction
+ヨウ素 還元
+
+https://twitter.com/jcamthrash/status/1107773917534392321
+Cameron Thrash on Twitter: "Dalton Hardisty is talking about iodate as a redox tracer in marine systems in today’s @USC_earth seminar."
+6:40 PM - 18 Mar 2019
+Btw, Shewanella, Pseudomonas, and Desulfovibrio can all reduce iodate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30446562
+Appl Environ Microbiol. 2019 Jan 23;85(3). pii: e02115-18. doi: 10.1128/AEM.02115-18. Print 2019 Feb 1.
+Metal Reduction and Protein Secretion Genes Required for Iodate Reduction by Shewanella oneidensis.
+Toporek YJ1, Mok JK1, Shin HD1, Lee BD2, Lee MH3, DiChristina TJ4.
+
+28 Mar 2018
+https://www.tandfonline.com/doi/abs/10.1080/01490451.2018.1430189?journalCode=ugmb20
+Iodate Reduction by Shewanella oneidensis Does Not Involve Nitrate Reductase
+Jung Kee Mok, Yael J. Toporek, Hyun-Dong Shin, Brady D. Lee, M. Hope Lee & Thomas J. DiChristina
+https://pdfs.semanticscholar.org/213e/63ea4dfb579e2e08f1a3e8d74eedbc0e03e2.pdf
 
 ----------
 
@@ -701,6 +720,10 @@ BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
 Comparative genomics of Geobacter chemotaxis genes reveals diverse signaling function.
 Tran HT1, Krushkal J, Antommattei FM, Lovley DR, Weis RM.
 
+2019-4-30
+https://engineer.fabcross.jp/archeive/190426_electricity-conducting-bacteria.html
+電気を通すバクテリアの構造を解明――タンパク質を使った生体用配線開発の可能性も
+
 https://mainichi.jp/articles/20160604/ddl/k22/040/140000c
 微生物発電：１００倍超に　二又・静岡大教授が効率化物質を発見　／静岡 - 毎日新聞
 
@@ -731,7 +754,7 @@ http://sustainablejapan.net/?p=452
 
 2011
 http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
-微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は She- wanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
+微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
 
 https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
 
@@ -1332,31 +1355,136 @@ Biological Bromate Reduction Driven by Methane in a Membrane Biofilm Reactor - E
 Environ. Sci. Technol. Lett., 2017, 4 (12), pp 562–566
 
 ----------
-### Shewanella
+## Shewanella
 
-https://ja.wikipedia.org/wiki/シェワネラ属
+- https://en.wikipedia.org/wiki/Shewanella
+- https://microbewiki.kenyon.edu/index.php/Shewanella_oneidensis
+Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; Shewanella; Shewanella oneidensis MR-1
+- https://ja.wikipedia.org/wiki/シェワネラ属
 、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
 
-#### Iodate Reduction
-ヨウ素 還元
+### Shewanella_phylogeny
+系統解析
 
-https://twitter.com/jcamthrash/status/1107773917534392321
-Cameron Thrash on Twitter: "Dalton Hardisty is talking about iodate as a redox tracer in marine systems in today’s @USC_earth seminar."
-6:40 PM - 18 Mar 2019
-Btw, Shewanella, Pseudomonas, and Desulfovibrio can all reduce iodate.
+https://www.ncbi.nlm.nih.gov/pubmed/30785388
+Int J Syst Evol Microbiol. 2019 May;69(5):1259-1264. doi: 10.1099/ijsem.0.003298. Epub 2019 Feb 20.
+Proposal of Parashewanella gen. nov. to accommodate Parashewanella curva sp. nov. and Parashewanella spongiae comb. nov. in the Shewanellaceae.
+Xu S1,2,3, Yu K1,2,3, Su H1,2,3, Chen B1,2,3, Huang W1,2,3, Liang J1,2,3, Wang Y1,2,3, Wang G1,2,3.
+- Phylogenetic analyses based on the 16S rRNA gene, the gyrB gene and the Up-to-date Bacterial Core Gene set (92 genes) indicated that strain C51T forms a stable cluster with Shewanella spongiae KCTC 22492T, and had 94 % 16S rRNA gene similarity to its closest type strain S. spongiae KCTC 22492T. 
+https://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003298#tab2
 
-https://www.ncbi.nlm.nih.gov/pubmed/30446562
-Appl Environ Microbiol. 2019 Jan 23;85(3). pii: e02115-18. doi: 10.1128/AEM.02115-18. Print 2019 Feb 1.
-Metal Reduction and Protein Secretion Genes Required for Iodate Reduction by Shewanella oneidensis.
-Toporek YJ1, Mok JK1, Shin HD1, Lee BD2, Lee MH3, DiChristina TJ4.
+https://www.ncbi.nlm.nih.gov/pubmed/27562367
+Int J Syst Evol Microbiol. 2016 Dec;66(12):4947-4953. doi: 10.1099/ijsem.0.001450. Epub 2016 Aug 25.
+Shewanella inventionis sp. nov., isolated from deep-sea sediment.
+Wang MQ1, Sun L2.
+On the basis of combined phenotypic, chemotaxonomic and phylogenetic analysis, strain KX27T represents a novel species of the genus Shewanella, for which the name Shewanella inventionis sp. nov. is proposed.
+https://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001450#tab2
+Taken together, phylogenetic analysis of 16S rRNA and gyrB gene sequences, DNA–DNA hybridization, phenotypic, and chemotaxonomic characteristics suggest that strain KX27 T represents a novel species of the genus Shewanella , for which the name Shewanella inventionis sp. nov. is proposed.
+https://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijsem.0.001450.F1
+Fig. 1.
+Neighbour-joining tree based on 16S rRNA gene sequences, showing the phylogenetic position of strain KX27T within the genus Shewanella . 
+Pseudoalteromonas tetraodonis IAM 14160T was used as an outgroup.
+https://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijsem.0.001450.F2
+Fig. 2.
+Neighbour-joining tree based on gyrB gene sequences, showing the phylogenetic position of strain KX27T within the genus Shewanella . 
+Pseudoalteromonas haloplanktis ATCC 14394T and Escherichia coli ATCC 25922T were used as the outgroup.
 
-28 Mar 2018
-https://www.tandfonline.com/doi/abs/10.1080/01490451.2018.1430189?journalCode=ugmb20
-Iodate Reduction by Shewanella oneidensis Does Not Involve Nitrate Reductase
-Jung Kee Mok, Yael J. Toporek, Hyun-Dong Shin, Brady D. Lee, M. Hope Lee & Thomas J. DiChristina
-https://pdfs.semanticscholar.org/213e/63ea4dfb579e2e08f1a3e8d74eedbc0e03e2.pdf
+http://nesseiken.info/Chiba_lab/index.php?授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+- 内群（ingroup）　今、系統推定の対象としているグループのこと。
+- 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
 
-#### space
+https://ja.wikipedia.org/wiki/外群
+外群は系統樹に根をつけ、系統関係を知りたい内群の系統的位置関係を決定するのに用いられる。形質変化の極性は有根系統樹のみから決定できる[1]ため、外群の選択は系統に沿った形質状態の進化を理解する上で必須である。
+外群は、内群の他のグループに近縁であるが、しかし他のどの内群のグループよりも互いに遠縁であると考えられるものを選択する。これらの系統関係から導かれた進化学的結論は、外群の種は内群と共通の祖先をもち、それは内群の各グループの共通祖先よりも古いものであるということである。外群は内群の姉妹群、またはより遠縁なものである[2]。
+
+### Shewanella_comparative_genomics
+比較ゲノム
+
+https://www.ncbi.nlm.nih.gov/pubmed/30026808
+Biotechnol Biofuels. 2018 Jul 17;11:193. doi: 10.1186/s13068-018-1201-1. eCollection 2018.
+Pan-genome analyses of 24 Shewanella strains re-emphasize the diversification of their functions yet evolutionary dynamics of metal-reducing pathway.
+Zhong C1, Han M1, Yu S1, Yang P1, Li H1, Ning K1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/
+- Phylogeny of Shewanella
+To gain insights into similarity and distance of the strains, two phylogenetic trees were constructed, one was based on the concatenated alignment of 1788 single-copy core genes (Fig. 1c),
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/figure/Fig1/
+c Maximum likelihood phylogenetic tree based on 1788 single-copy gene families using 100 bootstrap replications.
+- Methods
+Gene family
+To understand the evolutionary relationship of Shewanella, we conducted systematic comparative genomic studies. Full protein-coding genes of 24 Shewanella strains were used to construct gene families using OrthoMCL (v2) [44] with a BLAST E-value cut-off of 1e−5 and an inflation parameter of 1.5. Here, the clustering results yielded 7830 homologous clusters, 1788 of which were single-copy gene families, and then they were parsed and concatenated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29504926
+Int J Syst Evol Microbiol. 2018 Apr;68(4):1356-1360. doi: 10.1099/ijsem.0.002678. Epub 2018 Mar 5.
+Whole-genome sequencing reveals that Shewanella haliotis Kim et al. 2007 can be considered a later heterotypic synonym of Shewanella algae Simidu et al. 1990.
+Szeinbaum N1, Kellum CE2, Glass JB2, Janda JM3, DiChristina TJ1.
+https://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002678#tab2
+https://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijsem.0.002678.F1
+Fig. 1.
+Molecular phylogenetic analysis of 16S rRNA genes of S. algae and closely related strains. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/29994366
+IEEE/ACM Trans Comput Biol Bioinform. 2018 Feb 9. doi: 10.1109/TCBB.2018.2804393. [Epub ahead of print]
+A Comparative Study of Network Motifs in the Integrated Transcriptional Regulation and Protein Interaction Networks of Shewanella.
+Ding D, Sun X.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28382331
+mSystems. 2017 Mar 28;2(2). pii: e00165-16. doi: 10.1128/mSystems.00165-16. eCollection 2017 Mar-Apr.
+A Genome-Scale Model of Shewanella piezotolerans Simulates Mechanisms of Metabolic Diversity and Energy Conservation.
+Dufault-Thompson K1, Jian H2, Cheng R2, Li J2, Wang F2, Zhang Y3.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25233219
+PLoS Comput Biol. 2014 Sep 18;10(9):e1003848. doi: 10.1371/journal.pcbi.1003848. eCollection 2014 Sep.
+Genome-scale metabolic network validation of Shewanella oneidensis using transposon insertion frequency analysis.
+Yang H1, Krumholz EW2, Brutinel ED3, Palani NP2, Sadowsky MJ4, Odlyzko AM5, Gralnick JA3, Libourel IG1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24621294
+BMC Syst Biol. 2014 Mar 12;8:31. doi: 10.1186/1752-0509-8-31.
+Comparisons of Shewanella strains based on genome annotations, modeling, and experiments.
+Ong WK, Vu TT, Lovendahl KN, Llull JM, Serres MH, Romine MF, Reed JL1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21642407
+Appl Environ Microbiol. 2011 Aug;77(15):5352-60. doi: 10.1128/AEM.00097-11. Epub 2011 Jun 3.
+Large-scale comparative phenotypic and genomic analyses reveal ecological preferences of shewanella species and identify metabolic pathways conserved at the genus level.
+Rodrigues JL1, Serres MH, Tiedje JM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21810205
+BMC Genomics. 2011 Jun 15;12 Suppl 1:S3. doi: 10.1186/1471-2164-12-S1-S3.
+Comparative genomic reconstruction of transcriptional networks controlling central metabolism in the Shewanella genus.
+Rodionov DA1, Novichkov PS, Stavrovskaya ED, Rodionova IA, Li X, Kazanov MD, Ravcheev DA, Gerasimova AV, Kazakov AE, Kovaleva GY, Permina EA, Laikova ON, Overbeek R, Romine MF, Fredrickson JK, Arkin AP, Dubchak I, Osterman AL, Gelfand MS.
+
+
+### 
+
+http://kazumaxneo.hatenablog.com/entry/2018/08/05/203339
+32のバクテリアの１万以上の機能未知遺伝子欠損の影響をまとめた Fitness Browser - macでインフォマティクス
+
+登録されているバクテリア:　30種以上のデータが利用可能（Organisms）。
+```
+Organism	Division	Experiments	# Carbon Sources	# Nitrogen Sources	# Stress Compounds	# Other Conditions	Updated Annotations
+Shewanella oneidensis MR-1	Gammaproteobacteria	176	16	17	42	15	40
+```
+
+http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
+電流生成の分子メカニズムの解明
+我々は、ゲノム解読が完了し、遺伝子組換えが可能なモデル電流生成菌Shewanella　oneidensis MR-1株（シュワネラ、右の写真）を用いて、電極呼吸のメカニズムを解明するための研究を行っています（Newton et al. 2009. Appl. Environ. Microbiol. 75:7674; Kouzuma et al. 2010. Appl. Environ. Microbiol. 76:4151-4157）。 この菌は、細胞外に導電性ナノワイヤー（ナノスケールの電線）を作り、それを使って電極に電子を流すとも考えられています（Gorby et al. 2006. Proc. Nat. Acad. Sci. USA 103:11358）。
+
+2016-2017
+http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
+主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
+
+2011
+https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
+鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
+先駆的な研究がなされてきた。
+図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
+
+2009
+https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
+異化的金属還元細菌（dissimilatory
+metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
+
+### Shewanella_space
+宇宙
 
 https://www.ncbi.nlm.nih.gov/genome/?term=Shewanella+oneidensis
 Publications
@@ -1389,78 +1517,6 @@ ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – 
 
 このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
 
-#### Shewanella genome
-
-https://www.ncbi.nlm.nih.gov/pubmed/30026808
-Biotechnol Biofuels. 2018 Jul 17;11:193. doi: 10.1186/s13068-018-1201-1. eCollection 2018.
-Pan-genome analyses of 24 Shewanella strains re-emphasize the diversification of their functions yet evolutionary dynamics of metal-reducing pathway.
-Zhong C1, Han M1, Yu S1, Yang P1, Li H1, Ning K1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/
-Gene family
-To understand the evolutionary relationship of Shewanella, we conducted systematic comparative genomic studies. Full protein-coding genes of 24 Shewanella strains were used to construct gene families using OrthoMCL (v2) [44] with a BLAST E-value cut-off of 1e−5 and an inflation parameter of 1.5. Here, the clustering results yielded 7830 homologous clusters, 1788 of which were single-copy gene families, and then they were parsed and concatenated.
-
-https://www.ncbi.nlm.nih.gov/pubmed/29504926
-Int J Syst Evol Microbiol. 2018 Apr;68(4):1356-1360. doi: 10.1099/ijsem.0.002678. Epub 2018 Mar 5.
-Whole-genome sequencing reveals that Shewanella haliotis Kim et al. 2007 can be considered a later heterotypic synonym of Shewanella algae Simidu et al. 1990.
-Szeinbaum N1, Kellum CE2, Glass JB2, Janda JM3, DiChristina TJ1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/29994366
-IEEE/ACM Trans Comput Biol Bioinform. 2018 Feb 9. doi: 10.1109/TCBB.2018.2804393. [Epub ahead of print]
-A Comparative Study of Network Motifs in the Integrated Transcriptional Regulation and Protein Interaction Networks of Shewanella.
-Ding D, Sun X.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28382331
-mSystems. 2017 Mar 28;2(2). pii: e00165-16. doi: 10.1128/mSystems.00165-16. eCollection 2017 Mar-Apr.
-A Genome-Scale Model of Shewanella piezotolerans Simulates Mechanisms of Metabolic Diversity and Energy Conservation.
-Dufault-Thompson K1, Jian H2, Cheng R2, Li J2, Wang F2, Zhang Y3.
-
-https://www.ncbi.nlm.nih.gov/pubmed/25233219
-PLoS Comput Biol. 2014 Sep 18;10(9):e1003848. doi: 10.1371/journal.pcbi.1003848. eCollection 2014 Sep.
-Genome-scale metabolic network validation of Shewanella oneidensis using transposon insertion frequency analysis.
-Yang H1, Krumholz EW2, Brutinel ED3, Palani NP2, Sadowsky MJ4, Odlyzko AM5, Gralnick JA3, Libourel IG1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/24621294
-BMC Syst Biol. 2014 Mar 12;8:31. doi: 10.1186/1752-0509-8-31.
-Comparisons of Shewanella strains based on genome annotations, modeling, and experiments.
-Ong WK, Vu TT, Lovendahl KN, Llull JM, Serres MH, Romine MF, Reed JL1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/21642407
-Appl Environ Microbiol. 2011 Aug;77(15):5352-60. doi: 10.1128/AEM.00097-11. Epub 2011 Jun 3.
-Large-scale comparative phenotypic and genomic analyses reveal ecological preferences of shewanella species and identify metabolic pathways conserved at the genus level.
-Rodrigues JL1, Serres MH, Tiedje JM.
-
-https://www.ncbi.nlm.nih.gov/pubmed/21810205
-BMC Genomics. 2011 Jun 15;12 Suppl 1:S3. doi: 10.1186/1471-2164-12-S1-S3.
-Comparative genomic reconstruction of transcriptional networks controlling central metabolism in the Shewanella genus.
-Rodionov DA1, Novichkov PS, Stavrovskaya ED, Rodionova IA, Li X, Kazanov MD, Ravcheev DA, Gerasimova AV, Kazakov AE, Kovaleva GY, Permina EA, Laikova ON, Overbeek R, Romine MF, Fredrickson JK, Arkin AP, Dubchak I, Osterman AL, Gelfand MS.
-
-http://kazumaxneo.hatenablog.com/entry/2018/08/05/203339
-32のバクテリアの１万以上の機能未知遺伝子欠損の影響をまとめた Fitness Browser - macでインフォマティクス
-
-登録されているバクテリア:　30種以上のデータが利用可能（Organisms）。
-```
-Organism	Division	Experiments	# Carbon Sources	# Nitrogen Sources	# Stress Compounds	# Other Conditions	Updated Annotations
-Shewanella oneidensis MR-1	Gammaproteobacteria	176	16	17	42	15	40
-```
-
-http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
-電流生成の分子メカニズムの解明
-我々は、ゲノム解読が完了し、遺伝子組換えが可能なモデル電流生成菌Shewanella　oneidensis MR-1株（シュワネラ、右の写真）を用いて、電極呼吸のメカニズムを解明するための研究を行っています（Newton et al. 2009. Appl. Environ. Microbiol. 75:7674; Kouzuma et al. 2010. Appl. Environ. Microbiol. 76:4151-4157）。 この菌は、細胞外に導電性ナノワイヤー（ナノスケールの電線）を作り、それを使って電極に電子を流すとも考えられています（Gorby et al. 2006. Proc. Nat. Acad. Sci. USA 103:11358）。
-
-2016-2017
-http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
-主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
-
-2011
-https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
-鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
-先駆的な研究がなされてきた。
-図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
-
-2009
-https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
-異化的金属還元細菌（dissimilatory
-metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
 
 ----------
 ## Sinorhizobium
@@ -1484,7 +1540,7 @@ Ensifer meliloti (Dangeard 1926) Young 2003
 https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Sinorhizobium%20meliloti
 Sinorhizobium melilotiには、Repliconが複数ある株（例えば、chromosomeが3つある株、plasmidが5つある株）がいます。
 
-### phylogeny
+### Sinorhizobium phylogeny
 系統解析
 
 https://www.ncbi.nlm.nih.gov/pubmed/28283520
@@ -1645,7 +1701,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 プラスミドpSymBの二連続塩基組成（genomic signature）は、染色体のそれと類似しているので、宿主に長期間滞在したと考えられる。
 
 
-
 考察
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053727/figure/F1/
@@ -1662,15 +1717,6 @@ Fig. 4. "6 genes MP"
 と他の系統樹で、E. fredii、E. saheli、3株（E. meliloti, E. medicae, E. arboris）の系統関係が一致しない。
 
 例えば、どの内群のグループよりも遠縁である E. adhaerens を外群として選択する。
-
-http://nesseiken.info/Chiba_lab/index.php?授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-- 内群（ingroup）　今、系統推定の対象としているグループのこと。
-- 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
-
-
-https://ja.wikipedia.org/wiki/外群
-外群は系統樹に根をつけ、系統関係を知りたい内群の系統的位置関係を決定するのに用いられる。形質変化の極性は有根系統樹のみから決定できる[1]ため、外群の選択は系統に沿った形質状態の進化を理解する上で必須である。
-外群は、内群の他のグループに近縁であるが、しかし他のどの内群のグループよりも互いに遠縁であると考えられるものを選択する。これらの系統関係から導かれた進化学的結論は、外群の種は内群と共通の祖先をもち、それは内群の各グループの共通祖先よりも古いものであるということである。外群は内群の姉妹群、またはより遠縁なものである[2]。
 
 ----------
 ### KGO-5
@@ -1970,14 +2016,14 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
 
 ----------
-### Amachi Seigo
+## Amachi Seigo
 天知 誠吾
 
 Genome sequencing of bacteria contributing to the geochemical cycling of arsenic, bromine, and iodine.
 https://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
 https://www.ncbi.nlm.nih.gov/bioproject/PRJDB5044
 
-#### Shewanella sp. M-Br
+### Shewanella sp. M-Br
 http://meeting-jsme2018.com/program_pdf/Program_Poster%20Session%201.pdf
 ＊ P1-043
 Bromate reduction by Shewanella sp.M-Br in the presence of chelated iron
@@ -1985,7 +2031,7 @@ Bromate reduction by Shewanella sp.M-Br in the presence of chelated iron
 〇Hiroko Fujiya、Seigo Amachi
 Horticul, Univ. of the Chiba
 
-#### Roseovarius sp. A-2
+### Roseovarius sp. A-2
 https://www.ncbi.nlm.nih.gov/assembly/GCA_002072155.1
 Genome coverage: 248.96x
 https://www.ncbi.nlm.nih.gov/nuccore/BDIY00000000
@@ -1999,7 +2045,7 @@ Yuliana T, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436463/
 The genome contained four multicopper oxidase genes. Among these, one was closely related to ioxA, which was previously found to be involved in iodide oxidation in Iodidimonas sp. Q-1 4. 
 
-#### 
+### 
 https://www.ncbi.nlm.nih.gov/pubmed/27738047
 Genome Announc. 2016 Oct 13;4(5). pii: e01155-16. doi: 10.1128/genomeA.01155-16.
 Draft Genome Sequence of Arenibacter sp. Strain C-21, an Iodine-Accumulating Bacterium Isolated from Surface Marine Sediment.
@@ -2111,11 +2157,11 @@ https://www.ncbi.nlm.nih.gov/pubmed/30910818
 G3 (Bethesda). 2019 Mar 25. pii: g3.200978.2018. doi: 10.1534/g3.118.200978. [Epub ahead of print]
 Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation.
 Harada M, Ito K, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
-http://www.g3journal.org/content/early/2019/03/25/g3.118.200978.long
-http://www.g3journal.org/content/ggg/early/2019/03/25/g3.118.200978.full.pdf
-- Bacteria, such as Pseudomonas putida KT2440 and P. stutzeri TS44, possess genes whose products allow resistance to and metabolism of arsenic compounds (Andres and Bertin, 2016). We report that the SCT genome contains genes putatively involved in such processes; these include several genes encoding ArsR family transcriptional regulators; spxA (locus_tag: PSCT_01329) and arsC (locus_tag: PSCT_01343 and PSCT_04450); genes encoding "arsenate reductase [EC:1.20.4.1]" (KEGG: K00537 and K03741), arsA (locus_tag: PSCT_02478), which encodes "arsenite/tail-anchored protein-transporting ATPase [EC:3.6.3.16 3.6.3.-]" (KEGG: K01551); and ubiG (locus_tag: PSCT_04351), which encodes "arsenite methyltransferase [EC:2.1.1.137]" (KEGG: K07755). There is a cluster of six genes azr-ywlE-aseR-arsC1-czcO-CDS (contig accession number: BDJA01000003; locus_tag range: PSCT_01732 to PSCT_01737); of these, azr encodes "arsenical resistance protein ArsH" (KEGG: K11811), ywlE encodes "arsenate reductase [EC:1.20.4.1]" (KEGG: K03741), aseR and arsC1 encode "ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor" (KEGG: K03892), czcO encodes "putative oxidoreductase CzcO", and the CDS encodes "arsenite transporter" (KEGG: K03325). These results suggest that strain SCT can potentially resist and metabolize arsenic compounds.
-- Supplementary Material
-Supplementary Table S1 | Data for Pseudomonas sp. strain SCT genes. The columns are as follows: contig accession number, locus_tag, length in amino acids (Laa), G+C content at the third codon position (GC3), binary number (1 or 0) indicating whether the gene is phage-like or not (Prophage), binary number (1 or 0) indicating whether the gene is strain-specific or not (Strain Specific), functional annotations by Prokka (gene and product names), annotations from the UniRef90 database, and annotations from the KEGG database (KEGG_Entry, KEGG_Definition, and KEGG_Pathway).
+https://www.g3journal.org/content/9/5/1321.long
+https://www.g3journal.org/content/ggg/9/5/1321.full.pdf
+- Bacteria, such as Pseudomonas putida KT2440 and P. stutzeri TS44, possess genes whose products allow resistance to and metabolism of arsenic compounds (Andres and Bertin 2016). We report that the SCT genome contains genes putatively involved in such processes; these include several genes encoding ArsR family transcriptional regulators; spxA (locus_tag: PSCT_01329) and arsC (locus_tag: PSCT_01343 and PSCT_04450); genes encoding “arsenate reductase [EC:1.20.4.1]” (KEGG: K00537 and K03741), arsA (locus_tag: PSCT_02478), which encodes “arsenite/tail-anchored protein-transporting ATPase [EC:3.6.3.16 3.6.3.-]” (KEGG: K01551); and ubiG (locus_tag: PSCT_04351), which encodes “arsenite methyltransferase [EC:2.1.1.137]” (KEGG: K07755). There is a cluster of six genes azr-ywlE-aseR-arsC1-czcO-CDS (contig accession number: BDJA01000003; locus_tag range: PSCT_01732 to PSCT_01737); of these, azr encodes “arsenical resistance protein ArsH” (KEGG: K11811), ywlE encodes “arsenate reductase [EC:1.20.4.1]” (KEGG: K03741), aseR and arsC1 encode “ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor” (KEGG: K03892), czcO encodes “putative oxidoreductase CzcO”, and the CDS encodes “arsenite transporter” (KEGG: K03325). These results suggest that strain SCT can potentially resist and metabolize arsenic compounds.
+- DATA AVAILABILITY
+Supplemental material available at Figshare: https://doi.org/10.25387/g3.7829321.
 
 https://www.ncbi.nlm.nih.gov/pubmed/30510597
 J Genomics. 2018 Nov 15;6:122-126. doi: 10.7150/jgen.27741. eCollection 2018.
