@@ -37,6 +37,7 @@ Last Update: 2019-04
 - [sports](#sports)
 - [meeting](#meeting)
 
+
 ----------
 ## meeting
 
@@ -129,12 +130,6 @@ Jesse Shapiro on Twitter: "What makes a pathogen? How can we optimize treatment 
 8:25 AM - 1 May 2019
 
 
-2019-04-23
-https://spee.hatenablog.com/entry/infection_history
-感染症の世界史という名著 - (続)とある最底辺歯科医の戯れ言集
-
-https://thinkeroid.hateblo.jp/entry/20190501/1556698797
-まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
 
 2019/04/12
 https://toyokeizai.net/articles/-/276409
@@ -568,10 +563,6 @@ https://adgang.jp/2014/10/77120.html
 オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
 
 
-https://twitter.com/endBooks/status/385905594026033153
-科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
-7:13 PM - 3 Oct 2013
-
 ----------
 ## nikkei-science
 
@@ -598,12 +589,24 @@ http://www.nikkei-science.com/?p=44051
 ----------
 ## books
 
+
+
+https://twitter.com/endBooks/status/385905594026033153
+科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
+7:13 PM - 3 Oct 2013
+
+
 ### 2019-03-22
 ![](https://www.msz.co.jp/_cover/front/08767.jpg)
+
+https://twitter.com/search?q="これからの微生物学"
 
 https://www.msz.co.jp/book/detail/08767.html
 これからの微生物学
 マイクロバイオータからCRISPRへ
+
+https://www.msz.co.jp/topics/08767/
+コサール『これからの微生物学』訳者あとがき（矢倉英隆）ウェブ転載 - みすず書房
 
 ### 2018-12-14
 ![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
@@ -965,6 +968,14 @@ https://antibioticawarenessjp.jimdo.com/
 抗菌薬啓発週間 - SAVE Antibiotics, SAVE Children. 抗菌薬啓発週間
 
 ![[(https://pbs.twimg.com/media/DqP240aWkAEFR73.jpg)
+
+
+https://twitter.com/AAD_Japan/status/1111780791695097856
+Save ABx Japan on Twitter: "耐性菌の種類にもよりますが、アウトバウンドよりもインバウンドの方が懸念されています。 https://t.co/eCJqD9Xe6b"
+8:02 PM - 29 Mar 2019
+https://twitter.com/leo__821/status/1111596191291076608
+NP_米山 on Twitter: "今日、耐性菌について「日本は抗菌薬や抗ウイルス薬を多く使っているから耐性菌が多い。日本に旅行して耐性菌を本国に持ち帰る人がいると、その国で大流行する可能性がある」という話を聞きました。ナルホド。 旅行者が増えると、耐性菌を輸出してしまう可能性もある。日本だけの問題ではないですね。"
+7:49 AM - 29 Mar 2019
 
 
 https://www.nature.com/articles/s41564-018-0342-0
