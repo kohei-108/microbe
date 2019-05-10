@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [featuring](#featuring)
+- [definition](#definition)
 - [culture](#culture)
 - [cell number](#cell-number)
 - [updates](#updates)
@@ -34,6 +35,53 @@ http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
 
 新　興　・　再　興　感　染　症
 　新興・再興感染症の増加要因（表７）として、社会要因：国際化、交通機関の発達による人民の大量・高速移動（日本→外国：1,600万人/年、外国→日本：500-600万人/年）や食料品（日本の食料自給率：約40％）、都市化による過密/人口の集中、貧困、地球環境破壊/温暖化、病原体要因：抗微生物薬耐性/抵抗性、病原性の変化、宿主要因：易感染性宿主（高齢者、糖尿病、HIV/AIDSなど）の増加などが考えれています。また、最近まで、日本を含めた先進諸国では感染症を解決された過去の疾患と錯覚し、その対策を怠ってきたことも増加要因と考えられます。
+
+
+
+----------
+## definition
+
+https://information-station.xyz/12944.html
+殺菌・滅菌・抗菌・除菌・消毒の違いとは？病原体への処置の強力さの度合いの違いと細菌とウイルスに対する適用範囲の違い | TANTANの雑学と哲学の小部屋
+2019年1月9日 [医学]
+
+鈴木彩子 2018年12月28日06時00分
+https://www.asahi.com/articles/ASLDV0C8SLDTUBQU01T.html
+殺菌・抗菌・除菌・滅菌・消毒…　何が違う？効果は？：朝日新聞デジタル
+
+鈴木彩子（すずき・あやこ）
+朝日新聞記者
+２００３年朝日新聞社入社。高松総局、静岡総局、東京本社科学医療部、名古屋本社報道センターなどをへて、２０１６年４月からアピタル編集部員。
+
+http://www.cleall.com/blog/2017/03/post-159.php
+「消毒」「殺菌」「滅菌」「除菌」「抗菌」 | 電通セントラル株式会社｜電話をキレイに
+
+更新日: 2014年06月10日
+https://matome.naver.jp/odai/2140236808066670701
+ちゃんと説明できますか?滅菌・殺菌・除菌・抗菌の違い。 - NAVER まとめ
+
+2007年12月15日更新
+https://jsda.org/w/03_shiki/a_sekken30.html
+日本石鹸洗剤工業会　石けん洗剤知識
+「滅菌・殺菌・除菌・抗菌」などの用語
+どこがどう違うのか…
+「滅菌」「殺菌」「除菌」「抗菌」などの用語
+
+https://fujifilm.jp/personal/antibacterial/hydroag/column/017jokin_chigai.html
+「除菌」「抗菌」「殺菌」とは？違いをわかりやすく解説 | Ag+のチカラで持続除菌 | 富士フイルム
+
+https://www.ebinadk.com/kinseigyo
+菌制御の定義（滅菌・殺菌・除菌・抗菌）について教えて下さい。 | ヱビナ電化工業株式会社
+抗菌＜除菌＜殺菌＜滅菌の順に効果は大きくなります。
+
+https://business-textbooks.com/sterilization-difference/
+「消毒」「殺菌」「除菌」「滅菌」「抗菌」の違い – 社会人の教科書
+
+https://www.kao.com/jp/qa_cate/kitchenbleach_04_01.html
+花王株式会社 製品Ｑ＆Ａ 製品の表示にある「除菌」「抗菌」「殺菌」、それぞれの意味は?
+
+https://chigai-allguide.com/抗菌と除菌と殺菌と滅菌と消毒/
+「抗菌」「除菌」「殺菌」「滅菌」「消毒」 - 違いがわかる事典
 
 ----------
 ## culture
