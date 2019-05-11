@@ -872,6 +872,19 @@ Microbiome Discovery 1: Intro to the Microbiome
 https://www.youtube.com/watch?v=FWT1HBzlWOE
 Microbiome Discovery 2: How microbiome data are generated
 
+https://www.youtube.com/watch?v=8Aa_mnyXm70
+Microbiome Discovery 3: 16S Variable Regions
+
+https://www.youtube.com/watch?v=iy0JWgzmM_A
+Microbiome Discovery 4: QIIME - YouTube
+
+https://www.youtube.com/watch?v=u2IQQUMeWy8
+Microbiome Discovery 4.5: (Optional) UNIX Command Line
+
+https://www.youtube.com/watch?v=Ok5h24KZbAE
+Microbiome Discovery 5: Picking OTUs
+
+
 ### duvallet
 Claire Duvallet
 
