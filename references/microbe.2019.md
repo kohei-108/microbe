@@ -6,6 +6,13 @@ Last Update: 2019-05
 # microbe.2019
 
 **Table of Contents**
+- [metasub](#metasub)
+- [2019-05-12](#2019-05-12)
+- [2019-05-03](#2019-05-03)
+- [2019-03-24](#2019-03-24)
+- [2019-03-20](#2019-03-20)
+- [2019-03-11](#2019-03-11)
+- [2019-03-02](#2019-03-02)
 - [featuring](#featuring)
 - [updates](#updates)
 - [hydrothermal vent](#hydrothermal-vent) 熱水噴出孔
@@ -15,12 +22,6 @@ Last Update: 2019-05
 - [porphyrin](#porphyrin) ポルフィリン
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
-- [2019-05-03](#2019-05-03)
-- [2019-03-24](#2019-03-24)
-- [2019-03-20](#2019-03-20)
-- [2019-03-11](#2019-03-11)
-- [2019-03-02](#2019-03-02)
-- [metasub](#metasub)
 
 ----------
 ## metasub
@@ -33,6 +34,31 @@ https://github.com/haruosuz/metasub/blob/master/README.md#twitter
 実際のサンプリング作業は、動画 (https://www.youtube.com/watch?v=boIK-ezDuuI&t=2s) にあるように約3分間、表面（椅子、床、壁など）を綿棒で拭います。
 
 サンプルの一部は国際会議のデータ解析イベント（CAMDA2019 Metagenomic Forensics Challenge https://twitter.com/CAMDA_conf ）で使用される予定です。CAMDA2019参加者によるデータ解析結果は、ISMB/ECCB 2019 (21–25 Jul 2019) / CAMDA2019 (24-25 Jul 2019) @ Basel, Switzerland で発表されます。
+
+----------
+## 2019-05-12
+
+https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#blast
+BLAST(Basic Local Alignment Search Tool) はNCBIで開発された配列類似性検索のためのツール。
+
+抗菌＜除菌＜殺菌＜滅菌
+https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
+
+以下の動画 (1:57:22) で9分程度 (12:00-20:40) クリストファー・メイソン(ワイル・コーネル・メディスン大学 生理学・生物物理学 准教授) によりMetaSUBプロジェクトについて紹介されています。
+https://www.youtube.com/watch?v=0FSiRhkZKp8 【ICF2017】バイオテクノロジーセッション - YouTube
+NASAと共同で実施した宇宙実験から都市の微生物遺伝子解析プロジェクトMetaSUBまで、未来の都市環境デザインについて、ハードウェア、ソフトウェア、そしてウェットウェア(バイオテクノロジー)の観点から議論を展開します。
+https://www.youtube.com/watch?v=rOPJt8pvYlM 【ICF2017】Biotechnology Session - YouTube
+```
+10:00- Human microbiome
+12:00- Urban microbiome
+13:00- PathoMap (New York City microbiome)
+15:40- MetaSUB
+16:40- Global City Sampling Day (CSD)
+18:00- Olympiome
+18:40- StuckOnU
+20:40- International Space Station
+1:57:22
+```
 
 ----------
 ## 2019-05-03
