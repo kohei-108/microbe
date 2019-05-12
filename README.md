@@ -7,10 +7,11 @@ Last Update: 2019-05
 **[微生物](https://ja.wikipedia.org/wiki/微生物)**
 
 ## Table of Contents
-- 建造環境の微生物 [MoBE](https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md)
 - 細菌 [bacteria](https://github.com/haruosuz/microbe/blob/master/references/README.bacteria.md)
+- 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
+- ニュース [news](https://github.com/haruosuz/microbe/blob/master/references/microbe.news.md)
+- 人工環境の微生物 [MoBE](https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md)
 - 微生物群集 [microbiome](https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md)
-- [books](#books) 本
 - [featuring](#featuring)
 - [updates](#updates)
 - [airport](#airport)
@@ -22,8 +23,6 @@ Last Update: 2019-05
   - [aobiome](#aobiome)
 - [secretion](#secretion)
 - [AMR](#amr)
-- [subway](#subway)
-- [money](#money)
 - [links](#links)
 - [twitter](#twitter)
 - [unclassified](#unclassified)
@@ -34,6 +33,10 @@ Last Update: 2019-05
 - [SDG](#sdg)
 - [sports](#sports)
 - [meeting](#meeting)
+
+----------
+## books
+- 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 
 ----------
 ## meeting
@@ -73,7 +76,6 @@ The deadline for submitting an abstract for the consideration of an oral present
 https://www.isme-microbes.org/events-microbial-ecology
 Events in Microbial Ecology | ISME
 
-
 ----------
 ## featuring
 
@@ -86,16 +88,6 @@ https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
 ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
 また、納豆やキムチなど各地固有の発酵食品を作り出し、食文化の一翼を担っています。
 また、グローバルな交通の発展により、多くの人と物資が世界中を移動しており、輸入感染症の拡大が懸念されています。
-
-
-
-https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
-エリザベス・マーチソン：感染性のガンと闘う | TED Talk
-
-https://bookmeter.com/books/9768053
-消えるオス：昆虫の性をあやつる微生物の戦略 感想 陰山 大輔 - 読書メーター
-
-タスマニアデビルの伝染性腫瘍は人間の介入でなんとかならないものかと思う。
 
 
 https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
@@ -112,15 +104,12 @@ An equation‐free method reveals the ecological interaction networks within com
 ----------
 ## updates
 
-https://news.biglobe.ne.jp/list/012/899/微生物.html
-微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2019
 
+2019年5月8日 12:48
 https://www.afpbb.com/articles/-/3224016
-
-
-
+細菌感染を短時間で判別、抗生物質の過剰処方防止 新機器開発
 
 https://twitter.com/bjesseshapiro/status/1123564054986018816
 Jesse Shapiro on Twitter: "What makes a pathogen? How can we optimize treatment strategies and reduce antimicrobial resistance? How can early detection of epidemics be facilitated? We ask (and attempt to answer) these questions in this review paper, almost two years in the making!… https://t.co/1M48M2KZ33"
@@ -191,12 +180,6 @@ https://mainichi.jp/articles/20190227/dde/001/040/040000c
  2017年7月30日 /  2019年2月24日
 https://www.dr-kid.net/mycoplasma-resistence
 日本の小児のマイコプラズマ感染は９割が耐性菌！？【マイコプラズマ肺炎】｜Dr.KIDの小児科クリニック
-
-
-
-科学に佇むｻﾝｸｺｽﾄ on Twitter:
-http://sciencebook.blog110.fc2.com/blog-entry-2917.html
-『 もやしもんと感染症屋の気になる菌辞典 』
 
 
 
@@ -558,231 +541,6 @@ https://www.ted.com/talks/ani_liu_smelfies_and_other_experiments_in_synthetic_bi
 
 https://adgang.jp/2014/10/77120.html
 オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
-
-
-----------
-## nikkei-science
-
-http://www.nikkei-science.com/?tag=微生物学
-微生物学 | 日経サイエンス
-
-http://www.nikkei-science.com/?tag=感染症
-感染症 | 日経サイエンス
-
-http://www.nikkei-science.com/201810_057.html
-特別リポート：変貌する感染症の脅威 | 日経サイエンス
-
-http://www.nikkei-science.com/201803_068.html
-バイオフィルムを退治する | 日経サイエンス
-
-http://www.nikkei-science.com/201605_072.html
-体を守る苦味受容体 | 日経サイエンス
-苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
-
-http://www.nikkei-science.com/?p=44051
-鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
-苦味受容体が細菌の侵入と闘っている
-
-----------
-## books
-
-
-
-https://twitter.com/endBooks/status/385905594026033153
-科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
-7:13 PM - 3 Oct 2013
-
-
-### 2019-03-22
-![](https://www.msz.co.jp/_cover/front/08767.jpg)
-
-https://twitter.com/search?q="これからの微生物学"
-
-https://www.msz.co.jp/book/detail/08767.html
-これからの微生物学
-マイクロバイオータからCRISPRへ
-
-https://www.msz.co.jp/topics/08767/
-コサール『これからの微生物学』訳者あとがき（矢倉英隆）ウェブ転載 - みすず書房
-
-### 2018-12-14
-![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
-
-https://www.msz.co.jp/book/detail/08753.html
-ウイルスの意味論
-生命の定義を超えた存在
-著者
-山内一也
-
-https://www.primate.or.jp/serialization/116%EF%BC%8E新刊書「ウイルスの意味論%E3%80%80―%E3%80%80生命の定義/
-
-### 2018-08-31
-
-![](https://images-fe.ssl-images-amazon.com/images/I/51YXTP20%2BaL.jpg)
-
-http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1567-2.html
-『土・牛・微生物ー文明の衰退を食い止める土の話』(築地書館) - 著者：デイビッド・モントゴメリー 翻訳：片岡 夏実 - 
-
-https://www.amazon.co.jp/dp/4806715670
-
-2018/10/29
-https://allreviews.jp/review/2662
-中村 桂子による書評
-
-https://huyukiitoichi.hatenadiary.jp/entry/2018/09/12/080000
-我々は今後土をどう扱っていけばいいのか──『土・牛・微生物ー文明の衰退を食い止める土の話』 - 基本読書
-
-2018年08月31日
-https://honz.jp/articles/-/44887
-訳者あとがき
-
-### 2018/06/28
-![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011572.jpg)
-
-https://www.kinokuniya.co.jp/f/dsg-01-9784314011570
-腸と脳 / メイヤー，エムラン【著】〈Ｍａｙｅｒ，Ｅｍｅｒａｎ〉/高橋 洋【訳】 - 紀伊國屋書店ウェブストア
-
-【ためし読みはこちらから】
-https://www.kinokuniya.co.jp/banner/9784314011570.pdf
-
-### 2018/06/02
-![https://www.amazon.co.jp/dp/4255010579](https://images-na.ssl-images-amazon.com/images/I/51tCt9d2GdL._SX333_BO1,204,203,200_.jpg)
-
-https://ee.asahipress.com/bookdetail_norm/9784255010571/
-細菌が人をつくる | 書籍 | 朝日出版社
-［著者紹介］ ロブ・ナイト 著 / ブレンダン・ビューラー 著 / ［訳者紹介］ 山田拓司＋東京工業大学山田研究室 訳
-
-### 2018-03-20
-
-![](https://image.honto.jp/item/1/265/2883/6173/28836173_1.png)
-
-http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1553-5.html
-闘う微生物
-闘う微生物  抗生物質と農薬の濫用から人体を守る
-エミリー・モノッソン［著］　小山重郎［訳］
-
-http://odokon.org/archives/2018/0319_132207.php
-新刊紹介: 闘う微生物--抗生物質と農薬の濫用から人体を守る | 応動昆
-
-### 2017/09/20
-![](https://www.iwanami.co.jp//images/book/309292.png)
-
-https://www.iwanami.co.jp/book/b309292.html
-抗生物質と人間 - 岩波書店
-
-### 2017-08-18
-![](http://www.nikkei-science.com/wp-content/uploads/2017/08/51221-160x214.jpg)
-
-http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
-微生物の驚異 | 日経サイエンス
-
-### 2017-05-01
-![](http://www.kashiwashobo.co.jp//images/book/286870.jpg)
-
-http://www.kashiwashobo.co.jp/book/b286870.html
-世界は細菌にあふれ、人は細菌によって生かされる
-
-https://edyong.me/i-contain-multitudes/
-I Contain Multitudes — Ed Yong
-
-https://medium.com/hhmi-science-media
-I Contain Multitudes – Medium
-
-https://www.youtube.com/watch?v=SZe4ymY8C-8
-I Contain Multitudes: The Microbes Within Us and a Grander View of Life Audiobook Excerpt - YouTube
-
-https://www.youtube.com/channel/UCnZK1E7WoLpFNIHHChgVMtw
-I Contain Multitudes - YouTube - YouTube
-
-http://www.pbs.org/show/i-contain-multitudes/
-I Contain Multitudes | PBS
-
-http://twilog.org/man10000/month-1712
-
-10秒のディープキスで平均8000万以上の細菌が移動することを確かめた。『マイクロバイオームの世界』
-
-徹底的に便座を殺菌したあと、まずそこに定着するのは糞便の微生物。やがて皮膚の多様な微生物に駆逐されるが再びトイレを殺菌した途端元に戻る。つまり皮肉にもトイレを頻繁に掃除しすぎると、糞便の菌に占領されやすくなるということだ。
-『世界は細菌にあふれ、人は細菌によって生かされる』
-
-空調された病室内の空気の微生物コミュニティと屋外のそれとは全く共通点がなかった。患者は自分たちの「微生物シチュー」の中で効果的に「煮込まれ」てる。その状態回避の最善策それは「窓を開ける」こと。それをナイチンゲールはマイクロバイオームの知識なしにやってのけた。
-
-### 2016-12-01
-![](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/43140/4314011440.jpg)
-
-紀伊國屋書店（2016/12発売）
-https://www.kinokuniya.co.jp/f/dsg-01-9784314011440
-マイクロバイオームの世界―あなたの中と表面と周りにいる何兆もの微生物たち
-
-澤畑 塁2016年12月09日
-http://honz.jp/articles/-/43549
-『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』 研究の全体像を見渡せる概論的読み物
-
-紀伊國屋書店2016年12月01日
-http://honz.jp/articles/-/43555
-『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』
-訳者あとがき by 斉藤 隆央
-
-### 2016-11-22
-
-http://www.hayakawa-online.co.jp/shopdetail/000000013372/
-腸科学　健康な人生を支える細菌の育て方 (早川書房)
-
-澤畑 塁2016年12月04日
-http://honz.jp/articles/-/43583
-「ビッグマック」を食べよう 『腸科学　健康な人生を支える細菌の育て方』 - HONZ
-
-### 2016-11-12
-![](https://images-fe.ssl-images-amazon.com/images/I/51-Ia6Av8eL._AC_US160_.jpg)
-
-http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1524-5.html
-土と内臓　微生物がつくる世界
-
-築地書館2016年11月15日
-http://honz.jp/articles/-/43529
-『土と内臓　微生物がつくる世界』
-訳者あとがき
-
-### 2016-09-12
-![](http://www.kyoto-up.or.jp/upload/book/book_2128_20160802172643.jpg)
-
-http://www.kyoto-up.or.jp/book.php?id=2128
-微生物生態学　ゲノム解析からエコシステムまで
-
-http://www.saaaj.jp/public/books/books2017_06_2.pdf
-図書紹介
-(大阪府立大学 21世紀科学研究機構 微生物制御研究センター 坂元 仁)
-
-https://books.google.co.jp/books?id=QrnR1_ONIK4C&hl=ja
-Processes in Microbial Ecology - David L. Kirchman - Google ブックス
-
-### 2016-08-10
-![](http://www.kawade.co.jp/img/cover_l/9784309253527.jpg)
-
-http://www.kawade.co.jp/np/isbn/9784309253527/
-あなたの体は９割が細菌 :アランナ・コリン,矢野　真千子｜河出書房新社
-
-### 2015-11-02
-![](https://www.beret.co.jp/books/imgresize/589.jpg/175/0)
-
-https://www.beret.co.jp/books/detail/589
-見えない巨人―微生物｜書籍案内｜ベレ出版
-
-http://dain.cocolog-nifty.com/myblog/2015/12/post-c645.html
-『見えない巨人　微生物』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-
-### 2015-07-01
-![](https://www.msz.co.jp/_cover/front/07910_big.jpg)
-
-『失われてゆく、我々の内なる細菌』
-マーティン・J・ブレイザー　山本太郎訳
-https://www.msz.co.jp/topics/07910/
-https://www.msz.co.jp/book/detail/07910.html
-
-村上 浩2015年07月22日
-http://honz.jp/articles/-/41635
-『失われてゆく、我々の内なる細菌』　ピロリ菌だって役に立つ？ 
-
-----------
 
 
 ----------
