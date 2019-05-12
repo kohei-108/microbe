@@ -31,11 +31,6 @@ https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#amr
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#uniprot
 UniProtウェブサイト (http://www.uniprot.org) にアクセスし、ウェブページ上部の検索ボックスにUniProt accession [ Q9CD83 ] を入力して、"Search"ボタンを押す:  
 
-https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#5-7
-Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
-
-![http://www.discoveryandinnovation.com/bioinformatics/glossary_detail/homolog.html](http://www.discoveryandinnovation.com/bioinformatics/glossary_detail/images/orthologs.jpg)
-
 https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
 https://twitter.com/BacDive/status/1095559495651115009
 BacDive on Twitter: "Find here an interesting example how @BacDive data can be used to correlate microbial growth temperatues with temperature optima of enzymes: https://t.co/XWenohoc5W #biodiversity #bacteria #microbiology"
@@ -46,11 +41,12 @@ http://doi.org/10.7875/togotv.2017.023 NCBI BLASTの使い方 〜基本編〜 20
 https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#blast
 BLAST(Basic Local Alignment Search Tool) はNCBIで開発された配列類似性検索のためのツール。
 
+人工環境の微生物
 https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#review
 https://twitter.com/NatureRevMicro/status/1031916837896957952
 Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
 10:52 AM - 21 Aug 2018
-![https://twitter.com/NatureRevMicro/status/1031916837896957952](https://pbs.twimg.com/media/DlIaeJdXsAERebp.jpg)
+#![https://twitter.com/NatureRevMicro/status/1031916837896957952](https://pbs.twimg.com/media/DlIaeJdXsAERebp.jpg)
 
 抗菌＜除菌＜殺菌＜滅菌
 https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
@@ -364,6 +360,8 @@ https://ja.wikipedia.org/wiki/ヘモグロビン
 https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#5-7
 図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
 
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#5-7
+Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
 http://www.discoveryandinnovation.com/bioinformatics/glossary_detail/homolog.html
 Glossary Detail - Homolog
 ![](http://www.discoveryandinnovation.com/bioinformatics/glossary_detail/images/orthologs.jpg)
