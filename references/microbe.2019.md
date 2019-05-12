@@ -28,6 +28,10 @@ Last Update: 2019-05
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#uniprot
 UniProtウェブサイト (http://www.uniprot.org) にアクセスし、ウェブページ上部の検索ボックスにUniProt accession [ Q9CD83 ] を入力して、"Search"ボタンを押す:  
 
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#5-7
+Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
+![http://www.discoveryandinnovation.com/bioinformatics/glossary_detail/homolog.html](http://www.discoveryandinnovation.com/bioinformatics/glossary_detail/images/orthologs.jpg)
+
 https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
 https://twitter.com/BacDive/status/1095559495651115009
 BacDive on Twitter: "Find here an interesting example how @BacDive data can be used to correlate microbial growth temperatues with temperature optima of enzymes: https://t.co/XWenohoc5W #biodiversity #bacteria #microbiology"
