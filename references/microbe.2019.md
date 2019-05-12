@@ -41,15 +41,14 @@ http://doi.org/10.7875/togotv.2017.023 NCBI BLASTの使い方 〜基本編〜 20
 https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#blast
 BLAST(Basic Local Alignment Search Tool) はNCBIで開発された配列類似性検索のためのツール。
 
+抗菌＜除菌＜殺菌＜滅菌
+https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
+
 人工環境の微生物
 https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#review
 https://twitter.com/NatureRevMicro/status/1031916837896957952
 Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
 10:52 AM - 21 Aug 2018
-#![https://twitter.com/NatureRevMicro/status/1031916837896957952](https://pbs.twimg.com/media/DlIaeJdXsAERebp.jpg)
-
-抗菌＜除菌＜殺菌＜滅菌
-https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
 
 以下の動画 (1:57:22) で9分程度 (12:00-20:40) クリストファー・メイソン(ワイル・コーネル・メディスン大学 生理学・生物物理学 准教授) によりMetaSUBプロジェクトについて紹介されています。
 https://www.youtube.com/watch?v=0FSiRhkZKp8 【ICF2017】バイオテクノロジーセッション - YouTube
