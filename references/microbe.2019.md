@@ -25,6 +25,10 @@ Last Update: 2019-05
 ----------
 ## 2019-05-12
 
+https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
+
+http://doi.org/10.7875/togotv.2017.023 NCBI BLASTの使い方 〜基本編〜 2017
+
 https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#blast
 BLAST(Basic Local Alignment Search Tool) はNCBIで開発された配列類似性検索のためのツール。
 
