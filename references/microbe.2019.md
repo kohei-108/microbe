@@ -25,6 +25,9 @@ Last Update: 2019-05
 ----------
 ## 2019-05-12
 
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#amr
+抗生物質
+
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#uniprot
 UniProtウェブサイト (http://www.uniprot.org) にアクセスし、ウェブページ上部の検索ボックスにUniProt accession [ Q9CD83 ] を入力して、"Search"ボタンを押す:  
 
