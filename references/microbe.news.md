@@ -4,11 +4,31 @@
 - [gigazine](#gigazine)
 - [wired](#wired)
 
-
 https://news.biglobe.ne.jp/list/012/899/微生物.html
 微生物の話題・最新情報｜BIGLOBEニュース
 
 ## 2019
+
+https://twitter.com/gigazine/status/1127000544873046016
+GIGAZINE(ギガジン) on Twitter: "屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に https://t.co/YjDdocWQur"
+8:00 PM - 10 May 2019
+
+https://gigazine.net/news/20190511-hidden-air-pollution-in-home/
+屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に - GIGAZINE
+しかし、この分野には専門家が少なかったことから、屋外の大気汚染に関する専門家を引き入れて屋内空気汚染についての研究をしてもらうケースが多かったとのこと。コロラド大学の化学者であるDelphine Farmer氏や、同じくコロラド大学の環境エンジニアであるMarina Vance氏は、「微生物と環境化学についての家の観察(House Observations of Microbial and Environmental Chemistry)」、通称「Homechem」という呼ばれるプロジェクトで屋内の空気汚染について研究しています。
+
+2019/05/01 10:56 ウェザーニュース
+https://weathernews.jp/s/topics/201904/260125/
+黄砂に注意すべき理由　人体への影響とそのメカニズムとは - ウェザーニュース
+「砂には、微生物やその死骸、金属、化学物質など、多くのアレルギーを引き起こすものが含まれています。
+
+2019.04.14 SUN 18:00
+https://wired.jp/2019/04/14/future-flora/
+未来の女性は、バクテリアを身にまとう｜WIRED.jp
+バイオテクノロジーとヘルスケアの交差点から女性器の微生物叢にフォーカスすることで、彼女が描くまったく新しい未来の女性像とは。
+![](https://wired.jp/wp-content/uploads/2019/04/685ec130a79f39cdc0e7551908c91dd6-e1555061764935.jpg)
+このウェアラブルセンサーは、女性器の膣の分泌物における主要バイオマーカー（疾患の診断のために重要となる指標）である水素イオン指数（pH）と乳酸を測定する。ケンブリッジ大学の博士課程に所属する研究者らとコラボレーションし、開発が進められており、将来的にはFuture Floraと統合し、測定されたデータを微生物叢の組成にフィードバックするといった活用も視野に入れる。
+
 
 
 
