@@ -169,10 +169,15 @@ https://matome.naver.jp/odai/2140057460215399801
 ## restroom
 トイレの微生物
 
+https://www.kinokuniya.co.jp/f/dsg-01-9784314011440
+『マイクロバイオームの世界　あなたの中と表面と周りにいる何兆もの微生物たち』(p.125)
+http://www.kashiwashobo.co.jp/book/b286870.html
+『世界は細菌にあふれ、人は細菌によって生かされる』(p.377)
+徹底的に便座を殺菌したあと、まずそこに定着するのは糞便の微生物。やがて皮膚の多様な微生物に駆逐されるが再びトイレを殺菌した途端元に戻る。つまり皮肉にもトイレを頻繁に掃除しすぎると、糞便の菌に占領されやすくなるということだ。
+
 https://www.ncbi.nlm.nih.gov/pubmed/25398865
 Appl Environ Microbiol. 2015 Jan;81(2):765-73. doi: 10.1128/AEM.03117-14. Epub 2014 Nov 14.
 Ecological succession and viability of human-associated microbiota on restroom surfaces.
-
 Gibbons SM1, Schwartz T2, Fouquier J3, Mitchell M2, Sangwan N4, Gilbert JA5, Kelley ST2.
 https://www.microbe.net/2014/11/17/toilet-ecology/
 Toilet Ecology – microBEnet: the microbiology of the Built Environment network
