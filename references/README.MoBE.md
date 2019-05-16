@@ -117,10 +117,6 @@ Trends Immunol. 2015 Mar;36(3):121-3. doi: 10.1016/j.it.2015.01.001.
 Our interface with the built environment: immunity and the indoor microbiota.
 Lax S1, Nagler CR2, Gilbert JA3.
 
-https://www.ncbi.nlm.nih.gov/pubmed/25398865
-Appl Environ Microbiol. 2015 Jan;81(2):765-73. doi: 10.1128/AEM.03117-14. Epub 2014 Nov 14.
-Ecological succession and viability of human-associated microbiota on restroom surfaces.
-Gibbons SM1, Schwartz T2, Fouquier J3, Mitchell M2, Sangwan N4, Gilbert JA5, Kelley ST2.
 
 https://www.ncbi.nlm.nih.gov/pubmed/25224504
 J Microbiol. 2014 Sep;52(9):721-8. doi: 10.1007/s12275-014-4364-x. Epub 2014 Sep 2.
