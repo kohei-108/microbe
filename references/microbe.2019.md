@@ -6,6 +6,7 @@ Last Update: 2019-05
 # microbe.2019
 
 **Table of Contents**
+- [2019-05-19](#2019-05-19)
 - [2019-05-12](#2019-05-12)
 - [2019-05-03](#2019-05-03)
 - [2019-03-24](#2019-03-24)
@@ -21,6 +22,26 @@ Last Update: 2019-05
 - [porphyrin](#porphyrin) ポルフィリン
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
+
+
+----------
+## 2019-05-19
+
+
+https://link.springer.com/article/10.1007/s002030000163
+Carotenoids of an Antarctic psychrotolerant bacterium, Sphingobacterium antarcticus, and a mesophilic bacterium, Sphingobacterium multivorum | SpringerLink
+
+In vitro studies with synthetic membranes of phosphatidylcholine demonstrated that the major pigment was bound to the membranes and decreased their fluidity
+
+
+https://www.brh.co.jp/seimeishi/journal/062/research_1.html
+RESEARCH ─ 研究を通して ─：生きた膜を支える脂質の分子運動
+4. 脂質の分子運動の恒常性
+一般に脂質の分子運動が低下する低温環境下では、拡散しやすい脂質分子の割合を増やし、脂質の分子運動を一定に保とうとする。逆に高温環境下では、拡散しにくい脂質分子を増やして分子運動を抑制する。
+　このような温度に対する膜脂質の適応を恒流動性適応（註6）と呼ぶ。
+
+5. 膜脂質と体温
+　一方、先述したように、低温環境に適応した生物では、膜を拡散しやすい脂質分子で構成する恒流動性適応が観察される。これは個体の至適体温を低温側にシフトし、同時に過度の流動性を防ぐため高温を避けるという性質をもたらす。
 
 ----------
 ## 2019-05-12
