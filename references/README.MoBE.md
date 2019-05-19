@@ -35,6 +35,11 @@ https://ja.wikipedia.org/wiki/建造環境
 
 ## 2019
 
+https://www.ncbi.nlm.nih.gov/pubmed/30819245
+Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
+Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
+Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
+
 臨床現場の表面に存在する微生物叢を他の建築環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
 https://www.nature.com/articles/s41467-019-08864-0
 Man-made microbial resistances in built environments | Nature Communications
