@@ -27,12 +27,6 @@ Last Update: 2019-05
 ----------
 ## metasub
 
-
-https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#featuring
-
-感染症の増加要因として、都市化による過密/人口の集中、交通機関の発達による高速移動や国際交流の激増が挙げられます。
-http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
-
 https://github.com/haruosuz/metasub/blob/master/README.md#olympiome
 オリンピック前後の微生物群集の変化
 
@@ -63,13 +57,21 @@ https://www.rtri.or.jp/rd/news/human/human_201603.html
 遺伝子で鉄道の環境を見る
 例えば鉄道では、路線ごとの環境の特徴の有無が分かることで、路線ごとに適した施策を行う事ができます。また、外国からの観光客や労働者等の増加が見込まれ環境の変化が考えられますが、その変化が予測可能となることで有効な施策を提案することが可能となるでしょう。さらに、環境中の生物の伝播（移動）の様子が把握できれば、インフルエンザなどの感染症の発生時の対策やバイオテロなどの不測の事態に備えるための有用な情報が得られるかもしれません。
 
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」
+NY地下鉄の細菌マップ
+
 https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
 ジェシカ・グリーン「微生物を正しく取り除くために」
 今この瞬間にも あなた方は 微生物を互いに交換し合っています
 
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」
-NY地下鉄の細菌マップ
+https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#featuring
+
+感染症の増加要因として、都市化による過密/人口の集中、交通機関の発達による高速移動や国際交流の激増が挙げられます。
+http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
+
+https://ja.wikipedia.org/wiki/実験計画法
+次に、品種・施肥量・圃場の3因子につき各3水準を設定するとしよう。一般には全部で 3 x 3 x 3 = 27 通りの実験が必要である。しかし、交互作用が無視できる場合には表2 に示すように9通りに減らすことができ、この方法は一般には予備実験として利用できる（
 
 ----------
 ## 2019-05-19
