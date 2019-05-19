@@ -27,6 +27,15 @@ Last Update: 2019-05
 ----------
 ## metasub
 
+
+https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#featuring
+
+感染症の増加要因として、都市化による過密/人口の集中、交通機関の発達による高速移動や国際交流の激増が挙げられます。
+http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
+
+https://github.com/haruosuz/metasub/blob/master/README.md#olympiome
+オリンピック前後の微生物群集の変化
+
 https://github.com/haruosuz/metasub/blob/master/README.md#csd
 6月21日 グローバル シティ サンプリング デー の目的
 http://metasub.org/global-city-sampling-day/
