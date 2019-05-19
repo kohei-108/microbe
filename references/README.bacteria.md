@@ -15,8 +15,9 @@ Last Update: 2019-05
 - [iodide](#iodide)
   - [iodate reduction](#iodate-reduction)
 - [Bifidobacterium](#bifidobacterium)
-- [Clostridium](#clostridium)
-  - [Clostridium difficile](#clostridium-difficile)
+- [Clostridia](#clostridia) クロストリジウム綱
+- [Clostridium](#clostridium) クロストリジウム属
+- [Clostridium difficile](#clostridium-difficile)
 - [Geobacter](#geobacter)
 - [Mycobacterium](#mycobacterium)
 - [Pseudomonas](#pseudomonas)
@@ -408,6 +409,15 @@ Comparative investigation of the various determinants that influence the codon a
 Roy A1, Mukhopadhyay S, Sarkar I, Sen A.
 
 ----------
+
+## Clostridia
+https://ja.wikipedia.org/wiki/クロストリジウム綱
+クロストリジウム綱（Clostridia）は、クロストリジウム属（Clostridium）および他の同様の属を含み、高度な多系統群であるフィルミクテス門の綱である。
+
+https://www.ncbi.nlm.nih.gov/pubmed/31076745
+Genome Biol Evol. 2019 May 10. pii: evz096. doi: 10.1093/gbe/evz096. [Epub ahead of print]
+Revisiting the evolution and taxonomy of Clostridia, a phylogenomic update.
+Cruz-Morales P1, Orellana CA1, Moutafis G2, Moonen G2, Rincon G2, Nielsen LK1, Marcellin E1.
 
 ## Clostridium
 - https://ja.wikipedia.org/wiki/クロストリジウム属
@@ -1397,6 +1407,20 @@ Fig. 2.
 Neighbour-joining tree based on gyrB gene sequences, showing the phylogenetic position of strain KX27T within the genus Shewanella . 
 Pseudoalteromonas haloplanktis ATCC 14394T and Escherichia coli ATCC 25922T were used as the outgroup.
 
+https://www.ncbi.nlm.nih.gov/pubmed/15653901
+Int J Syst Evol Microbiol. 2005 Jan;55(Pt 1):363-8.
+Shewanella decolorationis sp. nov., a dye-decolorizing bacterium isolated from activated sludge of a waste-water treatment plant.
+Xu M1, Guo J, Cen Y, Zhong X, Cao W, Sun G.
+https://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.63157-0.F1
+Fig. 1.
+Phylogenetic trees of the genus Shewanella based on 16S rRNA and gyrB gene sequences.
+
+
+
+
+
+
+
 ### Shewanella_comparative_genomics
 比較ゲノム
 
@@ -2171,6 +2195,8 @@ https://www.g3journal.org/content/ggg/9/5/1321.full.pdf
 - Bacteria, such as Pseudomonas putida KT2440 and P. stutzeri TS44, possess genes whose products allow resistance to and metabolism of arsenic compounds (Andres and Bertin 2016). We report that the SCT genome contains genes putatively involved in such processes; these include several genes encoding ArsR family transcriptional regulators; spxA (locus_tag: PSCT_01329) and arsC (locus_tag: PSCT_01343 and PSCT_04450); genes encoding “arsenate reductase [EC:1.20.4.1]” (KEGG: K00537 and K03741), arsA (locus_tag: PSCT_02478), which encodes “arsenite/tail-anchored protein-transporting ATPase [EC:3.6.3.16 3.6.3.-]” (KEGG: K01551); and ubiG (locus_tag: PSCT_04351), which encodes “arsenite methyltransferase [EC:2.1.1.137]” (KEGG: K07755). There is a cluster of six genes azr-ywlE-aseR-arsC1-czcO-CDS (contig accession number: BDJA01000003; locus_tag range: PSCT_01732 to PSCT_01737); of these, azr encodes “arsenical resistance protein ArsH” (KEGG: K11811), ywlE encodes “arsenate reductase [EC:1.20.4.1]” (KEGG: K03741), aseR and arsC1 encode “ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor” (KEGG: K03892), czcO encodes “putative oxidoreductase CzcO”, and the CDS encodes “arsenite transporter” (KEGG: K03325). These results suggest that strain SCT can potentially resist and metabolize arsenic compounds.
 - DATA AVAILABILITY
 Supplemental material available at Figshare: https://doi.org/10.25387/g3.7829321.
+
+Data for Pseudomonas sp. strain SCT genes. The columns are as follows: contig accession number, locus_tag, length in amino acids (Laa), G+C content at the third codon position (GC3), binary number (1 or 0) indicating whether the gene is phage-like or not (Prophage), binary number (1 or 0) indicating whether the gene is strain-specific or not (Strain Specific), functional annotations by Prokka (gene and product names), annotations from the UniRef90 database, and annotations from the KEGG database (KEGG_Entry, KEGG_Definition, and KEGG_Pathway).
 
 https://www.ncbi.nlm.nih.gov/pubmed/30510597
 J Genomics. 2018 Nov 15;6:122-126. doi: 10.7150/jgen.27741. eCollection 2018.
