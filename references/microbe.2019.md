@@ -22,11 +22,48 @@ Last Update: 2019-05
 - [porphyrin](#porphyrin) ポルフィリン
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
+- [metasub](#metasub)
 
+----------
+## metasub
+
+https://github.com/haruosuz/metasub/blob/master/README.md#csd
+6月21日 グローバル シティ サンプリング デー の目的
+http://metasub.org/global-city-sampling-day/
+```
+The data generated from these days will be used to address the key aims of the MetaSUB study:
+1. To create geospatial metagenomic and forensic genetic maps
+2. Identify and track antimicrobial resistance markers (AMRs) in the urban built environment
+3. Identify novel biosynthetic gene clusters (BCGs) for drug discovery
+```
+
+https://www.youtube.com/watch?v=0FSiRhkZKp8 【ICF2017】バイオテクノロジーセッション
+都市の微生物遺伝子解析プロジェクトMetaSUB
+```
+10:00- ヒトの微生物群集
+12:00- 都市の微生物群集
+13:00- 都市（ニューヨークの地下鉄）のメタゲノム
+15:40- 世界中の都市のメタゲノム（MetaSUB）
+16:40- Global City Sampling Day
+18:05- オリンピック
+18:40- 携帯電話（StuckOnU）
+```
+
+https://www.rtri.or.jp/rd/news/human/human_201603.html
+公益財団法人鉄道総合技術研究所｜人間科学ニュース 2016年3月号（第202号）
+遺伝子で鉄道の環境を見る
+例えば鉄道では、路線ごとの環境の特徴の有無が分かることで、路線ごとに適した施策を行う事ができます。また、外国からの観光客や労働者等の増加が見込まれ環境の変化が考えられますが、その変化が予測可能となることで有効な施策を提案することが可能となるでしょう。さらに、環境中の生物の伝播（移動）の様子が把握できれば、インフルエンザなどの感染症の発生時の対策やバイオテロなどの不測の事態に備えるための有用な情報が得られるかもしれません。
+
+https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+ジェシカ・グリーン「微生物を正しく取り除くために」
+今この瞬間にも あなた方は 微生物を互いに交換し合っています
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」
+NY地下鉄の細菌マップ
 
 ----------
 ## 2019-05-19
-
 
 https://link.springer.com/article/10.1007/s002030000163
 Carotenoids of an Antarctic psychrotolerant bacterium, Sphingobacterium antarcticus, and a mesophilic bacterium, Sphingobacterium multivorum | SpringerLink
