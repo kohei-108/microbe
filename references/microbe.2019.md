@@ -34,6 +34,11 @@ Carotenoids of an Antarctic psychrotolerant bacterium, Sphingobacterium antarcti
 In vitro studies with synthetic membranes of phosphatidylcholine demonstrated that the major pigment was bound to the membranes and decreased their fluidity
 
 
+https://www.ls.toyaku.ac.jp/~lcb-7/keywords/lowtemp.html
+低温適応
+低温では常温菌や好熱菌はほとんど生育できないが、低温菌は細胞内の諸機構が低温に適応して生育速度を維持している。低温で生育の遅くなる最大の理由は酵素反応速度がアーレニウスの法則に従って急速に低下することによる。本文で述べたように、低温菌の酵素は酵素反応速度が低温で低下しないような機構を獲得している。
+常温菌が低温で生育できないもう一つの理由は低温での細胞膜の流動性の低下にある。膜脂質の流動性が膜タンパク質の機能発現にとって重要であるが、膜脂質は低温で液晶状態からゲル状態へ相転移をおこして流動性を低下させる。低温菌は脂質の不飽和度を増加させて相転移温度を低下させ、低温での膜脂質流動性を確保することにより低温に適応している。
+
 https://www.brh.co.jp/seimeishi/journal/062/research_1.html
 RESEARCH ─ 研究を通して ─：生きた膜を支える脂質の分子運動
 4. 脂質の分子運動の恒常性
