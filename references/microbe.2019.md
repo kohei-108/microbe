@@ -24,11 +24,17 @@ Last Update: 2019-05
 - [unclassified](#unclassified)
 - [metasub](#metasub)
 
+
+https://www3.nhk.or.jp/news/html/20190518/k10011921101000.html
+地下鉄構内のＰＭ2.5 閉鎖空間で高濃度「実態調査を」 | NHKニュース
+
 ----------
 ## metasub
 
 https://github.com/haruosuz/metasub/blob/master/README.md#olympiome
 オリンピック前後の微生物群集の変化
+
+https://t.co/LOOfyINmXi Brazilian Researchers Profile Microbiome of Rio Before, During, After Olympic Games | GenomeWeb
 
 https://github.com/haruosuz/metasub/blob/master/README.md#csd
 6月21日 グローバル シティ サンプリング デー の目的
@@ -65,13 +71,21 @@ https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?lang
 ジェシカ・グリーン「微生物を正しく取り除くために」
 今この瞬間にも あなた方は 微生物を互いに交換し合っています
 
+https://www.kinokuniya.co.jp/f/dsg-01-9784314011440
+マイクロバイオームの世界―あなたの中と表面と周りにいる何兆もの微生物たち
+第3章　私たちの体表やまわりに何がいるか？
+スキン・ゲーム｜ジャマーとキーボードの共通点は？｜へそ｜最初のマイクロバイオームを獲得する｜地下鉄｜わが家は心――と微生物――のありか
+
+
 https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#featuring
 
 感染症の増加要因として、都市化による過密/人口の集中、交通機関の発達による高速移動や国際交流の激増が挙げられます。
 http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
 
+
 https://ja.wikipedia.org/wiki/実験計画法
 次に、品種・施肥量・圃場の3因子につき各3水準を設定するとしよう。一般には全部で 3 x 3 x 3 = 27 通りの実験が必要である。しかし、交互作用が無視できる場合には表2 に示すように9通りに減らすことができ、この方法は一般には予備実験として利用できる（
+
 
 ----------
 ## 2019-05-19
@@ -567,3 +581,9 @@ https://www.biorxiv.org/content/10.1101/495085v2
 Nitric oxide radicals are emitted by wasp eggs to kill mold fungi | bioRxiv
 
 ----------
+
+
+
+
+
+
