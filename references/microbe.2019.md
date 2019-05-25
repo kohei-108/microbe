@@ -35,7 +35,7 @@ https://doi.org/10.7875/togotv.2017.023
 2017-03-21 NCBI BLASTの使い方 〜基本編〜 2017
 
 2018-11-09
-http://doi.org/10.7875/ajacs.2018.025
+https://togotv.dbcls.jp/ajacs2018025.html
 ゲノムデータベースと次世代シークエンスデータベース
 Protein BLAST も試してみましょう
 GTFII-I のアミノ酸配列を UniProtKB/SwissProt データベースに対して検索した結果
