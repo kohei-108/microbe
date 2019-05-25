@@ -28,8 +28,8 @@ Last Update: 2019-05
 ----------
 ## blast
 
-https://togotv.dbcls.jp/ja/genome.html
-ゲノム、核酸配列・構造解析
+https://doi.org/10.7875/togotv.2019.108
+2019-05-24 NCBIを使ってアミノ酸配列を検索して取得する
 
 https://doi.org/10.7875/togotv.2017.023
 2017-03-21 NCBI BLASTの使い方 〜基本編〜 2017
@@ -39,6 +39,9 @@ https://togotv.dbcls.jp/ajacs2018025.html
 ゲノムデータベースと次世代シークエンスデータベース
 Protein BLAST も試してみましょう
 GTFII-I のアミノ酸配列を UniProtKB/SwissProt データベースに対して検索した結果
+
+https://togotv.dbcls.jp/ja/genome.html
+ゲノム、核酸配列・構造解析
 
 ----------
 ## metasub
