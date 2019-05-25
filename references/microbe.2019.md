@@ -23,10 +23,22 @@ Last Update: 2019-05
   - [hemoglobin](#hemoglobin) ヘモグロビン
 - [unclassified](#unclassified)
 - [metasub](#metasub)
+- [blast](#blast)
 
+----------
+## blast
 
-https://www3.nhk.or.jp/news/html/20190518/k10011921101000.html
-地下鉄構内のＰＭ2.5 閉鎖空間で高濃度「実態調査を」 | NHKニュース
+https://togotv.dbcls.jp/ja/genome.html
+ゲノム、核酸配列・構造解析
+
+https://doi.org/10.7875/togotv.2017.023
+2017-03-21 NCBI BLASTの使い方 〜基本編〜 2017
+
+2018-11-09
+http://doi.org/10.7875/ajacs.2018.025
+ゲノムデータベースと次世代シークエンスデータベース
+Protein BLAST も試してみましょう
+GTFII-I のアミノ酸配列を UniProtKB/SwissProt データベースに対して検索した結果
 
 ----------
 ## metasub
@@ -86,6 +98,9 @@ http://www.med.osaka-cu.ac.jp/hostdefense/ITLectApr01.html
 https://ja.wikipedia.org/wiki/実験計画法
 次に、品種・施肥量・圃場の3因子につき各3水準を設定するとしよう。一般には全部で 3 x 3 x 3 = 27 通りの実験が必要である。しかし、交互作用が無視できる場合には表2 に示すように9通りに減らすことができ、この方法は一般には予備実験として利用できる（
 
+
+https://www3.nhk.or.jp/news/html/20190518/k10011921101000.html
+地下鉄構内のＰＭ2.5 閉鎖空間で高濃度「実態調査を」 | NHKニュース
 
 ----------
 ## 2019-05-19
