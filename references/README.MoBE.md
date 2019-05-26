@@ -50,13 +50,15 @@ Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
 Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
 Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
 
-
 https://twitter.com/ForbesScience/status/1100783871237464064
 Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
 10:45 AM - 27 Feb 2019
 https://twitter.com/LinhAnhCat/status/1100140109641306112
 Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
 4:06 PM - 25 Feb 2019
+https://twitter.com/SfAMtweets/status/1100413682754801675
+SfAM Microbiology on Twitter: "'Another reason why urban and suburban sites have more pathogenic bacteria compared to rural zones are the differences in biological sources of bacteria. In cities, humans incubate and shed bacteria that contribute to the urban air microbiome.' https://t.co/jD9E77L0la"
+10:14 AM - 26 Feb 2019
 https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
 Urbanization Increases Infectious Microbes In The Air
 https://www.ncbi.nlm.nih.gov/pubmed/30772579
