@@ -35,10 +35,31 @@ https://ja.wikipedia.org/wiki/建造環境
 
 ## 2019
 
+https://twitter.com/search?q=bacteria%20urbanization
+
+https://twitter.com/ForbesScience/status/1100783871237464064
+Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
+10:45 AM - 27 Feb 2019
+https://twitter.com/LinhAnhCat/status/1100140109641306112
+Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
+4:06 PM - 25 Feb 2019
+https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes/#466b7c3c2c9b
+Urbanization Increases Infectious Microbes In The Air
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/31046835
+Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
+Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
+Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
+
+
+都市水域のメタゲノム解析により抗生物質耐性のリザーバーを発見。モンテビデオ市（ウルグアイの首都）の沿岸地域（ビーチと下水サンプルを含む）のショットガン・メタゲノミクス・シーケンスにより、細菌群集と病原性・抗生物質耐性レパートリーを調べた。抗生物質耐性遺伝子 antibiotic resistance genes (ARGs) は細菌の染色体よりも可動性遺伝因子（プラスミド）に広く存在した（Fig. 3）
 https://www.ncbi.nlm.nih.gov/pubmed/30819245
 Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
 Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
 Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0648-z
+
 
 臨床現場の表面に存在する微生物叢を他の建築環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
 https://www.nature.com/articles/s41467-019-08864-0
@@ -590,8 +611,6 @@ http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
 ## phone
 携帯電話
 
-[StuckOnU](https://github.com/haruosuz/metasub/blob/master/README.md#stuckonu)
-
 ![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
 
 http://www.jgenomics.com/v07p0026
@@ -611,6 +630,15 @@ https://www.aqua-club.co.jp/products/mil-kin/
 https://www.mil-kin.com/
 バクテリアセルフチェッカー mil-kin
 
+### [StuckOnU](http://metasub.org/stuckonu/)
+**携帯電話の微生物群集DNAを調査**
+
+![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
+
+- [StuckOnU JPM Jan 2017](http://metasub.org/stuckonu2017/)
+- [StuckOnU ABRF 2017 - MetaSUB](http://metasub.org/stuckonu-abrf-2017/) ABRF San Diego Mar 24th-29th 2017
+- 2017-03-28 https://twitter.com/mason_lab/status/846879838577176576 Christopher Mason on Twitter: "#ABRF2017 slides from the #StuckOnU presentation about the metagenomics of the conference https://t.co/3MPfrkktZj"
+- 2017-01-11 https://twitter.com/mason_lab/status/819314001158885378 Christopher Mason on Twitter: "A 36-hour, 96-person #JPM17 metagenome: collect, extract, prep, sequence, analysis, and paper: https://t.co/F2YacBrFYE #StuckonU @illumina"
 
 ----------
 ## space
@@ -687,13 +715,29 @@ Before DNA extraction, half of the sample was treated with propidium monoazide (
 
 #### 2019-01-08
 
-https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
-https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
-https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
 https://www.ncbi.nlm.nih.gov/pubmed/30637341
 mSystems. 2019 Jan 8;4(1). pii: e00281-18. doi: 10.1128/mSystems.00281-18. eCollection 2019 Jan-Feb.
 Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
 Blaustein RA1, McFarland AG1, Ben Maamar S1, Lopez A2, Castro-Wallace S3, Hartmann EM1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325168/
+FIG 3
+(C) Phylogenetic tree constructed from core gene codon alignment with midpoint rooting.
+
+All data and bioinformatics and R scripts that may be used to reproduce our analyses are available at https://github.com/hartmann-lab/BE_ISS_pangenomes.
+
+https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
+
+January 8, 2019
+https://www.sciencedaily.com/releases/2019/01/190108141336.htm
+Space microbes aren't so alien after all: Genetic evidence shows bacteria on the International Space Station are adapting to survive, not to harm -- ScienceDaily
+
+https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
+https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
+
+
+
+
+
 
 #### 
 
