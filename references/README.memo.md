@@ -190,6 +190,11 @@ https://www.nite.go.jp/nbrc/safety/risk_assessment.html
 ----------
 ## species
 
+Posted May 24, 2019.
+https://www.biorxiv.org/content/10.1101/647511v1
+Consistent metagenome-derived metrics verify and define bacterial species boundaries
+- Bacterial genomes from the human gut, soil, and the ocean all exhibited gaps in whole-genome average nucleotide identities (ANI) near the previously suggested species threshold of 95% ANI. While genome-wide ratios of non-synonymous and synonymous nucleotide differences (dN/dS) decrease until ANI values approach ~98%, estimates for homologous recombination approached zero at ~95% ANI, supporting breakdown of recombination due to sequence divergence as a species-forming force. 
+
 https://www.sciencedirect.com/science/article/pii/S0960982219300624
 Systematics: The Cohesive Nature of Bacterial Species Taxa - ScienceDirect
 
