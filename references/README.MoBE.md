@@ -29,7 +29,6 @@ https://ja.wikipedia.org/wiki/建造環境
 ----------
 ## featuring
 
-
 ----------
 ## updates
 
@@ -37,21 +36,41 @@ https://ja.wikipedia.org/wiki/建造環境
 
 https://twitter.com/search?q=bacteria%20urbanization
 
+
+都市化傾度に沿った河川細菌群集の変化
+24 May 2019
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14694
+In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
+
+
+https://twitter.com/leungmarcus/status/1125925446187606022
+New work from @andyhois @yeipijotape @gilbertjacka and colleagues published @MicrobiomeJ
+https://www.ncbi.nlm.nih.gov/pubmed/31046835
+Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
+Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
+Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
+
+
 https://twitter.com/ForbesScience/status/1100783871237464064
 Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
 10:45 AM - 27 Feb 2019
 https://twitter.com/LinhAnhCat/status/1100140109641306112
 Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization increases both number of airborne microbes and proportion of pathogenic bacteria, increasing risks to human health. https://t.co/QoaHxEVV6z"
 4:06 PM - 25 Feb 2019
-https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes/#466b7c3c2c9b
+https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
 Urbanization Increases Infectious Microbes In The Air
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/31046835
-Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
-Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
-Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
-
+https://www.ncbi.nlm.nih.gov/pubmed/30772579
+Sci Total Environ. 2019 May 15;665:61-68. doi: 10.1016/j.scitotenv.2019.01.367. Epub 2019 Feb 3.
+Spatial and seasonal variation of the airborne microbiome in a rapidly developing city of China.
+Li H1, Zhou XY1, Yang XR1, Zhu YG2, Hong YW3, Su JQ4.
+https://www.sciencedirect.com/science/article/pii/S0048969719304176
+```
+Highlights
+•Firmicutes and Proteobacteria predominated in airborne bacterial communities.
+•AM was higher diversity in summer compared with that in spring.
+•Communities of AM and pathogens varied in sites with different urbanization levels.
+•Relative abundance of potential human pathogens increased with urbanization levels.
+```
 
 都市水域のメタゲノム解析により抗生物質耐性のリザーバーを発見。モンテビデオ市（ウルグアイの首都）の沿岸地域（ビーチと下水サンプルを含む）のショットガン・メタゲノミクス・シーケンスにより、細菌群集と病原性・抗生物質耐性レパートリーを調べた。抗生物質耐性遺伝子 antibiotic resistance genes (ARGs) は細菌の染色体よりも可動性遺伝因子（プラスミド）に広く存在した（Fig. 3）
 https://www.ncbi.nlm.nih.gov/pubmed/30819245
