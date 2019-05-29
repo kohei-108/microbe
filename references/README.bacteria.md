@@ -29,6 +29,9 @@ Last Update: 2019-05
   - DLD
   - Bromate Reduction
 - [Shewanella](#shewanella)
+  - [Shewanella_phylogeny](#shewanella_phylogeny)
+  - [Shewanella_comparative_genomics](#shewanella_comparative_genomics)
+  - [Shewanella_space](#shewanella_space)
 - [Sinorhizobium](#sinorhizobium)
   - KGO-5
 - [mitochondria](#mitochondria) 
@@ -498,6 +501,10 @@ https://medley.life/news/5a3c53f7af9647751ea32743/
 2017年12月25日
 https://www.newsweekjapan.jp/stories/world/2017/12/post-9194.php
 「うんちカプセル」のすご過ぎる効果
+
+2017/2/20
+http://yfuruta.sakura.ne.jp/blog/?p=839
+糞便移植と糞便バンク
 
 2017/02/03
 http://www.carenet.com/news/general/hdn/43324
@@ -1414,12 +1421,6 @@ Xu M1, Guo J, Cen Y, Zhong X, Cao W, Sun G.
 https://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.63157-0.F1
 Fig. 1.
 Phylogenetic trees of the genus Shewanella based on 16S rRNA and gyrB gene sequences.
-
-
-
-
-
-
 
 ### Shewanella_comparative_genomics
 比較ゲノム
