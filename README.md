@@ -39,6 +39,42 @@ Last Update: 2019-05
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 
 ----------
+### allergy
+アレルギー
+
+https://ja.wikipedia.org/wiki/アレルギー#衛生仮説
+https://en.wikipedia.org/wiki/Hygiene_hypothesis
+
+2017年06月22日
+https://hc.nikkan-gendai.com/articles/207898
+米医学誌に研究結果 ペットの微生物が赤ちゃんを丈夫に｜日刊ゲンダイヘルスケア
+
+2017 May 9
+http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
+The microbiome–asthma connection
+
+2017年4月12日
+https://the-mal.com/news/furry-pets-influences-the-gut-microbiota
+【ニュース】猫や犬を飼うことは乳幼児の肥満やアレルギーの予防につながる？
+
+2017.04.11
+https://woofoo.jp/editors_desk/infant-exposure-to-pets/
+人生早期にペットと暮らすことは過体重とアレルギーリスクを減少させる（研究） | the WOOF イヌメディア
+
+https://www.ncbi.nlm.nih.gov/pubmed/28600901
+Allergy. 2017 Dec;72(12):1859-1867. doi: 10.1111/all.13220. Epub 2017 Jun 28.
+Influences of environmental bacteria and their metabolites on allergies, asthma, and host microbiota.
+http://onlinelibrary.wiley.com/doi/10.1111/all.13220/full
+
+2016年9月29日
+http://aasj.jp/news/watch/5850
+9月29日：農家で育つとアレルギーになりにくい（Thoraxオンライン版掲載論文） | AASJホームページ
+
+2012年07月02日
+http://karapaia.com/archives/52091457.html
+子どもの頃から犬や猫を飼っていると将来的に喘息になるリスクが低下する（米国微生物学会） : カラパイア
+
+----------
 ## meeting
 
 https://twitter.com/NatureRevMicro/status/1110131599088209920
@@ -79,9 +115,9 @@ Events in Microbial Ecology | ISME
 ----------
 ## featuring
 
-https://ja.wikipedia.org/wiki/アレルギー#衛生仮説
-https://en.wikipedia.org/wiki/Hygiene_hypothesis
 
+https://ja.wikipedia.org/wiki/メアリー・マローン
+メアリー・マローン（Mary Mallon、1869年9月23日 - 1938年11月11日）は、世界で初めて臨床報告されたチフス菌(Salmonella enterica serovar Typhi)の健康保菌者（発病はしないが病原体に感染している不顕性感染となり感染源となる人）。
 
 掲載日：2018年3月23日
 https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
@@ -106,6 +142,11 @@ An equation‐free method reveals the ecological interaction networks within com
 
 
 ## 2019
+
+2019年5月7日（火）17時30分
+https://www.newsweekjapan.jp/stories/world/2019/05/post-12076.php
+宇宙滞在で遺伝子や腸内細菌叢が変化していた──双子の宇宙飛行士の比較研究 | 
+宇宙飛行中のスコット氏の腸内細菌叢は、宇宙飛行前のものとまったく異なっていた。フリーズドライ食品やレトルト食品を中心とする食生活に変化したためとみられているが、宇宙特有の環境要因が影響を与えた可能性も否定できない。なお、帰還後には、宇宙飛行前の腸内細菌叢の状態に戻っている。
 
 2019年5月8日 12:48
 https://www.afpbb.com/articles/-/3224016
@@ -958,33 +999,6 @@ http://www.asahi.com/articles/ASKCZ6GS4KCZUBQU011.html
 微生物学への扉を開いたレーウェンフックの顕微鏡：朝日新聞デジタル 
 
 ----------
-### Allergy
-アレルギー
-
-2017年06月22日
-https://hc.nikkan-gendai.com/articles/207898
-米医学誌に研究結果 ペットの微生物が赤ちゃんを丈夫に｜日刊ゲンダイヘルスケア
-
-https://the-mal.com/news/furry-pets-influences-the-gut-microbiota
-【ニュース】猫や犬を飼うことは乳幼児の肥満やアレルギーの予防につながる？
-
-https://woofoo.jp/editors_desk/infant-exposure-to-pets/
-人生早期にペットと暮らすことは過体重とアレルギーリスクを減少させる（研究） | the WOOF イヌメディア
-
-http://karapaia.com/archives/52091457.html
-子どもの頃から犬や猫を飼っていると将来的に喘息になるリスクが低下する（米国微生物学会） : カラパイア
-
-https://www.ncbi.nlm.nih.gov/pubmed/28600901
-Allergy. 2017 Dec;72(12):1859-1867. doi: 10.1111/all.13220. Epub 2017 Jun 28.
-Influences of environmental bacteria and their metabolites on allergies, asthma, and host microbiota.
-http://onlinelibrary.wiley.com/doi/10.1111/all.13220/full
-
-
-
-
-
-
-----------
 ## people
 ### Jack Gilbert
 
@@ -1014,6 +1028,9 @@ https://www.nig.ac.jp/nig/pdf/research/ja/interviews/faculty-interviews/FI_kurok
 ## protists
 原生生物
 https://ja.wikipedia.org/wiki/ゾウリムシ
+
+https://www.nature.com/articles/s41396-019-0433-9
+Deianiraea , an extracellular bacterium associated with the ciliate Paramecium , suggests an alternative scenario for the evolution of Rickettsiales
 
 https://twitter.com/DiamantisSellis/status/1088834133944688640
 Diamantis Sellis on Twitter: "Interesting paper on the macronuclear genome of Paramecium bursaria! https://t.co/Jh3o6ruAOD #ciliate #Genomics… "
@@ -1054,9 +1071,6 @@ https://www.jstage.jst.go.jp/article/hikakuseiriseika/33/3/33_108/_article/-char
 
 http://www.nibb.ac.jp/press/2014/06/11.html
 プレスリリース - ミドリゾウリムシとクロレラの細胞内共生に伴う遺伝子発現の変化を解明
-
-
-
 
 
 ----------
@@ -1226,37 +1240,6 @@ June 27th is a day to celebrate all things Microbiome around the world. The 1st 
 - https://twitter.com/bactery_bot ばくてり～細菌擬人化bot～ (@bactery_bot)
 - https://twitter.com/AAD_Japan Save ABx Japan (@AAD_Japan) | 抗菌薬、薬剤耐性菌
 - 
-- https://twitter.com/search?q=%22土・牛・微生物%22
-- https://twitter.com/search?q=%22抗生物質と人間%22
-- https://twitter.com/search?q=%22微生物の驚異%22
-- https://twitter.com/search?q=%22マイクロバイオームの世界%22
-- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
-- https://twitter.com/search?q=あなたの体は９割が細菌
-- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
-- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
-
-http://sciencebook.blog110.fc2.com
-科学に佇む一行読書の書斎
-
-【2016/06/20】
-http://sciencebook.blog110.fc2.com/blog-entry-2222.html
-『 ミニ特集：心の健康と腸内フローラ 』
-
-【2016/02/27】
-http://sciencebook.blog110.fc2.com/blog-entry-2083.html
-『 ミニ特集：免疫をめぐる腸内細菌と寄生虫 』
-
-【2005/03/05】
-http://sciencebook.blog110.fc2.com/blog-entry-310.html
-『 セカンド・ブレイン　腸にも脳がある！ 』
-
-【2014/12/10】
-http://sciencebook.blog110.fc2.com/blog-entry-2251.html
-『 納豆の起源 』
-
-【2010/08/07】
-http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
-『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
 
 
 ----------
