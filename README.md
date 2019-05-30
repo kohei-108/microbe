@@ -49,16 +49,17 @@ https://en.wikipedia.org/wiki/Hygiene_hypothesis
 https://hc.nikkan-gendai.com/articles/207898
 米医学誌に研究結果 ペットの微生物が赤ちゃんを丈夫に｜日刊ゲンダイヘルスケア
 
+土壌中の細菌への曝露は精神的健康に良いことがあり、うつ病を治療してPTSDを予防することができる
 May 30, 2017
 https://qz.com/993258/dirt-has-a-microbiome-and-it-may-double-as-an-antidepressant/
 Exposure to the bacteria in soil can be good for mental health, and could treat depression and prevent PTSD — Quartz
-Researchers have already found clear evidence that childhood exposure to outdoor microbes is linked to a more robust immune system; for example, Bavarian farm children who spent time in family animal stables and drank farm milk had drastically lower rates of asthma and allergies throughout their lives than their neighbors who did not.
-- https://www.nature.com/news/early-exposure-to-germs-has-lasting-benefits-1.10294
+- Researchers have already found clear evidence that childhood exposure to outdoor microbes is linked to a more robust immune system; for example, Bavarian farm children who spent time in family animal stables and drank farm milk had drastically lower rates of asthma and allergies throughout their lives than their neighbors who did not.
+  - https://www.nature.com/news/early-exposure-to-germs-has-lasting-benefits-1.10294
 Early exposure to germs has lasting benefits
 Findings help to explain how microbes programme a developing immune system.
 Helen Thompson
 22 March 2012
-- https://www.ncbi.nlm.nih.gov/pubmed/11597666
+  - https://www.ncbi.nlm.nih.gov/pubmed/11597666
 Lancet. 2001 Oct 6;358(9288):1129-33.
 Exposure to farming in early life and development of asthma and allergy: a cross-sectional survey.
 Riedler J1, Braun-Fahrländer C, Eder W, Schreuer M, Waser M, Maisch S, Carr D, Schierl R, Nowak D, von Mutius E; ALEX Study Team.
