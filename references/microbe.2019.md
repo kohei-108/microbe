@@ -31,6 +31,14 @@ Last Update: 2019-05
 
 https://github.com/haruosuz/codon/blob/master/README.md
 
+https://github.com/haruosuz/codon/blob/master/README.md#heterologous-gene-expression
+異種遺伝子発現
+
+https://github.com/haruosuz/codon/blob/master/README.md#tools
+ツール
+OPTIMIZER: a web server for optimizing the codon usage of DNA sequences. 
+JCat: a novel tool to adapt codon usage of a target gene to its potential expression host. 
+
 https://github.com/haruosuz/codon/blob/master/README.md#growth-rate
 増殖速度
 
