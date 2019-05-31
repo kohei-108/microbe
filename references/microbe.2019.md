@@ -36,11 +36,39 @@ https://github.com/haruosuz/codon/blob/master/README.md#heterologous-gene-expres
 
 https://github.com/haruosuz/codon/blob/master/README.md#tools
 ツール
-OPTIMIZER: a web server for optimizing the codon usage of DNA sequences. 
-JCat: a novel tool to adapt codon usage of a target gene to its potential expression host. 
 
 https://github.com/haruosuz/codon/blob/master/README.md#growth-rate
 増殖速度
+
+### Xanthophyllomyces dendrorhous
+
+https://github.com/haruosuz/codon/blob/master/README.md#database
+データベース
+Codon Usage Database
+http://www.kazusa.or.jp/codon/cgi-bin/showcodon.cgi?species=5421
+```
+Xanthophyllomyces dendrorhous [gbpln]: 32 CDS's (11219 codons)
+fields: [triplet] [frequency: per thousand] ([number])
+UUU 19.1(   214)  UCU 16.8(   189)  UAU 12.7(   142)  UGU  4.0(    45)
+UUC 27.5(   308)  UCC 18.4(   206)  UAC 20.3(   228)  UGC  6.0(    67)
+UUA  7.4(    83)  UCA 11.1(   124)  UAA  1.2(    13)  UGA  1.2(    14)
+UUG 20.1(   226)  UCG 15.6(   175)  UAG  0.4(     5)  UGG 15.3(   172)
+
+CUU 24.4(   274)  CCU 23.7(   266)  CAU  8.6(    97)  CGU  4.4(    49)
+CUC 30.8(   346)  CCC 18.8(   211)  CAC 12.7(   143)  CGC  2.2(    25)
+CUA  9.3(   104)  CCA 11.1(   124)  CAA 10.1(   113)  CGA 22.6(   254)
+CUG 13.4(   150)  CCG 10.6(   119)  CAG 18.1(   203)  CGG  7.9(    89)
+
+AUU 16.1(   181)  ACU 12.4(   139)  AAU  6.6(    74)  AGU  8.1(    91)
+AUC 34.2(   384)  ACC 20.5(   230)  AAC 20.9(   235)  AGC  8.4(    94)
+AUA  3.0(    34)  ACA 10.3(   116)  AAA 14.6(   164)  AGA 12.3(   138)
+AUG 22.6(   254)  ACG  8.3(    93)  AAG 36.8(   413)  AGG  8.9(   100)
+
+GUU 20.1(   226)  GCU 27.1(   304)  GAU 26.0(   292)  GGU 17.8(   200)
+GUC 30.8(   346)  GCC 27.5(   308)  GAC 26.9(   302)  GGC 12.3(   138)
+GUA  6.7(    75)  GCA 13.7(   154)  GAA 26.0(   292)  GGA 27.4(   307)
+GUG 12.3(   138)  GCG  9.7(   109)  GAG 36.4(   408)  GGG  9.1(   102)
+```
 
 https://www.ncbi.nlm.nih.gov/pubmed/25887493
 BMC Genomics. 2015 Apr 13;16:293. doi: 10.1186/s12864-015-1493-5.
