@@ -24,6 +24,31 @@ Last Update: 2019-05
 - [unclassified](#unclassified)
 - [metasub](#metasub)
 - [blast](#blast)
+- [codon](#codon)
+
+----------
+## codon
+
+https://github.com/haruosuz/codon/blob/master/README.md
+
+https://github.com/haruosuz/codon/blob/master/README.md#growth-rate
+増殖速度
+
+https://www.ncbi.nlm.nih.gov/pubmed/25887493
+BMC Genomics. 2015 Apr 13;16:293. doi: 10.1186/s12864-015-1493-5.
+Codon usage and codon context bias in Xanthophyllomyces dendrorhous.
+Baeza M1, Alcaíno J2, Barahona S3, Sepúlveda D4, Cifuentes V5.
+
+- https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#ncbi-genome-list
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Xanthophyllomyces%20dendrorhous
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/eukaryotes/Xanthophyllomyces%20dendrorhous
+
+```
+$grep "Xanthophyllomyces dendrorhous" overview.txt 
+Xanthophyllomyces dendrorhous	Eukaryota	Fungi	Basidiomycetes	19.5195	-	-	-	2
+Xanthophyllomyces dendrorhous virus L1A	Viruses	dsRNA viruses	Totiviridae	0.004655	1	-	-1
+Xanthophyllomyces dendrorhous virus L1B	Viruses	dsRNA viruses	Totiviridae	0.004619	1	-	-1
+```
 
 ----------
 ## blast
