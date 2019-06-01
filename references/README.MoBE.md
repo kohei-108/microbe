@@ -25,6 +25,7 @@ https://ja.wikipedia.org/wiki/建造環境
   - [iss](#iss)
 - [subway](#subway) 地下鉄
 - [unclassified](#unclassified)
+- [urban microbiome](#urban-microbiome) 都市のマイクロバイオーム
 
 ----------
 ## featuring
@@ -136,6 +137,12 @@ DarwinBioprospecting on Twitter: "Bacteria from the built environment: the inner
 ![](https://pbs.twimg.com/media/CjJbA2EWUAECWMZ.jpg)
 
 ## 2015
+
+メタゲノミクス：都市のマイクロバイオーム
+https://www.ncbi.nlm.nih.gov/pubmed/25732610
+Nat Rev Genet. 2015 Apr;16(4):194. doi: 10.1038/nrg3921. Epub 2015 Mar 3.
+Metagenomics: Urban microbiome.
+Bahcall OG.
 
 https://twitter.com/phylogenomics/status/680137280934158336
 Jonathan Eisen on Twitter: "Nice microbiology of the built environment paper: Sources of indoor air bacteria… https://t.co/DEYhzTihaU https://t.co/IZo4uM65as"
@@ -755,11 +762,6 @@ Space microbes aren't so alien after all: Genetic evidence shows bacteria on the
 https://ja.wikipedia.org/wiki/セレウス菌 Bacillus cereus
 https://ja.wikipedia.org/wiki/黄色ブドウ球菌 Staphylococcus aureus
 
-
-
-
-
-
 #### 
 
 二次代謝産物
@@ -1105,6 +1107,43 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 
 
 ----------
+
+## urban microbiome
+都市のマイクロバイオーム
+
+都市のマイクロバイオーム：都市の隠れた足跡の発見
+https://www.frontiersin.org/research-topics/8134
+The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Research Topic
+
+https://twitter.com/kbts_sci/status/1011571324748042240
+ニューヨークの地下鉄で綿棒をこすって取れる微生物のＤＮＡの多くは、未知のものなのだそうです。身近なのに謎だらけな都市の微生物調査について興味深い取り組み。
+（ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタルTranslate Tweet
+7:26 AM - 26 Jun 2018
+
+https://twitter.com/wired_jp/status/695380136766476290
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/ …
+#バイオテクノロジー #都市 #建築Translate Tweet
+5:55 PM - 4 Feb 2016
+
+https://twitter.com/wired_jp/status/687851130433355776
+微生物は都市をこれからどう変えていくのか？ 林千晶（@chiaki）、ジェシカ・グリーン（生物学者）、デイヴィッド・ベンジャミン（建築家）が、バイオと都市の未来を語る。http://wired.jp/special/2016/biology/ …Translate Tweet
+11:17 PM - 14 Jan 2016
+
+https://wired.jp/special/2015/beyond-solution/01.html
+「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://wired.jp/special/2015/beyond-solution/01.html …Translate Tweet
+11:40 PM - 15 Jul 2015
+
+https://twitter.com/endBooks/status/385905594026033153
+”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
+7:13 PM - 3 Oct 2013
+
+
+
+----------
+
+
+
 
 
 
