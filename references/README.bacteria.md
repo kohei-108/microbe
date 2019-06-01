@@ -23,7 +23,6 @@ Last Update: 2019-05
 - [Pseudomonas](#pseudomonas)
   - [Pseudomonas aeruginosa](#pseudomonas-aeruginosa)
   - [Pseudomonas stutzeri](#pseudomonas-stutzeri)
-- codon usage bias
 - [Rhodococcus](#rhodococcus)
   - Br-6
   - DLD
@@ -38,6 +37,7 @@ Last Update: 2019-05
 - [Rickettsiales](#rickettsiales) リケッチア目
 - [Holospora](#holospora) ホロスポラ属
 - [Wolbachia](#wolbachia) ボルバキア
+- [codon usage bias](#codon-usage-bias)
 - [excerpt](#excerpt) 抜粋［引用］
 
 ----------
@@ -72,6 +72,11 @@ https://ja.wikipedia.org/wiki/ヒ素
 
 https://ja.wikipedia.org/wiki/亜ヒ酸
 亜ヒ酸（あヒさん、arsenous acid、arsenious acid）は、化学式がAs(OH)3の無機化合物である。
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2019.01210/full
+Frontiers | Arsenite Oxidation by a Newly Isolated Betaproteobacterium Possessing arx Genes and Diversity of the arx Gene Cluster in Bacterial Genomes | Microbiology
+- Figure 6. Phylogeny and grouping of ARX based on ArxAB sequences.
+- Figure 7. Phylogeny of the organisms possessing the arx genes, based on the concatenated amino acid sequences of 10 ribosomal proteins. 
 
 https://www.pnas.org/content/early/2019/04/25/1818349116
 Complete arsenic-based respiratory cycle in the marine microbial communities of pelagic oxygen-deficient zones | PNAS
@@ -1253,23 +1258,6 @@ Comparative biochemical and genetic analysis of naphthalene degradation among Ps
 Rosselló-Mora RA1, Lalucat J, García-Valdés E.
 
 ----------
-## codon usage bias
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
-Variation in the strength of selected codon usage bias among bacteria
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/table/tbl1/
-```
-    Pseaer	4	62	5566	67	87	74	−0.019	(0.484/−0.507)	940	AE004091	Pseudomonas aeruginosa
-    Pseput	7	74	5350	62	77	64	0.917	(0.360/−0.317)	966	AE015451	Pseudomonas putida
-    Psesyr	5	64	5566	58	71	58	0.701	(0.255/−0.243)	958	AE016853	Pseudomonas syringae
-```
-
-If the 40 genes are compared with only those on the leading strand, the S-value becomes 0.42, indicative of weak selection. Pseudomonas aeruginosa has an S-value close to zero (−0.02), providing no evidence for selection, whereas we previously found small but significant differences in codon usage between highly expressed and other genes (27). This discrepancy arises because the largest components of selected bias in this species relate to codons for Ser (especially UCC), Thr (ACC), Ala (GCU), Arg (CGU) and Gly (GGU), whereas frequencies of the C-ending codons for Phe, Tyr, Ile and Asn (used to calculate S) differ little between highly expressed genes and the genome as a whole (27).
-
-Perhaps the most surprising example of low codon usage bias is P.aeruginosa. This species can grow quite rapidly (doubling times <1 h) in laboratory planktonic cultures and is metabolically highly versatile. It is moderately recombinogenic via plasmid transfer, and there appear to be many horizontally transferred genes in its genome (27). The low selected bias was apparent in a full analysis of codon usage in this species (27), as well as the S-value calculated here. Selected codon usage bias is rather stronger in the two other Pseudomonas species analysed (Table 1). These paradoxical observations perhaps highlight our ignorance of the evolutionary history of even ‘well-known’ bacterial species.
-
-----------
 ## Rhodococcus
 
 - https://ja.wikipedia.org/wiki/ロドコッカス属
@@ -2181,6 +2169,30 @@ http://www.geochem.jp/journal_j/contents/pdf/47-4-209.pdf
 https://www.jstage.jst.go.jp/article/geochemproc/57/0/57_0_61/_pdf
 ヨウ素の水圏循環に与える微生物の影響
 SCT 株
+
+----------
+## codon usage bias
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
+Variation in the strength of selected codon usage bias among bacteria
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/table/tbl1/
+Table 1
+The 80 bacterial genome sequences analysed
+```
+Species codea	Gene numbersb	GC contentc	Sd	Randome	Nf	Accession nosg	Species
+rRNA	tRNA	ORF	i	ii	iii					
+Gamma proteobacteria
+
+    Sheone	9	100	4630	46	45	37	1.377	(0.313/−0.275)	983	AE014299	Shewenella oneidensis
+    Pseaer	4	62	5566	67	87	74	−0.019	(0.484/−0.507)	940	AE004091	Pseudomonas aeruginosa
+    Pseput	7	74	5350	62	77	64	0.917	(0.360/−0.317)	966	AE015451	Pseudomonas putida
+    Psesyr	5	64	5566	58	71	58	0.701	(0.255/−0.243)	958	AE016853	Pseudomonas syringae
+```
+
+If the 40 genes are compared with only those on the leading strand, the S-value becomes 0.42, indicative of weak selection. Pseudomonas aeruginosa has an S-value close to zero (−0.02), providing no evidence for selection, whereas we previously found small but significant differences in codon usage between highly expressed and other genes (27). This discrepancy arises because the largest components of selected bias in this species relate to codons for Ser (especially UCC), Thr (ACC), Ala (GCU), Arg (CGU) and Gly (GGU), whereas frequencies of the C-ending codons for Phe, Tyr, Ile and Asn (used to calculate S) differ little between highly expressed genes and the genome as a whole (27).
+
+Perhaps the most surprising example of low codon usage bias is P.aeruginosa. This species can grow quite rapidly (doubling times <1 h) in laboratory planktonic cultures and is metabolically highly versatile. It is moderately recombinogenic via plasmid transfer, and there appear to be many horizontally transferred genes in its genome (27). The low selected bias was apparent in a full analysis of codon usage in this species (27), as well as the S-value calculated here. Selected codon usage bias is rather stronger in the two other Pseudomonas species analysed (Table 1). These paradoxical observations perhaps highlight our ignorance of the evolutionary history of even ‘well-known’ bacterial species.
 
 ----------
 
