@@ -9,6 +9,17 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2019
 
+https://wired.jp/2019/06/01/cities-air-pollution-clean-photosynthesis/
+光合成する「バイオカーテン」で都市の空気をきれいに──英デザイン事務所が目指す“合成生物”としての建築｜WIRED.jp
+
+
+https://twitter.com/bluebacks_pub/status/1134294545590472704
+講談社ブルーバックス on Twitter: "【コンドルはなぜ死体を食べてお腹を壊さないのか】 くさった肉には、炭疽菌やクロストリジウム菌などの毒性の強い細菌がふくまれていることもあります。ほかの動物がこのような病原菌にさらされれば死んでしまうこともあるでしょう…… https://t.co/nrd29DXKL7 #ブルーバックス"
+11:04 PM - 30 May 2019
+https://gendai.ismedia.jp/articles/-/64643?page=2
+コンドルがお腹を壊さないワケ
+デンマークとアメリカの研究チームは、クロコンドル26羽とヒメコンドル24羽の合計50羽を調査。その結果、コンドルの頭部には528種もの細菌がいた一方、腸内には、たった76種の細菌しか見つかりませんでした。
+
 https://twitter.com/gigazine/status/1127000544873046016
 GIGAZINE(ギガジン) on Twitter: "屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に https://t.co/YjDdocWQur"
 8:00 PM - 10 May 2019
