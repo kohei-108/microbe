@@ -25,6 +25,30 @@ Last Update: 2019-05
 - [metasub](#metasub)
 - [blast](#blast)
 - [codon](#codon)
+- [transcriptome](#transcriptome)
+
+----------
+## transcriptome
+https://ja.wikipedia.org/wiki/トランスクリプトーム
+
+http://www.iu.a.u-tokyo.ac.jp/~kadota/
+門田　幸二のホームページ
+
+http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html
+(Rで)塩基配列解析
+(last modified 2019/05/31, since 2010)
+
+http://www.iu.a.u-tokyo.ac.jp/~kadota/r.html
+(Rで)マイクロアレイデータ解析
+(last modified 2019/03/17, since 2005)
+
+https://www.subioplatform.com/ja/products/subioplatform/rna-seq-vs-microarray
+RNA-Seq vs. マイクロアレイ | Subio Platform
+
+2013-01-29
+https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=557
+RNAseqとマイクロアレイによるmRNAの定量ーある解析例 | 酵母とシステムバイオロジー
+
 
 ----------
 ## codon
