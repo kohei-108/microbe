@@ -28,6 +28,41 @@ Last Update: 2019-05
 - [transcriptome](#transcriptome)
 
 ----------
+## microbedb
+http://microbedb.jp
+
+https://integbio.jp/dbcatalog/record/nbdc01181
+MicrobeDB.jp - Integbio データベースカタログ
+本DBは，微生物に関する多種多様な情報を遺伝子・系統・環境の3つの軸に沿って整理統合し，セマンティックWeb技術を利用して単一の検索ウィンドウからそれらの情報を検索可能な統合DBです。
+
+https://dbarchive.biosciencedbc.jp/jp/microbedb/desc.html
+データベースの説明 - MicrobeDB.jp | LSDB Archive
+
+http://togotv.dbcls.jp/20181221.html
+2018-12-21 微生物統合データベースMicrobeDB.jpの活用法 @ 第41回日本分子生物学会年会
+約10分
+
+https://events.biosciencedbc.jp/images/exhibition/20181128_mori.pdf
+微生物統合データベース MicrobeDB.jpの. 活用法. Nov. 28, 2018.
+
+https://events.biosciencedbc.jp/sympo/togo2018/poster/
+シンポジウム トーゴーの日シンポジウム2018 ポスター発表
+https://events.biosciencedbc.jp/images/togo2018/poster58_2018.pdf
+58	藤澤貴智	情報・システム研究機構 国立遺伝学研究所
+生命情報研究センター	MicrobeDB.jp ポータル: 統合微生物データベースのポータルサイト構築
+https://events.biosciencedbc.jp/images/togo2018/poster60_2018.pdf
+59	森宙史	情報・システム研究機構 国立遺伝学研究所
+生命情報研究センター	MicrobeDB.jpのメタゲノム解析パイプライン
+
+https://doi.org/10.7875/togotv.2018.011
+2018-01-11 微生物研究開発における微生物統合データベースMicrobeDB.jpの利用法
+約27分
+
+https://researchmap.jp/himori/
+森宙史 - 研究者 - researchmap
+
+
+----------
 ## transcriptome
 https://ja.wikipedia.org/wiki/トランスクリプトーム
 
