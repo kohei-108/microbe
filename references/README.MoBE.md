@@ -43,7 +43,6 @@ https://twitter.com/search?q=bacteria%20urbanization
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/1462-2920.14694
 In search of microbial indicator taxa: shifts in stream bacterial communities along an urbanization gradient
 
-
 https://twitter.com/leungmarcus/status/1125925446187606022
 New work from @andyhois @yeipijotape @gilbertjacka and colleagues published @MicrobiomeJ
 https://www.ncbi.nlm.nih.gov/pubmed/31046835
@@ -60,20 +59,22 @@ Linh Anh Cat on Twitter: "I cover a new study demonstrating how urbanization inc
 https://twitter.com/SfAMtweets/status/1100413682754801675
 SfAM Microbiology on Twitter: "'Another reason why urban and suburban sites have more pathogenic bacteria compared to rural zones are the differences in biological sources of bacteria. In cities, humans incubate and shed bacteria that contribute to the urban air microbiome.' https://t.co/jD9E77L0la"
 10:14 AM - 26 Feb 2019
+都市化は空気中の感染性微生物を増加させる。
+急速に発展している中国の都市（廈門市）で行われた研究は、都市化が空気中の病原菌の割合と空中浮遊微生物の全体量を増加させることを発見した。特に夏季に、都市化に伴って人の健康に対する空中浮遊微生物のリスクが高まる。
 https://www.forbes.com/sites/linhanhcat/2019/02/25/urbanization-increases-infectious-microbes
 Urbanization Increases Infectious Microbes In The Air
+急速に発展している中国の都市における空中浮遊微生物叢の空間的および季節的変動
 https://www.ncbi.nlm.nih.gov/pubmed/30772579
 Sci Total Environ. 2019 May 15;665:61-68. doi: 10.1016/j.scitotenv.2019.01.367. Epub 2019 Feb 3.
 Spatial and seasonal variation of the airborne microbiome in a rapidly developing city of China.
 Li H1, Zhou XY1, Yang XR1, Zhu YG2, Hong YW3, Su JQ4.
 https://www.sciencedirect.com/science/article/pii/S0048969719304176
-```
-Highlights
-•Firmicutes and Proteobacteria predominated in airborne bacterial communities.
-•AM was higher diversity in summer compared with that in spring.
-•Communities of AM and pathogens varied in sites with different urbanization levels.
-•Relative abundance of potential human pathogens increased with urbanization levels.
-```
+http://www.shb.cas.cn/kjjz2016/201902/P020190221614185511412.pdf
+ハイライト
+- FirmicutesとProteobacteriaは空中浮遊細菌群集で優占していた。
+- 空中浮遊菌は春と比べて夏の方が多様性が高かった。
+- 病原菌と空中浮遊細菌の群集は、都市化レベルが異なる場所で異なった。
+- 潜在的なヒト病原菌の相対的存在量は都市化レベルとともに増加した。
 
 都市水域のメタゲノム解析により抗生物質耐性のリザーバーを発見。モンテビデオ市（ウルグアイの首都）の沿岸地域（ビーチと下水サンプルを含む）のショットガン・メタゲノミクス・シーケンスにより、細菌群集と病原性・抗生物質耐性レパートリーを調べた。抗生物質耐性遺伝子 antibiotic resistance genes (ARGs) は細菌の染色体よりも可動性遺伝因子（プラスミド）に広く存在した（Fig. 3）
 https://www.ncbi.nlm.nih.gov/pubmed/30819245
@@ -532,7 +533,16 @@ https://www.ncbi.nlm.nih.gov/pubmed/30127345
 Nat Rev Microbiol. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
 Microbiology of the built environment.
 Gilbert JA1,2, Stephens B3.
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
 
+https://twitter.com/copypasteusa/status/1135022062198673408
+#MoBE #microBEnet
+Further reading
+
+https://twitter.com/copypasteusa/status/1135147635763863553
+腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
+人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
+企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
 https://twitter.com/NatureBiotech/status/864838380353449984
 Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
 https://www.ncbi.nlm.nih.gov/pubmed/28486462
@@ -540,7 +550,6 @@ Nat Biotechnol. 2017 May 9;35(5):401-403.
 Living in a microbial world.
 Schmidt C.
 https://www.nature.com/articles/nbt.3868?draft=journal
-
 http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
 The indoor microbiome is influenced by building design and operations, human inhabitants and their activities. Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
 
@@ -612,6 +621,12 @@ http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-i
 Call for Papers MoBE 2017 Microbiome Special Issue
 
 #### metadata
+
+https://www.ncbi.nlm.nih.gov/pubmed/24152717
+ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176. Epub 2013 Oct 24.
+MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.
+Glass EM1, Dribinsky Y1, Yilmaz P2, Levin H3, Van Pelt R4, Wendel D4, Wilke A1, Eisen JA5, Huse S6, Shipanova A6, Sogin M6, Stajich J7, Knight R8, Meyer F9, Schriml LM10.
+
 
 https://microbe.net/resources/metadata-standards/
 Metadata Standards
@@ -1109,16 +1124,31 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 ----------
 
 ## urban microbiome
-都市のマイクロバイオーム
+都市の微生物群集（マイクロバイオーム）
 
 都市のマイクロバイオーム：都市の隠れた足跡の発見
 https://www.frontiersin.org/research-topics/8134
 The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Research Topic
 
+#MetaSUB 都市の微生物。公共の環境（主要都市の地下鉄）をサンプリングするプロジェクトが進行中。
+https://twitter.com/MicrobiomDigest/status/1093246545401708545
+Elisabeth Bik on Twitter: "Christopher Mason: We have an ongoing project in our lab to sample the public environment, e.g. the subways of major cities #MetaSUB https://t.co/GfeBPuEe6D #MBCongress2019… https://t.co/af7zR0kxqJ"
+
+#MetaSUB 公共交通システムの遺伝子地図を作成。東京には最も新規なペプチドがある。
+https://twitter.com/MicrobiomDigest/status/1093247218105094145
+Elisabeth Bik on Twitter: "Christopher Mason: This way we are building genetic maps of public transportation systems and expanding the number of microbial taxa that are known. Which city has the most mystery taxa? Tokyo has the most novel peptides, Santiago has many novelty as well. #MBCongress2019… https://t.co/4sQcEBMTj1"
+3:37 PM - 6 Feb 2019
+
 https://twitter.com/kbts_sci/status/1011571324748042240
 ニューヨークの地下鉄で綿棒をこすって取れる微生物のＤＮＡの多くは、未知のものなのだそうです。身近なのに謎だらけな都市の微生物調査について興味深い取り組み。
 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタルTranslate Tweet
 7:26 AM - 26 Jun 2018
+
+
+
+https://twitter.com/icf_tokyo/status/918734771416477697
+ICF2018 on Twitter: "ICF2017のバイオテクノロジーセッションでは、「バイオテクノロジーと未来の都市環境デザイン、都市の微生物·視えないものを可視化する、が面白い。ハードウェア、ソフトウェアという使い慣れた言葉に続き、ウェットウェア（バイオテクノロジー）が登場。#icf_tokyo… https://t.co/mUvEyo5gTo"
+3:06 AM - 13 Oct 2017
 
 https://twitter.com/wired_jp/status/695380136766476290
 微生物から新しいデザインがはじまる
@@ -1130,13 +1160,44 @@ https://twitter.com/wired_jp/status/687851130433355776
 微生物は都市をこれからどう変えていくのか？ 林千晶（@chiaki）、ジェシカ・グリーン（生物学者）、デイヴィッド・ベンジャミン（建築家）が、バイオと都市の未来を語る。http://wired.jp/special/2016/biology/ …Translate Tweet
 11:17 PM - 14 Jan 2016
 
-https://wired.jp/special/2015/beyond-solution/01.html
-「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://wired.jp/special/2015/beyond-solution/01.html …Translate Tweet
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+#MetaSUB
+「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
+https://twitter.com/lifehackerjapan/status/622000940380520448
+ライフハッカー［日本版］ on Twitter: "将来は、細菌だらけの地下鉄で健康的に通勤できるかも http://t.co/fiqLaGrGfc"
+7:12 AM - 17 Jul 2015
+
+
+https://www.lifehacker.jp/2015/07/150717_subway_germs.html
+将来は、細菌だらけの地下鉄で健康的に通勤できるかも | ライフハッカー［日本版］
+「この研究の目的は、微生物の生態系を中心に、都市デザインの価値観を変えることです。」
+「清掃員が毎日数回は掃除する、衛生的にきれいな東京の地下鉄では、十分なDNA情報を集めることは難しいかもしれませんが」
+
+
+https://twitter.com/wired_jp/status/621524881675411456
+WIRED.jp on Twitter: "「微生物と都市のデザイン」を研究している、MITメディアラボのケヴィン・スラヴィンが目指しているのは、マンガ『もやしもん』の世界観だった！ ロングインタヴューを特設ページで掲載。 http://t.co/eFNDk2U7rv http://t.co/qMPxjs738h"
 11:40 PM - 15 Jul 2015
+
+「都市を、人間がデザインしたものではなく、それを越えたシステムとして、いかに捉えるか。そして、ぼくたちのまわりに生息している微生物を認識する感覚を養うにはどうすればいいか」
+https://wired.jp/special/2015/beyond-solution/01.html
+MITメディアラボきっての遊びの天才ケヴィン・スラヴィン、その「ひらめき」の秘密 « WIRED.jp
+
+ニューヨーク市の微生物群集 #PathoMap
+世界中の都市の微生物群集 #MetaSUB
+https://twitter.com/Yodosha_EM/status/567945623116210176
+羊土社 実験医学 on Twitter: "【 #実験医学NHPD 】都市微生物叢研究PathoMap（鈴木治夫先生）→ https://t.co/PQUy4SSB2E"
+2:16 AM - 18 Feb 2015
+https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 
 https://twitter.com/endBooks/status/385905594026033153
 ”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
 7:13 PM - 3 Oct 2013
+
+
 
 
 
