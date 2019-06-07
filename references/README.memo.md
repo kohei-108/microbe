@@ -97,16 +97,40 @@ https://ja.wikipedia.org/wiki/培養
 
 培養可能な細菌は1%未満という噂を検証
 
-https://twitter.com/search?q=%20High%20proportions%20of%20bacteria%20are%20culturable%20across%20major%20biomes
+05 April 2019
+https://www.nature.com/articles/s41396-019-0410-3
+High proportions of bacteria are culturable across major biomes
+I found that the median 16S rRNA similarity of bacteria to known cultured relatives was 97.3 ± 2.3% (s.d.). Furthermore, 52.0 ± 24% of sequences and 34.9 ± 23% of taxa (defined as >97% similar) had a closely related cultured relative. 
+
+https://twitter.com/search?f=tweets&vertical=default&q=High%20proportions%20of%20bacteria%20are%20culturable&src=typd
 
 Take notice. This paper reports more than 50% of all bacterial sequences have a close cultivatable relative, raising fresh doubt about the 1% rule of bacterial cultivation.  
 
 "High proportions of bacteria are culturable across major biomes", time to revisit the 1% culturable paradigm? 
 
-05 April 2019
-https://www.nature.com/articles/s41396-019-0410-3
-High proportions of bacteria are culturable across major biomes
-I found that the median 16S rRNA similarity of bacteria to known cultured relatives was 97.3 ± 2.3% (s.d.). Furthermore, 52.0 ± 24% of sequences and 34.9 ± 23% of taxa (defined as >97% similar) had a closely related cultured relative. 
+https://twitter.com/jcamthrash/status/1114168506281365509
+Cameron Thrash on Twitter
+10:10 AM - 5 Apr 2019
+
+https://twitter.com/fonamental/status/1116715491945586689
+Folks, be cautious with the tittle of this paper, aIso don't necessary agree with the interpretation of the results. On top of that, there is not such a think as UNCULTURABLE microbes, just UNCULTURED ones waiting for somebody to create in the lab the right conditions for them.
+10:51 AM - 12 Apr 2019
+Which is in most of the cases extreeeeemely difficult and time consuming but theoretically possible.
+
+https://twitter.com/SFodelianakis/status/1116452728941752321
+Interesting, yet just based on 16S. Real differences between a given uncultured taxon and it's closest cultured representative could be much more substantial. That could be why the former cannot be cultured in the first place :)
+5:27 PM - 11 Apr 2019
+
+https://twitter.com/pacyc1841/status/1114445553679474688
+スーパー培地でもできたかと思ったらそうではなく。「微生物の99％は培養できない」という考えの補正。全文は読めていないけど、メタゲノムででてくるような配列も殆どが実は既知の分離株にかなり近縁だ、と言いたいのだと思う。どのレベルの分類で「分離できない」と語るかの疑問提起だと理解。
+4:31 AM - 6 Apr 2019
+
+https://twitter.com/EnricFrago/status/1114439003594534912
+But... wait a minute... what about symbiotic bacteria? Pity they are not even mentioned in the paper.
+4:05 AM - 6 Apr 2019
+
+
+
 
 https://home.hiroshima-u.ac.jp/sust6aoi/ja/styled-5/index.html
 AOI LAB
