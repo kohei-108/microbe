@@ -29,6 +29,25 @@ Last Update: 2019-05
 - [microbedb](#microbedb)
 
 ----------
+## Wiebler
+
+https://www.ncbi.nlm.nih.gov/pubmed/29720413
+Proc Biol Sci. 2018 May 16;285(1878). pii: 20180241. doi: 10.1098/rspb.2018.0241.
+Urea hydrolysis by gut bacteria in a hibernating frog: evidence for urea-nitrogen recycling in Amphibia.
+Wiebler JM1, Kohl KD2, Lee RE Jr1, Costanzo JP3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5966601/
+Urea hydrolysis by gut bacteria in a hibernating frog: evidence for urea-nitrogen recycling in Amphibia
+- We attempted to determine which among the observed genera had at least one member that potentially can catabolize urea by querying the Kyoto Encyclopedia of Genes and Genomes (KEGG), an online resource that contains gene catalogues from sequenced organisms, for entries having urease-encoding genes using the KEGG orthology (KO) identifiers K01427, K01428, K01429, K01430 and K14048. 
+
+https://www.genome.jp/dbget-bin/www_bget?ko:K01427
+
+https://www.genome.jp/dbget-bin/www_bget?ko:K01428
+Name	
+ureC
+Definition	
+urease subunit alpha [EC:3.5.1.5]
+
+----------
 ## microbedb
 http://microbedb.jp
 
@@ -55,13 +74,12 @@ https://events.biosciencedbc.jp/images/togo2018/poster60_2018.pdf
 59	森宙史	情報・システム研究機構 国立遺伝学研究所
 生命情報研究センター	MicrobeDB.jpのメタゲノム解析パイプライン
 
-https://doi.org/10.7875/togotv.2018.011
+https://togotv.dbcls.jp/20180111.html
 2018-01-11 微生物研究開発における微生物統合データベースMicrobeDB.jpの利用法
 約27分
 
 https://researchmap.jp/himori/
 森宙史 - 研究者 - researchmap
-
 
 ----------
 ## transcriptome
