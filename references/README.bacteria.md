@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-05
+Last Update: 2019-06
 
 ----------
 
@@ -191,6 +191,11 @@ Zhu Y1, Wu M2, Gao N1, Chu W1, An N1, Wang Q1, Wang S1.
 - The priority pollutant antimony (Sb) exists primarily as Sb(V) and Sb(III) in natural waters, and Sb(III) is generally with greater mobility and toxicity than Sb(V).
 - , new genera of Pseudomonas and Geobacter emerged with large proportions in both Sb-fed and Sb-sulfate-fed sludge, 
 
+https://www.sciencedirect.com/science/article/pii/S096483051630261X
+Volume 115, November 2016, Pages 148-155
+Bioremoval of antimony from contaminated waters by a mixed batch culture of sulfate-reducing bacteria - ScienceDirect
+The dominant SRB species detected in the enrichment were closely related to Clostridium sp. K10 with 99% sequence similarity.
+
 https://www.ncbi.nlm.nih.gov/pubmed/27342551
 Appl Environ Microbiol. 2016 Aug 30;82(18):5482-95. doi: 10.1128/AEM.01375-16. Print 2016 Sep 15.
 Microbial Antimony Biogeochemistry: Enzymes, Regulation, and Related Metabolic Pathways.
@@ -198,8 +203,6 @@ Li J1, Wang Q1, Oremland RS2, Kulp TR3, Rensing C4, Wang G5.
 - In this review, we summarize the recent research on bacterial antimony transformations, especially those regarding antimony uptake, efflux, antimonite oxidation, and antimonate reduction.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007761/
 Antimony (Sb) occurs widely in soil and aquatic systems. It is a group 15 element in the periodic table, positioned directly below arsenic (As). It exists in four oxidation states (+V, +III, 0, and −III), of which pentavalent antimonate [Sb(V)] and trivalent antimonite [Sb(III)] are the prevalent forms in the environment (1).
-
-
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/26519630
@@ -2199,12 +2202,32 @@ Perhaps the most surprising example of low codon usage bias is P.aeruginosa. Thi
 ## excerpt
 抜粋［引用］
 
+
+https://www.ncbi.nlm.nih.gov/pubmed/22272658
+BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
+Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae.
+Suzuki H, Lefébure T, Bitar PP, Stanhope MJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
+Results and discussion
+Genomic features
+
+Table 1
+Genomic features of Macrococcus caseolyticus and 28 Staphylococcus strains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21282711
+Genome Biol Evol. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
+Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution.
+Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
+
 https://www.ncbi.nlm.nih.gov/pubmed/30910818
 G3 (Bethesda). 2019 Mar 25. pii: g3.200978.2018. doi: 10.1534/g3.118.200978. [Epub ahead of print]
 Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation.
 Harada M, Ito K, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
 https://www.g3journal.org/content/9/5/1321.long
 https://www.g3journal.org/content/ggg/9/5/1321.full.pdf
+Table 1
+Genomic features of Pseudomonas strains analyzed
+- GENOME FEATURES
 - Bacteria, such as Pseudomonas putida KT2440 and P. stutzeri TS44, possess genes whose products allow resistance to and metabolism of arsenic compounds (Andres and Bertin 2016). We report that the SCT genome contains genes putatively involved in such processes; these include several genes encoding ArsR family transcriptional regulators; spxA (locus_tag: PSCT_01329) and arsC (locus_tag: PSCT_01343 and PSCT_04450); genes encoding “arsenate reductase [EC:1.20.4.1]” (KEGG: K00537 and K03741), arsA (locus_tag: PSCT_02478), which encodes “arsenite/tail-anchored protein-transporting ATPase [EC:3.6.3.16 3.6.3.-]” (KEGG: K01551); and ubiG (locus_tag: PSCT_04351), which encodes “arsenite methyltransferase [EC:2.1.1.137]” (KEGG: K07755). There is a cluster of six genes azr-ywlE-aseR-arsC1-czcO-CDS (contig accession number: BDJA01000003; locus_tag range: PSCT_01732 to PSCT_01737); of these, azr encodes “arsenical resistance protein ArsH” (KEGG: K11811), ywlE encodes “arsenate reductase [EC:1.20.4.1]” (KEGG: K03741), aseR and arsC1 encode “ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor” (KEGG: K03892), czcO encodes “putative oxidoreductase CzcO”, and the CDS encodes “arsenite transporter” (KEGG: K03325). These results suggest that strain SCT can potentially resist and metabolize arsenic compounds.
 - DATA AVAILABILITY
 Supplemental material available at Figshare: https://doi.org/10.25387/g3.7829321.
