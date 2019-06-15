@@ -129,8 +129,9 @@ https://twitter.com/EnricFrago/status/1114439003594534912
 But... wait a minute... what about symbiotic bacteria? Pity they are not even mentioned in the paper.
 4:05 AM - 6 Apr 2019
 
-
-
+https://twitter.com/OrenoSource/status/875614224856121344
+俺のソース (論文紹介) on Twitter: "１００３種の細菌ゲノム解読＝医薬農業などに貢献－米研究所：時事 https://t.co/2vRF3M0CQW 実験室で培養可能な 細菌と古細菌1003種のゲノム解読 Nat Biotech原著↓ https://t.co/xPhlZzqXFD"
+3:21 AM - 16 Jun 2017
 
 https://home.hiroshima-u.ac.jp/sust6aoi/ja/styled-5/index.html
 AOI LAB
@@ -148,6 +149,25 @@ https://katosei.jsbba.or.jp/view_html.php?aid=404
 
 ----------
 ## featuring
+
+----------
+## infection
+infectious disease
+感染症
+
+https://kotobank.jp/word/新興感染症
+
+http://www.eiken.co.jp/modern_media/contents/2018.html
+2018年5月
+「感染症の診療・検査・研究を担う次世代へのメッセージ」
+II.「感染症予防の観点からみた提言 －これからの日本に求められるもの－」　〔PDF:536KB〕	岡部信彦
+http://www.eiken.co.jp/modern_media/backnumber/pdf/2018_05/002.pdf
+
+http://rci.nanzan-u.ac.jp/ISE/ja/publication/list/009525.html
+『超国家権力の探究：その可能性と脆弱性』（2017年）
+第2章　世界政府の感染症対策―人の移動をめぐる国境のジレンマ	小松志朗
+http://rci.nanzan-u.ac.jp/ISE/ja/publication/book/supranational/a2komatsu.pdf
+
 
 2010
 https://www.jstage.jst.go.jp/article/jsma/70/1/70_1_70/_article/-char/ja/
