@@ -1371,6 +1371,10 @@ Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Shewanellaceae; 
 - https://ja.wikipedia.org/wiki/シェワネラ属
 、代謝の結果電子を放出し、電流を発生させることからバイオ燃料電池への利用が研究されている。
 
+https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
+Shewanella - an overview | ScienceDirect Topics
+Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
+
 ### Shewanella_phylogeny
 系統解析
 
@@ -2201,6 +2205,10 @@ Perhaps the most surprising example of low codon usage bias is P.aeruginosa. Thi
 
 ## excerpt
 抜粋［引用］
+
+https://haruosuz.hatenadiary.org/entry/20090605
+論文 - Haruo Suzuki / Bioinformatics
+【結果】S. simiaeのドラフトゲノム配列をRoche/454で決定し、ブドウ球菌属の他種を含む近縁細菌のゲノム配列を比較した。全ゲノム情報に基づく系統解析により、S. simiaeがS. aureusの姉妹群であること、最初にStaphylococcus pseudintermediusとその他の集団が分岐し、次にStaphylococcus carnosusとその他の集団が分岐したこと、ブドウ球菌属のヒトへの適応はS. carnosusと分岐した後に起きたことが示唆された。
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/22272658
