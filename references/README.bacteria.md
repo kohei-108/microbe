@@ -1404,6 +1404,17 @@ Shewanella violacea DSS12
 Shewanella waksmanii ATCC BAA-643
 ```
 
+#### Shewanella algae
+mesophilic (中温が好適な温度環境である性質) 中温性の
+
+https://microbewiki.kenyon.edu/index.php/Shewanella_algae
+S. algae is found in warm Marine environments throughout the world, and is isolated from seawater with 15-20ppt salinity [6].
+Shewanella algae are mesophilic organisms found in aquatic environments. They have the capacity to also live in low temperature waters[5]. They are detected in seawater during the fall months, where temperatures are around 13°C. 
+
+http://journal.kyorin.co.jp/journal/jscm/detail_j.php?-DB=jscm&-recid=980&-action=browse
+Shewanella algaeによる敗血症・膿胸症例と分離株の性状について
+要旨	　Shewanella属はVibrio科に属する好気性グラム陰性桿菌であり，海水，淡水，石油，ガスなどの自然界に広く分布し，ヒトに対する病原性は低いとされている。
+
 #### Shewanella amazonensis SB2B
 
 https://en.wikipedia.org/wiki/Shewanella_amazonensis
@@ -1429,6 +1440,7 @@ Two strains of agar-digesting bacteria, KMM 3299T and KMM 3300, respectively iso
 
 #### Shewanella loihica PV-4
 深海の鉄分が豊富な微生物マットから分離された
+psychrotolerant 耐寒性の
 
 https://www.ncbi.nlm.nih.gov/pubmed/16902030
 Int J Syst Evol Microbiol. 2006 Aug;56(Pt 8):1911-6.
