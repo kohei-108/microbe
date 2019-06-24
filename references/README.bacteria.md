@@ -2162,7 +2162,9 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 天知 誠吾
 
 Genome sequencing of bacteria contributing to the geochemical cycling of arsenic, bromine, and iodine.
+https://trace.ddbj.nig.ac.jp/DRASearch/study?acc=DRP004782
 https://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
+https://ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
 https://www.ncbi.nlm.nih.gov/bioproject/PRJDB5044
 
 ### Shewanella sp. M-Br
