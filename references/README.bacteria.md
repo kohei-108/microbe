@@ -1375,6 +1375,85 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
 Shewanella - an overview | ScienceDirect Topics
 Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
 
+
+### Shewanella_reference_representative
+
+```
+$grep "Shewanella" prok_reference_genomes.txt | cut -f3
+Shewanella oneidensis MR-1
+
+$grep "Shewanella" prok_representative_genomes.txt | cut -f3
+Shewanella algae
+Shewanella amazonensis SB2B
+Shewanella baltica OS678
+Shewanella benthica KT99
+Shewanella colwelliana ATCC 39565
+Shewanella denitrificans OS217
+Shewanella frigidimarina NCIMB 400
+Shewanella japonica
+Shewanella loihica PV-4
+Shewanella mangrovi
+Shewanella marina JCM 15074
+Shewanella pealeana ATCC 700345
+Shewanella piezotolerans WP3
+Shewanella psychrophila
+Shewanella sediminis HAW-EB3
+Shewanella violacea DSS12
+Shewanella waksmanii ATCC BAA-643
+```
+
+#### Shewanella amazonensis SB2B
+
+https://en.wikipedia.org/wiki/Shewanella_amazonensis
+isolated from shallow water sediments from the Amazon River.
+
+https://microbewiki.kenyon.edu/index.php/Shewanella_amazonensis
+Shewanella amazonensis (strain ATC BAA-1098/SB2B) is a Gram-negative, facultatively anaerobic, motile, polarly flagellated, rod-shaped eubacterium. It was isolated from shelf coastal muds, in intertidal sediments in the Amazon River delta, off the Amapá coast of Brazil. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/9734053
+Int J Syst Bacteriol. 1998 Jul;48 Pt 3:965-72.
+Shewanella amazonensis sp. nov., a novel metal-reducing facultative anaerobe from Amazonian shelf muds.
+Venkateswaran K1, Dollhopf ME, Aller R, Stackebrandt E, Nealson KH.
+This organism, isolated from shallow-water marine sediments derived from the Amazon River delta, is 
+
+#### Shewanella loihica PV-4
+
+https://www.ncbi.nlm.nih.gov/pubmed/16902030
+Int J Syst Evol Microbiol. 2006 Aug;56(Pt 8):1911-6.
+Shewanella loihica sp. nov., isolated from iron-rich microbial mats in the Pacific Ocean.
+Gao H1, Obraztova A, Stewart N, Popa R, Fredrickson JK, Tiedje JM, Nealson KH, Zhou J.
+A novel marine bacterial strain, PV-4(T), isolated from a microbial mat located at a hydrothermal vent of Loihi Seamount in the Pacific Ocean, 
+
+https://genome.jgi.doe.gov/portal/she_p/she_p.home.html
+Shewanella loihica , formerly Shewanella sp. strain PV-4, was isolated from iron-rich microbial mats at an active, deep sea, hydrothermal Naha Vent (1325 m below sea level), located on the South Rift of Loihi Seamount, Hawaii (http://www.soest.hawaii.edu/GG/HCV/loihivents.html). PV-4 is psychrotolerant, 
+
+https://microbewiki.kenyon.edu/index.php/Shewanella_loihica
+The PV-4T marine bacterial strain of Shewanella loihica was isolated at the deep-sea, hydrothermal Naha Vent from iron-rich microbial mats on the South Rift of Loihi Seamount, Hawaii, in the Pacific Ocean. 
+Growth on Luria–Bertani agar plates showed S. loihica to be psychrotolerant at temperatures between 0-42 degrees C (Haichun Gao et al.). 
+
+#### Shewanella psychrophila and Shewanella piezotolerans
+
+https://www.ncbi.nlm.nih.gov/pubmed/17220442
+Int J Syst Evol Microbiol. 2007 Jan;57(Pt 1):60-5.
+Shewanella psychrophila sp. nov. and Shewanella piezotolerans sp. nov., isolated from west Pacific deep-sea sediment.
+Xiao X1, Wang P, Zeng X, Bartlett DH, Wang F.
+Strain WP2(T) was psychrophilic, growing optimally at about 10-15 degrees C, whereas strain WP3(T) was psychrotolerant, growing optimally at 15-20 degrees C. 
+
+- 好冷性細菌 Shewanella psychrophila WP2
+- 耐冷性細菌 Shewanella piezotolerans WP3
+
+#### Shewanella violacea DSS12
+
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/41/2/41_2_92/_article/-char/ja/
+深海由来好圧好冷性微生物の全ゲノム解析の意義
+仲宗 根薫, 森 浩禎, 馬場 知哉, 加藤 千明
+
+https://en.wikipedia.org/wiki/Shewanella_violacea
+Shewanella violacea DSS12 (S. violacea) is a gram-negative bacterium located in marine sediment in the Ryukyu Trench at a depth of 5,110m.[1]
+Shewanella violacea is an obligate psychrophile (cryophile). Its optimum growth temperature is 8ᵒC.
+
+
+
 ### Shewanella_phylogeny
 系統解析
 
