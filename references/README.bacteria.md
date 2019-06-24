@@ -1418,7 +1418,17 @@ Shewanella amazonensis sp. nov., a novel metal-reducing facultative anaerobe fro
 Venkateswaran K1, Dollhopf ME, Aller R, Stackebrandt E, Nealson KH.
 This organism, isolated from shallow-water marine sediments derived from the Amazon River delta, is 
 
+#### Shewanella japonica
+海水とムール貝Protothaca jedoensisから分離された寒天分解細菌
+
+https://www.ncbi.nlm.nih.gov/pubmed/11411670
+Int J Syst Evol Microbiol. 2001 May;51(Pt 3):1027-33.
+Shewanella japonica sp. nov.
+Ivanova EP1, Sawabe T, Gorshkova NM, Svetashev VI, Mikhailov VV, Nicolau DV, Christen R.
+Two strains of agar-digesting bacteria, KMM 3299T and KMM 3300, respectively isolated from sea water and the mussel Protothaca jedoensis, have been characterized. 
+
 #### Shewanella loihica PV-4
+深海の鉄分が豊富な微生物マットから分離された
 
 https://www.ncbi.nlm.nih.gov/pubmed/16902030
 Int J Syst Evol Microbiol. 2006 Aug;56(Pt 8):1911-6.
