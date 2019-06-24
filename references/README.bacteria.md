@@ -1404,8 +1404,13 @@ Shewanella violacea DSS12
 Shewanella waksmanii ATCC BAA-643
 ```
 
+https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#temperature
+最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）
+低温性細菌（Psychrophiles），中温性細菌（Mesophiles）お よび高温性細菌（Thermophiles）
+https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#psychrophile
+
 #### Shewanella algae
-mesophilic (中温が好適な温度環境である性質) 中温性の
+中温性細菌
 
 https://microbewiki.kenyon.edu/index.php/Shewanella_algae
 S. algae is found in warm Marine environments throughout the world, and is isolated from seawater with 15-20ppt salinity [6].
@@ -1416,12 +1421,14 @@ Shewanella algaeによる敗血症・膿胸症例と分離株の性状につい�
 要旨	　Shewanella属はVibrio科に属する好気性グラム陰性桿菌であり，海水，淡水，石油，ガスなどの自然界に広く分布し，ヒトに対する病原性は低いとされている。
 
 #### Shewanella amazonensis SB2B
+中温性細菌
 
 https://en.wikipedia.org/wiki/Shewanella_amazonensis
 isolated from shallow water sediments from the Amazon River.
 
 https://microbewiki.kenyon.edu/index.php/Shewanella_amazonensis
-Shewanella amazonensis (strain ATC BAA-1098/SB2B) is a Gram-negative, facultatively anaerobic, motile, polarly flagellated, rod-shaped eubacterium. It was isolated from shelf coastal muds, in intertidal sediments in the Amazon River delta, off the Amapá coast of Brazil. 
+- Shewanella amazonensis (strain ATC BAA-1098/SB2B) is a Gram-negative, facultatively anaerobic, motile, polarly flagellated, rod-shaped eubacterium. It was isolated from shelf coastal muds, in intertidal sediments in the Amazon River delta, off the Amapá coast of Brazil. 
+- It is able to grow at mesophilic temperatures with optimal growth at 37°C and
 
 https://www.ncbi.nlm.nih.gov/pubmed/9734053
 Int J Syst Bacteriol. 1998 Jul;48 Pt 3:965-72.
@@ -1440,7 +1447,7 @@ Two strains of agar-digesting bacteria, KMM 3299T and KMM 3300, respectively iso
 
 #### Shewanella loihica PV-4
 深海の鉄分が豊富な微生物マットから分離された
-psychrotolerant 耐寒性の
+耐冷性細菌
 
 https://www.ncbi.nlm.nih.gov/pubmed/16902030
 Int J Syst Evol Microbiol. 2006 Aug;56(Pt 8):1911-6.
@@ -1455,7 +1462,12 @@ https://microbewiki.kenyon.edu/index.php/Shewanella_loihica
 The PV-4T marine bacterial strain of Shewanella loihica was isolated at the deep-sea, hydrothermal Naha Vent from iron-rich microbial mats on the South Rift of Loihi Seamount, Hawaii, in the Pacific Ocean. 
 Growth on Luria–Bertani agar plates showed S. loihica to be psychrotolerant at temperatures between 0-42 degrees C (Haichun Gao et al.). 
 
-#### Shewanella psychrophila and Shewanella piezotolerans
+
+深海堆積物から分離された
+#### Shewanella piezotolerans WP3
+耐冷性細菌
+#### Shewanella psychrophila WP2
+好冷性細菌
 
 https://www.ncbi.nlm.nih.gov/pubmed/17220442
 Int J Syst Evol Microbiol. 2007 Jan;57(Pt 1):60-5.
@@ -1463,8 +1475,6 @@ Shewanella psychrophila sp. nov. and Shewanella piezotolerans sp. nov., isolated
 Xiao X1, Wang P, Zeng X, Bartlett DH, Wang F.
 Strain WP2(T) was psychrophilic, growing optimally at about 10-15 degrees C, whereas strain WP3(T) was psychrotolerant, growing optimally at 15-20 degrees C. 
 
-- 好冷性細菌 Shewanella psychrophila WP2
-- 耐冷性細菌 Shewanella piezotolerans WP3
 
 #### Shewanella violacea DSS12
 
