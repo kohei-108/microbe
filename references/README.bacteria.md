@@ -28,6 +28,7 @@ Last Update: 2019-06
   - DLD
   - Bromate Reduction
 - [Shewanella](#shewanella)
+  - [Shewanella_reference_representative](#shewanella_reference_representative)
   - [Shewanella_phylogeny](#shewanella_phylogeny)
   - [Shewanella_comparative_genomics](#shewanella_comparative_genomics)
   - [Shewanella_space](#shewanella_space)
@@ -1377,6 +1378,7 @@ Shewanella can be recovered from a variety of water sources, natural gas and pet
 
 
 ### Shewanella_reference_representative
+参照ゲノム・代表ゲノム
 
 ```
 $grep "Shewanella" prok_reference_genomes.txt | cut -f3
