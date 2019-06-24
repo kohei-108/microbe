@@ -27,6 +27,7 @@ Last Update: 2019-05
 - [codon](#codon)
 - [transcriptome](#transcriptome)
 - [microbedb](#microbedb)
+- [wiebler](#wiebler)
 
 ----------
 ## Wiebler
@@ -37,7 +38,14 @@ Urea hydrolysis by gut bacteria in a hibernating frog: evidence for urea-nitroge
 Wiebler JM1, Kohl KD2, Lee RE Jr1, Costanzo JP3.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5966601/
 Urea hydrolysis by gut bacteria in a hibernating frog: evidence for urea-nitrogen recycling in Amphibia
+- All microbial sequences have been uploaded to the NCBI Short Read Archive (SRA) under accession PRJNA432152.
 - We attempted to determine which among the observed genera had at least one member that potentially can catabolize urea by querying the Kyoto Encyclopedia of Genes and Genomes (KEGG), an online resource that contains gene catalogues from sequenced organisms, for entries having urease-encoding genes using the KEGG orthology (KO) identifiers K01427, K01428, K01429, K01430 and K14048. 
+
+
+https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA432152
+Gut microbiome of hibernating frogs
+Gut microbiome of hibernating frogs Targeted loci environmental
+We compared the microbial inventories of hibernating and active frogs.
 
 https://www.genome.jp/dbget-bin/www_bget?ko:K01427
 
@@ -46,6 +54,11 @@ Name
 ureC
 Definition	
 urease subunit alpha [EC:3.5.1.5]
+
+バッチ効果 Batch Effect
+https://github.com/haruosuz/statistics/blob/master/README.md#batch-effect
+
+
 
 ----------
 ## microbedb
@@ -537,6 +550,13 @@ https://www.jstage.jst.go.jp/article/cookeryscience/44/1/44_88/_pdf
 
 - https://ja.wikipedia.org/wiki/好熱菌 thermophile
 - https://ja.wikipedia.org/wiki/低温菌 psychrophile
+
+----------
+### psychrotolerant
+
+https://www.sci.hokudai.ac.jp/bio/bio/耐冷性細菌（耐冷菌、低温菌）/
+耐冷性細菌（耐冷菌、低温菌）
+好冷菌と同様に０℃でも生育可能ですが20℃以上でも生育できる細菌を耐冷性細菌（耐冷菌、低温菌）と呼びます。好冷菌は恒常的に低温が保たれている環境（極域や深海など）でなければ生存できませんが、耐冷菌は常温域でも生育できるため、わたしたちの身近な環境にも見いだされます。
 
 ----------
 ### psychrophile
