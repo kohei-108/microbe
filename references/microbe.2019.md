@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-05
+Last Update: 2019-06
 
 ----------
 
@@ -547,6 +547,7 @@ https://www.jstage.jst.go.jp/article/cookeryscience/44/1/44_88/_pdf
 低温性細菌（Psychrophiles），中温性細菌（Mesophiles）お
 よび高温性細菌（Thermophiles）に分けられる。
 
+mesophilic (中温が好適な温度環境である性質) 中温性の
 
 - https://ja.wikipedia.org/wiki/好熱菌 thermophile
 - https://ja.wikipedia.org/wiki/低温菌 psychrophile
