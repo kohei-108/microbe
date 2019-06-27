@@ -30,12 +30,24 @@ https://ja.wikipedia.org/wiki/建造環境
 ----------
 ## featuring
 
+
+
+https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
+環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
+本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
+
 ----------
 ## updates
 
 ## 2019
 
 https://twitter.com/search?q=bacteria%20urbanization
+
+2019年6月18日
+https://www.natureasia.com/ja-jp/nm/pr-highlights/12984
+農場の家の室内塵の微生物が都会の子どもの喘息減少に結び付く
+https://www.nature.com/articles/s41591-019-0469-4
+Farm-like indoor microbiota in non-farm homes protects children from asthma development | Nature Medicine
 
 
 都市化傾度に沿った河川細菌群集の変化
@@ -49,6 +61,14 @@ https://www.ncbi.nlm.nih.gov/pubmed/31046835
 Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
 Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
 Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
+
+https://twitter.com/NiranjanTW/status/1131021531033808896
+Niranjan Nagarajan on Twitter: "Our hospital microbiome work as part of @metasub! All Illumina and Nanopore data should be available from ENA: Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment https://t.co/AZx7KVEsTA @kalisvar @oontek1 @mason_lab"
+10:18 PM - 21 May 2019
+1000s of @nanopore assembled genomes and circular plasmid sequences too!
+https://twitter.com/copypasteusa/status/1131071203320295424
+Haruo Suzuki on Twitter: "I wonder if known hosts of plasmids in PLSDB were assigned as inferred #Plasmid Host Species in Figure 3?… "
+1:36 AM - 22 May 2019
 
 https://twitter.com/ForbesScience/status/1100783871237464064
 Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
@@ -327,9 +347,6 @@ https://link.springer.com/article/10.1007/s00248-019-01348-0
 Bacillus-Dominant Airborne Bacterial Communities Identified During Asian Dust Events | SpringerLink
 PM10
 
-https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
-地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
-
 2017年8月28日
 https://www.recordchina.co.jp/b188759-s0-c30-d0054.html
 韓国のPM2．5は中国から飛来？含まれる細菌の83％類似―韓国メディア
@@ -543,6 +560,8 @@ https://twitter.com/copypasteusa/status/1135147635763863553
 腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
 人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
 企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
+Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 国際コンソーシアムは世界中で都市の微生物群集を調査してきた (http://metasub.org/)。
+2015年、ニューヨークの地下鉄の表面（改札口、非常口、ベンチ、手すり、ゴミ箱）から検出された約1,700の微生物分類群の大部分はヒト皮膚細菌が占め、一部はヒトの腸内と尿生殖路に由来。DNA配列断片のほぼ半分が既知の生物と一致しなかった。地下鉄で見つかった細菌の大部分は無害。
 https://twitter.com/NatureBiotech/status/864838380353449984
 Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
 https://www.ncbi.nlm.nih.gov/pubmed/28486462
@@ -1134,7 +1153,8 @@ The Urban Microbiome: Uncovering the Hidden Footprint of Cities | Frontiers Rese
 https://twitter.com/MicrobiomDigest/status/1093246545401708545
 Elisabeth Bik on Twitter: "Christopher Mason: We have an ongoing project in our lab to sample the public environment, e.g. the subways of major cities #MetaSUB https://t.co/GfeBPuEe6D #MBCongress2019… https://t.co/af7zR0kxqJ"
 
-#MetaSUB 公共交通システムの遺伝子地図を作成。東京には最も新規なペプチドがある。
+#MetaSUB 都市 公共交通システムの遺伝子地図を作成し、微生物の分類群を同定。東京には最も新規なペプチドがあり、サンティアゴ（チリの首都）にも多くの新規性がある。
+#MetaSUB 都市の微生物。公共交通システムの遺伝子地図を作成。東京には最も新規なペプチドがある。
 https://twitter.com/MicrobiomDigest/status/1093247218105094145
 Elisabeth Bik on Twitter: "Christopher Mason: This way we are building genetic maps of public transportation systems and expanding the number of microbial taxa that are known. Which city has the most mystery taxa? Tokyo has the most novel peptides, Santiago has many novelty as well. #MBCongress2019… https://t.co/4sQcEBMTj1"
 3:37 PM - 6 Feb 2019
@@ -1144,11 +1164,20 @@ https://twitter.com/kbts_sci/status/1011571324748042240
 （ｅｃｏ活プラス）都市の微生物、世界中で採集　綿棒使い、街の環境考える参考に：朝日新聞デジタルTranslate Tweet
 7:26 AM - 26 Jun 2018
 
-
-
 https://twitter.com/icf_tokyo/status/918734771416477697
 ICF2018 on Twitter: "ICF2017のバイオテクノロジーセッションでは、「バイオテクノロジーと未来の都市環境デザイン、都市の微生物·視えないものを可視化する、が面白い。ハードウェア、ソフトウェアという使い慣れた言葉に続き、ウェットウェア（バイオテクノロジー）が登場。#icf_tokyo… https://t.co/mUvEyo5gTo"
 3:06 AM - 13 Oct 2017
+
+https://twitter.com/wired_jp/status/696830913980841984
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/
+6:00 PM - 8 Feb 2016
+
+https://twitter.com/wired_jp/status/696321295349370880
+微生物から新しいデザインがはじまる
+http://wired.jp/special/2016/biology/ …
+#バイオテクノロジー #建築
+8:15 AM - 7 Feb 2016
 
 https://twitter.com/wired_jp/status/695380136766476290
 微生物から新しいデザインがはじまる
@@ -1193,13 +1222,10 @@ https://twitter.com/Yodosha_EM/status/567945623116210176
 2:16 AM - 18 Feb 2015
 https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 
+
 https://twitter.com/endBooks/status/385905594026033153
 ”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
 7:13 PM - 3 Oct 2013
-
-
-
-
 
 ----------
 
