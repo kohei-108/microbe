@@ -14,7 +14,6 @@ Last Update: 2019-05
 - [forensic](#forensic) 法科学
 - [host](#host) 宿主
 - [16S](#16s)
-- [amplicon-shotgun](#amplicon-shotgun)
 - [mothur-qiime](#mothur-qiime)
 - [American Gut](#american-gut)
 - [Artificial sweeteners](#artificial-sweeteners)
@@ -23,7 +22,7 @@ Last Update: 2019-05
 - [unclassified](#unclassified)
 - [people](#people)
   - [duvallet](#duvallet) Claire Duvallet
-  - [danknights](#danknights) Dan Knights
+- [amplicon-shotgun](#amplicon-shotgun)
 
 ----------
 
@@ -34,6 +33,10 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 ## featuring
 
+
+
+
+
 ----------
 
 https://www.ncbi.nlm.nih.gov/pubmed/20090831
@@ -43,12 +46,95 @@ Vieira-Silva S1, Rocha EP.
 Our predictor allows inferring growth rates in the vast majority of uncultivable prokaryotes and paves the way to the understanding of community dynamics from metagenomic data.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797632/
 
+
+----------
+## culturomics
+
+https://www.ncbi.nlm.nih.gov/pubmed/29937540
+Nat Rev Microbiol. 2018 May 1:540-550. doi: 10.1038/s41579-018-0041-0.
+Culturing the human microbiota and culturomics.
+Lagier JC1, Dubourg G1, Million M1, Cadoret F2, Bilen M1,3, Fenollar F4, Levasseur A1, Rolain JM1, Fournier PE4, Raoult D5.
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/23291779
+Eur J Clin Microbiol Infect Dis. 2013 May;32(5):637-45. doi: 10.1007/s10096-012-1787-3. Epub 2013 Jan 6.
+The gut microbiota of a patient with resistant tuberculosis is more comprehensively studied by culturomics than by metagenomics.
+Dubourg G1, Lagier JC, Armougom F, Robert C, Hamad I, Brouqui P, Raoult D.
+By culture, only 39 bacterial species were identified, including one new species, as well as three species that have not been previously observed in the human gut. The pyrosequencing showed only 18 phylotypes, detecting a lower number of bacterial species than the culture techniques. Only two phylotypes overlapped with culturomics. In contrast, an amount of chloroplasts was found. Additionally, specific molecular eukaryote detection found three fungal species. We recovered, for the first time, more cultivable than non-cultivable bacterial species in a patient with a low bacterial load in the gut, demonstrating the depth bias of pyrosequencing. 
+
+
+
+----------
+## amplicon-shotgun
+
+
+targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28337071
+J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
+International Standards for Genomes, Transcriptomes, and Metagenomes.
+Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
+TABLE 3
+Comparison of metagenomic assay capabilities and limitations
+
+https://www.ncbi.nlm.nih.gov/pubmed/28761145
+Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
+Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
+Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21121044
+Pac Symp Biocomput. 2011:165-76.
+Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
+Shah N1, Tang H, Doak TG, Ye Y.
+
+
+https://twitter.com/Tyu_Shi/status/982940944495403009
+Tyu_Shi on Twitter: "したがって、16S rRNA遺伝子のみの解析をメタゲノム解析と呼ぶのは、マイクロバイオーム業界で常識ではありません。概念としては誤用だと個人的には考えておりますし、古くからメタゲノム解析に関わってきたUC DavisのJ. Eisen等の研究者も、たびたびその誤用を批判しております。… https://t.co/SpajjZUOIW"
+7:19 AM - 8 Apr 2018
+
+https://twitter.com/Tyu_Shi/status/248334905816276993
+Tyu_Shi on Twitter: "Many INSDC entry of 16S rRNA amplicon study use terms "metagenome". troublesome! #GSC14"
+4:17 AM - 19 Sep 2012
+
+https://twitter.com/phylogenomics/status/966887584608567297
+Jonathan Eisen on Twitter: "Not sure where you are going with this but I don't think there can be any debate here - the term "metagenome" and its variants like "metagenomics" clearly refer to genome-scale studies and thus there is simply no way a 16S study should be called "metagenomics"… https://t.co/ScdBSzIzlG"
+11:08 PM - 22 Feb 2018
+
+https://phylogenomics.blogspot.com/2012/08/referring-to-16s-surveys-as.html
+The Tree of Life: Referring to 16S surveys as "metagenomics" is misleading and annoying #badomics #OmicMimicry
+
+
 ----------
 ## updates
 
 ### 2019
 
+Posted May 21, 2019.
+https://www.biorxiv.org/content/10.1101/644740v1
+Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment
+https://twitter.com/NiranjanTW/status/1131022012556533760
+Our hospital microbiome work as part of @metasub! All Illumina and Nanopore data should be available from ENA: Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment https://www.biorxiv.org/content/10.1101/644740v1 …
+@kalisvar @oontek1 @mason_lab
+1000s of @nanopore assembled genomes and circular plasmid sequences too!
 
+
+8x臨床研究の約2,000x糞便メタゲノムのメタアナリシスにより、複数の疾患／特定の病気に関連するヒト腸内マイクロバイオームの機能(KEGG annotated gene families)を同定。バッチ効果(batch effects)に言及
+https://www.ncbi.nlm.nih.gov/pubmed/31120034
+mSystems. 2019 May 14;4(4). pii: e00332-18. doi: 10.1128/mSystems.00332-18.
+A Metagenomic Meta-analysis Reveals Functional Signatures of Health and Disease in the Human Gut Microbiome.
+Armour CR1,2, Nayfach S3,4, Pollard KS4,5,6, Sharpton TJ7,8.
+https://msystems.asm.org/content/4/4/e00332-18
+"certain study effects (i.e., batch effects) are unlikely to be the source of variance between samples."
+
+
+
+https://twitter.com/ASMicrobiology/status/1126925145069817856
+We need an ecological understanding of the microbiome as a community of interacting individuals  and an evolutionary understanding of the microbiome as a trait of the host: an @mSystemsJ perspective from @sarahmhird http://ow.ly/UAkL50u2gEp 
+3:01 PM - 10 May 2019
+https://twitter.com/sarahmhird
+Sarah Hird
 
 
 https://twitter.com/Tyu_Shi/status/1110601849386618880
@@ -301,29 +387,6 @@ https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_article/-char
 https://www.jstage.jst.go.jp/article/seitai/57/3/57_KJ00004816813/_pdf
 腸内微生物群集はどのように形作られるのだろうか？
 生まれる前の動物の消化管は通常無菌である（
-
-----------
-## amplicon-shotgun
-
-targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
-
-https://www.ncbi.nlm.nih.gov/pubmed/28337071
-J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
-International Standards for Genomes, Transcriptomes, and Metagenomes.
-Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
-TABLE 3
-Comparison of metagenomic assay capabilities and limitations
-
-https://www.ncbi.nlm.nih.gov/pubmed/28761145
-Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
-Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
-
-https://www.ncbi.nlm.nih.gov/pubmed/21121044
-Pac Symp Biocomput. 2011:165-76.
-Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
-Shah N1, Tang H, Doak TG, Ye Y.
 
 ----------
 ## Knight R
@@ -851,38 +914,6 @@ Adams RI1, Bateman AC2, Bik HM3,4, Meadow JF5.
 
 ----------
 ## people
-
-### danknights
-
-https://www.tedmed.com/speakers/show?id=693178
-TEDMED - Speaker: Dan Knights
-
-https://www.youtube.com/user/danknights
-Dan Knights - YouTube
-
-Dan Knights
-Published on Mar 4, 2016
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
-Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-https://www.youtube.com/watch?v=6564K4-_DBI
-Microbiome Discovery 1: Intro to the Microbiome
-
-https://www.youtube.com/watch?v=FWT1HBzlWOE
-Microbiome Discovery 2: How microbiome data are generated
-
-https://www.youtube.com/watch?v=8Aa_mnyXm70
-Microbiome Discovery 3: 16S Variable Regions
-
-https://www.youtube.com/watch?v=iy0JWgzmM_A
-Microbiome Discovery 4: QIIME - YouTube
-
-https://www.youtube.com/watch?v=u2IQQUMeWy8
-Microbiome Discovery 4.5: (Optional) UNIX Command Line
-
-https://www.youtube.com/watch?v=Ok5h24KZbAE
-Microbiome Discovery 5: Picking OTUs
 
 
 ### duvallet
