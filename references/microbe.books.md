@@ -1,29 +1,35 @@
 # microbe.books
 
-- [meeting](#meeting)
+## Table of Contents
+- [twitter](#twitter)
+- [featuring](#featuring)
+- [updates](#updates)
+- [nikkei-science](#nikkei-science)
 
 ----------
-## nikkei-science
+## twitter
 
-http://www.nikkei-science.com/?tag=微生物学
-微生物学 | 日経サイエンス
+- https://twitter.com/search?q=闘う微生物
+- https://twitter.com/search?q=%22土・牛・微生物%22
+- https://twitter.com/search?q=%22抗生物質と人間%22
+- https://twitter.com/search?q=%22微生物の驚異%22
+- https://twitter.com/search?q=%22マイクロバイオームの世界%22
+- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
+- https://twitter.com/search?q=あなたの体は９割が細菌
+- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
+- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
 
-http://www.nikkei-science.com/?tag=感染症
-感染症 | 日経サイエンス
+----------
+## featuring
 
-http://www.nikkei-science.com/201810_057.html
-特別リポート：変貌する感染症の脅威 | 日経サイエンス
+https://thinkeroid.hateblo.jp/entry/20190501/1556698797
+まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
 
-http://www.nikkei-science.com/201803_068.html
-バイオフィルムを退治する | 日経サイエンス
-
-http://www.nikkei-science.com/201605_072.html
-体を守る苦味受容体 | 日経サイエンス
-苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
-
-http://www.nikkei-science.com/?p=44051
-鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
-苦味受容体が細菌の侵入と闘っている
+http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
+「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
+- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
+- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
 
 
 https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
@@ -34,12 +40,12 @@ https://bookmeter.com/books/9768053
 
 タスマニアデビルの伝染性腫瘍は人間の介入でなんとかならないものかと思う。
 
-
-
 https://twitter.com/endBooks/status/385905594026033153
 科学に佇むｻﾝｸｺｽﾄ on Twitter: "”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://t.co/dVcLexoXCN 『病原微生物の氾濫』アーノ・カーレン"
 7:13 PM - 3 Oct 2013
 
+----------
+## updates
 
 ### 2019-03-22
 ![](https://www.msz.co.jp/_cover/front/08767.jpg)
@@ -53,6 +59,32 @@ https://www.msz.co.jp/book/detail/08767.html
 https://www.msz.co.jp/topics/08767/
 コサール『これからの微生物学』訳者あとがき（矢倉英隆）ウェブ転載 - みすず書房
 
+### 2019-03-21
+![https://www.kinokuniya.co.jp/f/dsg-01-9784492046432](https://www.kinokuniya.co.jp/images/goods/ar2/web/imgdata2/44920/4492046437.jpg)
+
+https://str.toyokeizai.net/books/9784492046432/
+子どもの人生は「腸」で決まる | 東洋経済STORE
+
+https://www.amazon.co.jp/dp/4492046437
+子どもの人生は「腸」で決まる: 3歳までにやっておきたい最強の免疫力の育て方
+ジャック・ギルバート、ロブ・ナイト、サンドラ・ブレイクスリー (著)、鍛原 多惠子 (翻訳)
+Dirt Is Good: The Advantage of Germs for Your Child's Developing Immune System、待望の邦訳!
+
+2019/05/25
+https://toyokeizai.net/articles/-/281902
+幼児期までに｢多様な細菌｣と触れ合うべき理由
+｢ママ医師｣が教える菌との正しい付き合い方
+森田 麻里子 : 医師、小児睡眠コンサルタント
+最近の研究では、幼少期に土や動物と触れ合って細菌を体内に取り入れたほうが、アレルギーや肥満になりにくいことがわかっています。
+https://www.msn.com/ja-jp/news/opinion/幼児期までに｢多様な細菌｣と触れ合うべき理由-｢ママ医師｣が教える菌との正しい付き合い方/ar-AABRDPx
+
+2019/03/23
+https://toyokeizai.net/articles/-/271157
+子どもを｢花粉症にさせない｣ためにできること
+シカゴ大教授が説く｢最強の免疫力｣の育て方
+ジャック・ギルバート : シカゴ大学外科学教授 ／ ロブ・ナイト : カリフォルニア大学サンディエゴ校小児科学教授	2019/03/23
+https://www.msn.com/ja-jp/money/career/子どもを｢花粉症にさせない｣ためにできること-シカゴ大教授が説く｢最強の免疫力｣の育て方/ar-BBV7edL
+
 ### 2018-12-14
 ![](https://www.honyaclub.com/img/goods/book/L/62/208/753.jpg)
 
@@ -63,6 +95,10 @@ https://www.msz.co.jp/book/detail/08753.html
 山内一也
 
 https://www.primate.or.jp/serialization/116%EF%BC%8E新刊書「ウイルスの意味論%E3%80%80―%E3%80%80生命の定義/
+
+http://dain.cocolog-nifty.com/myblog/2019/02/post-40aa.html
+『ウイルスの意味論』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+
 
 ### 2018-08-31
 
@@ -112,6 +148,40 @@ http://www.tsukiji-shokan.co.jp/mokuroku/ISBN978-4-8067-1553-5.html
 http://odokon.org/archives/2018/0319_132207.php
 新刊紹介: 闘う微生物--抗生物質と農薬の濫用から人体を守る | 応動昆
 
+### 2018-01-25
+![](https://cdn.kdkw.jp/cover_b/321710/321710000160.jpg)
+
+https://www.kadokawa.co.jp/product/321710000160
+感染症の世界史 石　弘之：文庫 | KADOKAWA
+
+2019-04-23
+https://spee.hatenablog.com/entry/infection_history
+感染症の世界史という名著 - (続)とある最底辺歯科医の戯れ言集
+
+https://bookmeter.com/books/9019620
+感染症の世界史 感想 石 弘之 - 読書メーター
+
+https://1000ya.isis.ne.jp/1655.html
+1655夜『感染症の世界史』石弘之|松岡正剛の千夜千冊
+
+### 2018-01-18
+![](http://bkmkn.s3-website-ap-northeast-1.amazonaws.com/9784065020449/9784065020449_w.jpg)
+
+http://bookclub.kodansha.co.jp/product?item=0000226693
+日本の伝統　発酵の科学　微生物が生み出す「旨さ」の秘密
+著：中島　春紫
+2018年01月18日
+
+https://hon.booklog.jp/interview/hakkounokagaku-20180406
+「麹菌」は日本人が育んできた「家畜」！？―ブルーバックス『日本の伝統 発酵の科学』著者・中島春紫さん独占インタビュー | ブクログ通信
+2018年4月6日
+
+http://news.kodansha.co.jp/5786
+発酵の科学「臭いものはなぜ旨い？」納豆､くさや､シュール･ストレミング！
+2018.03.16
+
+## 2017
+
 ### 2017/09/20
 ![](https://www.iwanami.co.jp//images/book/309292.png)
 
@@ -130,6 +200,13 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 http://www.kashiwashobo.co.jp/book/b286870.html
 世界は細菌にあふれ、人は細菌によって生かされる
 
+https://twitter.com/kashiwashobo/status/1134254485524500485
+柏書房 on Twitter: "おはようございます。『世界は細菌にあふれ、人は細菌によって生かされる』（小社刊）第10章「微生物研究の未来」では、建物と都市のマイクロバイオームについて触れておりますが、6月21日（金）に微生物のDNAの世界同時サンプリングが開催されるそうです。"
+
+https://twitter.com/kashiwashobo/status/867184337136910336
+柏書房 on Twitter: "【新刊のお知らせ①】 本日は新刊2点が配本になります。1点目は数日前に第２アカウントでも紹介がありました『世界は細菌にあふれ、人は細菌によって生かされる』（エド・ヨン 著／安部恵子 訳　本体2,700円＋税）です。　https://t.co/q1WTK4Wffv… https://t.co/ahznq6ppEJ"
+9:03 PM - 23 May 2017
+
 https://edyong.me/i-contain-multitudes/
 I Contain Multitudes — Ed Yong
 
@@ -145,7 +222,7 @@ I Contain Multitudes - YouTube - YouTube
 http://www.pbs.org/show/i-contain-multitudes/
 I Contain Multitudes | PBS
 
-http://twilog.org/man10000/month-1712
+https://twilog.org/man10000/month-1712
 
 10秒のディープキスで平均8000万以上の細菌が移動することを確かめた。『マイクロバイオームの世界』
 
@@ -225,6 +302,16 @@ Processes in Microbial Ecology - David L. Kirchman - Google ブックス
 http://www.kawade.co.jp/np/isbn/9784309253527/
 あなたの体は９割が細菌 :アランナ・コリン,矢野　真千子｜河出書房新社
 
+澤畑 塁2016年08月17日
+https://honz.jp/articles/-/43201
+『あなたの体は9割が細菌　微生物の生態系が崩れはじめた』肥満も腸内細菌のせい!?
+
+河出書房新社2016年08月15日
+https://honz.jp/articles/-/43161
+『あなたの体は9割が細菌　微生物の生態系が崩れはじめた』
+訳者あとがき
+
+
 ### 2015-11-02
 ![](https://www.beret.co.jp/books/imgresize/589.jpg/175/0)
 
@@ -246,5 +333,35 @@ https://www.msz.co.jp/book/detail/07910.html
 http://honz.jp/articles/-/41635
 『失われてゆく、我々の内なる細菌』　ピロリ菌だって役に立つ？ 
 
+
 ----------
+## nikkei-science
+
+http://www.nikkei-science.com/?tag=微生物学
+微生物学 | 日経サイエンス
+
+http://www.nikkei-science.com/?tag=感染症
+感染症 | 日経サイエンス
+
+http://www.nikkei-science.com/201810_057.html
+特別リポート：変貌する感染症の脅威 | 日経サイエンス
+
+http://www.nikkei-science.com/201803_068.html
+バイオフィルムを退治する | 日経サイエンス
+
+http://www.nikkei-science.com/201605_072.html
+体を守る苦味受容体 | 日経サイエンス
+苦味受容体が侵入細菌に対する素早い防御反応を誘発していることが最近の研究で判明した。有害な細菌が出す苦味物質を検知して，線毛運動で排除したり，殺菌作用のある一酸化窒素を放出させたり，抗菌タンパク質を放出させたりする。
+
+http://www.nikkei-science.com/?p=44051
+鼻で闘う味の受容体〜日経サイエンス2014年11月号より | 日経サイエンス
+苦味受容体が細菌の侵入と闘っている
+
+
+----------
+
+
+
+
+
 
