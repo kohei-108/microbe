@@ -10,6 +10,7 @@ https://ja.wikipedia.org/wiki/建造環境
 ## Table of Contents
 - [featuring](#featuring)
 - [updates](#updates)
+- [airport](#airport) 空港
 - [air](#air) 空気
 - [money](#money) 金
   - [ATM](#atm)
@@ -26,6 +27,37 @@ https://ja.wikipedia.org/wiki/建造環境
 - [subway](#subway) 地下鉄
 - [unclassified](#unclassified)
 - [urban microbiome](#urban-microbiome) 都市のマイクロバイオーム
+
+----------
+## airport
+
+https://www.ncbi.nlm.nih.gov/pubmed/29876609
+Microb Ecol. 2018 Jun 6. doi: 10.1007/s00248-018-1191-3. [Epub ahead of print]
+The Airplane Cabin Microbiome.
+Weiss H1, Hertzberg VS2, Dupont C3, Espinoza JL3, Levy S4, Nelson K5, Norris S6; FlyHealthy Research Team.
+
+
+https://www.nature.com/articles/nbt.3868
+Researchers from the Technical University of Denmark, in Lyngby, sampled toilet waste from 18 commercial flights arriving in Copenhagen from South Asia, North Asia and North America, and reported that waste from the South Asian flights were enriched for Salmonella enterica and Norovirus (both causes of food poisoning) and genes encoding antimicrobial resistance. In contrast, Clostridium difficile bacteria were more abundant in wastes from North American flights8. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498435/
+Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance
+
+https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
+Deposition of respiratory virus pathogens on frequently touched surfaces at airports
+
+https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
+空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+https://twitter.com/YuriHiranuma/status/1039760793347215360
+Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
+2:21 AM - 12 Sep 2018
+
+https://twitter.com/hedipeterson/status/1037235561289969665
+Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
+3:06 AM - 5 Sep 2018
+
+
 
 ----------
 ## featuring
@@ -454,6 +486,23 @@ Published on Aug 25, 2014
 ----------
 ## hospital
 病院
+
+http://medical.radionikkei.jp/kansenshotoday_pdf/kansenshotoday-180404.pdf
+｢医療環境が医療関連感染に与える影響｣
+ここで、新しくできた病室で、環境
+における微生物のゲノム情報全体を示すマイクロバイオームの研究を見ていきましょ う。病室を患者が利用し始めると、病室環境と患者の微生物叢は似かよってくること(環 境では Staphylococcus)がわかり
+ました(Lax 2017)。また、薬剤耐
+性遺伝子は患者の皮膚より病室環 境から豊富に検出されました。さ らに、医療者が患者の皮膚の微生 物叢に大きく関与していることが 示唆されました。このようなこと からも、微生物の伝播や医療関連 感染を考える上で、病室環境や医 療者が非常に重要な要素であると 言えます。
+
+http://amr.ncgm.go.jp/medics/2-1-4.html
+薬剤耐性が拡大する要因 | 薬剤耐性菌について | 医療従事者の方へ | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
+、抗菌薬を使用した患者のベッドを利用する次の患者はクロストリジウム・ディフィシル感染を起こしやすいことがわかっており、これは環境にクロストリジウム・ディフィシルが残存しているためであることも報告されています[2]。
+
+https://www.ncbi.nlm.nih.gov/pubmed/28539477
+Sci Transl Med. 2017 May 24;9(391). pii: eaah6500. doi: 10.1126/scitranslmed.aah6500.
+Bacterial colonization and succession in a newly opened hospital.
+Lax S1,2, Sangwan N2,3, Smith D4, Larsen P2, Handley KM1, Richardson M1, Guyton K3, Krezalek M3, Shogan BD3, Defazio J3, Flemming I3, Shakhsheer B3, Weber S5, Landon E5, Garcia-Houchins S5, Siegel J6,7, Alverdy J3, Knight R8,9, Stephens B10, Gilbert JA11,2,3.
+
 
 https://twitter.com/uranus_2/status/935344236240576513
 マーキュリー２世 on Twitter: "NICUの乳児の消化管に生息する細菌叢は病室にいる細菌と重なるタイプがある。Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome　https://t.co/qbU3NytDWk"
