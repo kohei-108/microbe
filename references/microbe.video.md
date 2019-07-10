@@ -37,14 +37,28 @@ Microbiome Discovery 4.5: (Optional) UNIX Command Line
 https://www.youtube.com/watch?v=Ok5h24KZbAE
 Microbiome Discovery 5: Picking OTUs
 
-
-https://www.youtube.com/watch?v=HkwFdzFLZ0I&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=8
+https://www.youtube.com/watch?v=HkwFdzFLZ0I
 Microbiome Discovery 6: Assigning Taxonomy
+
+https://www.youtube.com/watch?v=9ZvoR89HYP8
+Microbiome Discovery 7: Alpha Diversity
+
+https://www.youtube.com/watch?v=lcbp6EecDg4
+Microbiome Discovery 8: Beta Diversity
+
+https://www.youtube.com/watch?v=M8ylvsS0MHg&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=11
+Microbiome Discovery 9: UniFrac - YouTube
 
 
 
 ----------
 ## ted
+
+
+TEDMED 2017 | November 2017
+https://www.ted.com/talks/dan_knights_how_we_study_the_microbes_living_in_your_gut?language=ja
+ダン・ナイツ: 腸内細菌はこんな方法で研究されている | TED Talk
+9:57
 
 TED2017 | April 2017
 https://www.ted.com/talks/anne_madden_meet_the_microscopic_life_in_your_home_and_on_your_face?language=ja
@@ -60,10 +74,6 @@ TED2014 | February 2014
 https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja
 ロブ・ナイト: 微生物がどのようにして私達を作っているのか | TED Talk
 17:16
-
-
-
-
 
 
 http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
