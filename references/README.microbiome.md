@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-05
+Last Update: 2019-07
 
 ----------
 
@@ -28,14 +28,41 @@ Last Update: 2019-05
 
 https://github.com/haruosuz/metasub
 MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
-都市の微生物群集
+都市の微生物
 
 ----------
 ## featuring
 
+----------
+## enterotype
 
+https://www.ncbi.nlm.nih.gov/pubmed/21508958
+Nature. 2011 May 12;473(7346):174-80. doi: 10.1038/nature09944. Epub 2011 Apr 20.
+Enterotypes of the human gut microbiome.
 
+http://daichou.com/enterotype.html
+人の腸内細菌叢（Enterotype)は下のような３つの「タイプ」があることが解りました。これは国籍、年齢、人種による差では無いとのことです。
 
+https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03303_03
+医学書院／週刊医学界新聞(第3303号 2018年12月24日)
+腸内細菌叢と循環器疾患の関連 
+山下 智也（
+　ヒトの腸内細菌叢を糞便の優位菌によって3種類（enterotypeと言われる3型）に分類できるという報告がある3）。Bacteroides属が優位なenterotype I，Prevotella属が優位なenterotype II，Ruminococcus属が優位なenterotype IIIだ。その後の報告では，必ずしもこの分類で全てが処理できるわけではなさそうだが，
+
+2016年・平成28年4月16日
+https://www.jstage.jst.go.jp/article/naika/105/9/105_1706/_pdf
+平田 健一 山下 智也
+　ヒトの腸内細菌叢はBacteroides属菌が優位な
+Enterotype I，Prevotella属菌が優位なEnterotype
+II，Ruminococcus属菌が優位なEnterotype IIIの3
+つの群に分類できる．そして，少数例の検討で
+はあるが，頸動脈狭窄患者でEnterotype IIIが多
+いことが報告された1）．
+
+2011-10-27
+https://syodokukai.exblog.jp/14833751/
+長期的な食事パターンと腸内細菌エンテロタイプとの関連 : 一人抄読会
+最近、腸内細菌叢の特徴を主に3つのタイプ（Bacteroides, Prevotela, Ruminococcus）に分類する「エンテロタイプ」という考え方が提案されている。エンテロタイプの背景因子は不明で、少なくとも国籍、性別、年齢、BMIとは無関係である。
 
 ----------
 
@@ -110,6 +137,10 @@ The Tree of Life: Referring to 16S surveys as "metagenomics" is misleading and a
 ## updates
 
 ### 2019
+
+https://twitter.com/WvSchaik/status/1148595145790689281
+Willem van Schaik on Twitter: "Really interesting approach to link ALL microbiome studies and allow for comparative analyses: https://t.co/PVM3HCi7hT by João Rodriguez #FEMS2019"
+10:09 AM - 9 Jul 2019
 
 Posted May 21, 2019.
 https://www.biorxiv.org/content/10.1101/644740v1
