@@ -1418,6 +1418,9 @@ The organization and transcriptional units of the mtr genes. (A) Schematic illus
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/bin/12866_2015_406_Fig1_HTML.jpg)
 
+https://ja.wikipedia.org/wiki/遺伝子発現#ラクトースオペロン
+真正細菌及び古細菌では、機能の関連した遺伝子が染色体上で隣接して存在し遺伝子クラスター（gene cluster）を形成している。この遺伝子クラスターのうち、単一のプロモーターで転写される単位をオペロン（operon）という。
+
 ### Shewanella_reference_representative
 参照ゲノム・代表ゲノム
 
