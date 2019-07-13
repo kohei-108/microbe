@@ -1391,7 +1391,7 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
 Shewanella - an overview | ScienceDirect Topics
 Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
 
-### Outer membrane cytochrome
+### Shewanella_outer_membrane_cytochromes
 
 https://www.ncbi.nlm.nih.gov/pubmed/27342561
 Appl Environ Microbiol. 2016 Aug 15;82(17):5428-43. doi: 10.1128/AEM.01615-16. Print 2016 Sep 1.
