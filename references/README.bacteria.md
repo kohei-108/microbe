@@ -28,10 +28,10 @@ Last Update: 2019-06
   - DLD
   - Bromate Reduction
 - [Shewanella](#shewanella)
-  - [Shewanella_reference_representative](#shewanella_reference_representative)
-  - [Shewanella_phylogeny](#shewanella_phylogeny)
-  - [Shewanella_comparative_genomics](#shewanella_comparative_genomics)
-  - [Shewanella_space](#shewanella_space)
+  - [reference_representative](#shewanella_reference_representative)
+  - [phylogeny](#shewanella_phylogeny)
+  - [comparative_genomics](#shewanella_comparative_genomics)
+  - [space](#shewanella_space)
 - [Sinorhizobium](#sinorhizobium)
   - KGO-5
 - [mitochondria](#mitochondria) 
@@ -43,6 +43,8 @@ Last Update: 2019-06
 
 ----------
 ## featuring
+
+https://ja.unionpedia.org/i/真正細菌
 
 https://ja.wikipedia.org/wiki/CPR群
 CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培養例が皆無で記載種を一切含まないが、全細菌の少なくとも15%、もしくはそれ以上を占めると推定されている[1]。
@@ -783,6 +785,19 @@ http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
 微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
 
 https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
+ジオバクター科の細菌は、ウラン鉱山等の地下水汚染防止に使われてきた。その仕組みは今までわかっていなかったが、このほどその一部を明らかにする研究が発表された。
+
+
+
+https://twitter.com/Kyukimasa/status/1146406334897651712
+ゆきまさかずよし on Twitter: "”電線バクテリア” https://t.co/XLndiO79k3 鉄還元菌と硝酸還元菌が導電性の生きたケーブルで繋がって電子を受け渡して共生しているという話。 1980年代になって発見されてから多くの種が発見されて研究進んでる(生物燃料電池とかの応用も)"
+9:12 AM - 3 Jul 2019
+ここ最近、電気微生物の研究進んでるとは聞いたけど、検索してたら鉄還元細菌ジオバクター
+
+https://www.nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
+Wired Bacteria Form Nature’s Power Grid: ‘We Have an Electric Planet’ - The New York Times
+Geobacter
+Shewanella
 
 ----------
 
@@ -1376,6 +1391,32 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
 Shewanella - an overview | ScienceDirect Topics
 Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
 
+### Outer membrane cytochrome
+
+https://www.ncbi.nlm.nih.gov/pubmed/27342561
+Appl Environ Microbiol. 2016 Aug 15;82(17):5428-43. doi: 10.1128/AEM.01615-16. Print 2016 Sep 1.
+Regulation of Gene Expression in Shewanella oneidensis MR-1 during Electron Acceptor Limitation and Bacterial Nanowire Formation.
+Barchinger SE1, Pirbadian S2, Sambles C3, Baker CS1, Leung KM2, Burroughs NJ4, El-Naggar MY5, Golbeck JH6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988178/
+outer membrane containing the cytochromes MtrC and OmcA
+MtrA, MtrC, and OmcA, and 
+the expression of the mtrA and mtrC homologs mtrF and mtrD
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988178/table/T2/?report=objectonly
+TABLE 2
+Selected genes discussed in this work
+Cytochromes
+
+https://www.ncbi.nlm.nih.gov/pubmed/25886963/
+BMC Microbiol. 2015 Mar 21;15:68. doi: 10.1186/s12866-015-0406-8.
+Transcriptional mechanisms for differential expression of outer membrane cytochrome genes omcA and mtrC in Shewanella oneidensis MR-1.
+Kasai T1, Kouzuma A2, Nojiri H3, Watanabe K4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/
+the Mtr respiratory pathway, which consists of the outer membrane cytochromes OmcA and MtrC and associated proteins MtrA and MtrB. These proteins are encoded in the mtr gene cluster (omcA-mtrCAB) in the MR-1 chromosome.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/figure/Fig1/
+Figure 1
+The organization and transcriptional units of the mtr genes. (A) Schematic illustration of the organization of the mtr genes. Solid arrows indicate the location and direction of the transcriptional promoters upstream of omcA (PomcA) and mtrC (PmtrC).
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/bin/12866_2015_406_Fig1_HTML.jpg)
 
 ### Shewanella_reference_representative
 参照ゲノム・代表ゲノム
@@ -2343,11 +2384,10 @@ Comparative genomic analysis of the Streptococcus dysgalactiae species group: ge
 Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
 
 https://www.ncbi.nlm.nih.gov/pubmed/30910818
-G3 (Bethesda). 2019 Mar 25. pii: g3.200978.2018. doi: 10.1534/g3.118.200978. [Epub ahead of print]
+G3 (Bethesda). 2019 May 7;9(5):1321-1329. doi: 10.1534/g3.118.200978.
 Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation.
 Harada M, Ito K, Nakajima N, Yamamura S, Tomita M, Suzuki H, Amachi S.
-https://www.g3journal.org/content/9/5/1321.long
-https://www.g3journal.org/content/ggg/9/5/1321.full.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6505155/
 Table 1
 Genomic features of Pseudomonas strains analyzed
 - GENOME FEATURES
