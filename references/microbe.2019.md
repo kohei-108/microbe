@@ -40,14 +40,7 @@ BacDive | The Bacterial Diversity Metadatabase
 "Arthrobacter"の検索結果
 https://bacdive.dsmz.de/search?search=Actinobacteria&submit=
 
-https://twitter.com/BacDive
-BacDive (@BacDive) | Twitter
-
-論文
-https://www.ncbi.nlm.nih.gov/pubmed/24214959
-Nucleic Acids Res. 2014 Jan;42(Database issue):D592-9.
-BacDive--the Bacterial Diversity Metadatabase.
-2013年9月現在、細菌23,458菌株のメタ情報（分類群、培養条件、分離場所、配列データ）を含む
+https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
 
 https://ja.wikipedia.org/wiki/階級_(生物学)
 門・綱・目・科・属・種などの、分類の階層のこと。分類階級
