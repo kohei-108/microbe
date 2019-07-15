@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-06
+Last Update: 2019-07
 
 ----------
 
@@ -28,6 +28,45 @@ Last Update: 2019-06
 - [transcriptome](#transcriptome)
 - [microbedb](#microbedb)
 - [wiebler](#wiebler)
+
+----------
+## 2019-07
+
+### BacDive
+
+https://bacdive.dsmz.de/
+BacDive | The Bacterial Diversity Metadatabase
+
+"Arthrobacter"の検索結果
+https://bacdive.dsmz.de/search?search=Actinobacteria&submit=
+
+https://twitter.com/BacDive
+BacDive (@BacDive) | Twitter
+
+論文
+https://www.ncbi.nlm.nih.gov/pubmed/24214959
+Nucleic Acids Res. 2014 Jan;42(Database issue):D592-9.
+BacDive--the Bacterial Diversity Metadatabase.
+2013年9月現在、細菌23,458菌株のメタ情報（分類群、培養条件、分離場所、配列データ）を含む
+
+https://ja.wikipedia.org/wiki/階級_(生物学)
+門・綱・目・科・属・種などの、分類の階層のこと。分類階級
+
+----------
+## 2019-07-14
+
+https://www.ncbi.nlm.nih.gov/pubmed/29615045
+Microb Cell Fact. 2018 Apr 3;17(1):53. doi: 10.1186/s12934-018-0898-7.
+A common mechanism explains the induction of aerobic fermentation and adaptive antioxidant response in Phaffia rhodozyma.
+Martínez-Cárdenas A1, Chávez-Cabrera C1,2, Vasquez-Bahena JM3, Flores-Cotera LB4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5883411/
+
+aox, which encodes an alternative oxidase protein.
+
+alternative oxidase (AOX) 
+
+Fig. 3
+Relative expression levels of aox and asy in cells of P. rhodozyma grown in the cultures − Cu and +Cu. 
 
 ----------
 ## Wiebler
