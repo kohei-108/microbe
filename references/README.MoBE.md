@@ -1,6 +1,6 @@
 # MoBE
 **Microbiology of the Built Environment**
-**建造環境の微生物**
+**人工環境の微生物**
 
 https://ja.wikipedia.org/wiki/建造環境
 建築環境
@@ -10,59 +10,26 @@ https://ja.wikipedia.org/wiki/建造環境
 ## Table of Contents
 - [featuring](#featuring)
 - [updates](#updates)
-- [airport](#airport) 空港
 - [air](#air) 空気
-- [money](#money) 金
-  - [ATM](#atm)
+- [airport](#airport) 空港
 - [home](#home) 家
 - [hospital](#hospital) 病院
-- [japan](#japan)
+- [money](#money) 金
+  - [ATM](#atm)
 - [phone](#phone)
-- [people](#people)
-  - [jessica_green](#jessica_green)
-- [review](#review)
 - [school](#school) 学校
 - [space](#space) 宇宙
   - [iss](#iss)
 - [subway](#subway) 地下鉄
-- [unclassified](#unclassified)
 - [urban microbiome](#urban-microbiome) 都市のマイクロバイオーム
-
-----------
-## airport
-
-https://www.ncbi.nlm.nih.gov/pubmed/29876609
-Microb Ecol. 2018 Jun 6. doi: 10.1007/s00248-018-1191-3. [Epub ahead of print]
-The Airplane Cabin Microbiome.
-Weiss H1, Hertzberg VS2, Dupont C3, Espinoza JL3, Levy S4, Nelson K5, Norris S6; FlyHealthy Research Team.
-
-
-https://www.nature.com/articles/nbt.3868
-Researchers from the Technical University of Denmark, in Lyngby, sampled toilet waste from 18 commercial flights arriving in Copenhagen from South Asia, North Asia and North America, and reported that waste from the South Asian flights were enriched for Salmonella enterica and Norovirus (both causes of food poisoning) and genes encoding antimicrobial resistance. In contrast, Clostridium difficile bacteria were more abundant in wastes from North American flights8. 
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498435/
-Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance
-
-https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
-Deposition of respiratory virus pathogens on frequently touched surfaces at airports
-
-https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
-空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-https://twitter.com/YuriHiranuma/status/1039760793347215360
-Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
-2:21 AM - 12 Sep 2018
-
-https://twitter.com/hedipeterson/status/1037235561289969665
-Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
-3:06 AM - 5 Sep 2018
-
-
+- [japan](#japan)
+- [people](#people)
+  - [jessica_green](#jessica_green)
+- [review](#review)
+- [unclassified](#unclassified)
 
 ----------
 ## featuring
-
-
 
 https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
 環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
@@ -304,73 +271,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945812/
 - Several studies suggest that this may be the case. In a recent survey of public restroom surfaces, Flores and colleagues [7] found that microbes on restroom surfaces were similar to those found on specific human body parts, with the strongest association observed between toilet surfaces and gut and vaginal communities. These associations are to be expected given the direct contact common in this environment between surfaces and the human body.
 - Recent evidence has suggested that the unique microbial assemblages detected on different human body parts can be transferred to indoor surfaces following contact [26,31], and that these bacterial traces of human contact are evident in places such as restrooms [7]. 
 
-
-----------
-
-## money
-お金の微生物
-
-https://twitter.com/Newsweek_JAPAN/status/866774474166874113
-ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
-5:55 PM - 22 May 2017
-
-2017年5月22日
-http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
-細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
-Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
-＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
-紙幣が細菌追跡の目印に
-都市の細菌集団探しは成長分野
-耐性菌との戦いに役立つ
-
-2017-04-13
-https://twitter.com/yokadzaki/status/852704490436177921
-Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
-
-https://www.ncbi.nlm.nih.gov/pubmed/28450856
-Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
-Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
-
-September 6, 2017
-http://time.com/4918626/money-germs-microbes-dirty/
-Here's How Dirty Your Money Really Is | Time
-
-https://www.ncbi.nlm.nih.gov/pubmed/28384336
-PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
-Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
-Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
-
-January 4, 2017
-http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
-Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
-The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
-
-2016/02/02
-http://fukuyuki.net/post-639/
-硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
-
-2013.06.19
-https://www.atpress.ne.jp/news/36512
-現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
-
-- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
-- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
-- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
-- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
-- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
-- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
-
-![](http://si.wsj.net/public/resources/images/NA-CA854_MONEY_G_20140418181251.jpg)
-
-----------
-## ATM
-
-https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
-New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
-
-- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
-- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
-
 ----------
 ## air
 空気中の微生物
@@ -425,6 +325,35 @@ https://www.rtri.or.jp/rd/news/human/human_200909.html#sect06
 「カビくさい」の正体を探る
 
 ----------
+## airport
+空港
+
+https://www.ncbi.nlm.nih.gov/pubmed/29876609
+Microb Ecol. 2018 Jun 6. doi: 10.1007/s00248-018-1191-3. [Epub ahead of print]
+The Airplane Cabin Microbiome.
+Weiss H1, Hertzberg VS2, Dupont C3, Espinoza JL3, Levy S4, Nelson K5, Norris S6; FlyHealthy Research Team.
+
+
+https://www.nature.com/articles/nbt.3868
+Researchers from the Technical University of Denmark, in Lyngby, sampled toilet waste from 18 commercial flights arriving in Copenhagen from South Asia, North Asia and North America, and reported that waste from the South Asian flights were enriched for Salmonella enterica and Norovirus (both causes of food poisoning) and genes encoding antimicrobial resistance. In contrast, Clostridium difficile bacteria were more abundant in wastes from North American flights8. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498435/
+Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance
+
+https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3150-5
+Deposition of respiratory virus pathogens on frequently touched surfaces at airports
+
+https://www.newsweekjapan.jp/stories/world/2018/09/post-10932.php
+空港にトイレより汚い場所があった　全員が触るのに | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+https://twitter.com/YuriHiranuma/status/1039760793347215360
+Yuri Hiranuma on Twitter: "感染症の専門誌「BMC Infectious Diseases」に8月29日に発表された研究結果によれば、それらのトレーにはトイレの便座を上回る数のウイルスが付着していると言う。 論文：https://t.co/09cP7LanGi"
+2:21 AM - 12 Sep 2018
+
+https://twitter.com/hedipeterson/status/1037235561289969665
+Hedi Peterson on Twitter: "The three most respiratory virus carrying surfaces at the Helsinki airport were a plastic toy at the play area, plastic trays at the security check and card payment terminal buttons. The study itself at https://t.co/O8MJWp97yp… https://t.co/4X91lQS3WU"
+3:06 AM - 5 Sep 2018
+
 
 
 ----------
@@ -534,189 +463,67 @@ https://www.microbe.net/2012/10/23/websites-for-the-hospital-microbiome-project-
 Websites for the Hospital Microbiome Project and the Home Microbiome Project
 
 ----------
-## people
-### jessica_green
 
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
+## money
+お金の微生物
 
-Nov 9, 2015
-https://www.youtube.com/watch?v=GUfR_81fmLE
-【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
+https://twitter.com/Newsweek_JAPAN/status/866774474166874113
+ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
+5:55 PM - 22 May 2017
 
-https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
-「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+2017年5月22日
+http://www.newsweekjapan.jp/stories/world/2017/05/post-7651.php
+細菌の感染ルートを探るには、お札を追え！｜ニューズウィーク日本版
+Hong Kong's Dirty Money: Cash Carries Acne-Causing Bacteria, Other Pathogens
+＜香港の研究で、手の平や地下鉄構内の空気より、紙幣の表面に細菌はたくさん棲み、しかも長生きしていることがわかった＞
+紙幣が細菌追跡の目印に
+都市の細菌集団探しは成長分野
+耐性菌との戦いに役立つ
 
-Feb 2013
-http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
-ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
+2017-04-13
+https://twitter.com/yokadzaki/status/852704490436177921
+Yusuke Okazaki on Twitter: "お札のメタゲノム。サンプリングは地下鉄と病院のレジ。しかもアンプリコンでなくHiseqショットガン。微生物以外のDNAの分析も面白そうだけどこのあとやるのかな　https://t.co/wb3MCleJLc"
 
-January 2013
-https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
-Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
+https://www.ncbi.nlm.nih.gov/pubmed/28450856
+Front Microbiol. 2017 Apr 13;8:632. doi: 10.3389/fmicb.2017.00632. eCollection 2017.
+Toward a Metagenomic Understanding on the Bacterial Composition and Resistome in Hong Kong Banknotes.
 
-Jul 2011
-http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
-ジェシカ・グリーン「微生物を正しく取り除くために」
+September 6, 2017
+http://time.com/4918626/money-germs-microbes-dirty/
+Here's How Dirty Your Money Really Is | Time
 
-### phylagen
+https://www.ncbi.nlm.nih.gov/pubmed/28384336
+PLoS One. 2017 Apr 6;12(4):e0175527. doi: 10.1371/journal.pone.0175527. eCollection 2017.
+Filthy lucre: A metagenomic pilot study of microbes found on circulating currency in New York City.
+Maritz JM1, Sullivan SA1, Prill RJ2, Aksoy E1, Scheid P1, Carlton JM1.
 
-https://twitter.com/phylagen
-https://phylagen.com/
-Every object & every place has a 
-naturally occurring microbial fingerprint
+January 4, 2017
+http://time.com/money/4621673/money-cash-currency-bacteria-disease-sickness/
+Does Paper Money Spread Disease? U.S. Cash Holds Bacteria | Money
+The Money in Your Wallet Might Be Covered With Poop, Mold, and Cocaine
 
-https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
-This Startup Uses Dust to Fight Sweatshops - leapsmag
-Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
+2016/02/02
+http://fukuyuki.net/post-639/
+硬貨が汚いという迷信について調べた結果。。。 | ふくゆきブログ
 
-### roxana_hickey
+2013.06.19
+https://www.atpress.ne.jp/news/36512
+現金の清潔度調査を実施～日常的に使用する紙幣と硬貨の汚染細菌付着実態が判明～｜プレスリリース配信サービス【＠Press：アットプレス】
 
-JANUARY 28, 2016
-http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
-We’re All Sitting in Clouds of Bacteria | Mental Floss
-Jan 25, 2016
-https://www.youtube.com/watch?v=2_ib7Z4bmrg
-Your Very Special Bacterial Cloud - YouTube
+- 2015-06-08 [Money metagenomics](https://www.genomeweb.com/scan/week-plos-31) インド紙幣のメタゲノムに病原細菌や抗生物質耐性遺伝子
+- 2014-05-19 [【衝撃！】お札はトイレより汚い!?3,000ものバクテリアが付着していた！ - NAVER まとめ](http://matome.naver.jp/odai/2140045497330359201)
+- 2014-04-24 [Dirty money: Your cash is home to thousands of bacteria](http://www.cbsnews.com/news/dirty-money-your-cash-is-home-to-thousands-of-bacteria)
+- 2014-04-21 [「口にお金を入れる」のはやめよう―紙幣に膨大なバクテリア - WSJ](http://on.wsj.com/1eSGYpK)
+- 2013-08-06 [お札の5枚に1枚は、食中毒菌がついていることを示唆するデータが… お金を使うときに少しでも菌から身を守る対応策を聞いてみた | マイナビニュース](http://news.mynavi.jp/kikaku/2013/08/06/001/)
+- 2013-08-12 [アジアで最も汚く雑菌まみれのお札、それは人民元―台湾](http://www.recordchina.co.jp/a75402.html)
 
-Sep 7, 2016
-https://www.youtube.com/watch?v=vbYJlEItP7g
-Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
+### ATM
 
-https://twitter.com/roxana_hickey/status/877713794733973504
-Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
-10:24 PM - 21 Jun 2017
+https://www.microbe.net/2016/11/19/new-papers-on-microbiology-of-the-built-environment-november-19-2016/
+New papers on Microbiology of the Built Environment, November 19, 2016 – microBEnet: the microbiology of the Built Environment network
 
-----------
-## review
-
-https://twitter.com/NatureRevMicro/status/1031916837896957952
-Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
-10:52 AM - 21 Aug 2018
-https://www.ncbi.nlm.nih.gov/pubmed/30127345
-Nat Rev Microbiol. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
-Microbiology of the built environment.
-Gilbert JA1,2, Stephens B3.
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
-
-https://twitter.com/copypasteusa/status/1135022062198673408
-#MoBE #microBEnet
-Further reading
-
-https://twitter.com/copypasteusa/status/1135147635763863553
-腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
-人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
-企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
-Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 国際コンソーシアムは世界中で都市の微生物群集を調査してきた (http://metasub.org/)。
-2015年、ニューヨークの地下鉄の表面（改札口、非常口、ベンチ、手すり、ゴミ箱）から検出された約1,700の微生物分類群の大部分はヒト皮膚細菌が占め、一部はヒトの腸内と尿生殖路に由来。DNA配列断片のほぼ半分が既知の生物と一致しなかった。地下鉄で見つかった細菌の大部分は無害。
-https://twitter.com/NatureBiotech/status/864838380353449984
-Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
-https://www.ncbi.nlm.nih.gov/pubmed/28486462
-Nat Biotechnol. 2017 May 9;35(5):401-403.
-Living in a microbial world.
-Schmidt C.
-https://www.nature.com/articles/nbt.3868?draft=journal
-http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
-The indoor microbiome is influenced by building design and operations, human inhabitants and their activities. Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
-
-*Building -> Restrooms, Offices, Classrooms* ![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
-
-Gilbert found something similar; within five to eight hours of being completely sterilized, public restrooms at a school campus were full of human skin and gut bacteria, most of them completely harmless7.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398865/
-FIG 1
-(A) Samples were collected from three surfaces in both female and male restrooms at San Diego State University. The surfaces analyzed were the toilet seat, the floor in front of the toilet, and the soap dispenser pump. 
-
-サンディエゴ州立大学の男性用と女性用のトイレ3表面：便座、トイレの前の床、石鹸ディスペンサーポンプ
-
-https://www.ncbi.nlm.nih.gov/pubmed/27748568
-Microb Biotechnol. 2017 Jan;10(1):11-13. doi: 10.1111/1751-7915.12430. Epub 2016 Oct 17.
-How do we make indoor environments and healthcare settings healthier?
-Gilbert JA1,2,3.
-
-http://www.sciencedirect.com/science/article/pii/S0360132316303419
-Building and Environment
-Volume 109, 15 November 2016, Pages 224-234
-Ten questions concerning the microbiomes of buildings
-
-https://www.ncbi.nlm.nih.gov/pubmed/27822547
-mSystems. 2016 Jul 26;1(4). pii: e00083-16.
-What Have We Learned about the Microbiomes of Indoor Environments?
-Stephens B1.
-
-http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
-Outdoors, occupants, and the pan-microbiome: a review
- By Marcus Leung
-Posted on June 1, 2016
-
-https://www.ncbi.nlm.nih.gov/pubmed/27216717
-Microbiome. 2016 May 24;4(1):21.
-The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
-Leung MH1, Lee PK2.
-
-建造環境の微生物群集とメンタルヘルス
-https://www.ncbi.nlm.nih.gov/pubmed/26674771
-Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
-The microbiome of the built environment and mental health.
-Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
-
-Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
-http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
-
-----------
-
-http://nas-sites.org/builtmicrobiome/
-Microbiomes of the Built Environment
-
-https://www.ncbi.nlm.nih.gov/books/NBK458827/
-Microbiomes of the Built Environment - NCBI Bookshelf
-
-https://www.biomedcentral.com/collections/builtenvironment
-Microbiology of the Built Environment
-
-https://www.biomedcentral.com/collections/mobe2017
-Microbiome of the Built Environment (MoBE) 2017: Research to Application
-
-### microBEnet
-![](https://www.microbe.net/wp-content/uploads/2012/03/cropped-microbenet6.jpg)
-
-http://www.microbe.net
-microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
-
-http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
-Call for Papers MoBE 2017 Microbiome Special Issue
-
-#### metadata
-
-https://www.ncbi.nlm.nih.gov/pubmed/24152717
-ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176. Epub 2013 Oct 24.
-MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.
-Glass EM1, Dribinsky Y1, Yilmaz P2, Levin H3, Van Pelt R4, Wendel D4, Wilke A1, Eisen JA5, Huse S6, Shipanova A6, Sogin M6, Stajich J7, Knight R8, Meyer F9, Schriml LM10.
-
-
-https://microbe.net/resources/metadata-standards/
-Metadata Standards
-
-https://microbe.net/mobe-metadata-resources/
-MoBE Metadata Resources
-
-May 3, 2012
-https://microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
-Guest Post: Metadata for the Built Environment – MIxS-BE package
-
-----------
-## japan
-日本の研究
-
-1) Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmospheric Environment 39:337–341.
-https://www.sciencedirect.com/science/article/pii/S1352231004008805
-
-2) Kang Y, Nagano K. 2016. Field measurement of indoor air quality and airborne microbes in a near-zero energy house with an earth tube in the cold region of Japan. Science and Technology for the Built Environment 22:1010–1023.
-http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
-
-
+- 11/21/2016 [菌まみれのＡＴＭ　２年の調査で数十種類を検出 | Daily Sun New York](http://www.dailysunny.com/2016/11/21/nynews161121-2/)
+- NOV. 18, 2016 [Your A.T.M. Is Covered in Microbes, but Mostly Harmless - The New York Times](http://www.nytimes.com/2016/11/19/science/atm-keypad-microbes.html)
 
 ----------
 ## phone
@@ -1153,41 +960,6 @@ In order to evaluate IAQ, three different kinds of libraries were chosen: Site I
 STUDY AREA
 Three scientific libraries in the city of Rome (Italy), were selected as exemplificative of different typologies. The first site (Site I) is a "university library" founded in 1994, consisting of a single reading room with desks for students, computers and a loft with shelves for the books storage. The documentary print heritage consists in over 5000 monographs and 2000 periodicals, providing access to about 2000 electronic journals and scientific databases. The library also has books storage room, located in the same building, in the basement. 
 
-----------
-## unclassified
-
-https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
-２０１６年４月
-建築環境における微生物汚染機構の解明
-とその対策に関する一連の研究
-工学院大学 建築学部 建築学科 教授
-柳 宇，D.P.H.,Dr.Eng.
-
-https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
-社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
-2012.04.30調査研究
-社会福祉施設における粒子状物質と浮遊微生物に関する研究
-研究指導員：柳宇（工学院大学建築学部　教授）
-
-https://twitter.com/copypasteusa/status/1093071982155845632
-建築環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
-
-https://www.ncbi.nlm.nih.gov/pubmed/30691394
-BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
-Comparative genomics of Bacteria commonly identified in the built environment.
-Merino N, Zhang S, Tomita M, Suzuki H.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
-
-
-背景
-建築環境（built environment）の微生物群集は、人々の生活に影響を与える可能性があり、様々な屋内・屋外・地下・極限環境で研究されてきた。従来、これらの微生物は培養法または培養非依存法（アンプリコンシークエンシング）によって研究されてきた。しかしながら、いずれの方法にも限界があり、複数の研究結果を比較することは困難であり、微生物のライフスタイル（宿主との共生、自由生活性、増殖スピードなど）に関する情報はほとんど得られない。建築環境の微生物をより深く理解するためには、DNA配列が完全に解読されたゲノムから情報を得る方法が有効と考えられる。そこで、建築環境で共通して同定される細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）を調査することにより、これらの細菌のライフスタイルを理解するための第一歩を提供することを目的とした。
-
-結果
-本研究では、建築環境で共通して同定されている細菌の属（「建築環境の細菌ゲノム」）と、他の細菌の属（「他の細菌ゲノム」）を比較した。「建築環境の細菌ゲノム」は、様々な気候や建築環境（屋内・屋外・地下・極限環境）で同定された。これらの建築環境には、地下鉄、病院、住宅、公共レクリエーション施設（ジム・フィットネスセンター）、国際宇宙ステーション（ISS）、クリーンルームなどが含まれる。16SリボソームRNA遺伝子配列に基づく細菌の多様性レベルは属間で大きく異なった。「建築環境の細菌ゲノム」のゲノムサイズ、GC含量、DNA複製鎖間の非対称度は、「他の細菌ゲノム」のそれより、統計的に有意に大きかったが、実質的な差は小さかった。これに対して、コドン使用バイアスの自然選択の強度（S値）は、「他の細菌ゲノム」と比較して「建築環境の細菌ゲノム」で統計的に有意に高く、実質的な差も大きかった。
-
-結論
-調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、建築環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、建築環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、建築環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、建築環境の分類が必要とされる。
-
 
 ----------
 
@@ -1275,6 +1047,233 @@ https://www.yodosha.co.jp/jikkenigaku/nhpd/9784758101363/c5.html
 https://twitter.com/endBooks/status/385905594026033153
 ”アステカ、マヤ、インカ…天然痘の死者はここで１万、あそこで１０万など都市あるいは部族全体が消滅し、文化や言語も失われてしまうほどだった。サントドミンゴ島では人口百万が五百人にまで減ったという。” http://j.mp/KEpF6M  『病原微生物の氾濫』アーノ・カーレン
 7:13 PM - 3 Oct 2013
+
+
+----------
+## japan
+日本の研究
+
+1) Seino K, Takano T, Nakamura K, Watanabe M. 2005. An evidential example of airborne bacteria in a crowded, underground public concourse in Tokyo. Atmospheric Environment 39:337–341.
+https://www.sciencedirect.com/science/article/pii/S1352231004008805
+
+2) Kang Y, Nagano K. 2016. Field measurement of indoor air quality and airborne microbes in a near-zero energy house with an earth tube in the cold region of Japan. Science and Technology for the Built Environment 22:1010–1023.
+http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
+
+
+----------
+
+
+
+
+----------
+## people
+### jessica_green
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+Nov 9, 2015
+https://www.youtube.com/watch?v=GUfR_81fmLE
+【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+Feb 2013
+http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
+ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
+
+January 2013
+https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
+Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
+
+Jul 2011
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+ジェシカ・グリーン「微生物を正しく取り除くために」
+
+### phylagen
+
+https://twitter.com/phylagen
+https://phylagen.com/
+Every object & every place has a 
+naturally occurring microbial fingerprint
+
+https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
+This Startup Uses Dust to Fight Sweatshops - leapsmag
+Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
+
+### roxana_hickey
+
+JANUARY 28, 2016
+http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
+We’re All Sitting in Clouds of Bacteria | Mental Floss
+Jan 25, 2016
+https://www.youtube.com/watch?v=2_ib7Z4bmrg
+Your Very Special Bacterial Cloud - YouTube
+
+Sep 7, 2016
+https://www.youtube.com/watch?v=vbYJlEItP7g
+Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
+
+https://twitter.com/roxana_hickey/status/877713794733973504
+Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
+10:24 PM - 21 Jun 2017
+
+----------
+## review
+
+https://twitter.com/NatureRevMicro/status/1031916837896957952
+Nature Rev Microbiol on Twitter: "In this Review, @gilbertjacka and @stephensbrent discuss the microbiology of the built environment and consider how research in this area is changing the types of materials we use in buildings and how our built environments affect human health. @built_envi https://t.co/e9zEX2K9aC… https://t.co/d7riEhN2lT"
+10:52 AM - 21 Aug 2018
+https://www.ncbi.nlm.nih.gov/pubmed/30127345
+Nat Rev Microbiol. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
+Microbiology of the built environment.
+Gilbert JA1,2, Stephens B3.
+https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+
+https://twitter.com/copypasteusa/status/1135022062198673408
+#MoBE #microBEnet
+Further reading
+
+https://twitter.com/copypasteusa/status/1135147635763863553
+腸内微生物群集 gut microbiome に比べ、人体の外側に存在する微生物群集 external microbiomes の研究は注目されてこなかった。都市と人工環境の微生物群集 Microbiomes of the Built Environment #MoBE は、ヒトと密接に関連していることを考えると、興味深い。
+人工環境（家、病院、ATM、地下鉄、下水道、国際宇宙ステーションなど）の微生物群集が調査された。
+企業は既に腸内微生物をターゲットにしたプロバイオティクスを販売しているが、人工環境のための商業的応用はまだ先
+Metagenomics & Metadesign of Subways & Urban Biomes (MetaSUB) 国際コンソーシアムは世界中で都市の微生物群集を調査してきた (http://metasub.org/)。
+2015年、ニューヨークの地下鉄の表面（改札口、非常口、ベンチ、手すり、ゴミ箱）から検出された約1,700の微生物分類群の大部分はヒト皮膚細菌が占め、一部はヒトの腸内と尿生殖路に由来。DNA配列断片のほぼ半分が既知の生物と一致しなかった。地下鉄で見つかった細菌の大部分は無害。
+https://twitter.com/NatureBiotech/status/864838380353449984
+Nature Biotechnology on Twitter: "Living in a microbial world https://t.co/ZdCdm36qen #metagenomics #microbiome https://t.co/B0oiSiOGcA"
+https://www.ncbi.nlm.nih.gov/pubmed/28486462
+Nat Biotechnol. 2017 May 9;35(5):401-403.
+Living in a microbial world.
+Schmidt C.
+https://www.nature.com/articles/nbt.3868?draft=journal
+http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
+The indoor microbiome is influenced by building design and operations, human inhabitants and their activities. Source: Biology and Built Environment Center at the University of Oregon and Autodesk, Inc.
+
+*Building -> Restrooms, Offices, Classrooms* ![](https://media.nature.com/lw685/nature-assets-draft/nbt/journal/v35/n5/images/nbt.3868-I2.jpg)
+
+Gilbert found something similar; within five to eight hours of being completely sterilized, public restrooms at a school campus were full of human skin and gut bacteria, most of them completely harmless7.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25398865/
+FIG 1
+(A) Samples were collected from three surfaces in both female and male restrooms at San Diego State University. The surfaces analyzed were the toilet seat, the floor in front of the toilet, and the soap dispenser pump. 
+
+サンディエゴ州立大学の男性用と女性用のトイレ3表面：便座、トイレの前の床、石鹸ディスペンサーポンプ
+
+https://www.ncbi.nlm.nih.gov/pubmed/27748568
+Microb Biotechnol. 2017 Jan;10(1):11-13. doi: 10.1111/1751-7915.12430. Epub 2016 Oct 17.
+How do we make indoor environments and healthcare settings healthier?
+Gilbert JA1,2,3.
+
+http://www.sciencedirect.com/science/article/pii/S0360132316303419
+Building and Environment
+Volume 109, 15 November 2016, Pages 224-234
+Ten questions concerning the microbiomes of buildings
+
+https://www.ncbi.nlm.nih.gov/pubmed/27822547
+mSystems. 2016 Jul 26;1(4). pii: e00083-16.
+What Have We Learned about the Microbiomes of Indoor Environments?
+Stephens B1.
+
+http://www.microbe.net/2016/06/01/outdoors-occupants-and-the-pan-microbiome-a-review/
+Outdoors, occupants, and the pan-microbiome: a review
+ By Marcus Leung
+Posted on June 1, 2016
+
+https://www.ncbi.nlm.nih.gov/pubmed/27216717
+Microbiome. 2016 May 24;4(1):21.
+The roles of the outdoors and occupants in contributing to a potential pan-microbiome of the built environment: a review.
+Leung MH1, Lee PK2.
+
+建造環境の微生物群集とメンタルヘルス
+https://www.ncbi.nlm.nih.gov/pubmed/26674771
+Microbiome. 2015 Dec 17;3:60. doi: 10.1186/s40168-015-0127-0.
+The microbiome of the built environment and mental health.
+Hoisington AJ1, Brenner LA2, Kinney KA3, Postolache TT4, Lowry CA5.
+
+Jonathan Eisen wrote a blog post on microbe.net praising this paper for its careful accuracy.
+http://www.microbe.net/2015/12/23/near-perfect-balance-in-a-microbiome-paper-hopeful-yet-no-hype-the-microbiome-of-the-built-environment-and-mental-health/
+
+----------
+
+http://nas-sites.org/builtmicrobiome/
+Microbiomes of the Built Environment
+
+https://www.ncbi.nlm.nih.gov/books/NBK458827/
+Microbiomes of the Built Environment - NCBI Bookshelf
+
+https://www.biomedcentral.com/collections/builtenvironment
+Microbiology of the Built Environment
+
+https://www.biomedcentral.com/collections/mobe2017
+Microbiome of the Built Environment (MoBE) 2017: Research to Application
+
+### microBEnet
+![](https://www.microbe.net/wp-content/uploads/2012/03/cropped-microbenet6.jpg)
+
+http://www.microbe.net
+microBEnet: the microbiology of the Built Environment network – At the interface of microbial ecology and building science.
+
+http://www.microbe.net/2017/02/06/call-for-papers-mobe-2017-microbiome-special-issue/
+Call for Papers MoBE 2017 Microbiome Special Issue
+
+#### metadata
+
+https://www.ncbi.nlm.nih.gov/pubmed/24152717
+ISME J. 2014 Jan;8(1):1-3. doi: 10.1038/ismej.2013.176. Epub 2013 Oct 24.
+MIxS-BE: a MIxS extension defining a minimum information standard for sequence data from the built environment.
+Glass EM1, Dribinsky Y1, Yilmaz P2, Levin H3, Van Pelt R4, Wendel D4, Wilke A1, Eisen JA5, Huse S6, Shipanova A6, Sogin M6, Stajich J7, Knight R8, Meyer F9, Schriml LM10.
+
+
+https://microbe.net/resources/metadata-standards/
+Metadata Standards
+
+https://microbe.net/mobe-metadata-resources/
+MoBE Metadata Resources
+
+May 3, 2012
+https://microbe.net/2012/05/03/metadata-for-the-built-environment-mixs-be-package/
+Guest Post: Metadata for the Built Environment – MIxS-BE package
+
+
+----------
+## unclassified
+
+https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
+２０１６年４月
+建築環境における微生物汚染機構の解明
+とその対策に関する一連の研究
+工学院大学 建築学部 建築学科 教授
+柳 宇，D.P.H.,Dr.Eng.
+
+https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
+社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
+2012.04.30調査研究
+社会福祉施設における粒子状物質と浮遊微生物に関する研究
+研究指導員：柳宇（工学院大学建築学部　教授）
+
+https://twitter.com/copypasteusa/status/1093071982155845632
+建築環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
+
+https://www.ncbi.nlm.nih.gov/pubmed/30691394
+BMC Genomics. 2019 Jan 28;20(1):92. doi: 10.1186/s12864-018-5389-z.
+Comparative genomics of Bacteria commonly identified in the built environment.
+Merino N, Zhang S, Tomita M, Suzuki H.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
+
+
+背景
+建築環境（built environment）の微生物群集は、人々の生活に影響を与える可能性があり、様々な屋内・屋外・地下・極限環境で研究されてきた。従来、これらの微生物は培養法または培養非依存法（アンプリコンシークエンシング）によって研究されてきた。しかしながら、いずれの方法にも限界があり、複数の研究結果を比較することは困難であり、微生物のライフスタイル（宿主との共生、自由生活性、増殖スピードなど）に関する情報はほとんど得られない。建築環境の微生物をより深く理解するためには、DNA配列が完全に解読されたゲノムから情報を得る方法が有効と考えられる。そこで、建築環境で共通して同定される細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）を調査することにより、これらの細菌のライフスタイルを理解するための第一歩を提供することを目的とした。
+
+結果
+本研究では、建築環境で共通して同定されている細菌の属（「建築環境の細菌ゲノム」）と、他の細菌の属（「他の細菌ゲノム」）を比較した。「建築環境の細菌ゲノム」は、様々な気候や建築環境（屋内・屋外・地下・極限環境）で同定された。これらの建築環境には、地下鉄、病院、住宅、公共レクリエーション施設（ジム・フィットネスセンター）、国際宇宙ステーション（ISS）、クリーンルームなどが含まれる。16SリボソームRNA遺伝子配列に基づく細菌の多様性レベルは属間で大きく異なった。「建築環境の細菌ゲノム」のゲノムサイズ、GC含量、DNA複製鎖間の非対称度は、「他の細菌ゲノム」のそれより、統計的に有意に大きかったが、実質的な差は小さかった。これに対して、コドン使用バイアスの自然選択の強度（S値）は、「他の細菌ゲノム」と比較して「建築環境の細菌ゲノム」で統計的に有意に高く、実質的な差も大きかった。
+
+結論
+調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、建築環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、建築環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、建築環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、建築環境の分類が必要とされる。
+
 
 ----------
 
