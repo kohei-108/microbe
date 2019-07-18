@@ -14,9 +14,9 @@ https://ja.wikipedia.org/wiki/建造環境
 - [airport](#airport) 空港
 - [home](#home) 家
 - [hospital](#hospital) 病院
-- [money](#money) 金
+- [money](#money) お金お札
   - [ATM](#atm)
-- [phone](#phone)
+- [phone](#phone) 電話
 - [school](#school) 学校
 - [space](#space) 宇宙
   - [iss](#iss)
@@ -154,7 +154,6 @@ Roxana Hickey on Twitter: "My #LAMG16 talk "Microbial interactions between human
 https://twitter.com/DarwinBioprosp/status/734749760612077571
 DarwinBioprospecting on Twitter: "Bacteria from the built environment: the inner zoo. https://t.co/5aoUVEw6Ql… "
 10:16 AM - 23 May 2016
-![](https://pbs.twimg.com/media/CjJbA2EWUAECWMZ.jpg)
 
 ## 2015
 
@@ -203,36 +202,6 @@ Science. 2014 Aug 29;345(6200):1048-52. doi: 10.1126/science.1254529.
 Longitudinal analysis of microbial interaction between humans and the indoor environment.
 Lax S1, Smith DP2, Hampton-Marcell J1, Owens SM3, Handley KM1, Scott NM1, Gibbons SM4, Larsen P5, Shogan BD6, Weiss S7, Metcalf JL8, Ursell LK9, Vázquez-Baeza Y10, Van Treuren W8, Hasan NA11, Gibson MK12, Colwell R11, Dantas G12, Knight R13, Gilbert JA14.
 
-----------
-2016/03/24
-https://news.mynavi.jp/article/20160324-a137/
-外国人は日本のお金を見てどう思った? | マイナビニュース
-
-2015/06/01
-https://doctors-me.com/doctor/symptom/84/column/1188
-知らなかった！ じつは雑菌だらけの10のモノ
-1. 台所のスポンジ 
-2. まな板 
-3. お金 
-4. スマホ 
-5. 水道の蛇口 
-6. パソコンのキーボード 
-7. マットレス 
-8. ハンドバッグやポーチ 
-9. レストランのメニュー 
-10. カーペット 
-
-2015年5月19日 
-http://trapradar.net/life/dirty-things/
-実はトイレより汚い意外な物13選 | トラップ・レーダー
-
-2014年06月07日
-https://matome.naver.jp/odai/2140057460215399801
-手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
-1.スマートフォン
-2.お金
-3.パソコンのキーボード、マウス
-4.トイレのドアノブや蛇口
 
 ----------
 
@@ -465,7 +434,7 @@ Websites for the Hospital Microbiome Project and the Home Microbiome Project
 ----------
 
 ## money
-お金の微生物
+お金お札
 
 https://twitter.com/Newsweek_JAPAN/status/866774474166874113
 ニューズウィーク日本版 on Twitter: "細菌の感染ルートを探るには、お札を追え！ 手のひらや地下鉄構内の空気より、紙幣の表面にはたくさんの最近が棲んでいることがわかった。耐性菌対策にもなる発見だ #細菌 #耐性菌 #感染症 https://t.co/GpcxIw3YPJ …… https://t.co/ri0f0apBWN"
@@ -1274,6 +1243,36 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350394/
 結論
 調査した4つのゲノムの特徴のうち、（翻訳の効率と正確度に関連する）高発現遺伝子のコドン使用バイアス（S値）は、建築環境に生息する細菌のライフスタイルを理解する上でより重要な役割を果たす可能性がある。S値は、細菌の増殖速度、遺伝子発現、建築環境における増殖条件（温度、湿度、栄養素など）によって影響を受ける他の潜在的要因を反映し得る。しかし、建築環境の細菌のライフスタイルとゲノムの特徴との間の関係をより明らかにするためには、さらなる実験的証拠、細菌の種レベルの研究、建築環境の分類が必要とされる。
 
+
+2016/03/24
+https://news.mynavi.jp/article/20160324-a137/
+外国人は日本のお金を見てどう思った? | マイナビニュース
+
+2015/06/01
+https://doctors-me.com/doctor/symptom/84/column/1188
+知らなかった！ じつは雑菌だらけの10のモノ
+1. 台所のスポンジ 
+2. まな板 
+3. お金 
+4. スマホ 
+5. 水道の蛇口 
+6. パソコンのキーボード 
+7. マットレス 
+8. ハンドバッグやポーチ 
+9. レストランのメニュー 
+10. カーペット 
+
+2015年5月19日 
+http://trapradar.net/life/dirty-things/
+実はトイレより汚い意外な物13選 | トラップ・レーダー
+
+2014年06月07日
+https://matome.naver.jp/odai/2140057460215399801
+手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
+1.スマートフォン
+2.お金
+3.パソコンのキーボード、マウス
+4.トイレのドアノブや蛇口
 
 ----------
 
