@@ -6,6 +6,7 @@ Last Update: 2019-07
 # microbe.2019
 
 **Table of Contents**
+- [2019-07](#2019-07)
 - [2019-05-19](#2019-05-19)
 - [2019-05-12](#2019-05-12)
 - [2019-05-03](#2019-05-03)
@@ -45,8 +46,28 @@ https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
 https://ja.wikipedia.org/wiki/階級_(生物学)
 門・綱・目・科・属・種などの、分類の階層のこと。分類階級
 
+### mutation
+
+https://www.quora.com/What-does-it-mean-by-mutation-is-directionless-What-does-direction-mean-in-biology
+What does it mean by 'mutation is directionless'? What does direction mean in biology? - Quora
+
+https://ja.wikipedia.org/wiki/点突然変異
+	• トランジション変異：プリン塩基が同じプリン塩基で異なるものへ変わる（A/G）。あるいはピリミジン塩基が同じピリミジン塩基の異なるものへ変わる（C/UあるいはDNA上ではC/T）。
+	• トランスバージョン変異：プリン塩基とピリミジン塩基間の置換。
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+	• 極性が未決定の形質（unpolarized character）　変化の方向性が決まっていない形質
+		• 　　例：DNAの塩基置換は A→Tでも、T→Aでも起こる。
+
 ----------
 ## 2019-07-14
+
+https://www.ncbi.nlm.nih.gov/pubmed/23829079
+Pol J Microbiol. 2013;62(1):67-72.
+Efficiency of selected mutagens in generating Xanthophyllomyces dendrorhous strains hyperproducing astaxanthin.
+Stachowiak B1.
+http://www.pjm.microbiology.pl/archive/vol6212013067.pdf
+Selection procedure.
 
 https://www.ncbi.nlm.nih.gov/pubmed/29615045
 Microb Cell Fact. 2018 Apr 3;17(1):53. doi: 10.1186/s12934-018-0898-7.
