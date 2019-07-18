@@ -498,8 +498,6 @@ New papers on Microbiology of the Built Environment, November 19, 2016 – micro
 ## phone
 携帯電話
 
-![https://twitter.com/hashtag/StuckonU](http://metasub.org/wp-content/uploads/2017/01/stuckOnU2_print_95-624x365.png)
-
 http://www.jgenomics.com/v07p0026
 SELfies and CELLfies: Whole Genome Sequencing and Annotation of Five Antibiotic Resistant Bacteria Isolated from the Surfaces of Smartphones, An Inquiry Based Laboratory Exercise in a Genomics Undergraduate Course at the Rochester Institute of Technology [Abstract]
 
