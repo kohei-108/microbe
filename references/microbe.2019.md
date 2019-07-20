@@ -29,6 +29,21 @@ Last Update: 2019-07
 - [transcriptome](#transcriptome)
 - [microbedb](#microbedb)
 - [wiebler](#wiebler)
+- [definition](#definition)
+
+----------
+## definition
+
+https://ja.wikipedia.org/wiki/対立遺伝子#遺伝子型と表現型
+allele
+個体がもつ対立遺伝子の組合せを遺伝子型 (genotype) と呼ぶ。これに対して、見かけ上現れる形質を表現型 (phenotype) と呼ぶ。
+
+https://ja.wikipedia.org/wiki/表現型
+phenotype
+
+https://ja.wikipedia.org/wiki/遺伝子型
+genotype
+ある遺伝子が存在しても、その形質が発現しない場合もあり、表出する形質（表現型）と遺伝子型は必ずしも 1:1 に対応しない。例えば、ヒトのABO式血液型ならば、A型というひとつの表現型に対してAAとAOという二つの遺伝子型があり得る。
 
 ----------
 ## 2019-07
