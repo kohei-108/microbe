@@ -59,6 +59,18 @@ http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生
 	• 極性が未決定の形質（unpolarized character）　変化の方向性が決まっていない形質
 		• 　　例：DNAの塩基置換は A→Tでも、T→Aでも起こる。
 
+https://www.ncbi.nlm.nih.gov/pubmed/22315421
+Proc Natl Acad Sci U S A. 2012 Feb 21;109(8):3065-70. doi: 10.1073/pnas.1121491109. Epub 2012 Feb 6.
+Genomic epidemiology of the Escherichia coli O104:H4 outbreaks in Europe, 2011.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286951/
+Among these four isolates, we found only two SNPs relative to a published genome from the German outbreak, TY2482 (9): two of the isolates showed no differences relative to the reference, and two showed one SNP each (nucleotide positions 224851 and 1096014) (Table 2;  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286951/table/t02/
+```
+Table 2.
+SNPs identified within E. coli O104:H4 outbreak isolates
+SNP position	Gene/region	Isolates	SNP*	Substitution
+```
+
 ----------
 ## 2019-07-14
 
