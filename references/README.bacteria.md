@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-06
+Last Update: 2019-07
 
 ----------
 
@@ -665,6 +665,19 @@ Mycobacterium avium silvaticum BSL2
 
 - https://ja.wikipedia.org/wiki/ゲオバクター属
 - http://www.bacterio.net/geobacter.html
+
+https://www.ncbi.nlm.nih.gov/pubmed/31126529
+Adv Microb Physiol. 2019;74:1-96. doi: 10.1016/bs.ampbs.2019.02.007. Epub 2019 May 15.
+The electrifying physiology of Geobacter bacteria, 30 years on.
+Reguera G1, Kashefi K1.
+
+Fig. 2 Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfur- omonadaceae. 
+
+Table 2 Type strains (in alphabetical order) for validly described Geobacter species available in pure culture.
+```Source
+Growth substrates
+Temperature Range [optimal]
+```
 
 https://www.ncbi.nlm.nih.gov/pubmed/27940542
 Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
@@ -1530,8 +1543,6 @@ https://en.wikipedia.org/wiki/Shewanella_violacea
 Shewanella violacea DSS12 (S. violacea) is a gram-negative bacterium located in marine sediment in the Ryukyu Trench at a depth of 5,110m.[1]
 Shewanella violacea is an obligate psychrophile (cryophile). Its optimum growth temperature is 8ᵒC.
 
-
-
 ### Shewanella_phylogeny
 系統解析
 
@@ -1582,13 +1593,20 @@ Biotechnol Biofuels. 2018 Jul 17;11:193. doi: 10.1186/s13068-018-1201-1. eCollec
 Pan-genome analyses of 24 Shewanella strains re-emphasize the diversification of their functions yet evolutionary dynamics of metal-reducing pathway.
 Zhong C1, Han M1, Yu S1, Yang P1, Li H1, Ning K1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/
-- Phylogeny of Shewanella
+Phylogeny of Shewanella
 To gain insights into similarity and distance of the strains, two phylogenetic trees were constructed, one was based on the concatenated alignment of 1788 single-copy core genes (Fig. 1c),
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/figure/Fig1/
 c Maximum likelihood phylogenetic tree based on 1788 single-copy gene families using 100 bootstrap replications.
-- Methods
+
+Evolution of the mtr clusters in Shewanella
+ (Fig. 5a). The complete mtrBAC–omcA–mtrFED cluster was conserved in 15 out of the 24 strains. In addition, the mtrABC operon was conserved in all the genomes except for S. denitrificans OS217 and S. violacea DSS12. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048853/figure/Fig5/
+Global comparison of the mtr–omc clusters in Shewanella and orthologous gene clusters in other strains.
+
+Methods
 Gene family
 To understand the evolutionary relationship of Shewanella, we conducted systematic comparative genomic studies. Full protein-coding genes of 24 Shewanella strains were used to construct gene families using OrthoMCL (v2) [44] with a BLAST E-value cut-off of 1e−5 and an inflation parameter of 1.5. Here, the clustering results yielded 7830 homologous clusters, 1788 of which were single-copy gene families, and then they were parsed and concatenated.
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/29504926
 Int J Syst Evol Microbiol. 2018 Apr;68(4):1356-1360. doi: 10.1099/ijsem.0.002678. Epub 2018 Mar 5.
@@ -2212,7 +2230,10 @@ https://ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB5044
 https://www.ncbi.nlm.nih.gov/bioproject/PRJDB5044
 
 ### Shewanella sp. M-Br
+
+日本微生物生態学会 第32回大会
 http://meeting-jsme2018.com/program_pdf/Program_Poster%20Session%201.pdf
+2018 JSME annual meeting & 10th ASME
 ＊ P1-043
 Bromate reduction by Shewanella sp.M-Br in the presence of chelated iron
 鉄を介して臭素酸を還元する？～Shewanella の新たな可能性を探る～
