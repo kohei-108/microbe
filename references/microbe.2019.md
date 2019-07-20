@@ -48,16 +48,32 @@ https://ja.wikipedia.org/wiki/階級_(生物学)
 
 ### mutation
 
-https://www.quora.com/What-does-it-mean-by-mutation-is-directionless-What-does-direction-mean-in-biology
-What does it mean by 'mutation is directionless'? What does direction mean in biology? - Quora
+http://www.med.kitasato-u.ac.jp/~molgen/sub9.html
+遺伝子変異の記述法
+```
+I. DNAレベルでの記載法
+　1. 塩基置換（Substitution）の場合
+　2.	塩基の欠失（deletion）の場合
+　3.	塩基の重複（duplication）の場合
+　4. 塩基の挿入（insertion）の場合
+　5. 挿入と欠失の組合せの場合（Deletion/insertion, Indel）
+II. タンパク質レベルでの記載法
+　1.	アミノ酸置換の場合
+
+　5. フレームシフト変異の場合
+```
 
 https://ja.wikipedia.org/wiki/点突然変異
-	• トランジション変異：プリン塩基が同じプリン塩基で異なるものへ変わる（A/G）。あるいはピリミジン塩基が同じピリミジン塩基の異なるものへ変わる（C/UあるいはDNA上ではC/T）。
-	• トランスバージョン変異：プリン塩基とピリミジン塩基間の置換。
+あるいは1塩基置換
+	• トランジション変異：
+	• トランスバージョン変異：
 
 http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
 	• 極性が未決定の形質（unpolarized character）　変化の方向性が決まっていない形質
 		• 　　例：DNAの塩基置換は A→Tでも、T→Aでも起こる。
+
+https://www.quora.com/What-does-it-mean-by-mutation-is-directionless-What-does-direction-mean-in-biology
+What does it mean by 'mutation is directionless'? What does direction mean in biology? - Quora
 
 https://www.ncbi.nlm.nih.gov/pubmed/22315421
 Proc Natl Acad Sci U S A. 2012 Feb 21;109(8):3065-70. doi: 10.1073/pnas.1121491109. Epub 2012 Feb 6.
