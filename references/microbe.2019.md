@@ -71,6 +71,28 @@ SNPs identified within E. coli O104:H4 outbreak isolates
 SNP position	Gene/region	Isolates	SNP*	Substitution
 ```
 
+https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/publication_microbiology-j.pdf
+[PDF]総説：微生物ゲノム研究 - イルミナ株式会社
+
+研究室において、モデル生物のゲノムは時間経過とともに変異を蓄積します11,12。そのため同一のモデル生物でも
+研究室により異なるゲノムを有する可能性が生じ、実験を再現することが徐々に困難になります。全ゲノムリシー
+ケンスは、ゲノムを日常的にモニターするための強力なツールとなってきており、記録および制御が必要な他のす
+べての実験変数と同様にゲノムを取り扱うことを可能としています。
+中立進化モデルに基づくと、細菌は安定した研究室環境下においては時間経過とともに一定の速度で中立変異を蓄
+積すると考えられます。
+
+全ゲノムシーケンスおよびソーシャルネットワーク解析を使用しました。この
+解析のために著者らは合計36の結核菌株（37の集団発生分子株のうちの32の株、および同一のMIRU-VNTRパターン
+を有する過去の4種類の分離株）のシーケンスを行いました。このシーケンスにより、少なくとも1つの50bpリード
+により、平均99.21%のレファレンスゲノムがカバーされました。全ゲノムシーケンスにより得られるより高い分解
+能のSNP パターンにより、この集団発生がそれぞれ異なる結核菌株を原因菌とする2つの集団発生の癒合であることが
+明らかとされました。
+
+https://www.ncbi.nlm.nih.gov/pubmed/21345102
+N Engl J Med. 2011 Feb 24;364(8):730-9. doi: 10.1056/NEJMoa1003176.
+Whole-genome sequencing and social-network analysis of a tuberculosis outbreak.
+Gardy JL1, 
+
 ----------
 ## 2019-07-14
 
