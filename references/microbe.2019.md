@@ -34,6 +34,10 @@ Last Update: 2019-07
 ----------
 ## definition
 
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.3.md
+Keyword 遺伝，メンデルの法則，遺伝子型，表現型，対立遺伝子
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
+
 https://ja.wikipedia.org/wiki/対立遺伝子#遺伝子型と表現型
 allele
 個体がもつ対立遺伝子の組合せを遺伝子型 (genotype) と呼ぶ。これに対して、見かけ上現れる形質を表現型 (phenotype) と呼ぶ。
