@@ -87,6 +87,9 @@ SNPs identified within E. coli O104:H4 outbreak isolates
 SNP position	Gene/region	Isolates	SNP*	Substitution
 ```
 
+http://wiki.pitagora-galaxy.org/wiki/index.php/Workflows#Orione
+orione-live-supplement	微生物NGS解析：リードの前処理、リシーケンシング、de novoアセンブリ、RNA-Seq、メタゲノム
+
 https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/publication_microbiology-j.pdf
 [PDF]総説：微生物ゲノム研究 - イルミナ株式会社
 
