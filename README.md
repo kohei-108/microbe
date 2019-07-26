@@ -71,7 +71,7 @@ Combined metagenomics and meta-metabolomics analyses for cacao fermentation char
 https://onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12264
 Food Evolution: The Impact of Society and Science on the Fermentation of Cocoa Beans - Ozturk - 2017 - Comprehensive Reviews in Food Science and Food Safety
 
-
+https://www.ncbi.nlm.nih.gov/pubmed/25998815
 Food Microbiol. 2015 Sep;50:54-63. doi: 10.1016/j.fm.2015.03.005. Epub 2015 Apr 2.
 Applying meta-pathway analyses through metagenomics to identify the functional properties of the major bacterial communities of a single spontaneous cocoa bean fermentation process sample.
 
@@ -95,7 +95,7 @@ Phylogenetic analysis of a spontaneous cocoa bean fermentation metagenome reveal
 以下は解析手法 targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)を比較した表です。
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
 - 16Sアンプリコン・シーケンシングは、原核生物、すなわち細菌(バクテリア)と古細菌(アーキア)を解析対象とします。
-- 18SまたはITSアンプリコン・シーケンシングは、真核生物を解析対象とします。
+- 18SまたはITSアンプリコン・シーケンシングは、真核生物（カカオ、鳥や昆虫など）を解析対象とします。
 - ショットガン・シーケンシング（メタゲノミクス）は、原核生物、真核生物、ウイルスなど全てを解析対象とします。
 
 ----------
