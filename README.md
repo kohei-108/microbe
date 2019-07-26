@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-06
+Last Update: 2019-07
 
 ----------
 
@@ -7,10 +7,13 @@ Last Update: 2019-06
 **[微生物](https://ja.wikipedia.org/wiki/微生物)**
 
 ## Table of Contents
+- 人工環境の微生物 [MoBE](https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md)
+- [updates](https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md)
+- [video](https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md)
+- []()
 - 細菌 [bacteria](https://github.com/haruosuz/microbe/blob/master/references/README.bacteria.md)
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 - ニュース [news](https://github.com/haruosuz/microbe/blob/master/references/microbe.news.md)
-- 人工環境の微生物 [MoBE](https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md)
 - 微生物群集 [microbiome](https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md)
 - [featuring](#featuring)
 - [airport](#airport)
@@ -37,7 +40,66 @@ Last Update: 2019-06
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 
 ----------
-### allergy
+## cacao
+
+https://microbewiki.kenyon.edu/index.php/Chocolate
+```
+2	Fermentation
+2.1	Physical Conditions
+2.2	Changes to Physical Conditions
+2.3	Microbes
+2.3.1	Yeast
+2.3.2	Lactic-Acid Bacteria
+2.3.3	Acetic-Acid Bacteria
+2.3.4	Aerobic Spore-Forming Bacteria
+2.3.5	Filamentous Fungi
+```
+
+June 2019
+https://www.sciencedirect.com/science/article/pii/S0023643819301288
+Determination of the microbial community in Amazonian cocoa bean fermentation by Illumina-based metagenomic sequencing
+
+https://www.ncbi.nlm.nih.gov/pubmed/30473841
+R Soc Open Sci. 2018 Oct 17;5(10):180964. doi: 10.1098/rsos.180964. eCollection 2018 Oct.
+A mathematical model of cocoa bean fermentation.
+
+June 19-21, 2017
+https://www.longdom.org/proceedings/combined-metagenomics-and-metametabolomics-analyses-for-cacao-fermentation-characterization-9527.html
+Combined metagenomics and meta-metabolomics analyses for cacao fermentation characterization
+
+21 April 2017
+https://onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12264
+Food Evolution: The Impact of Society and Science on the Fermentation of Cocoa Beans - Ozturk - 2017 - Comprehensive Reviews in Food Science and Food Safety
+
+
+Food Microbiol. 2015 Sep;50:54-63. doi: 10.1016/j.fm.2015.03.005. Epub 2015 Apr 2.
+Applying meta-pathway analyses through metagenomics to identify the functional properties of the major bacterial communities of a single spontaneous cocoa bean fermentation process sample.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25998815
+2015-08
+https://ir-library.ku.ac.ke/handle/123456789/15530
+Metagenomic Analysis of Potential Microbes in Microbial Fermentation and Flavour Formation of Ghanaian Cocoa Beans
+
+16 July 2015
+https://www.sciencedirect.com/science/article/pii/S0168160515001798
+The effect of lactic acid bacteria on cocoa bean fermentation
+
+November 2013
+https://www.sciencedirect.com/science/article/pii/S0963996913003281
+Microbial succession and the dynamics of metabolites and sugars during the fermentation of three different cocoa (Theobroma cacao L.) hybrids
+
+https://www.ncbi.nlm.nih.gov/pubmed/22666442
+PLoS One. 2012;7(5):e38040. doi: 10.1371/journal.pone.0038040. Epub 2012 May 29.
+Phylogenetic analysis of a spontaneous cocoa bean fermentation metagenome reveals new insights into its bacterial and fungal community diversity.
+
+以下は解析手法 targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)を比較した表です。
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
+- 16Sアンプリコン・シーケンシングは、原核生物、すなわち細菌(バクテリア)と古細菌(アーキア)を解析対象とします。
+- 18SまたはITSアンプリコン・シーケンシングは、真核生物を解析対象とします。
+- ショットガン・シーケンシング（メタゲノミクス）は、原核生物、真核生物、ウイルスなど全てを解析対象とします。
+
+----------
+## allergy
 アレルギー
 
 https://ja.wikipedia.org/wiki/アレルギー#衛生仮説
@@ -607,6 +669,10 @@ https://www.nig.ac.jp/nig/pdf/research/ja/interviews/faculty-interviews/FI_kurok
 ## protists
 原生生物
 https://ja.wikipedia.org/wiki/ゾウリムシ
+
+https://twitter.com/Genome_Jane/status/1149049171510513664
+Jane Carlton on Twitter: "Our paper describing protist communities in raw sewage collected from all 14 wastewater treatment plants in the 5 boroughs of New York just published https://t.co/zi95JfPCNH. Thanks to @NYCFishLab @GenCoreFacility and especially NYC Dept of Environmental Protection. https://t.co/BtmQfLrjRv" / Twitter
+5:14 AM · Jul 11, 2019
 
 https://www.nature.com/articles/s41396-019-0433-9
 Deianiraea , an extracellular bacterium associated with the ciliate Paramecium , suggests an alternative scenario for the evolution of Rickettsiales
