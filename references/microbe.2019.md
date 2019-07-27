@@ -50,7 +50,16 @@ genotype
 ある遺伝子が存在しても、その形質が発現しない場合もあり、表出する形質（表現型）と遺伝子型は必ずしも 1:1 に対応しない。例えば、ヒトのABO式血液型ならば、A型というひとつの表現型に対してAAとAOという二つの遺伝子型があり得る。
 
 ----------
-## taxonomy
+## 2019-07
+
+
+https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#ncbi-genome-list
+
+https://doi.org/10.7875/togotv.2015.037
+2015-05-15 GOLD -Genomes Online Database- の使い方
+
+----------
+### taxonomy
 
 https://ja.wikipedia.org/wiki/分類学
 taxonomy
@@ -66,8 +75,6 @@ http://idsc.tokyo-eiken.go.jp/epid/y2016/tbkj3705/
 https://ja.wikipedia.org/wiki/タイプ_(分類学)
 原核生物では純粋培養された生菌株がタイプとして認められる。その菌株を基準株 (type strain) という。
 
-----------
-## 2019-07
 
 ### BacDive
 
