@@ -50,6 +50,23 @@ genotype
 ある遺伝子が存在しても、その形質が発現しない場合もあり、表出する形質（表現型）と遺伝子型は必ずしも 1:1 に対応しない。例えば、ヒトのABO式血液型ならば、A型というひとつの表現型に対してAAとAOという二つの遺伝子型があり得る。
 
 ----------
+## taxonomy
+
+https://ja.wikipedia.org/wiki/分類学
+taxonomy
+
+https://ja.wikipedia.org/wiki/生物の分類
+
+https://ja.wikipedia.org/wiki/階級_(生物学)
+門・綱・目・科・属・種などの、分類の階層のこと。分類階級
+
+http://idsc.tokyo-eiken.go.jp/epid/y2016/tbkj3705/
+分類における最小単位は「種：species」であり、各々の進化系統についてさらに上位の分類として「属：genus」、「科：family」として体系化されている。このような「種」や「属」という概念の中で、生物の個体はさらに「種」の下位概念である「株：strain」という表現も用いられ、その名が汎用されている。
+
+https://ja.wikipedia.org/wiki/タイプ_(分類学)
+原核生物では純粋培養された生菌株がタイプとして認められる。その菌株を基準株 (type strain) という。
+
+----------
 ## 2019-07
 
 ### BacDive
@@ -61,9 +78,6 @@ BacDive | The Bacterial Diversity Metadatabase
 https://bacdive.dsmz.de/search?search=Actinobacteria&submit=
 
 https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
-
-https://ja.wikipedia.org/wiki/階級_(生物学)
-門・綱・目・科・属・種などの、分類の階層のこと。分類階級
 
 ### mutation
 
