@@ -181,7 +181,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5966601/
 Urea hydrolysis by gut bacteria in a hibernating frog: evidence for urea-nitrogen recycling in Amphibia
 - All microbial sequences have been uploaded to the NCBI Short Read Archive (SRA) under accession PRJNA432152.
 - We attempted to determine which among the observed genera had at least one member that potentially can catabolize urea by querying the Kyoto Encyclopedia of Genes and Genomes (KEGG), an online resource that contains gene catalogues from sequenced organisms, for entries having urease-encoding genes using the KEGG orthology (KO) identifiers K01427, K01428, K01429, K01430 and K14048. 
-
+- https://www.genome.jp/dbget-bin/www_bget?ko:K01427	
+URE
+urease [EC:3.5.1.5]
+- https://www.genome.jp/dbget-bin/www_bget?ko:K01428
+ureC
+urease subunit alpha [EC:3.5.1.5]
+- https://www.genome.jp/dbget-bin/www_bget?ko:K01429
+ureB
+urease subunit beta [EC:3.5.1.5]
 
 https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA432152
 Gut microbiome of hibernating frogs
@@ -344,6 +352,14 @@ https://togotv.dbcls.jp/ja/genome.html
 
 ----------
 ## metasub
+
+データ解析コンテスト CAMDA 2017 challenge (http://camda2017.bioinf.jku.at/doku.php)
+において、MetaSUBのメタゲノム配列データを用いて、複数のAcinetobacterを同定したと報告されています。
+https://www.ncbi.nlm.nih.gov/pubmed/29743119
+Biol Direct. 2018 May 9;13(1):9. doi: 10.1186/s13062-018-0211-z.
+Profiling microbial strains in urban environments using metagenomic sequencing data.
+Zolfo M1, Asnicar F1, Manghi P1, Pasolli E1, Tett A1, Segata N2.
+- We applied three complementary methods on the 1614 metagenomes of the CAMDA 2017 challenge. With MetaMLST we identified 121 known sequence-types from 15 species of clinical relevance. For instance, we identified several Acinetobacter strains that were close to the nosocomial opportunistic pathogen A. nosocomialis.
 
 https://github.com/haruosuz/metasub/blob/master/README.md#olympiome
 オリンピック前後の微生物群集の変化
