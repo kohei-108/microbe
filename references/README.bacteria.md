@@ -714,7 +714,9 @@ Geobacter uraniireducens Rf4	NC_009483	chromosome
 Gloeobacter violaceus PCC 7421	NC_005125	chromosome
 ```
 
+### Geobacter_phylogeny
 系統解析
+
 https://www.ncbi.nlm.nih.gov/pubmed/25139417
 Int J Syst Evol Microbiol. 2014 Nov;64(Pt 11):3786-91. doi: 10.1099/ijs.0.066662-0. Epub 2014 Aug 19.
 Geobacter soli sp. nov., a dissimilatory Fe(III)-reducing bacterium isolated from forest soil.
@@ -736,10 +738,13 @@ Geobacter daltonii FRC-32T (CP001390)
 Geobacter toluenoxydans TMJ1T (EU711072)
 ```
 
+### Geobacter_comparative_genomics
 比較ゲノム
 
 https://www.hindawi.com/journals/isrn/2013/850179/
 A Whole Genome Pairwise Comparative and Functional Analysis of Geobacter sulfurreducens PCA
+Figure 1: Phylogenetic tree constructed using 16S rRNA of Geobacter species.
+https://www.hindawi.com/journals/isrn/2013/850179/fig1/
 
 https://www.ncbi.nlm.nih.gov/pubmed/22967216
 BMC Genomics. 2012 Sep 12;13:471. doi: 10.1186/1471-2164-13-471.
@@ -750,11 +755,22 @@ https://www.ncbi.nlm.nih.gov/pubmed/22616984
 BMC Genomics. 2012 May 22;13:200. doi: 10.1186/1471-2164-13-200.
 Genomic determinants of organohalide-respiration in Geobacter lovleyi, an unusual member of the Geobacteraceae.
 Wagner DD1, Hug LA, Hatt JK, Spitzmiller MR, Padilla-Crespo E, Ritalahti KM, Edwards EA, Konstantinidis KT, Löffler FE.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/
+Plasmid maintenance
+The pSZ77 RepA appears to share phylogenetic affiliation with the RepA of various plasmids from β- or γ-Proteobacteria (Figure 5), including an IncQ-like mobilizable plasmid [70] and an IncP-1-like environmental plasmid [71]. 
+Figure 5
+Unrooted proML tree of 35 plasmid replication initiator protein (RepA) sequences aligning with pSZ77 RepA in PSI-BLAST. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/figure/F5/
 
 https://www.ncbi.nlm.nih.gov/pubmed/20078895
 BMC Genomics. 2010 Jan 17;11:40. doi: 10.1186/1471-2164-11-40.
 Evolution of electron transfer out of the cell: comparative genomics of six Geobacter genomes.
 Butler JE1, Young ND, Lovley DR.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/
+Figure 1
+Genome-based Geobacter phylogeny.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/
+![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/bin/1471-2164-11-40-1.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/18844997
 BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
