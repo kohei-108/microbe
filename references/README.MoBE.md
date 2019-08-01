@@ -36,6 +36,15 @@ https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
 本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
 
 ----------
+## plasmids
+
+http://camda2017.bioinf.jku.at/doku.php/agenda
+Program (tentative) - CAMDA 2017
+17:53	Identification of mobile elements in metagenomic data	Josef Moser, ACIB, Vienna, Austria
+http://camda2017.bioinf.jku.at/lib/exe/fetch.php/camda2017-Moser.pdf
+
+
+----------
 ## updates
 
 ## 2019
