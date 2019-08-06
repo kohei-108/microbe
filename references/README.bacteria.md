@@ -59,6 +59,30 @@ CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培�
 - https://mra.asm.org/search/Geobacter
 - https://mra.asm.org/search/Shewanella
 
+https://www.ncbi.nlm.nih.gov/pubmed/29748402
+Genome Announc. 2018 May 10;6(19). pii: e00352-18. doi: 10.1128/genomeA.00352-18.
+Complete Genome Sequence of Geobacter sulfurreducens Strain YM18, Isolated from River Sediment in Japan.
+Inoue K1, Ogura Y2, Kawano Y3, Hayashi T2.
+
+http://www.ifo.or.jp/rc_pdf/30.pdf
+微生物による有機物の化学エネルギーから
+電気エネルギーへの変換能力解明に向けた
+基礎的研究
+井　上　謙　吾
+宮崎大学農学部
+方法：
+著者らが分離した新規分離発電株 YM18 株につい
+て，全ゲノムを決定し，既報の発電株 G. sulfurreducens
+PCA 株，KN400 株との比較ゲノム解析を行った．
+結果・考察：
+YM18 株の全ゲノム配列を決定したところ，約
+3.7 Mbp で，3,354 の ORF を持っており，PCA 株に対
+して，122,022 個の SNPs を有していた．発電能力が
+PCA 株よりも高い YM18 株と KN400 株のみに共通す
+る遺伝子が35個見いだされ，これらの遺伝子が高い発
+電能力に何らかの役割を果たしている可能性が考えら
+れた．
+
 2018.06.25
 https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
 バイオミディア
@@ -89,8 +113,7 @@ https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char
 細胞外電子伝達 : 固体を呼吸基質とする微生物たち
 加藤 創一郎
 https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
-鉄 還元 能 を持つ Geobacter属や ShewanellaM 細
-菌 ， 鉄 酸 化 能 を 持 つ Acidithiobacillus za細 菌
+鉄 還元 能 を持つ Geobacter属や Shewanella
 
 2011-12
 https://ci.nii.ac.jp/naid/40019971881
