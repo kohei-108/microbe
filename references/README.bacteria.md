@@ -38,7 +38,8 @@ Last Update: 2019-07
 - [Rickettsiales](#rickettsiales) リケッチア目
 - [Holospora](#holospora) ホロスポラ属
 - [Wolbachia](#wolbachia) ボルバキア
-- [codon usage bias](#codon-usage-bias)
+- [people](#people)
+  - [amachi](#amachi) Amachi Seigo
 - [excerpt](#excerpt) 抜粋［引用］
 
 ----------
@@ -52,6 +53,61 @@ CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培�
 系統樹からは大古代の分岐と推定され、ほかの全ての細菌と姉妹群を形成する。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png/220px-A_Novel_Representation_Of_The_Tree_Of_Life.png)
+
+----------
+### Geobacter_Shewanella
+
+
+2018.06.25
+https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
+バイオミディア
+pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
+モデル生物の
+Shewanella属，Geobacter属細菌では，複数のシトクロ
+ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
+結ぶ電子回路として働く1,2)．
+
+2013.03.29 
+https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
+バイオミディア
+pdf電子を放出する微生物 …井上　謙吾…（132）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
+これまでに詳細な研究が行われてきた鉄還元菌
+Shewanella oneidensis，Geobacter sulfurreducensでは
+効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
+を補因子とするシトクロムcが利用される2)．
+
+2016-2017
+http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
+磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
+主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
+
+2014
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
+細胞外電子伝達 : 固体を呼吸基質とする微生物たち
+加藤 創一郎
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
+鉄 還元 能 を持つ Geobacter属や ShewanellaM 細
+菌 ， 鉄 酸 化 能 を 持 つ Acidithiobacillus za細 菌
+
+2011-12
+https://ci.nii.ac.jp/naid/40019971881
+微生物の細胞外電子伝達
+Microbial Extracellular Electron Transfer
+井上 謙吾
+https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
+鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
+先駆的な研究がなされてきた。
+図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
+
+2009-12
+環境バイオテクノロジー学会
+https://ci.nii.ac.jp/naid/40018914443
+微生物燃料電池での電流生産を可能にするShewanella oneidensisの細胞外電子伝達機構
+https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
+異化的金属還元細菌（dissimilatory
+metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
 
 ----------
 ## heavy metals
@@ -1688,21 +1744,6 @@ http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
 電流生成の分子メカニズムの解明
 我々は、ゲノム解読が完了し、遺伝子組換えが可能なモデル電流生成菌Shewanella　oneidensis MR-1株（シュワネラ、右の写真）を用いて、電極呼吸のメカニズムを解明するための研究を行っています（Newton et al. 2009. Appl. Environ. Microbiol. 75:7674; Kouzuma et al. 2010. Appl. Environ. Microbiol. 76:4151-4157）。 この菌は、細胞外に導電性ナノワイヤー（ナノスケールの電線）を作り、それを使って電極に電子を流すとも考えられています（Gorby et al. 2006. Proc. Nat. Acad. Sci. USA 103:11358）。
 
-2016-2017
-http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
-主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
-
-2011
-https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
-鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
-先駆的な研究がなされてきた。
-図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
-
-2009
-https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
-異化的金属還元細菌（dissimilatory
-metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
-
 ### Shewanella_space
 宇宙
 
@@ -2236,7 +2277,11 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
 
 ----------
-## Amachi Seigo
+## people
+
+----------
+### Amachi Seigo
+
 天知 誠吾
 
 Genome sequencing of bacteria contributing to the geochemical cycling of arsenic, bromine, and iodine.
@@ -2372,30 +2417,6 @@ http://www.geochem.jp/journal_j/contents/pdf/47-4-209.pdf
 https://www.jstage.jst.go.jp/article/geochemproc/57/0/57_0_61/_pdf
 ヨウ素の水圏循環に与える微生物の影響
 SCT 株
-
-----------
-## codon usage bias
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/
-Variation in the strength of selected codon usage bias among bacteria
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC549432/table/tbl1/
-Table 1
-The 80 bacterial genome sequences analysed
-```
-Species codea	Gene numbersb	GC contentc	Sd	Randome	Nf	Accession nosg	Species
-rRNA	tRNA	ORF	i	ii	iii					
-Gamma proteobacteria
-
-    Sheone	9	100	4630	46	45	37	1.377	(0.313/−0.275)	983	AE014299	Shewenella oneidensis
-    Pseaer	4	62	5566	67	87	74	−0.019	(0.484/−0.507)	940	AE004091	Pseudomonas aeruginosa
-    Pseput	7	74	5350	62	77	64	0.917	(0.360/−0.317)	966	AE015451	Pseudomonas putida
-    Psesyr	5	64	5566	58	71	58	0.701	(0.255/−0.243)	958	AE016853	Pseudomonas syringae
-```
-
-If the 40 genes are compared with only those on the leading strand, the S-value becomes 0.42, indicative of weak selection. Pseudomonas aeruginosa has an S-value close to zero (−0.02), providing no evidence for selection, whereas we previously found small but significant differences in codon usage between highly expressed and other genes (27). This discrepancy arises because the largest components of selected bias in this species relate to codons for Ser (especially UCC), Thr (ACC), Ala (GCU), Arg (CGU) and Gly (GGU), whereas frequencies of the C-ending codons for Phe, Tyr, Ile and Asn (used to calculate S) differ little between highly expressed genes and the genome as a whole (27).
-
-Perhaps the most surprising example of low codon usage bias is P.aeruginosa. This species can grow quite rapidly (doubling times <1 h) in laboratory planktonic cultures and is metabolically highly versatile. It is moderately recombinogenic via plasmid transfer, and there appear to be many horizontally transferred genes in its genome (27). The low selected bias was apparent in a full analysis of codon usage in this species (27), as well as the S-value calculated here. Selected codon usage bias is rather stronger in the two other Pseudomonas species analysed (Table 1). These paradoxical observations perhaps highlight our ignorance of the evolutionary history of even ‘well-known’ bacterial species.
 
 ----------
 
