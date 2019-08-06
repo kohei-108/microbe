@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-07
+Last Update: 2019-08
 
 ----------
 
@@ -56,7 +56,8 @@ CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培�
 
 ----------
 ### Geobacter_Shewanella
-
+- https://mra.asm.org/search/Geobacter
+- https://mra.asm.org/search/Shewanella
 
 2018.06.25
 https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
