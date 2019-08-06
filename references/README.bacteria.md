@@ -59,11 +59,23 @@ CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培�
 - https://mra.asm.org/search/Geobacter
 - https://mra.asm.org/search/Shewanella
 
+2018.06.25
+https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
+バイオミディア
+pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
+モデル生物の
+Shewanella属，Geobacter属細菌では，複数のシトクロ
+ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
+結ぶ電子回路として働く1,2)．
+
 https://www.ncbi.nlm.nih.gov/pubmed/29748402
 Genome Announc. 2018 May 10;6(19). pii: e00352-18. doi: 10.1128/genomeA.00352-18.
 Complete Genome Sequence of Geobacter sulfurreducens Strain YM18, Isolated from River Sediment in Japan.
 Inoue K1, Ogura Y2, Kawano Y3, Hayashi T2.
 
+2016
+IFO 公益財団法人発酵研究所
 http://www.ifo.or.jp/rc_pdf/30.pdf
 微生物による有機物の化学エネルギーから
 電気エネルギーへの変換能力解明に向けた
@@ -83,15 +95,10 @@ PCA 株よりも高い YM18 株と KN400 株のみに共通す
 電能力に何らかの役割を果たしている可能性が考えら
 れた．
 
-2018.06.25
-https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
-バイオミディア
-pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
-モデル生物の
-Shewanella属，Geobacter属細菌では，複数のシトクロ
-ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
-結ぶ電子回路として働く1,2)．
+2016-2017
+http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
+磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
+主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
 
 2013.03.29 
 https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
@@ -102,11 +109,6 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
 Shewanella oneidensis，Geobacter sulfurreducensでは
 効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
 を補因子とするシトクロムcが利用される2)．
-
-2016-2017
-http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
-磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
-主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
 
 2014
 https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
