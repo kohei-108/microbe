@@ -100,6 +100,13 @@ http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
 磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
 主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
 
+2014
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
+細胞外電子伝達 : 固体を呼吸基質とする微生物たち
+加藤 創一郎
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
+鉄 還元 能 を持つ Geobacter属や Shewanella
+
 2013.03.29 
 https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
 バイオミディア
@@ -109,13 +116,6 @@ https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
 Shewanella oneidensis，Geobacter sulfurreducensでは
 効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
 を補因子とするシトクロムcが利用される2)．
-
-2014
-https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
-細胞外電子伝達 : 固体を呼吸基質とする微生物たち
-加藤 創一郎
-https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
-鉄 還元 能 を持つ Geobacter属や Shewanella
 
 2011-12
 https://ci.nii.ac.jp/naid/40019971881
@@ -747,6 +747,7 @@ Mycobacterium avium silvaticum BSL2
 
 - https://ja.wikipedia.org/wiki/ゲオバクター属
 - http://www.bacterio.net/geobacter.html
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Geobacter
 
 https://www.ncbi.nlm.nih.gov/pubmed/31126529
 Adv Microb Physiol. 2019;74:1-96. doi: 10.1016/bs.ampbs.2019.02.007. Epub 2019 May 15.
@@ -820,6 +821,35 @@ Geobacter daltonii FRC-32T (CP001390)
 Geobacter toluenoxydans TMJ1T (EU711072)
 ```
 
+https://www.ncbi.nlm.nih.gov/pubmed/19284579
+BMC Genomics. 2009 Mar 11;10:103. doi: 10.1186/1471-2164-10-103.
+Evolution from a respiratory ancestor to fill syntrophic and fermentative niches: comparative fenomics of six Geobacteraceae species.
+Butler JE1, Young ND, Lovley DR.
+https://link.springer.com/article/10.1186/1471-2164-10-103
+Figure 1
+Genome-based Geobacteraceae phylogeny. Bayesian inference of the phylogenetic tree of the six Geobacteraceae species discussed in the text, using another Deltaproteobacterial species, Anaeromyxobacter dehalogenans, as the outgroup. The tree was based on a concatenation of the proteins in the 481 families that had exactly one ortholog conserved in each of the seven genomes (see Additional file 6). Values at branch points are posterior probabilities.
+![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F1471-2164-10-103/MediaObjects/12864_2008_Article_1987_Fig1_HTML.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/15388715
+Int J Syst Evol Microbiol. 2004 Sep;54(Pt 5):1591-9.
+Comparison of 16S rRNA, nifD, recA, gyrB, rpoB and fusA genes within the family Geobacteraceae fam. nov.
+Holmes DE1, Nevin KP, Lovley DR.
+https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02958-0#tab2
+Fig. 1.
+Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
+![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/ijsem/54/5/IJE45259-1_thmb.gif)
+
+### Geobacter_codon_usage
+コドン使用
+
+https://www.ncbi.nlm.nih.gov/pubmed/22032172
+Genome Biol. 2011 Oct 27;12(10):R109. doi: 10.1186/gb-2011-12-10-r109.
+Variation in global codon usage bias among prokaryotic organisms is associated with their lifestyles.
+Botzman M1, Margalit H.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3333779/
+Other prokaryotes with almost as high CAIave values are quite diverse: Geobacter metallireducens (CAIave value of 0.79) is an anaerobic bacterium that uses iron oxides as the electron acceptor in the oxidation of organic compounds to carbon dioxide [23], 
+
+
 ### Geobacter_comparative_genomics
 比較ゲノム
 
@@ -838,7 +868,9 @@ BMC Genomics. 2012 May 22;13:200. doi: 10.1186/1471-2164-13-200.
 Genomic determinants of organohalide-respiration in Geobacter lovleyi, an unusual member of the Geobacteraceae.
 Wagner DD1, Hug LA, Hatt JK, Spitzmiller MR, Padilla-Crespo E, Ritalahti KM, Edwards EA, Konstantinidis KT, Löffler FE.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403914/
-Plasmid maintenance
+- Computational analyses
+Codon adaptation indices (CAI) for strain SZ ORFs encoded on the plasmid and chromosomal genomic islands were computed against a codon usage table based upon all strain SZ chromosomal ORFs using the E-CAI server [29]. 
+- Plasmid maintenance
 The pSZ77 RepA appears to share phylogenetic affiliation with the RepA of various plasmids from β- or γ-Proteobacteria (Figure 5), including an IncQ-like mobilizable plasmid [70] and an IncP-1-like environmental plasmid [71]. 
 Figure 5
 Unrooted proML tree of 35 plasmid replication initiator protein (RepA) sequences aligning with pSZ77 RepA in PSI-BLAST. 
