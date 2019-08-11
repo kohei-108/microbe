@@ -46,9 +46,11 @@ Microbiome Discovery 7: Alpha Diversity
 https://www.youtube.com/watch?v=lcbp6EecDg4
 Microbiome Discovery 8: Beta Diversity
 
-https://www.youtube.com/watch?v=M8ylvsS0MHg&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=11
-Microbiome Discovery 9: UniFrac - YouTube
+https://www.youtube.com/watch?v=M8ylvsS0MHg
+Microbiome Discovery 9: UniFrac
 
+https://www.youtube.com/watch?v=_uDv7LRUUsY&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=12
+Microbiome Discovery 10: Statistical testing part 1 - YouTube
 
 
 ----------
