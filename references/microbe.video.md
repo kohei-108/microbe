@@ -49,9 +49,15 @@ Microbiome Discovery 8: Beta Diversity
 https://www.youtube.com/watch?v=M8ylvsS0MHg
 Microbiome Discovery 9: UniFrac
 
-https://www.youtube.com/watch?v=_uDv7LRUUsY&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=12
+https://www.youtube.com/watch?v=_uDv7LRUUsY
 Microbiome Discovery 10: Statistical testing part 1 - YouTube
 
+https://github.com/danknights/mice8992-2016
+https://github.com/danknights/mice8992-2016/tree/master/data
+globalgut-66-adults
+
+https://www.youtube.com/watch?v=tNxfYqa5Rtc&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=13
+Microbiome Discovery 11: Statistical testing part 2 - YouTube
 
 ----------
 ## ted
