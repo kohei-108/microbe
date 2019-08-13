@@ -40,6 +40,89 @@ Last Update: 2019-07
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 
 ----------
+## art
+
+https://twitter.com/ASMicrobiology/status/1160944136930955268
+ASM on Twitter: "The Microbe Behind the Masterpiece: Over on FB, we're highlighting interesting microbes people have used to create Agar Art. Deinococcus radiodurans is up first. Our 2019 contest opens Sept. 10! https://t.co/PsyavWuiD6 https://t.co/nv7YO65eZM"
+1:00 AM · Aug 13, 2019
+
+https://twitter.com/ASMicrobiology/status/1142160682500145153
+ASM on Twitter: "Check out these beautiful microbial masterpieces from past years of ASM's #AgarArt contest at the #ASMicrobe Agar Art gallery! Get inspired for ASM Agar Art 2019 and sign up to be notified when submissions open Sept 10. #ASMOutreach https://t.co/ZAlFjJzh9P https://t.co/2DzxzGkIEE"
+5:01 AM · Jun 22, 2019
+![](https://pbs.twimg.com/media/D9nFFf3WkAA-8Qr?format=jpg&name=small)
+
+2019.01.07
+https://gendai.ismedia.jp/articles/-/58827?media=bb
+3日待ったら鮮やかな絵が出現！「微生物アート」の奥深き世界（リケラボ） | ブルーバックス | 講談社（1/3）
+赤富士もお花畑も自由自在です！
+
+ 2018.12.18
+https://www.rikelab.jp/entertainment/4210
+微生物アートにニューウェーブ到来！ゆるめるモ！がバクテリアお絵描きに挑戦。
+ちなみに、10秒間のキスで交換される細菌数は約8,000万という報告（Microbiome 2014 2:41）もあるそうです。
+https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-41
+Shaping the oral microbiota through intimate kissing | Microbiome | Full Text
+
+
+https://twitter.com/OfficialUY_EV/status/1057415786606690304
+山梨大学生命環境学部環境科学科（公式） on Twitter: "３年生授業の「環境調査実習」で実施した「微生物アート」（担当：田中准教授）が、理系の情報コンテンツ発信サイト「リケラボ」で紹介されました。 興味のある方は下記URLをクリックください。 https://t.co/9Ia77n0kCK #微生物アート　#リケラボ　#微生物"
+8:35 AM · Oct 31, 2018
+
+ 2018.10.26
+https://www.rikelab.jp/entertainment/3831
+バクテリアでお絵描き！ 山梨大学 田中靖浩先生に「微生物アート」のコツを教わってきた！
+
+----------
+## featuring
+
+
+https://ja.wikipedia.org/wiki/感染症の歴史
+https://ja.wikipedia.org/wiki/パンデミック
+
+
+https://ja.wikipedia.org/wiki/メアリー・マローン
+メアリー・マローン（Mary Mallon、1869年9月23日 - 1938年11月11日）は、世界で初めて臨床報告されたチフス菌(Salmonella enterica serovar Typhi)の健康保菌者（発病はしないが病原体に感染している不顕性感染となり感染源となる人）。
+
+掲載日：2018年3月23日
+https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
+ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
+また、納豆やキムチなど各地固有の発酵食品を作り出し、食文化の一翼を担っています。
+また、グローバルな交通の発展により、多くの人と物資が世界中を移動しており、輸入感染症の拡大が懸念されています。
+
+
+https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
+特集1　カルタヘナ議定書にある「生物の多様性の保全及び持続可能な利用への影響」はどのように評価できるのか？
+細菌群集多様性の動態を生態系評価にいかにとりこむか
+横川 太一
+2016 年 66 巻 2 号 p. 301-308
+https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
+
+https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
+An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
+
+
+https://twitter.com/hashtag/微生物トリビア
+
+https://twitter.com/copypasteusa/status/503233698817249280
+ヒトの腸内には100兆個の腸内細菌が存在。ヒトの細胞数は37兆個。ただし細菌の細胞は、ヒトの細胞に比べてはるかに小さい http://ja.wikipedia.org/wiki/%e8%85%b8%e5%86%85%e7%b4%b0%e8%8f%8c … #微生物トリビア
+1:33 PM - 23 Aug 2014
+
+https://twitter.com/copypasteusa/status/501077800431149056
+ミディクロリアはミトコンドリアに細胞内共生するリケッチア。マダニの卵巣に見出される。映画スター・ウォーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名 #微生物トリビア
+http://ja.wikipedia.org/wiki/%e3%83%9f%e3%83%87%e3%82%a3%e3%82%af%e3%83%ad%e3%83%aa%e3%82%a2 …
+2:47 PM - 17 Aug 2014
+
+2011年11月9日
+https://togetter.com/li/212068
+まとめ　#微生物トリビア - Togetter
+
+----------
+
+https://adgang.jp/2014/10/77120.html
+オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
+
+
+----------
 ## cacao
 
 https://microbewiki.kenyon.edu/index.php/Chocolate
@@ -75,7 +158,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/25998815
 Food Microbiol. 2015 Sep;50:54-63. doi: 10.1016/j.fm.2015.03.005. Epub 2015 Apr 2.
 Applying meta-pathway analyses through metagenomics to identify the functional properties of the major bacterial communities of a single spontaneous cocoa bean fermentation process sample.
 
-https://www.ncbi.nlm.nih.gov/pubmed/25998815
 2015-08
 https://ir-library.ku.ac.ke/handle/123456789/15530
 Metagenomic Analysis of Potential Microbes in Microbial Fermentation and Flavour Formation of Ghanaian Cocoa Beans
@@ -186,56 +268,6 @@ The deadline for submitting an abstract for the consideration of an oral present
  
 https://www.isme-microbes.org/events-microbial-ecology
 Events in Microbial Ecology | ISME
-
-----------
-## featuring
-
-
-https://ja.wikipedia.org/wiki/感染症の歴史
-https://ja.wikipedia.org/wiki/パンデミック
-
-
-https://ja.wikipedia.org/wiki/メアリー・マローン
-メアリー・マローン（Mary Mallon、1869年9月23日 - 1938年11月11日）は、世界で初めて臨床報告されたチフス菌(Salmonella enterica serovar Typhi)の健康保菌者（発病はしないが病原体に感染している不顕性感染となり感染源となる人）。
-
-掲載日：2018年3月23日
-https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
-ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
-また、納豆やキムチなど各地固有の発酵食品を作り出し、食文化の一翼を担っています。
-また、グローバルな交通の発展により、多くの人と物資が世界中を移動しており、輸入感染症の拡大が懸念されています。
-
-
-https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
-特集1　カルタヘナ議定書にある「生物の多様性の保全及び持続可能な利用への影響」はどのように評価できるのか？
-細菌群集多様性の動態を生態系評価にいかにとりこむか
-横川 太一
-2016 年 66 巻 2 号 p. 301-308
-https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
-
-https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
-An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
-
-
-https://twitter.com/hashtag/微生物トリビア
-
-https://twitter.com/copypasteusa/status/503233698817249280
-ヒトの腸内には100兆個の腸内細菌が存在。ヒトの細胞数は37兆個。ただし細菌の細胞は、ヒトの細胞に比べてはるかに小さい http://ja.wikipedia.org/wiki/%e8%85%b8%e5%86%85%e7%b4%b0%e8%8f%8c … #微生物トリビア
-1:33 PM - 23 Aug 2014
-
-https://twitter.com/copypasteusa/status/501077800431149056
-ミディクロリアはミトコンドリアに細胞内共生するリケッチア。マダニの卵巣に見出される。映画スター・ウォーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名 #微生物トリビア
-http://ja.wikipedia.org/wiki/%e3%83%9f%e3%83%87%e3%82%a3%e3%82%af%e3%83%ad%e3%83%aa%e3%82%a2 …
-2:47 PM - 17 Aug 2014
-
-2011年11月9日
-https://togetter.com/li/212068
-まとめ　#微生物トリビア - Togetter
-
-----------
-
-https://adgang.jp/2014/10/77120.html
-オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
-
 
 ----------
 ## five-second rule
