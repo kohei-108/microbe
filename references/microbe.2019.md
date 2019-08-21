@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-07
+Last Update: 2019-08
 
 ----------
 
@@ -30,6 +30,35 @@ Last Update: 2019-07
 - [microbedb](#microbedb)
 - [wiebler](#wiebler)
 - [definition](#definition)
+
+----------
+## 2019-08
+
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
+
+![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
+
+https://twitter.com/hashtag/togotv18
+[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+```
+Part 3 生命科学系データ解析の現場で，押さえておきたい「鉄板」ツール	
+10 章 MEGAで系統樹を作成する	
+　　　MEGA で配列のアラインメントや系統解析を行う
+　　　DoMosaics を使ってドメイン構造と系統樹を可視化する
+　　　MAFFT・RAxML・FigTree を組み合わせて分子系統解析を行う
+```
+
+[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+
+https://doi.org/10.7875/togotv.2018.093
+2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
+
+https://doi.org/10.7875/togotv.2017.077
+2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
+
+https://doi.org/10.7875/togotv.2011.076
+2011-07-05 MEGAを使って配列アラインメントおよび系統解析をする
 
 ----------
 ## definition
@@ -503,32 +532,6 @@ https://ja.wikipedia.org/wiki/脂質
 
 非極性脂質(Non polar lipids)または中性脂質(Neutral lipids)
 カロテノイド
-
-https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
-
-![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
-
-https://twitter.com/hashtag/togotv18
-[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
-```
-Part 3 生命科学系データ解析の現場で，押さえておきたい「鉄板」ツール	
-10 章 MEGAで系統樹を作成する	
-　　　MEGA で配列のアラインメントや系統解析を行う
-　　　DoMosaics を使ってドメイン構造と系統樹を可視化する
-　　　MAFFT・RAxML・FigTree を組み合わせて分子系統解析を行う
-```
-
-[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
-
-https://doi.org/10.7875/togotv.2018.093
-2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
-
-https://doi.org/10.7875/togotv.2017.077
-2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
-
-https://doi.org/10.7875/togotv.2011.076
-2011-07-05 MEGAを使って配列アラインメントおよび系統解析をする
 
 ----------
 ## 2019-03-24
