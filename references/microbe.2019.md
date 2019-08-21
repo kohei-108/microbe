@@ -6,6 +6,7 @@ Last Update: 2019-08
 # microbe.2019
 
 **Table of Contents**
+- [2019-08](#2019-08)
 - [2019-07](#2019-07)
 - [2019-05-19](#2019-05-19)
 - [2019-05-12](#2019-05-12)
@@ -50,12 +51,12 @@ Part 3 生命科学系データ解析の現場で，押さえておきたい「�
 [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
 - https://doi.org/10.7875/togotv.2012.073
 2012-08-30 PubMedで論文を検索する
-- https://doi.org/10.7875/togotv.2018.093
-2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
-- https://doi.org/10.7875/togotv.2017.077
-2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
 - https://doi.org/10.7875/togotv.2011.076
 2011-07-05 MEGAを使って配列アラインメントおよび系統解析をする
+- https://doi.org/10.7875/togotv.2017.077
+2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
+- https://doi.org/10.7875/togotv.2018.093
+2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
 
 ----------
 ## definition
