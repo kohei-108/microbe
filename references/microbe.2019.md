@@ -98,7 +98,7 @@ Contributors — Bioconda documentation
 https://bioconda.github.io/user/install.html#
 ```
 # 1. Install conda
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 sh Miniconda3-latest-MacOSX-x86_64.sh
 
 # 2. Set up channels
