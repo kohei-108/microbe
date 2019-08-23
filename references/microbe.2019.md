@@ -79,8 +79,6 @@ https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md
 ### seaview
 
 http://doua.prabi.fr/software/seaview
-http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/seaview2.html
-SeaView 使用法
 
 ### bioconda
 
