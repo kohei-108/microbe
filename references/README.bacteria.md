@@ -2224,8 +2224,6 @@ Irene Newton
 - https://twitter.com/WolbachiaProj
 WolbachiaProject
 
-![](https://pbs.twimg.com/profile_images/993264779862204424/5kIwxeRL_bigger.jpg)
-
 2019
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
 Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
@@ -2253,7 +2251,6 @@ Mol Genet Genomics. 2018 Apr;293(2):525-540. doi: 10.1007/s00438-017-1402-5. Epu
 Comparative genomics reveals the presence of putative toxin-antitoxin system in Wolbachia genomes.
 Singhal K1, Mohanty S2.
 
-
 動画
 Nov 29, 2017
 https://www.youtube.com/watch?v=S2tND3OmwzY
@@ -2266,7 +2263,6 @@ https://www.natureasia.com/ja-jp/nature/highlights/83856
 微生物学： ボルバキア菌による昆虫の生存操作
 
 ボルバキア由来のプロファージWOがコードする2つの遺伝子が、細胞質不和合を再現する
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/28005061
 Nat Microbiol. 2016 Dec 22;2:16241. doi: 10.1038/nmicrobiol.2016.241.
