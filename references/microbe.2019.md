@@ -35,6 +35,8 @@ Last Update: 2019-08
 ----------
 ## 2019-08
 
+### togotv
+
 https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
 
 https://twitter.com/hashtag/togotv18
@@ -57,6 +59,43 @@ Part 3 生命科学系データ解析の現場で，押さえておきたい「�
 2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
 - https://doi.org/10.7875/togotv.2018.093
 2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
+
+### seaview
+
+http://doua.prabi.fr/software/seaview
+http://www2.tba.t-com.ne.jp/nakada/takashi/phylogeny/seaview2.html
+SeaView 使用法
+
+### bioconda
+
+https://qiita.com/MTNakata/items/2d537731d18b231e5fb9
+MacでBioconda〜RNA-Seqデータ解析ツールのインストール〜
+
+http://imamachi-n.hatenablog.com/entry/2017/01/14/212719
+biocondaを利用してNGS関連のソフトウェアを一括でインストールする - いろいろ試してみる
+
+http://bonohu.jp/blog/bioconda.html
+Biocondaを使ってみた
+Written by bonohu in misc on 土 08 7月 2017.
+
+https://bioconda.github.io/index.html
+Contributors — Bioconda documentation
+
+https://bioconda.github.io/user/install.html#
+```
+# 1. Install conda
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+sh Miniconda3-latest-MacOSX-x86_64.sh
+
+# 2. Set up channels
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+
+# 3. Install packages
+conda install raxml
+conda install mafft
+```
 
 ----------
 ## definition
