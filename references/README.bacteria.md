@@ -2254,9 +2254,6 @@ Comparative genomics reveals the presence of putative toxin-antitoxin system in 
 Singhal K1, Mohanty S2.
 
 
-
-
-
 動画
 Nov 29, 2017
 https://www.youtube.com/watch?v=S2tND3OmwzY
@@ -2303,6 +2300,17 @@ http://www.nikkei-science.com/201509_046.html
 https://www.a.u-tokyo.ac.jp/topics/2015/20150715-1.html
 共生細菌ヴォルバキアの「オス殺し」は宿主昆虫のオス化因子の発現を抑制することで達成される
 勝間准教授のグループは、2014年にカイコにおいて雄化と遺伝子量補償を担う分子としてMasc遺伝子を同定しています（http://www.a.u-tokyo.ac.jp/topics/2014/20140515-1.html）。RNA干渉法によってカイコのオス胚子でMasc mRNA量を低下させると、性分化のマーカーであるdoublesex (dsx)のスプライシングがメス型になり、遺伝子量補償が破綻することで胚致死してしまいます。このカイコにおける実験ではメスは胚致死しないことから、人為的に「オス殺し」現象を再現できたと言えます。そこで、ヴォルバキアによる「オス殺し」のターゲットがMascまたはその下流の因子であると仮定し、本研究を開始しました。
+
+2015/06/25
+https://www.kagakudojin.co.jp/book/b200756.html
+消えるオス （DOJIN選書： 66）
+昆虫の性をあやつる微生物の戦略
+著者	陰山 大輔 著
+https://bookmeter.com/books/9768053
+タスマニアデビルの伝染性腫瘍は人間の介入でなんとかならないものかと思う。
+
+https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
+エリザベス・マーチソン：感染性のガンと闘う | TED Talk
 
 2014 陰山大輔
 https://www.jstage.jst.go.jp/article/konchubiotec/83/3/83_3_243/_pdf
