@@ -60,6 +60,22 @@ Part 3 生命科学系データ解析の現場で，押さえておきたい「�
 - https://doi.org/10.7875/togotv.2018.093
 2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
 
+```
+curl https://dbarchive.biosciencedbc.jp/data/togotv/movie/sample/180403_test-fasta.txt > test.fasta
+
+mafft test.fasta > mafft_test.fasta
+
+raxmlHPC-SSE3 -m GTRGAMMA -p 12345 -s mafft_test.fasta -n test
+```
+
+### mafft
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#mafft
+
+### raxml
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#raxml
+
 ### seaview
 
 http://doua.prabi.fr/software/seaview
