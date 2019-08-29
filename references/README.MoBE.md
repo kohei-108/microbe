@@ -35,10 +35,33 @@ https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
 環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
 本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
 
-
-
 ----------
 ## epidemi
+
+https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/
+109．ブラジルでの小頭症は1個のアミノ酸が置換したジカウイルスによる | 一般社団法人　予防衛生協会
+2018/01/22
+ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。
+ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
+1. Faria, N.R., Azeved, R.S.S., Kraemer, M.U.G. et al.: Zika virus in the Americas: Early epidemiological and genetic findings. Science, 352, 345-349, 2016.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27013429
+Science. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
+Zika virus in the Americas: Early epidemiological and genetic findings.
+Faria NR
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/figure/F3/
+Timescale of the introduction of ZIKV to the Americas.
+(B) Posterior distributions of the estimated ages (TMRCAs) of clades A and B, estimated in BEAST software using the best-fitting evolutionary model (table S2). The time and duration of the three events (i-iii) discussed in the main text are shown.
+
+- We estimate that the date of the most recent common ancestor (TMRCA) of all Brazilian genomes (clade B) is Aug 2013 to Apr 2014 (95% Bayesian credible intervals, BCIs; point estimate = mid Dec 2013; Fig. 3B). The common ancestor of the French Polynesian and America lineages (clade A) was dated to Dec 2012 to Sep 2013 (BCIs; point estimate = late May 2013; Fig. 3B).
+- There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
+
+
+
+http://metasub.org/the-olympiome-project/
+The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. 
+
 
 https://www.cell.com/cell/fulltext/S0092-8674(19)30783-4
 Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic: Cell
@@ -86,6 +109,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/24468533
 Trends Microbiol. 2014 Mar;22(3):138-46. doi: 10.1016/j.tim.2013.12.011. Epub 2014 Jan 24.
 Global spread of dengue virus types: mapping the 70 year history.
 Messina JP1, Brady OJ2, Scott TW3, Zou C2, Pigott DM2, Duda KA2, Bhatt S2, Katzelnick L4, Howes RE2, Battle KE2, Simmons CP5, Hay SI6.
+
 
 
 ----------
