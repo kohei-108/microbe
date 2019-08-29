@@ -35,6 +35,59 @@ https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
 環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
 本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
 
+
+
+----------
+## epidemi
+
+https://www.cell.com/cell/fulltext/S0092-8674(19)30783-4
+Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic: Cell
+
+https://twitter.com/NathanGrubaugh/status/1164553815376441350
+Nathan Grubaugh on Twitter: 
+12:04 AM · Aug 23, 2019
+https://www.youtube.com/watch?v=zDyws3JBgak
+Uncovering Hidden Zika Outbreaks / Cell, August 22, 2019 (Vol. 178, Issue 5) - YouTube
+
+
+
+https://twitter.com/ljcoin/status/1146968852070162432
+Lachlan Coin on Twitter: ".@pathogenomenick showing how realtime genomic epidemiology using @nanopore seq could pinpoint cross border transmission of Ebola (colours indicate country) #UQwinterschool https://t.co/GD3AvJOq9z"
+11:27 AM · Jul 5, 2019
+
+
+
+
+https://www.sciencedirect.com/science/article/pii/S1755436517301135
+Epidemics
+Volume 25, December 2018, Pages 1-8
+Modelling the global spread of diseases: A review of current practice and capability
+
+https://www.ncbi.nlm.nih.gov/pubmed/30049602
+Trends Parasitol. 2018 Sep;34(9):772-783. doi: 10.1016/j.pt.2018.07.004. Epub 2018 Jul 23.
+Human Mobility and the Global Spread of Infectious Diseases: A Focus on Air Travel.
+Findlater A1, Bogoch II2.
+https://www.cell.com/trends/parasitology/fulltext/S1471-4922(18)30142-9
+https://www.sciencedirect.com/science/article/abs/pii/S1471492218301429
+Review
+Human Mobility and the Global Spread of Infectious Diseases: A Focus on Air Travel
+
+https://www.sciencedirect.com/science/article/abs/pii/S0143622816304544
+Applied Geography
+Volume 76, November 2016, Pages 137-146
+Evaluating the role of disease importation in the spatiotemporal transmission of indigenous dengue outbreak
+
+https://www.sciencedirect.com/science/article/pii/S0966692315001581
+Journal of Transport Geography
+Volume 48, October 2015, Pages 52-60
+Modeling monthly flows of global air travel passengers: An open-access data resource
+
+https://www.ncbi.nlm.nih.gov/pubmed/24468533
+Trends Microbiol. 2014 Mar;22(3):138-46. doi: 10.1016/j.tim.2013.12.011. Epub 2014 Jan 24.
+Global spread of dengue virus types: mapping the 70 year history.
+Messina JP1, Brady OJ2, Scott TW3, Zou C2, Pigott DM2, Duda KA2, Bhatt S2, Katzelnick L4, Howes RE2, Battle KE2, Simmons CP5, Hay SI6.
+
+
 ----------
 ## plasmids
 
