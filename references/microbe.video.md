@@ -50,18 +50,23 @@ https://www.youtube.com/watch?v=M8ylvsS0MHg
 Microbiome Discovery 9: UniFrac
 
 https://www.youtube.com/watch?v=_uDv7LRUUsY
-Microbiome Discovery 10: Statistical testing part 1 - YouTube
+Microbiome Discovery 10: Statistical testing part 1
 
 https://github.com/danknights/mice8992-2016
 https://github.com/danknights/mice8992-2016/tree/master/data
 globalgut-66-adults
 
-https://www.youtube.com/watch?v=tNxfYqa5Rtc&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=13
-Microbiome Discovery 11: Statistical testing part 2 - YouTube
+https://www.youtube.com/watch?v=tNxfYqa5Rtc
+Microbiome Discovery 11: Statistical testing part 2
+
+http://metagenome.cs.umn.edu/microbiomecodebrowser/doc/index.html
+http://metagenome.cs.umn.edu/microbiomecodebrowser/data/globalgut-66-adults/statistical.analysis.html
+
+https://www.youtube.com/watch?v=H-u2iyiTzj0&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=14
+Microbiome Discovery 12: Visualizing Microbiome Diversity, Ordination - YouTube
 
 ----------
 ## ted
-
 
 TEDMED 2017 | November 2017
 https://www.ted.com/talks/dan_knights_how_we_study_the_microbes_living_in_your_gut?language=ja
@@ -82,7 +87,6 @@ TED2014 | February 2014
 https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=ja
 ロブ・ナイト: 微生物がどのようにして私達を作っているのか | TED Talk
 17:16
-
 
 http://tedtalks-english-japanese.blogspot.jp/2017/05/smelfie-ani-liu.html
 英語で読む「TED Talks」: Smelfie におい自撮り［Ani Liu］
@@ -108,3 +112,7 @@ TEDGlobal 2005 | February 2005
 
 
 ----------
+
+
+
+
