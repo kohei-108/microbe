@@ -34,10 +34,72 @@ Last Update: 2019-07
 - [SDG](#sdg)
 - [sports](#sports)
 - [meeting](#meeting)
+- [allergy](#allergy) アレルギー
 
 ----------
 ## books
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
+
+----------
+## allergy
+アレルギー
+
+https://ja.wikipedia.org/wiki/アレルギー#衛生仮説
+https://en.wikipedia.org/wiki/Hygiene_hypothesis
+
+http://www.nyusankin.or.jp/scientific/matsumoto.html
+乳酸菌とアレルギー発症予防
+　アレルギー疾患に関与して論文上報告されている菌種は乳酸菌群のみである。
+現在、実用化されている乳酸菌は通性嫌気性菌である乳酸球菌（Enterococcus faecalisなど）や乳酸桿菌（Lactobacillus acidophilusなど）と偏性嫌気性菌であるビフィズス菌（Bifidobacterium infantisなど）が主である。
+
+2018年1月14日
+https://www.nhk.or.jp/kenko/atc_551.html
+アレルギーを抑える鍵を発見！？大注目の"スーパー腸内細菌" | NHK健康チャンネル
+クロストリジウム菌１７種
+
+2017年06月22日
+https://hc.nikkan-gendai.com/articles/207898
+米医学誌に研究結果 ペットの微生物が赤ちゃんを丈夫に｜日刊ゲンダイヘルスケア
+
+土壌中の細菌への曝露は精神的健康に良いことがあり、うつ病を治療してPTSDを予防することができる
+May 30, 2017
+https://qz.com/993258/dirt-has-a-microbiome-and-it-may-double-as-an-antidepressant/
+Exposure to the bacteria in soil can be good for mental health, and could treat depression and prevent PTSD — Quartz
+- Researchers have already found clear evidence that childhood exposure to outdoor microbes is linked to a more robust immune system; for example, Bavarian farm children who spent time in family animal stables and drank farm milk had drastically lower rates of asthma and allergies throughout their lives than their neighbors who did not.
+  - https://www.nature.com/news/early-exposure-to-germs-has-lasting-benefits-1.10294
+Early exposure to germs has lasting benefits
+Findings help to explain how microbes programme a developing immune system.
+Helen Thompson
+22 March 2012
+  - https://www.ncbi.nlm.nih.gov/pubmed/11597666
+Lancet. 2001 Oct 6;358(9288):1129-33.
+Exposure to farming in early life and development of asthma and allergy: a cross-sectional survey.
+Riedler J1, Braun-Fahrländer C, Eder W, Schreuer M, Waser M, Maisch S, Carr D, Schierl R, Nowak D, von Mutius E; ALEX Study Team.
+
+2017 May 9
+http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
+The microbiome–asthma connection
+
+2017年4月12日
+https://the-mal.com/news/furry-pets-influences-the-gut-microbiota
+【ニュース】猫や犬を飼うことは乳幼児の肥満やアレルギーの予防につながる？
+
+2017.04.11
+https://woofoo.jp/editors_desk/infant-exposure-to-pets/
+人生早期にペットと暮らすことは過体重とアレルギーリスクを減少させる（研究） | the WOOF イヌメディア
+
+https://www.ncbi.nlm.nih.gov/pubmed/28600901
+Allergy. 2017 Dec;72(12):1859-1867. doi: 10.1111/all.13220. Epub 2017 Jun 28.
+Influences of environmental bacteria and their metabolites on allergies, asthma, and host microbiota.
+http://onlinelibrary.wiley.com/doi/10.1111/all.13220/full
+
+2016年9月29日
+http://aasj.jp/news/watch/5850
+9月29日：農家で育つとアレルギーになりにくい（Thoraxオンライン版掲載論文） | AASJホームページ
+
+2012年07月02日
+http://karapaia.com/archives/52091457.html
+子どもの頃から犬や猫を飼っていると将来的に喘息になるリスクが低下する（米国微生物学会） : カラパイア
 
 ----------
 ## art
@@ -71,6 +133,28 @@ https://twitter.com/OfficialUY_EV/status/1057415786606690304
  2018.10.26
 https://www.rikelab.jp/entertainment/3831
 バクテリアでお絵描き！ 山梨大学 田中靖浩先生に「微生物アート」のコツを教わってきた！
+
+https://twitter.com/sai_path/status/1042333855120850944
+Dr. Sai Pathmanathan on Twitter: "Agar Art. https://t.co/SAUboNq0Ap #hokusai #wave https://t.co/eoRX4TlfEb"
+5:45 PM · Sep 19, 2018
+
+
+
+----------
+## meeting
+
+https://twitter.com/NatureRevMicro/status/1110131599088209920
+Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
+6:49 AM - 25 Mar 2019
+
+
+https://isme17.isme-microbes.org/abstracts
+ISME
+It is no longer possible to submit an abstract for the consideration of inclusion in the ISME17 Program.
+The deadline for submitting an abstract for the consideration of an oral presentation was 30 March, whereas the system was open for poster submissions until 25 May.  
+ 
+https://www.isme-microbes.org/events-microbial-ecology
+Events in Microbial Ecology | ISME
 
 ----------
 ## featuring
@@ -179,95 +263,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
 - 16Sアンプリコン・シーケンシングは、原核生物、すなわち細菌(バクテリア)と古細菌(アーキア)を解析対象とします。
 - 18SまたはITSアンプリコン・シーケンシングは、真核生物（カカオ、鳥や昆虫など）を解析対象とします。
 - ショットガン・シーケンシング（メタゲノミクス）は、原核生物、真核生物、ウイルスなど全てを解析対象とします。
-
-----------
-## allergy
-アレルギー
-
-https://ja.wikipedia.org/wiki/アレルギー#衛生仮説
-https://en.wikipedia.org/wiki/Hygiene_hypothesis
-
-2017年06月22日
-https://hc.nikkan-gendai.com/articles/207898
-米医学誌に研究結果 ペットの微生物が赤ちゃんを丈夫に｜日刊ゲンダイヘルスケア
-
-土壌中の細菌への曝露は精神的健康に良いことがあり、うつ病を治療してPTSDを予防することができる
-May 30, 2017
-https://qz.com/993258/dirt-has-a-microbiome-and-it-may-double-as-an-antidepressant/
-Exposure to the bacteria in soil can be good for mental health, and could treat depression and prevent PTSD — Quartz
-- Researchers have already found clear evidence that childhood exposure to outdoor microbes is linked to a more robust immune system; for example, Bavarian farm children who spent time in family animal stables and drank farm milk had drastically lower rates of asthma and allergies throughout their lives than their neighbors who did not.
-  - https://www.nature.com/news/early-exposure-to-germs-has-lasting-benefits-1.10294
-Early exposure to germs has lasting benefits
-Findings help to explain how microbes programme a developing immune system.
-Helen Thompson
-22 March 2012
-  - https://www.ncbi.nlm.nih.gov/pubmed/11597666
-Lancet. 2001 Oct 6;358(9288):1129-33.
-Exposure to farming in early life and development of asthma and allergy: a cross-sectional survey.
-Riedler J1, Braun-Fahrländer C, Eder W, Schreuer M, Waser M, Maisch S, Carr D, Schierl R, Nowak D, von Mutius E; ALEX Study Team.
-
-2017 May 9
-http://www.schmidtwriting.com/articles/living-in-a-microbial-world.pdf
-The microbiome–asthma connection
-
-2017年4月12日
-https://the-mal.com/news/furry-pets-influences-the-gut-microbiota
-【ニュース】猫や犬を飼うことは乳幼児の肥満やアレルギーの予防につながる？
-
-2017.04.11
-https://woofoo.jp/editors_desk/infant-exposure-to-pets/
-人生早期にペットと暮らすことは過体重とアレルギーリスクを減少させる（研究） | the WOOF イヌメディア
-
-https://www.ncbi.nlm.nih.gov/pubmed/28600901
-Allergy. 2017 Dec;72(12):1859-1867. doi: 10.1111/all.13220. Epub 2017 Jun 28.
-Influences of environmental bacteria and their metabolites on allergies, asthma, and host microbiota.
-http://onlinelibrary.wiley.com/doi/10.1111/all.13220/full
-
-2016年9月29日
-http://aasj.jp/news/watch/5850
-9月29日：農家で育つとアレルギーになりにくい（Thoraxオンライン版掲載論文） | AASJホームページ
-
-2012年07月02日
-http://karapaia.com/archives/52091457.html
-子どもの頃から犬や猫を飼っていると将来的に喘息になるリスクが低下する（米国微生物学会） : カラパイア
-
-----------
-## meeting
-
-https://twitter.com/NatureRevMicro/status/1110131599088209920
-Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
-6:49 AM - 25 Mar 2019
-
-http://www.microbial-ecology.jp/?p=8410
-日本微生物生態学会 » ASME in 台湾 （5/11-13）のお知らせ
-なお参加登録するにあたって当学会事務局に「参加します」の一報をご氏名ご所属とともに頂ければ助かります。
-これは日本からの参加者の人数をおおよそ把握するためです。ご協力お願い致します。
-
-https://asme-tsme-2019.weebly.com/
-ASME & TSME meeting 2019
-​May 11-13, 2019 Tunghai University, Taiwan
-https://asme-tsme-2019.weebly.com/abstract-submission.html
-Please be noted that the submission deadline is 4/30/2019.
-
-https://meetings.cshl.edu/meetings.aspx?meet=BIOME&year=19
-Microbiome | CSHL
-July 18 - 21, 2019
-Abstract Deadline: May 3, 2019
-
-https://www.grc.org/ecological-and-evolutionary-genomics-grs-conference/2019/
-2019 Ecological and Evolutionary Genomics (GRS) Seminar GRC
-Genomic Changes Behind Adaptation and Ecosystem Functions
-July 13 - 14, 2019
-Applications for this meeting must be submitted by June 15, 2019.
-
-
-https://isme17.isme-microbes.org/abstracts
-ISME
-It is no longer possible to submit an abstract for the consideration of inclusion in the ISME17 Program.
-The deadline for submitting an abstract for the consideration of an oral presentation was 30 March, whereas the system was open for poster submissions until 25 May.  
- 
-https://www.isme-microbes.org/events-microbial-ecology
-Events in Microbial Ecology | ISME
 
 ----------
 ## five-second rule
@@ -441,6 +436,9 @@ resistance
 - https://twitter.com/hashtag/WAAW2018
 - https://twitter.com/hashtag/AntibioticAwarenessWeek
 - https://twitter.com/hashtag/WorldAntibioticAwarenessWeek
+
+http://amr.ncgm.go.jp/general/1-2-1.html
+どのように耐性化するのか | 薬剤耐性菌について | 一般の方へ | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
 
 http://www.who.int/who-campaigns/world-antibiotic-awareness-week
 World Antibiotic Awareness Week
