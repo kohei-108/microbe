@@ -147,13 +147,6 @@ Microbiome. 2019 May 2;7(1):70. doi: 10.1186/s40168-019-0686-6.
 Longitudinal homogenization of the microbiome between both occupants and the built environment in a cohort of United States Air Force Cadets.
 Sharma A1, Richardson M1, Cralle L1, Stamper CE2, Maestre JP3, Stearns-Yoder KA4,5,6, Postolache TT5,6,7,8, Bates KL6,9, Kinney KA3, Brenner LA4,5,6,10, Lowry CA2,4,5,6,11,12, Gilbert JA1, Hoisington AJ13,14,15.
 
-https://twitter.com/NiranjanTW/status/1131021531033808896
-Niranjan Nagarajan on Twitter: "Our hospital microbiome work as part of @metasub! All Illumina and Nanopore data should be available from ENA: Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment https://t.co/AZx7KVEsTA @kalisvar @oontek1 @mason_lab"
-10:18 PM - 21 May 2019
-1000s of @nanopore assembled genomes and circular plasmid sequences too!
-https://twitter.com/copypasteusa/status/1131071203320295424
-Haruo Suzuki on Twitter: "I wonder if known hosts of plasmids in PLSDB were assigned as inferred #Plasmid Host Species in Figure 3?… "
-1:36 AM - 22 May 2019
 
 https://twitter.com/ForbesScience/status/1100783871237464064
 Forbes Science on Twitter: "A new study, conducted in a rapidly developing city in China, discovered that urbanization increases the proportion of disease-causing bacteria in the air and the overall amount of airborne microbes: https://t.co/1B2ufrPL13 By @LinhAnhCat… https://t.co/ozAzf5E3hV"
@@ -470,6 +463,19 @@ Published on Aug 25, 2014
 ----------
 ## hospital
 病院
+
+MetaMED
+https://twitter.com/goyoiraola/status/1144389104374833152
+Gregorio Iraola on Twitter: "Today was #WorldMicrobiomDay and we couldn’t stay calm! Members of @IraolaLab doing some massive swabbing of a surgeon room in Montevideo! @IPMontevideo @metasub https://t.co/3BfyswJtVp"
+8:36 AM · Jun 28, 2019
+
+https://twitter.com/NiranjanTW/status/1131021531033808896
+Niranjan Nagarajan on Twitter: "Our hospital microbiome work as part of @metasub! All Illumina and Nanopore data should be available from ENA: Cartography of opportunistic pathogens and antibiotic resistance genes in a tertiary hospital environment https://t.co/AZx7KVEsTA @kalisvar @oontek1 @mason_lab"
+10:18 PM - 21 May 2019
+1000s of @nanopore assembled genomes and circular plasmid sequences too!
+https://twitter.com/copypasteusa/status/1131071203320295424
+Haruo Suzuki on Twitter: "I wonder if known hosts of plasmids in PLSDB were assigned as inferred #Plasmid Host Species in Figure 3?… "
+1:36 AM - 22 May 2019
 
 http://medical.radionikkei.jp/kansenshotoday_pdf/kansenshotoday-180404.pdf
 ｢医療環境が医療関連感染に与える影響｣
