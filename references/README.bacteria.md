@@ -1534,6 +1534,12 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
 Shewanella - an overview | ScienceDirect Topics
 Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
 
+https://www.nature.com/articles/s42003-019-0567-3
+Cold adaptation in the environmental bacterium Shewanella oneidensis is controlled by a J-domain co-chaperone protein network | Communications Biology
+
+https://www.frontiersin.org/articles/10.3389/fmicb.2019.01861/full
+Frontiers | Whole-Genome Sequencing Redefines Shewanella Taxonomy | Microbiology
+
 ### Shewanella_outer_membrane_cytochromes
 
 https://www.ncbi.nlm.nih.gov/pubmed/27342561
@@ -2223,6 +2229,30 @@ Seth Bordenstein
 Irene Newton
 - https://twitter.com/WolbachiaProj
 WolbachiaProject
+
+https://www.maruzen-publishing.co.jp/item/?book_no=303272
+突然変異主導進化論
+https://www.maruzen-publishing.co.jp/fixed/files/pdf/303272/index_pdf_303272.pdf
+遺伝子水平伝播 219
+ボルバキア属の細菌から昆虫への遺伝子の移行
+https://www.ncbi.nlm.nih.gov/pubmed/17761848
+Science. 2007 Sep 21;317(5845):1753-6. Epub 2007 Aug 30.
+Widespread lateral gene transfer from intracellular bacteria to multicellular eukaryotes.
+Dunning Hotopp JC1, 
+
+http://www.kashiwashobo.co.jp/book/b286870.html
+世界は細菌にあふれ、人は細菌によって生かされる
+p. 291 注13
+遺伝子水平伝播
+循環論法
+https://www.ncbi.nlm.nih.gov/pubmed/21334091
+Trends Genet. 2011 Apr;27(4):157-63. doi: 10.1016/j.tig.2011.01.005. Epub 2011 Feb 18.
+Horizontal gene transfer between bacteria and animals.
+Dunning Hotopp JC1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068243/
+- Box 4Problems identifying bacteria-to-animal HGT in existing genome data
+A circular argument ensues where eukaryotic genome sequencing projects remove all bacterial sequences because animals do not have HGT from bacteria, and examination of those same genomes for HGT reinforces the notion that HGT from bacteria to animals does not occur. Resources like the Sequence Read Archive and Trace Archive offer opportunities for assembly-independent analyses, but only when the raw experimental data is deposited before “contaminant” removal.
+- Hopefully, the promises of third generation single molecule sequencing will yield a more diverse sampling of vertebrate genomes, facilitate the differentiation of contaminants from HGT, and improve our understanding of the extent of HGT events in a wide array of diverse organisms.
 
 2019
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
