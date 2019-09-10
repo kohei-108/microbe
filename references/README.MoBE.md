@@ -23,20 +23,126 @@ https://ja.wikipedia.org/wiki/建造環境
 - [subway](#subway) 地下鉄
 - [urban microbiome](#urban-microbiome) 都市のマイクロバイオーム
 - [japan](#japan)
-- [people](#people)
-  - [jessica_green](#jessica_green)
 - [review](#review)
 - [unclassified](#unclassified)
+- [people](#people)
+  - [jessica_green](#jessica_green)
+  - [Yanagi](#yanagi)
 
 ----------
 ## featuring
 
+
+
+----------
+## people
+### Yanagi
+
+https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
+https://er-web.sc.kogakuin.ac.jp/Profiles/9/0000829/profile.html
+
 https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H02277/
 環境マイクロバイオームの動態計測に基づく集団感染機構の解明と制御
+研究分担者	柳 宇  工学院大学, 建築学部(公私立大学の部局等), 教授 (50370945)
 本研究は、集団内での病原物質のミクロな伝搬機構を明らかにし、建築公衆衛生の観点から、その伝搬を制御し感染防止に役立てることを目的としている。そのため、室内環境並びに人由来の、①微生物叢（Micro-Biome、マイクロバイオーム）の全遺伝子を直接解析し、病原物質の不活化の過程も考慮してその伝搬を解析し、②人の行動観察により、人の接触による病原物質の伝搬可能性を解析し、③人の行動シミュレーションにより具体的に病原物質の伝搬を予測する手法を開発する。
+
+https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
+２０１６年４月
+建築環境における微生物汚染機構の解明
+とその対策に関する一連の研究
+工学院大学 建築学部 建築学科 教授
+柳 宇，D.P.H.,Dr.Eng.
+
+https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
+社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
+2012.04.30調査研究
+社会福祉施設における粒子状物質と浮遊微生物に関する研究
+研究指導員：柳宇（工学院大学建築学部　教授）
+
+### jessica_green
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+Nov 9, 2015
+https://www.youtube.com/watch?v=GUfR_81fmLE
+【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+Feb 2013
+http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
+ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
+
+January 2013
+https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
+Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
+
+Jul 2011
+http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
+ジェシカ・グリーン「微生物を正しく取り除くために」
+
+### phylagen
+
+https://twitter.com/phylagen
+https://phylagen.com/
+Every object & every place has a 
+naturally occurring microbial fingerprint
+
+https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
+This Startup Uses Dust to Fight Sweatshops - leapsmag
+Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
+
+### roxana_hickey
+
+JANUARY 28, 2016
+http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
+We’re All Sitting in Clouds of Bacteria | Mental Floss
+Jan 25, 2016
+https://www.youtube.com/watch?v=2_ib7Z4bmrg
+Your Very Special Bacterial Cloud - YouTube
+
+Sep 7, 2016
+https://www.youtube.com/watch?v=vbYJlEItP7g
+Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
+
+https://twitter.com/roxana_hickey/status/877713794733973504
+Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
+10:24 PM - 21 Jun 2017
 
 ----------
 ## epidemi
+
+https://twitter.com/JClinMicro/status/1171021712357515264
+JClinMicro EIC on Twitter: "Metagenomic Next-Generation Sequencing of the 2014 Ebola Virus Disease Outbreak in the Democratic Republic of the Congo https://t.co/yT8v3ZZWLR @ASMicrobiology #ASMClinMicro https://t.co/6ghIbBsX4h"
+8:25 PM · Sep 9, 2019
+
+
+http://metasub.org/the-olympiome-project/
+The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/31442400
+Cell. 2019 Aug 22;178(5):1057-1071.e11. doi: 10.1016/j.cell.2019.07.018.
+Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic.
+Grubaugh ND1, 
+https://twitter.com/NathanGrubaugh/status/1164553815376441350
+Nathan Grubaugh on Twitter: 
+12:04 AM · Aug 23, 2019
+https://www.youtube.com/watch?v=zDyws3JBgak
+Uncovering Hidden Zika Outbreaks / Cell, August 22, 2019 (Vol. 178, Issue 5) - YouTube
+
+https://twitter.com/ljcoin/status/1146968852070162432
+Lachlan Coin on Twitter: ".@pathogenomenick showing how realtime genomic epidemiology using @nanopore seq could pinpoint cross border transmission of Ebola (colours indicate country) #UQwinterschool https://t.co/GD3AvJOq9z"
+11:27 AM · Jul 5, 2019
+
+https://www.ncbi.nlm.nih.gov/pubmed/30863381
+Front Microbiol. 2019 Feb 26;10:319. doi: 10.3389/fmicb.2019.00319. eCollection 2019.
+Metagenomic Approach to Characterizing Disease Epidemiology in a Disease-Endemic Environment in Northern Thailand.
+Takhampunya R1, Korkusol A1, Pongpichit C2, Yodin K2, Rungrojn A1, Chanarat N1, Promsathaporn S1, Monkanna T1, Thaloengsok S1, Tippayachai B1, Kumfao N2, Richards AL3, Davidson SA1.
+ The bacterial 16S rRNA gene was amplified and sequenced with the Illumina. 
 
 https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/
 109．ブラジルでの小頭症は1個のアミノ酸が置換したジカウイルスによる | 一般社団法人　予防衛生協会
@@ -56,27 +162,6 @@ Timescale of the introduction of ZIKV to the Americas.
 
 - We estimate that the date of the most recent common ancestor (TMRCA) of all Brazilian genomes (clade B) is Aug 2013 to Apr 2014 (95% Bayesian credible intervals, BCIs; point estimate = mid Dec 2013; Fig. 3B). The common ancestor of the French Polynesian and America lineages (clade A) was dated to Dec 2012 to Sep 2013 (BCIs; point estimate = late May 2013; Fig. 3B).
 - There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
-
-
-
-http://metasub.org/the-olympiome-project/
-The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. 
-
-
-https://www.cell.com/cell/fulltext/S0092-8674(19)30783-4
-Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic: Cell
-
-https://twitter.com/NathanGrubaugh/status/1164553815376441350
-Nathan Grubaugh on Twitter: 
-12:04 AM · Aug 23, 2019
-https://www.youtube.com/watch?v=zDyws3JBgak
-Uncovering Hidden Zika Outbreaks / Cell, August 22, 2019 (Vol. 178, Issue 5) - YouTube
-
-
-
-https://twitter.com/ljcoin/status/1146968852070162432
-Lachlan Coin on Twitter: ".@pathogenomenick showing how realtime genomic epidemiology using @nanopore seq could pinpoint cross border transmission of Ebola (colours indicate country) #UQwinterschool https://t.co/GD3AvJOq9z"
-11:27 AM · Jul 5, 2019
 
 
 
@@ -1118,68 +1203,6 @@ https://www.sciencedirect.com/science/article/pii/S1352231004008805
 2) Kang Y, Nagano K. 2016. Field measurement of indoor air quality and airborne microbes in a near-zero energy house with an earth tube in the cold region of Japan. Science and Technology for the Built Environment 22:1010–1023.
 http://www.tandfonline.com/doi/abs/10.1080/23744731.2016.1215690
 
-
-----------
-
-
-
-
-----------
-## people
-### jessica_green
-
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
-
-Nov 9, 2015
-https://www.youtube.com/watch?v=GUfR_81fmLE
-【ICF2015】Jessica Green - Second Brain for the Smart City - YouTube
-
-https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
-「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
-
-Feb 2013
-http://www.ted.com/talks/jessica_green_good_germs_make_healthy_buildings?language=ja
-ジェシカ・グリーン: 私たちを取り巻く細菌と住環境のデザイン
-
-January 2013
-https://www.ted.com/talks/jessica_green_and_karen_guillemin_you_are_your_microbes?language=ja
-Jessica Green and Karen Guillemin: 微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン | TED Talk
-
-Jul 2011
-http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja
-ジェシカ・グリーン「微生物を正しく取り除くために」
-
-### phylagen
-
-https://twitter.com/phylagen
-https://phylagen.com/
-Every object & every place has a 
-naturally occurring microbial fingerprint
-
-https://leapsmag.com/this-startup-uses-dust-to-fight-sweatshops/
-This Startup Uses Dust to Fight Sweatshops - leapsmag
-Data scientist Roxana Hickey, left, and CEO Jessica Green of Phylagen. (Photo credit: Kira Peikoff)
-
-### roxana_hickey
-
-JANUARY 28, 2016
-http://mentalfloss.com/article/74598/were-all-sitting-clouds-bacteria
-We’re All Sitting in Clouds of Bacteria | Mental Floss
-Jan 25, 2016
-https://www.youtube.com/watch?v=2_ib7Z4bmrg
-Your Very Special Bacterial Cloud - YouTube
-
-Sep 7, 2016
-https://www.youtube.com/watch?v=vbYJlEItP7g
-Roxana Hickey - Exploring the Great Indoors Relevance of the Built Environment to Human Health - YouTube
-
-https://twitter.com/roxana_hickey/status/877713794733973504
-Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues for @metasub global sampling day from San Francisco! #gcsd17… "
-10:24 PM - 21 Jun 2017
-
 ----------
 ## review
 
@@ -1300,19 +1323,6 @@ Guest Post: Metadata for the Built Environment – MIxS-BE package
 
 ----------
 ## unclassified
-
-https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
-２０１６年４月
-建築環境における微生物汚染機構の解明
-とその対策に関する一連の研究
-工学院大学 建築学部 建築学科 教授
-柳 宇，D.P.H.,Dr.Eng.
-
-https://www.jahmec.or.jp/news/tyosa/2012/post-28.html
-社会福祉施設における粒子状物質と浮遊微生物に関する研究｜公益財団法人 日本建築衛生管理教育センター
-2012.04.30調査研究
-社会福祉施設における粒子状物質と浮遊微生物に関する研究
-研究指導員：柳宇（工学院大学建築学部　教授）
 
 https://twitter.com/copypasteusa/status/1093071982155845632
 建築環境で同定された細菌の多様性レベルとゲノムの特徴（ゲノムサイズ、GC含量、DNA複製鎖間の非対称度、コドン使用バイアス）
