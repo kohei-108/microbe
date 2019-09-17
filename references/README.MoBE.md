@@ -760,6 +760,11 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
+https://www.ncbi.nlm.nih.gov/pubmed/31488812
+Nat Commun. 2019 Sep 5;10(1):3990. doi: 10.1038/s41467-019-11682-z.
+Space Station conditions are selective but do not alter microbial characteristics relevant to human health.
+Mora M1, Wink L1, Kögler I1, Mahnert A1, Rettberg P2, Schwendner P3, Demets R4, Cockell C3, Alekhova T5, Klingl A6, Krause R1,7, Zolotariof A3, Alexandrova A5, Moissl-Eichinger C8,9.
+
 #### 2019-04-08
 
 https://twitter.com/pathogenomenick/status/1115930415649447936
