@@ -776,12 +776,24 @@ https://japanese.engadget.com/2019/04/09/iss/
 学会誌Microbiomeで発表しました。
 研究を共同執筆したNASAジェット推進研究所(JPL)の上級研究員Kasthuri Venkateswaran博士
 
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
-Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces | Microbiome | Full Text
-Before DNA extraction, half of the sample was treated with propidium monoazide (PMA) so that the microbiome of intact/viable cells (PMA treatment) could be characterized. The PMA-untreated samples yielded information about the total microbial population (including free DNA, dead cells, cells with a compromised cell membrane, intact cells, and viable cells). 
+https://www.ncbi.nlm.nih.gov/pubmed/30955503
+Microbiome. 2019 Apr 8;7(1):50. doi: 10.1186/s40168-019-0666-x.
+Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces.
+Checinska Sielaff A1,2, Urbaniak C1, Mohan GBM1, Stepanov VG3, Tran Q3, Wood JM1, Minich J4, McDonald D5, Mayer T1, Knight R5,6,7, Karouia F8,9,10, Fox GE3, Venkateswaran K11.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452512/
+Before DNA extraction, half of the sample was treated with propidium monoazide (PMA) so that the microbiome of intact/viable cells (PMA treatment) could be characterized. The PMA-untreated samples yielded information about the total microbial population (including free DNA, dead cells, cells with a compromised cell membrane, intact cells, and viable cells). PMA binds to DNA, making the DNA unavailable for amplification during PCR steps [22]. Due to its higher molecular weight and/or charge, PMA cannot penetrate into cells that have an intact cell membrane (i.e., viable) but can bind to free floating DNA or DNA inside cells with a compromised cell membrane (i.e., dead cells) [22, 23]. It is in this way that many studies have utilized PMA to distinguish between intact/viable cells and compromised/dead cells [2, 24–26].
+
+https://www.cosmobio.co.jp/product/detail/02230002.asp?entry_id=3561
+生菌測定PCR用 PMA™／PMAxx™色素 | 細胞膜不透過性の二本鎖DNA結合色素 | コスモ・バイオ株式会社
+
+https://www.pref.miyagi.jp/uploaded/attachment/244677.pdf
+７ PCR を用いた細菌の生・死菌判別方法の検討
+今回、EMA（ethidium bromide monoazide）及び PMA（propidium monoazide）を用いて[1] [2]、 PCR により試料中の生菌のみを検出する方法を検討したので、その結果について報告する。
 
 #### 2019-01-08
+https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
 
+人工環境 (built environment; BE) の微生物。分離源の異なるセレウス菌と黄色ブドウ球菌の比較ゲノム。分離源は、国際宇宙ステーション（ISS; モデルBE）、地球のBE、土壌、ヒトなど。
 https://www.ncbi.nlm.nih.gov/pubmed/30637341
 mSystems. 2019 Jan 8;4(1). pii: e00281-18. doi: 10.1128/mSystems.00281-18. eCollection 2019 Jan-Feb.
 Pangenomic Approach To Understanding Microbial Adaptations within a Model Built Environment, the International Space Station, Relative to Human Hosts and Soil.
@@ -791,8 +803,6 @@ FIG 3
 (C) Phylogenetic tree constructed from core gene codon alignment with midpoint rooting.
 
 All data and bioinformatics and R scripts that may be used to reproduce our analyses are available at https://github.com/hartmann-lab/BE_ISS_pangenomes.
-
-https://www.microbe.net/2019/01/08/great-paper-on-space-station-microbes-and-how-they-are-not-all-waiting-to-kill-you/
 
 January 8, 2019
 https://www.sciencedaily.com/releases/2019/01/190108141336.htm
