@@ -62,8 +62,23 @@ Microbiome Discovery 11: Statistical testing part 2
 http://metagenome.cs.umn.edu/microbiomecodebrowser/doc/index.html
 http://metagenome.cs.umn.edu/microbiomecodebrowser/data/globalgut-66-adults/statistical.analysis.html
 
-https://www.youtube.com/watch?v=H-u2iyiTzj0&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=14
-Microbiome Discovery 12: Visualizing Microbiome Diversity, Ordination - YouTube
+https://www.youtube.com/watch?v=H-u2iyiTzj0
+Microbiome Discovery 12: Visualizing Microbiome Diversity, Ordination
+
+https://www.youtube.com/watch?v=aNLPzdfivkM
+Microbiome Discovery 13: Detrending and detecting gradients
+
+https://www.youtube.com/watch?v=wHSECEI2tnQ
+Microbiome Discovery 14: Constrained Ordination
+
+https://www.youtube.com/watch?v=ORX968xJqiA
+Microbiome Discovery 15: Clustering
+
+https://www.youtube.com/watch?v=-eXnrA_3xzA
+Microbiome Discovery 16: Supervised Learning Background
+
+https://www.youtube.com/watch?v=ecz5SzP6Z_U&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=19
+Microbiome Discovery 17: Supervised Learning Applications - YouTube
 
 ----------
 ## ted
