@@ -77,8 +77,20 @@ Microbiome Discovery 15: Clustering
 https://www.youtube.com/watch?v=-eXnrA_3xzA
 Microbiome Discovery 16: Supervised Learning Background
 
-https://www.youtube.com/watch?v=ecz5SzP6Z_U&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=19
-Microbiome Discovery 17: Supervised Learning Applications - YouTube
+https://www.youtube.com/watch?v=ecz5SzP6Z_U
+Microbiome Discovery 17: Supervised Learning Applications
+
+https://www.youtube.com/watch?v=sDevHMuYJ28
+Microbiome Discovery 18: Source Tracking
+
+https://www.youtube.com/watch?v=X60nFYpLWRs
+Microbiome Discovery 19: Compositionality
+
+https://www.youtube.com/watch?v=mPQCl_cHCsM
+Microbiome Discovery 20: PICRUSt and predicting functions
+
+https://www.youtube.com/watch?v=DlQTXdb2rhg
+Microbiome Discovery 21: Shotgun Taxonomy
 
 ----------
 ## ted
