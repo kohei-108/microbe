@@ -40,6 +40,122 @@ Last Update: 2019-07
 ## books
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 
+
+
+
+
+
+----------
+## meeting
+
+https://twitter.com/NatureRevMicro/status/1110131599088209920
+Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
+6:49 AM - 25 Mar 2019
+
+
+https://isme17.isme-microbes.org/abstracts
+ISME
+It is no longer possible to submit an abstract for the consideration of inclusion in the ISME17 Program.
+The deadline for submitting an abstract for the consideration of an oral presentation was 30 March, whereas the system was open for poster submissions until 25 May.  
+ 
+https://www.isme-microbes.org/events-microbial-ecology
+Events in Microbial Ecology | ISME
+
+
+----------
+Maria Gloria Dominguez-Bello
+
+2016.02.03
+http://epigraph.jugem.jp/?eid=231
+経腟分娩と帝王切開による分娩　分娩時の新しい処置の試み
+小規模の原理証明研究は、新生児に移植する新しい方法を示唆しているとニューヨーク大学の医学部の准教授で、この報告を「Nature Medicine」に発表した主筆であるマリア・グロリア・ドミンゲス医師は言っている。
+
+
+2016年2月2日
+https://www.natureasia.com/ja-jp/nm/pr-highlights/10482
+帝王切開分娩児を母親の腟内微生物へ曝露することの効果
+Nature Medicine
+
+
+
+2015年4月25日 
+https://www.afpbb.com/articles/-/3046469
+アマゾン先住民、抗生物質耐性持つ遺伝子約30種を確認　写真2枚　国際ニュース：AFPBB News
+ 論文の著者の一人、米ニューヨーク大学（New York University）医学部のマリア・グロリア・ドミンゲス・ベロ（Maria Gloria Dominguez-Bello）准教授は、研究対象となったヤノマミの人々には肥満や栄養失調の兆候はみられなかったと述べた。ヤノマミの人々は魚やカエル、昆虫、バナナ、発酵させたキャッサバの飲料などを摂取して暮らしている。
+
+----------
+## featuring
+
+
+- https://twitter.com/hashtag/微生物トリビア
+- https://ja.wikipedia.org/wiki/感染症の歴史
+- https://ja.wikipedia.org/wiki/パンデミック
+
+
+https://ja.wikipedia.org/wiki/メアリー・マローン
+メアリー・マローン（Mary Mallon、1869年9月23日 - 1938年11月11日）は、世界で初めて臨床報告されたチフス菌(Salmonella enterica serovar Typhi)の健康保菌者（発病はしないが病原体に感染している不顕性感染となり感染源となる人）。
+
+掲載日：2018年3月23日
+https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
+ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
+また、納豆やキムチなど各地固有の発酵食品を作り出し、食文化の一翼を担っています。
+また、グローバルな交通の発展により、多くの人と物資が世界中を移動しており、輸入感染症の拡大が懸念されています。
+
+
+https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
+特集1　カルタヘナ議定書にある「生物の多様性の保全及び持続可能な利用への影響」はどのように評価できるのか？
+細菌群集多様性の動態を生態系評価にいかにとりこむか
+横川 太一
+2016 年 66 巻 2 号 p. 301-308
+https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
+
+https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
+An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
+
+
+https://twitter.com/hashtag/微生物トリビア
+
+https://twitter.com/copypasteusa/status/503233698817249280
+ヒトの腸内には100兆個の腸内細菌が存在。ヒトの細胞数は37兆個。ただし細菌の細胞は、ヒトの細胞に比べてはるかに小さい http://ja.wikipedia.org/wiki/%e8%85%b8%e5%86%85%e7%b4%b0%e8%8f%8c … #微生物トリビア
+1:33 PM - 23 Aug 2014
+
+https://twitter.com/copypasteusa/status/501077800431149056
+ミディクロリアはミトコンドリアに細胞内共生するリケッチア。マダニの卵巣に見出される。映画スター・ウォーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名 #微生物トリビア
+http://ja.wikipedia.org/wiki/%e3%83%9f%e3%83%87%e3%82%a3%e3%82%af%e3%83%ad%e3%83%aa%e3%82%a2 …
+2:47 PM - 17 Aug 2014
+
+2011年11月9日
+https://togetter.com/li/212068
+まとめ　#微生物トリビア - Togetter
+
+
+https://adgang.jp/2014/10/77120.html
+オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
+
+----------
+## Lactobacillus rhamnosus GG
+
+https://www.sceti.co.jp/ingredients/functional/probiotics/detail06_product08.html
+Lactobacillus rhamnosus, LGG®｜セティ株式会社
+
+https://www.jstage.jst.go.jp/article/jslab/28/1/28_12/_article/-char/ja/
+<b><i>Lactobacillus rhamnosus </i>GG 株の摂取による便秘傾向な女性の排便および皮膚に及ぼす影響 </b>
+2017 年 28 巻 1 号 p. 12-17
+
+https://www.nikkei.com/article/DGXLRSP493070_V11C18A0000000/
+タカナシ乳業、プロバイオティクス乳酸菌の摂取が造血器腫瘍患者の腸内細菌叢に影響を及ぼすことを確認　　:日本経済新聞
+2018/10/15 17:05
+
+https://www.nikkei.com/article/DGXLRSP474776_Z10C18A3000000/
+タカナシ乳業、プロバイオティクス乳酸菌の摂取が健常成人の腸内細菌叢に影響を及ぼし肌の状態を改善させることを確認　　:日本経済新聞
+2018/3/19 17:40
+
+https://www.nejm.jp/abstract/vol379.p2002
+小児の急性胃腸炎に対する Lactobacillus rhamnosus GG とプラセボとの比較 ｜ 日本語アブストラクト ｜ The New England Journal of Medicine（日本国内版）
+結　論
+急性胃腸炎の就学前児のうち，L. rhamnosus GG 5 日間コースを受けた児では，プラセボ投与を受けた児と比較して良好な転帰は得られなかった．
+英文アブストラクト （ N Engl J Med 2018; 379 : 2002 - 14. ）
+
 ----------
 ## allergy
 アレルギー
@@ -137,73 +253,6 @@ https://www.rikelab.jp/entertainment/3831
 https://twitter.com/sai_path/status/1042333855120850944
 Dr. Sai Pathmanathan on Twitter: "Agar Art. https://t.co/SAUboNq0Ap #hokusai #wave https://t.co/eoRX4TlfEb"
 5:45 PM · Sep 19, 2018
-
-
-
-----------
-## meeting
-
-https://twitter.com/NatureRevMicro/status/1110131599088209920
-Have you planned your conference season yet? Check out our list of microbiology conferences https://www.nature.com/nrmicro/about/conferences … and let us know if you know about an interesting meeting that we've missed!
-6:49 AM - 25 Mar 2019
-
-
-https://isme17.isme-microbes.org/abstracts
-ISME
-It is no longer possible to submit an abstract for the consideration of inclusion in the ISME17 Program.
-The deadline for submitting an abstract for the consideration of an oral presentation was 30 March, whereas the system was open for poster submissions until 25 May.  
- 
-https://www.isme-microbes.org/events-microbial-ecology
-Events in Microbial Ecology | ISME
-
-----------
-## featuring
-
-
-https://ja.wikipedia.org/wiki/感染症の歴史
-https://ja.wikipedia.org/wiki/パンデミック
-
-
-https://ja.wikipedia.org/wiki/メアリー・マローン
-メアリー・マローン（Mary Mallon、1869年9月23日 - 1938年11月11日）は、世界で初めて臨床報告されたチフス菌(Salmonella enterica serovar Typhi)の健康保菌者（発病はしないが病原体に感染している不顕性感染となり感染源となる人）。
-
-掲載日：2018年3月23日
-https://www.iph.osaka.jp/s012/050/010/030/040/20180323143032.html
-ミクロの微生物をその場で「見る」《どこでも誰でもできる微生物検査法の研究開発》｜大阪健康安全基盤研究所
-また、納豆やキムチなど各地固有の発酵食品を作り出し、食文化の一翼を担っています。
-また、グローバルな交通の発展により、多くの人と物資が世界中を移動しており、輸入感染症の拡大が懸念されています。
-
-
-https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_article/-char/ja/
-特集1　カルタヘナ議定書にある「生物の多様性の保全及び持続可能な利用への影響」はどのように評価できるのか？
-細菌群集多様性の動態を生態系評価にいかにとりこむか
-横川 太一
-2016 年 66 巻 2 号 p. 301-308
-https://www.jstage.jst.go.jp/article/seitai/66/2/66_301/_pdf
-
-https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
-An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
-
-
-https://twitter.com/hashtag/微生物トリビア
-
-https://twitter.com/copypasteusa/status/503233698817249280
-ヒトの腸内には100兆個の腸内細菌が存在。ヒトの細胞数は37兆個。ただし細菌の細胞は、ヒトの細胞に比べてはるかに小さい http://ja.wikipedia.org/wiki/%e8%85%b8%e5%86%85%e7%b4%b0%e8%8f%8c … #微生物トリビア
-1:33 PM - 23 Aug 2014
-
-https://twitter.com/copypasteusa/status/501077800431149056
-ミディクロリアはミトコンドリアに細胞内共生するリケッチア。マダニの卵巣に見出される。映画スター・ウォーズに登場しフォースに寄与する共生微生物ミディ＝クロリアンに因んでおり、監督ジョージ・ルーカスの公認を得て命名 #微生物トリビア
-http://ja.wikipedia.org/wiki/%e3%83%9f%e3%83%87%e3%82%a3%e3%82%af%e3%83%ad%e3%83%aa%e3%82%a2 …
-2:47 PM - 17 Aug 2014
-
-2011年11月9日
-https://togetter.com/li/212068
-まとめ　#微生物トリビア - Togetter
-
-----------
-
-https://adgang.jp/2014/10/77120.html
-オランダに新設した微生物の博物館「Micropia」　微生物たちのミクロの世界を覗いてみませんか？ | AdGang
 
 
 ----------
