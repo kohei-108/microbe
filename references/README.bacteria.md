@@ -766,8 +766,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/27940542
 Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
 Arsenic Detoxification by Geobacter Species.
 Dang Y1,2, Walker DJ1, Vautour KE1, Dixon S3, Holmes DE4,3.
-- Analysis of 14 different Geobacter genomes showed that all of these species have genes coding for an arsenic detoxification system (ars operon), and several have genes required for arsenic respiration (arr operon) and methylation (arsM). Genes encoding four arsenic repressor-like proteins were detected in the genome of G. sulfurreducens; however, only one (ArsR1) regulated transcription of the ars operon. Elimination of arsR1 from the G. sulfurreducens chromosome resulted in enhanced transcription of genes coding for the arsenic efflux pump (Acr3) and arsenate reductase (ArsC). 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5288829/
+- Analysis of 14 different Geobacter genomes showed that all of these species have genes coding for an arsenic detoxification system (ars operon), and several have genes required for arsenic respiration (arr operon) and methylation (arsM). Genes encoding four arsenic repressor-like proteins were detected in the genome of G. sulfurreducens; however, only one (ArsR1) regulated transcription of the ars operon. Elimination of arsR1 from the G. sulfurreducens chromosome resulted in enhanced transcription of genes coding for the arsenic efflux pump (Acr3) and arsenate reductase (ArsC).
 - Some bacteria are able to methylate arsenic with S-adenosyl-l-methionine-dependent methyltransferase (ArsM), forming volatile methylarsines, which removes arsenic from the immediate environment by converting it into a gaseous compound (6). Other prokaryotes utilize arr and/or ars arsenic transformation systems. While both systems involve reduction of arsenate,
 - Arsenic detoxification machinery in Geobacter.
 All of the Geobacter genomes available to date have the arsenic detoxification machinery (ars genes), whereas only a few Geobacter species have genes required for arsenite methylation (arsM) and arsenate respiration (arr genes) (Table 1).
@@ -2172,6 +2172,11 @@ Candidatus Caedibacter acanthamoebae
 - https://en.wikipedia.org/wiki/Holosporaceae
 - https://ja.wikipedia.org/wiki/ホロスポラ属
 
+https://www.ncbi.nlm.nih.gov/pubmed/30627761
+Microb Ecol. 2019 May;77(4):1092-1106. doi: 10.1007/s00248-018-1311-0. Epub 2019 Jan 9.
+"Candidatus Hafkinia simulans" gen. nov., sp. nov., a Novel Holospora-Like Bacterium from the Macronucleus of the Rare Brackish Water Ciliate Frontonia salmastra (Oligohymenophorea, Ciliophora): Multidisciplinary Characterization of the New Endosymbiont and Its Host.
+Fokin SI1,2,3, Serra V4, Ferrantini F5, Modeo L5, Petroni G5.
+
 https://www.ncbi.nlm.nih.gov/pubmed/30124811
 FEMS Microbiol Ecol. 2018 Nov 1;94(11). doi: 10.1093/femsec/fiy162.
 Identification of novel Legionella genes required for endosymbiosis in Paramecium based on comparative genome analysis with Holospora spp.
@@ -2254,6 +2259,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068243/
 A circular argument ensues where eukaryotic genome sequencing projects remove all bacterial sequences because animals do not have HGT from bacteria, and examination of those same genomes for HGT reinforces the notion that HGT from bacteria to animals does not occur. Resources like the Sequence Read Archive and Trace Archive offer opportunities for assembly-independent analyses, but only when the raw experimental data is deposited before “contaminant” removal.
 - Hopefully, the promises of third generation single molecule sequencing will yield a more diverse sampling of vertebrate genomes, facilitate the differentiation of contaminants from HGT, and improve our understanding of the extent of HGT events in a wide array of diverse organisms.
 
+https://twitter.com/Symbionticism/status/1171814144858841089
+Seth Bordenstein on Twitter: "Just out yesterday. Phage WO gene wmk recapitulates aspects of Wolbachia male killing and is a hop, skip, &amp; jump from the cif genes. @JIPerlmutter @srbordenstein @lepage_d @JMetcalfUM @RobUnckless et al. cover it here https://t.co/Z07lcdHSXs @VI4Research @EvolutionVU @VuBiome"
+12:53 AM · Sep 12, 2019
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007936
+The phage gene wmk is a candidate for male killing by a bacterial endosymbiont
+
 2019
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
 Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
@@ -2310,6 +2321,11 @@ https://www.ncbi.nlm.nih.gov/pubmed/27194801
 G3 (Bethesda). 2016 Jul 7;6(7):2113-23. doi: 10.1534/g3.116.028449.
 Comparative Genomics of a Parthenogenesis-Inducing Wolbachia Symbiont.
 Lindsey AR1, Werren JH2, Richards S3, Stouthamer R4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4938664/
+parthenogenesis-inducing (PI) Wolbachia 
+PI-Wolbachia 
+Figure 1
+Phylogenetic relationships of Wolbachia. (A) Phylogeny inferred with RAxML from a nucleotide supermatrix of the five Wolbachia MLST (multi locus sequence typing) genes using 1000 bootstrap replicates. Supergroups are shown in colored boxes, and labeled in the top right corner of each box. Symbols next to taxa denote Wolbachia host and phenotypes. Colors at nodes indicate bootstrap values. Anaplasma marginale str. Florida “Ama” is the outgroup. 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27189996
 Genome Biol Evol. 2016 Jun 3;8(5):1526-42. doi: 10.1093/gbe/evw096.
