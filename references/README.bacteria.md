@@ -2172,6 +2172,7 @@ Candidatus Caedibacter acanthamoebae
 - https://en.wikipedia.org/wiki/Holosporaceae
 - https://ja.wikipedia.org/wiki/ホロスポラ属
 
+
 https://www.ncbi.nlm.nih.gov/pubmed/30627761
 Microb Ecol. 2019 May;77(4):1092-1106. doi: 10.1007/s00248-018-1311-0. Epub 2019 Jan 9.
 "Candidatus Hafkinia simulans" gen. nov., sp. nov., a Novel Holospora-Like Bacterium from the Macronucleus of the Rare Brackish Water Ciliate Frontonia salmastra (Oligohymenophorea, Ciliophora): Multidisciplinary Characterization of the New Endosymbiont and Its Host.
@@ -2187,6 +2188,32 @@ Front Microbiol. 2018 Apr 16;9:738. doi: 10.3389/fmicb.2018.00738. eCollection 2
 Comparative Genomic Analysis of Holospora spp., Intranuclear Symbionts of Paramecia.
 Garushyants SK1,2, Beliavskaia AY3,4, Malko DB5, Logacheva MD1,6, Rautian MS4, Gelfand MS1,2,5,7.
 the newly sequenced genome of Holospora curviuscula, a macronuclear symbiont of Paramecium bursaria, 
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/30208886
+Respir Res. 2018 Sep 12;19(1):174. doi: 10.1186/s12931-018-0878-9.
+Smoking is associated with quantifiable differences in the human lung DNA virome and metabolome.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6136173/
+Some rare viral populations were unique to smoker or nonsmoker total viral communities (Additional file 5: Figure S4). For example, Actinomyces, Capnocytophaga, Haemophilus and Rhodoferax phages were found only in smokers, and Enhydrobacter, Enterobacter, Holospora, Morganella, and Spiroplasma phages were found only in nonsmokers. Eukaryotic DNA viruses were only found in the lungs of smokers (Additional file 5: Figure S4).
+
+
+https://www.msz.co.jp/book/detail/08767.html
+これからの微生物学
+マイクロバイオータからCRISPRへ
+p.109:
+「ホロスポラ属菌」
+「また、節足動物、海洋無脊椎動物、あるいは哺乳類にも見られる。」
+
+https://www.ncbi.nlm.nih.gov/pubmed/25680230
+Trends Cell Biol. 2015 Jun;25(6):339-46. doi: 10.1016/j.tcb.2015.01.002. Epub 2015 Feb 10.
+Intranuclear bacteria: inside the cellular control center of eukaryotes.
+Schulz F1, Horn M2.
+https://www.sciencedirect.com/science/article/pii/S0962892415000136?via%3Dihub
+- Phylogenetically diverse intranuclear bacteria have been discovered in various protist, arthropod, marine invertebrate, and mammalian hosts. 
+- Intranuclear bacteria in protozoa
+The majority of known intranuclear bacteria are associated with protists (Figure 1). One of the most thoroughly studied and best-understood intranuclear bacteria are Holospora spp., which infect paramecia and are affiliated with rickettsiae (Alphaproteobacteria). 
+- Nevertheless, an important first step towards deciphering the molecular basis of the intranuclear life style was the recent sequencing of the genomes of three Holospora spp. [78].
 
 https://www.ncbi.nlm.nih.gov/pubmed/25115770
 FEMS Microbiol Lett. 2014 Oct;359(1):16-8.
@@ -2258,6 +2285,41 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068243/
 - Box 4Problems identifying bacteria-to-animal HGT in existing genome data
 A circular argument ensues where eukaryotic genome sequencing projects remove all bacterial sequences because animals do not have HGT from bacteria, and examination of those same genomes for HGT reinforces the notion that HGT from bacteria to animals does not occur. Resources like the Sequence Read Archive and Trace Archive offer opportunities for assembly-independent analyses, but only when the raw experimental data is deposited before “contaminant” removal.
 - Hopefully, the promises of third generation single molecule sequencing will yield a more diverse sampling of vertebrate genomes, facilitate the differentiation of contaminants from HGT, and improve our understanding of the extent of HGT events in a wide array of diverse organisms.
+
+
+
+https://en.wikipedia.org/wiki/Wolbachia#Horizontal_gene_transfer
+Horizontal gene transfer
+Wolbachia species also harbor a bacteriophage called bacteriophage WO or phage WO.[43] Comparative sequence analyses of bacteriophage WO offer some of the most compelling examples of large-scale horizontal gene transfer between Wolbachia coinfections in the same host.[44] It is the first bacteriophage implicated in frequent lateral transfer between the genomes of bacterial endosymbionts. Gene transfer by bacteriophages could drive significant evolutionary change in the genomes of intracellular bacteria that were previously considered highly stable or prone to loss of genes over time.[44]
+
+https://en.wikipedia.org/wiki/WO_virus
+
+https://www.ncbi.nlm.nih.gov/pubmed/27727237
+Nat Commun. 2016 Oct 11;7:13155. doi: 10.1038/ncomms13155.
+Eukaryotic association module in phage WO genomes from Wolbachia.
+Bordenstein SR1, Bordenstein SR1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062602/
+- However, the presence of bacteriophages in obligate intracellular bacteria of eukaryotes may promote DNA transfers between eukaryotes and bacteriophages.
+- To the best of our knowledge, these eukaryotic-like domains have never before been reported in packaged bacteriophages and their phylogeny, distribution and sequence diversity imply lateral transfers between bacteriophage/prophage and animal genomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29686091
+Proc Natl Acad Sci U S A. 2018 May 8;115(19):4987-4991. doi: 10.1073/pnas.1800650115. Epub 2018 Apr 23.
+One prophage WO gene rescues cytoplasmic incompatibility in Drosophila melanogaster.
+Shropshire JD1, On J2, Layton EM2, Zhou H2, Bordenstein SR1,3,4,5.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27965627
+Front Microbiol. 2016 Nov 29;7:1867. eCollection 2016.
+Bacteriophage WO Can Mediate Horizontal Gene Transfer in Endosymbiotic Wolbachia Genomes.
+Wang GH1, Sun BF2, Xiong TL1, Wang YK3, Murfin KE4, Xiao JH5, Huang DW6.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19154594
+BMC Genomics. 2009 Jan 20;10:33. doi: 10.1186/1471-2164-10-33.
+Horizontal gene transfer between Wolbachia and the mosquito Aedes aegypti.
+Klasson L1, Kambris Z, Cook PE, Walker T, Sinkins SP.
+
+
+
+
 
 https://twitter.com/Symbionticism/status/1171814144858841089
 Seth Bordenstein on Twitter: "Just out yesterday. Phage WO gene wmk recapitulates aspects of Wolbachia male killing and is a hop, skip, &amp; jump from the cif genes. @JIPerlmutter @srbordenstein @lepage_d @JMetcalfUM @RobUnckless et al. cover it here https://t.co/Z07lcdHSXs @VI4Research @EvolutionVU @VuBiome"
