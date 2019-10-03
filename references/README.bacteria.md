@@ -37,6 +37,7 @@ Last Update: 2019-08
 - [mitochondria](#mitochondria) 
 - [Rickettsiales](#rickettsiales) リケッチア目
 - [Holospora](#holospora) ホロスポラ属
+- [Legionella](#legionella) レジオネラ
 - [Wolbachia](#wolbachia) ボルバキア
 - [people](#people)
   - [amachi](#amachi) Amachi Seigo
@@ -2243,6 +2244,21 @@ http://www.lc.shizuoka.ac.jp/pdf/baio30doura.pdf
 ゾウリムシ共生系における分子基盤の解明及び
 新規共生系の構築とその利用 
 図. ホロスポラ・オブツサの感染過程
+
+----------
+## Legionella
+
+https://www.ncbi.nlm.nih.gov/pubmed/22047552
+BMC Genomics. 2011 Nov 2;12:542. doi: 10.1186/1471-2164-12-542.
+Insight into cross-talk between intra-amoebal pathogens.
+Gimenez G1, Bertelli C, Moliner C, Robert C, Raoult D, Fournier PE, Greub G.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3220658/
+- The phylogenetic analysis identified 9 cases of potential gene transfer between P. acanthamoebae or L. drancourtii and Rickettsia, Orientia, Wolbachia and Ehrlichia (Additional file 12, Figure S4). 
+- In our study, several phylogenies indicated possible HGTs between amoeba-associated bacteria (Legionella and Parachlamydia) and arthropod-associated bacteria, such as Rickettsia, Orientia, Wolbachia, and Ehrlichia. 
+- Figure 3
+The ABC transporter operon. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3220658/figure/F3/
+All of the proteins encoded for in the operon exhibit a similar phylogenetic tree, which shows a clustering of P. acanthamoebae and L. drancourtii, thereby supporting the hypothesis of a single transfer event for all four genes.
 
 ----------
 ## Wolbachia
