@@ -2299,6 +2299,17 @@ Wolbachia species also harbor a bacteriophage called bacteriophage WO or phage W
 
 https://en.wikipedia.org/wiki/WO_virus
 
+ファージ遺伝子wmkは、オス殺しの候補
+https://twitter.com/Symbionticism/status/1171814144858841089
+Seth Bordenstein on Twitter: "Just out yesterday. Phage WO gene wmk recapitulates aspects of Wolbachia male killing and is a hop, skip, &amp; jump from the cif genes. @JIPerlmutter @srbordenstein @lepage_d @JMetcalfUM @RobUnckless et al. cover it here https://t.co/Z07lcdHSXs @VI4Research @EvolutionVU @VuBiome"
+12:53 AM · Sep 12, 2019
+https://www.ncbi.nlm.nih.gov/pubmed/31504075
+PLoS Pathog. 2019 Sep 10;15(9):e1007936. doi: 10.1371/journal.ppat.1007936. eCollection 2019 Sep.
+The phage gene wmk is a candidate for male killing by a bacterial endosymbiont.
+Perlmutter JI1,2, Bordenstein SR1,2, Unckless RL3, LePage DP1, Metcalf JA1,4, Hill T3, Martinez J5, Jiggins FM5, Bordenstein SR1,2,6,7.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6736233/
+, we identify a candidate gene in the eukaryotic association module of Wolbachia prophage WO, termed WO-mediated killing (wmk), 
+
 https://www.ncbi.nlm.nih.gov/pubmed/29686091
 Proc Natl Acad Sci U S A. 2018 May 8;115(19):4987-4991. doi: 10.1073/pnas.1800650115. Epub 2018 Apr 23.
 One prophage WO gene rescues cytoplasmic incompatibility in Drosophila melanogaster.
@@ -2327,16 +2338,16 @@ Horizontal gene transfer between Wolbachia and the mosquito Aedes aegypti.
 Klasson L1, Kambris Z, Cook PE, Walker T, Sinkins SP.
 
 
+https://www.ncbi.nlm.nih.gov/pubmed/30727958
+BMC Genomics. 2019 Feb 6;20(1):106. doi: 10.1186/s12864-019-5492-9.
+Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model.
+Kampfraath AA1, Klasson L2, Anvar SY3,4, Vossen RHAM4, Roelofs D5, Kraaijeveld K5, Ellers J5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6364476/
+Within wFol, we found five phage WO regions representing 25.4% of the complete genome, few pseudogenized genes, and an expansion of DNA-repair genes in comparison to other Wolbachia. These signs of genome conservation were mirrored in the wFol host, the springtail F. candida, which also had an expanded DNA-repair gene family and many horizontally transferred genes. 
 
-https://twitter.com/Symbionticism/status/1171814144858841089
-Seth Bordenstein on Twitter: "Just out yesterday. Phage WO gene wmk recapitulates aspects of Wolbachia male killing and is a hop, skip, &amp; jump from the cif genes. @JIPerlmutter @srbordenstein @lepage_d @JMetcalfUM @RobUnckless et al. cover it here https://t.co/Z07lcdHSXs @VI4Research @EvolutionVU @VuBiome"
-12:53 AM · Sep 12, 2019
-https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007936
-The phage gene wmk is a candidate for male killing by a bacterial endosymbiont
-
-2019
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5492-9
-Genome expansion of an obligate parthenogenesis-associated Wolbachia poses an exception to the symbiont reduction model | BMC Genomics | Full Text
+https://twitter.com/Daphnia_t_ponyo/status/1075403162817687552
+ミクロ・コスモス on Twitter: "【共生細菌が産生するオス殺しの毒素】 ボルバキアなど一部の節足動物の共生細菌は感染宿主がオスだった場合"オス殺し"を行うことが知られていますがその分子基盤は半世紀もの間なぞでした しかし共生細菌がコードするオス殺しの遺伝子がついに発見されたようです https://t.co/Igom7oMyyI"
+9:51 AM - 19 Dec 2018
 
 https://www.ncbi.nlm.nih.gov/pubmed/30202647
 PeerJ. 2018 Sep 3;6:e5486. doi: 10.7717/peerj.5486. eCollection 2018.
@@ -2347,10 +2358,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126470/
 - Meta-analysis indicates that the infection distribution in the total number of species may be closer to 66% (Hilgenboecker et al., 2008).
 - A metagenomics-based approach can also be useful for characterizing microbiomes, including looking for Wolbachia and other symbionts (e.g. Dittmer & Bouchon, 2018), 
 
-
-https://twitter.com/Daphnia_t_ponyo/status/1075403162817687552
-ミクロ・コスモス on Twitter: "【共生細菌が産生するオス殺しの毒素】 ボルバキアなど一部の節足動物の共生細菌は感染宿主がオスだった場合"オス殺し"を行うことが知られていますがその分子基盤は半世紀もの間なぞでした しかし共生細菌がコードするオス殺しの遺伝子がついに発見されたようです https://t.co/Igom7oMyyI"
-9:51 AM - 19 Dec 2018
 
 02 May 2018
 https://www.nature.com/articles/s41586-018-0086-2
@@ -2368,7 +2375,7 @@ Mosquitoes Might SAVE Lives, Thanks To Bacteria | I Contain Multitudes - YouTube
 http://www.kashiwashobo.co.jp/book/b286870.html
 世界は細菌にあふれ、人は細菌によって生かされる
 
-2017年3月9日 
+2017年3月9日
 https://www.natureasia.com/ja-jp/nature/highlights/83856
 微生物学： ボルバキア菌による昆虫の生存操作
 
