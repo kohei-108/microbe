@@ -50,10 +50,9 @@ https://ja.unionpedia.org/i/真正細菌
 
 https://ja.wikipedia.org/wiki/CPR群
 CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培養例が皆無で記載種を一切含まないが、全細菌の少なくとも15%、もしくはそれ以上を占めると推定されている[1]。
-
 系統樹からは大古代の分岐と推定され、ほかの全ての細菌と姉妹群を形成する。
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png/220px-A_Novel_Representation_Of_The_Tree_Of_Life.png)
+![https://en.wikipedia.org/wiki/Tree_of_life_(biology)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png/220px-A_Novel_Representation_Of_The_Tree_Of_Life.png)
 
 ----------
 ### Geobacter_Shewanella
@@ -2418,8 +2417,6 @@ http://www.nikkei-science.com/201509_046.html
 デング熱ストッパー | 日経サイエンス　
 自然界によく見られる細菌の助けを借りて，蚊によるデング熱の媒介を阻止する試みが始まっている。
 
-![](http://www.nikkei-science.com/wp-content/uploads/2015/07/97dcb51ba1ce46920d90238bf2990859.jpg)
-
 https://www.a.u-tokyo.ac.jp/topics/2015/20150715-1.html
 共生細菌ヴォルバキアの「オス殺し」は宿主昆虫のオス化因子の発現を抑制することで達成される
 勝間准教授のグループは、2014年にカイコにおいて雄化と遺伝子量補償を担う分子としてMasc遺伝子を同定しています（http://www.a.u-tokyo.ac.jp/topics/2014/20140515-1.html）。RNA干渉法によってカイコのオス胚子でMasc mRNA量を低下させると、性分化のマーカーであるdoublesex (dsx)のスプライシングがメス型になり、遺伝子量補償が破綻することで胚致死してしまいます。このカイコにおける実験ではメスは胚致死しないことから、人為的に「オス殺し」現象を再現できたと言えます。そこで、ヴォルバキアによる「オス殺し」のターゲットがMascまたはその下流の因子であると仮定し、本研究を開始しました。
@@ -2441,9 +2438,6 @@ https://www.jstage.jst.go.jp/article/konchubiotec/83/3/83_3_243/_pdf
 
 http://www.aist.go.jp/aist_j/press_release/pr2014/pr20140701/pr20140701.html
 産総研：トコジラミの生存を支える共生細菌ボルバキアのビタミンB7合成能力
-
-![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig1.jpg)
-![](https://www.aist.go.jp/Portals/0/resource_images/aist_j/press_release/pr2014/pr20140701/fig2.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/23593012
 PLoS Genet. 2013 Apr;9(4):e1003381. doi: 10.1371/journal.pgen.1003381. Epub 2013 Apr 4.
