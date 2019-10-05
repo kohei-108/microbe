@@ -828,7 +828,6 @@ Butler JE1, Young ND, Lovley DR.
 https://link.springer.com/article/10.1186/1471-2164-10-103
 Figure 1
 Genome-based Geobacteraceae phylogeny. Bayesian inference of the phylogenetic tree of the six Geobacteraceae species discussed in the text, using another Deltaproteobacterial species, Anaeromyxobacter dehalogenans, as the outgroup. The tree was based on a concatenation of the proteins in the 481 families that had exactly one ortholog conserved in each of the seven genomes (see Additional file 6). Values at branch points are posterior probabilities.
-![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F1471-2164-10-103/MediaObjects/12864_2008_Article_1987_Fig1_HTML.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/15388715
 Int J Syst Evol Microbiol. 2004 Sep;54(Pt 5):1591-9.
@@ -837,7 +836,6 @@ Holmes DE1, Nevin KP, Lovley DR.
 https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02958-0#tab2
 Fig. 1.
 Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
-![](https://www.microbiologyresearch.org/docserver/ahah/fulltext/ijsem/54/5/IJE45259-1_thmb.gif)
 
 ### Geobacter_codon_usage
 コドン使用
@@ -884,7 +882,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/
 Figure 1
 Genome-based Geobacter phylogeny.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2825233/bin/1471-2164-11-40-1.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/18844997
 BMC Genomics. 2008 Oct 9;9:471. doi: 10.1186/1471-2164-9-471.
@@ -1912,18 +1909,12 @@ Multilocus sequence analysis of Ensifer and related taxa.
 Martens M1, Delaere M, Coopman R, De Vos P, Gillis M, Willems A.
 http://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64344-0#tab2
 In this study we used Sinorhizobium (now renamed Ensifer, see below) as a model system to assess the use of MLSA for taxonomic purposes. This genus contains eleven species, most of which have been described in polyphasic studies: Sinorhizobium fredii, Sinorhizobium xinjiangense ( Chen et al., 1988 ), Sinorhizobium meliloti, Sinorhizobium saheli, Sinorhizobium terangae ( de Lajudie et al., 1994 ), Sinorhizobium medicae ( Rome et al., 1996 ), Sinorhizobium arboris, Sinorhizobium kostiense ( Nick et al., 1999 ), Sinorhizobium kummerowiae ( Wei et al., 2002 ), ‘ Sinorhizobium morelense’ ( Wang et al., 2002 ) and Sinorhizobium americanum ( Toledo et al., 2003 ). From 16S rRNA gene comparisons, it is apparent that the monotypic genus Ensifer is highly related to Sinorhizobium ( Balkwill, 2005 ). This organism comprises predatory soil bacteria that were originally described in a separate genus as Ensifer adhaerens, based mainly on morphological and phenotypic characteristics ( Casida, 1982 ). Phylogenetic analyses of 16S rRNA and recA genes ( Balkwill, 2005 ; Willems et al., 2003 ) indicate that Ensifer forms a well-supported cluster together with Sinorhizobium. 
-
-Fig. 2.
+- Fig. 2.
 Phylogenetic trees based on six genes calculated using the ML method. 
-![http://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.64344-0.F2](http://ijs.microbiologyresearch.org/docserver/fulltext/ijsem/57/3/489fig2.gif)
-
-Fig. 3.
-Phylogenetic trees based on concatenated sequences of dnaK, glnA and thrC, calculated using NJ, MP and ML. 
-![http://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.64344-0.F3](http://ijs.microbiologyresearch.org/docserver/fulltext/ijsem/57/3/489fig3.gif)
-
-Fig. 4.
+- Fig. 3.
+Phylogenetic trees based on concatenated sequences of dnaK, glnA and thrC, calculated using NJ, MP and ML.
+- Fig. 4.
 Phylogenetic trees based on concatenated sequences of dnaK, glnA and thrC, gltA, recA and 16S rRNA genes calculated using NJ, MP and ML.
-![http://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.64344-0.F4](http://ijs.microbiologyresearch.org/docserver/fulltext/ijsem/57/3/489fig4.gif)
 
 https://www.ncbi.nlm.nih.gov/pubmed/19120461
 FEMS Microbiol Ecol. 2009 Jan;67(1):103-17. doi: 10.1111/j.1574-6941.2008.00590.x.
@@ -1995,8 +1986,6 @@ Neighbor-joining tree based on concatenated sequences for 645 protein coding gen
 
 the outgroup (Rhizobium leguminosarum bv. trifolii WSM1325).
 The tree was rooted by treating the R. leguminosarum strain as an outgroup
-
-![https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053727/figure/F1/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053727/bin/gb-2013-14-2-r17-1.jpg)
 
 - プラスミド
 Nucleic Acids Res. 2008 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/ "For example, Sinorhizobium meliloti megaplasmid pSymB (1 683 333 bp) is not self-transmissible, and has not been successfully cured from S. meliloti (51). It has been suggested that pSymB has acquired genes essential to the host's viability and that its genomic signature became similar to that of the main chromosome due to long-term residence in that host (20)."
