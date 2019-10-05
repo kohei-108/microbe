@@ -2278,6 +2278,8 @@ Irene Newton
 - https://twitter.com/WolbachiaProj
 WolbachiaProject
 
+### Wolbachia HGT
+
 https://www.maruzen-publishing.co.jp/item/?book_no=303272
 突然変異主導進化論
 https://www.maruzen-publishing.co.jp/fixed/files/pdf/303272/index_pdf_303272.pdf
@@ -2303,20 +2305,11 @@ A circular argument ensues where eukaryotic genome sequencing projects remove al
 - Hopefully, the promises of third generation single molecule sequencing will yield a more diverse sampling of vertebrate genomes, facilitate the differentiation of contaminants from HGT, and improve our understanding of the extent of HGT events in a wide array of diverse organisms.
 
 
-
 https://en.wikipedia.org/wiki/Wolbachia#Horizontal_gene_transfer
 Horizontal gene transfer
 Wolbachia species also harbor a bacteriophage called bacteriophage WO or phage WO.[43] Comparative sequence analyses of bacteriophage WO offer some of the most compelling examples of large-scale horizontal gene transfer between Wolbachia coinfections in the same host.[44] It is the first bacteriophage implicated in frequent lateral transfer between the genomes of bacterial endosymbionts. Gene transfer by bacteriophages could drive significant evolutionary change in the genomes of intracellular bacteria that were previously considered highly stable or prone to loss of genes over time.[44]
 
 https://en.wikipedia.org/wiki/WO_virus
-
-https://www.ncbi.nlm.nih.gov/pubmed/27727237
-Nat Commun. 2016 Oct 11;7:13155. doi: 10.1038/ncomms13155.
-Eukaryotic association module in phage WO genomes from Wolbachia.
-Bordenstein SR1, Bordenstein SR1,2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062602/
-- However, the presence of bacteriophages in obligate intracellular bacteria of eukaryotes may promote DNA transfers between eukaryotes and bacteriophages.
-- To the best of our knowledge, these eukaryotic-like domains have never before been reported in packaged bacteriophages and their phylogeny, distribution and sequence diversity imply lateral transfers between bacteriophage/prophage and animal genomes.
 
 https://www.ncbi.nlm.nih.gov/pubmed/29686091
 Proc Natl Acad Sci U S A. 2018 May 8;115(19):4987-4991. doi: 10.1073/pnas.1800650115. Epub 2018 Apr 23.
@@ -2327,13 +2320,23 @@ https://www.ncbi.nlm.nih.gov/pubmed/27965627
 Front Microbiol. 2016 Nov 29;7:1867. eCollection 2016.
 Bacteriophage WO Can Mediate Horizontal Gene Transfer in Endosymbiotic Wolbachia Genomes.
 Wang GH1, Sun BF2, Xiong TL1, Wang YK3, Murfin KE4, Xiao JH5, Huang DW6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126046/
+- , we utilized bioinformatic, phylogenetic, and molecular analyses based on all sequenced Wolbachia and phage WO genomes. Our results show that the phage WO can mediate HGT between Wolbachia strains, regardless of whether the transferred genes originate from Wolbachia or other unrelated bacteria.
+- Figure 6
+A conserved bacterial region associated with phage WO, Wolbachia strains, and Rickettsia plasmid. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/27727237
+Nat Commun. 2016 Oct 11;7:13155. doi: 10.1038/ncomms13155.
+Eukaryotic association module in phage WO genomes from Wolbachia.
+Bordenstein SR1, Bordenstein SR1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062602/
+- However, the presence of bacteriophages in obligate intracellular bacteria of eukaryotes may promote DNA transfers between eukaryotes and bacteriophages.
+- To the best of our knowledge, these eukaryotic-like domains have never before been reported in packaged bacteriophages and their phylogeny, distribution and sequence diversity imply lateral transfers between bacteriophage/prophage and animal genomes.
 
 https://www.ncbi.nlm.nih.gov/pubmed/19154594
 BMC Genomics. 2009 Jan 20;10:33. doi: 10.1186/1471-2164-10-33.
 Horizontal gene transfer between Wolbachia and the mosquito Aedes aegypti.
 Klasson L1, Kambris Z, Cook PE, Walker T, Sinkins SP.
-
-
 
 
 
@@ -2461,6 +2464,7 @@ http://www.natureasia.com/ja-jp/reviews/highlight/10933
 http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 細菌が操る性転換 | 日経サイエンス　
 昆虫などに広く寄生するボルバキア属の細菌は，寄生した相手を雄から雌に性転換させたり雄になる卵を殺したりする。また寄生相手の交配を妨害することさえある。
+
 
 ----------
 ## people
