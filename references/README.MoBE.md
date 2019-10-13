@@ -116,6 +116,13 @@ Roxana Hickey on Twitter: "Collecting swabs along with my @phylagen colleagues f
 ----------
 ## epidemi
 
+https://www.ncbi.nlm.nih.gov/pubmed/28912233
+Science. 2017 Sep 15;357(6356):1099-1100. doi: 10.1126/science.aao3007.
+Microbial mass movements.
+Zhu YG1, Gillings M2, Simonet P3, Stekel D4, Banwart S5, Penuelas J6,7.
+
+
+
 https://twitter.com/JClinMicro/status/1171021712357515264
 JClinMicro EIC on Twitter: "Metagenomic Next-Generation Sequencing of the 2014 Ebola Virus Disease Outbreak in the Democratic Republic of the Congo https://t.co/yT8v3ZZWLR @ASMicrobiology #ASMClinMicro https://t.co/6ghIbBsX4h"
 8:25 PM · Sep 9, 2019
@@ -1228,7 +1235,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/30127345
 Nat Rev Microbiol. 2018 Nov;16(11):661-670. doi: 10.1038/s41579-018-0065-5.
 Microbiology of the built environment.
 Gilbert JA1,2, Stephens B3.
-https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5389-z
+http://built-envi.com/wp-content/uploads/gilbert-and-stephens-2018-nature-reviews-microbiology-MoBE.pdf
+
 
 https://twitter.com/copypasteusa/status/1135022062198673408
 #MoBE #microBEnet
