@@ -556,6 +556,11 @@ Published on Aug 25, 2014
 ## hospital
 病院
 
+2019年10月3日 
+https://www.natureasia.com/ja-jp/nature/574/7776/s41586-019-1560-1
+帝王切開分娩における微生物相の発達不全および日和見病原体の定着 | 
+帝王切開による分娩児では、母親からのバクテロイデス属（Bacteroides）の株の伝播がほとんどなく、病院の環境に関連する日和見病原体［エンテロコッカス属（Enterococcus）、エンテロバクター属（Enterobacter）、クレブシエラ属（Klebsiella）の種など］が高レベルで定着していることを報告する。
+
 MetaMED
 https://twitter.com/goyoiraola/status/1144389104374833152
 Gregorio Iraola on Twitter: "Today was #WorldMicrobiomDay and we couldn’t stay calm! Members of @IraolaLab doing some massive swabbing of a surgeon room in Montevideo! @IPMontevideo @metasub https://t.co/3BfyswJtVp"
