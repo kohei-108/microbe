@@ -10,9 +10,6 @@
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
-- [ANI](#ani) Average Nucleotide Identity
-- [species](#species)
-- [taxonomy](#taxonomy)
 - [prokaryote](#prokaryote)
 - [archaea](#archaea)
 
@@ -53,6 +50,93 @@ https://www.nikkei.com/article/DGXNASGG2301G_T20C12A8000000/
 2012/8/25 7:00
 特殊な環境で育てて消化管に微生物がすみつかないようにした無菌マウス
 （詳細は25日発売の日経サイエンス10月号に掲載）
+
+----------
+## sensor
+
+
+https://www.slsjp.co.jp/microbe-sensor
+微生物センサ | シャープライフサイエンス株式会社
+BM-300Cは、
+カビ菌・細菌の培養不能菌や死菌を含む微生物量を最短10分で計測できます。
+
+2013年9月26日
+https://corporate.jp.sharp/corporate/news/130926-a.html
+空気中を浮遊する微生物の量を“見える化”
+短時間で自動計測する微生物センサを開発、販売 | ニュースリリース：シャープ
+
+http://www.siej.org/event_pdf/62.pdf
+セミナータイトル：
+環境微生物の分析・評価方法の最新情報－ リアルタイム測定からDNA解析まで －
+15:00-15:25 グレードA環境におけるリアルタイム浮遊菌測定 結城貴之 （シャープライフサイエンス㈱、事業開発
+統轄部、商品企画部、課長）
+15:25-15:50 レーザー励起蛍光法によるリアルタイム浮遊菌計
+数器と適用事例
+川越信幸 （ニッタ㈱、クリーンエンジニアリング事業
+部、技術部）
+
+http://www.st.gunma-u.ac.jp/20190404-ees/
+環境創生部門の渡邉教授・窪田助教が西松建設株式会社と共同で、堆積物微生物燃料電池（SMFC）式バイオセンサーを用いた　溶存酸素（DO）濃度連続計測技術を確立しました。 | 群馬大学理工学部
+
+https://twitter.com/keiryoukeisoku/status/1082466398448701440
+計量計測データバンク on Twitter: "〈メトラー･トレド〉プロセス機器｜リアルタイム微生物モニタリングのバグを見逃さない（日本語版）｜https://t.co/UUWTpGvW5L《情報紹介：計量計測データバンク》"
+9:37 PM - 7 Jan 2019
+https://www.mt.com/jp/ja/home/library/white-papers/process-analytics/real-time-microbial-monitoring.html
+リアルタイム微生物モニタリングのバグを見逃さない（日本語版） - メトラー･トレド
+
+https://twitter.com/kakentechno/status/1058310522733350913
+化研テクノ株式会社 on Twitter: "今日は金 キン 菌曜日ヽ(^o^)丿 菌はその場で見る時代！ 飲食店舗や食品工場、飲料・製薬工場の気になるところをスマートフォンやタブレットを使い、リアルタイムに微生物有無のチェックができるアイテム発見！今風ですね～！ デモ機もありまーす！！… https://t.co/4YG4dreZZv"
+6:51 AM - 2 Nov 2018
+https://www.mil-kin.com/
+バクテリアセルフチェッカー mil-kin
+
+人工環境の微生物 Microbiology of the built environment に関する総説でリアルタイム微生物センサー開発の必要性が述べられています。
+https://twitter.com/NatureRevMicro/status/1031916837896957952
+https://www.ncbi.nlm.nih.gov/pubmed/30127345
+https://www.nature.com/articles/s41579-018-0065-5.pdf
+"There is an immediate need for the development of accurate real-time microbial sensors to detect exposures for individuals within the built environment."
+
+2018年4月23日
+https://academist-cf.com/journal/?p=7316
+微生物の生命活動を「金ナノ粒子」を使ってリアルタイムで評価する！ | academist Journal
+
+2018年03月26日
+https://monoist.atmarkit.co.jp/mn/articles/1803/26/news030.html
+屋外でも細菌やウイルスを検出可能な電流計測センサー - MONOist（モノイスト）
+名古屋大学
+
+2018.03.07
+http://www.jst.go.jp/pr/announce/20180307-2/#YOUGO2
+http://www.kyushu-u.ac.jp/ja/researches/view/224
+持ち運び可能な微生物センサーを開発
+名古屋大学大学院工学研究科の馬場　嘉信　教授、
+
+2015年04月24日
+https://ascii.jp/elem/000/001/002/1002865/
+宇宙飛行士の健康を見守るシャープ製微生物センサー
+「ISSは臭い」と表現した宇宙飛行士もいるほど長期間にわたる閉鎖環境、健康維持は重要だ
+
+2014年05月16日
+https://monoist.atmarkit.co.jp/mn/articles/1405/16/news072.html
+BIO tech 2014：「温めると蛍光物質を生成」、シャープが微生物の特質を生かしたセンサーを展示 - MONOist（モノイスト）
+
+http://www.ikedarika.co.jp/catalog/item/2732.html
+微生物センサ　BM-300C
+浮遊菌による汚染リスクを“見える化”
+カビ菌・細菌を最短10分で検知
+
+http://www.kanomax.co.jp/product/index_0139.html
+微生物センサ　BioSentinel　Model 3070
+カビ・細菌を10分で検知
+品質・衛生管理に
+
+https://www.aij.or.jp/jpn/design/2016/data/2_1award_07_yanaghi.pdf
+https://www.azbil.com/jp/product/building/instantaneous-microbial-detection/imd-air/index.html
+リアルタイム微生物ディテクタ（気中浮遊微生物）IMD-A™
+
+http://www.nitta-monitoring.com/biotrak/
+リアルタイム浮遊菌カウンタ　BioTrak
+BioTrak™9510-BDでは、蛍光検出チャンネルは、2チャンネル使用することでより高度な生菌判別を達成しています。
 
 ----------
 ## definition
@@ -132,6 +216,26 @@ Results: A current estimation of human total cell number calculated for a variet
 ## culture
 
 https://ja.wikipedia.org/wiki/培養
+
+https://twitter.com/level3defless/status/1158759028157120512
+Koichi Higashi on Twitter: "自然環境中の細菌の99%は培養困難、という根拠がよくわからない（けどいろんな場面で言われてきた）主張。"
+12:17 AM · Aug 7, 2019
+- 自然環境の16S配列、培養株と配列類似性比較してみたら、どんな環境でも数十％は属レベル以上で類似。培養技術の進歩により多くは培養可能になってるのでは、という主張。
+- PCRのデータはそもそも培養株が増幅されやすい、さらに配列類似性の定義が適切でない、ため、↑の割合は培養可能株の割合を過剰に推定してる。せいぜい10％程度、という予測。
+- 培養困難、とか、培養不可能、っていう言葉の定義がそもそもあやふや。単に、未培養。さらに配列類似性と培養可能性の関連が不明。培養の努力は今後も重要であり続ける、って点ではどちらも同じ主張。
+
+
+Steenら (2019) は、Martiny (2019) の問題点を指摘し、原核生物（細菌・古細菌）分類群の大部分は未培養のままであると結論。
+
+https://www.nature.com/articles/s41396-019-0484-y
+High proportions of bacteria and archaea across most biomes remain uncultured | The ISME Journal
+
+https://twitter.com/biogeobiochem/status/1158739572324544513
+Drew Steen on Twitter: "New paper arguing that most bacteria and archaea on Earth remain uncultured, by me, @acritschristoph, @Paul_Carini, @kristenobacter, @NoahFierer, @archaearama, &amp; @jcamthrash https://t.co/dcoeYbUiVE"
+11:00 PM · Aug 6, 2019
+This was a fun paper to write because it came directly out of a Twitter discussion. I've written a Behind the Paper post about how that happened here:
+https://naturemicrobiologycommunity.nature.com/users/272518-andrew-decker-steen/posts/51950-quantifying-the-uncultureds
+
 
 培養可能な細菌は1%未満という噂を検証
 
@@ -237,121 +341,6 @@ https://news.biglobe.ne.jp/list/012/899/微生物.html
 
 ## 2018
 
-
-----------
-## ANI
-Average Nucleotide Identity
-
-https://img.jgi.doe.gov/docs/docs/ANI.pdf
-
-
-https://twitter.com/ChristianRinke/status/1108470780348649472
-Chris Rinke on Twitter: "NCBI will use average nucleotide identity (ANI) analysis to correct existing public records in GenBank. https://t.co/Qis6BSy2Y1"
-https://ncbiinsights.ncbi.nlm.nih.gov/2019/02/06/correct-existing-taxonomic-info-genbank-ani-analysis/amp/
-https://www.ncbi.nlm.nih.gov/pubmed/29792589
-Int J Syst Evol Microbiol. 2018 Jul;68(7):2386-2392. doi: 10.1099/ijsem.0.002809. Epub 2018 May 24.
-Using average nucleotide identity to improve taxonomic assignments in prokaryotic genomes at the NCBI.
-Ciufo S1, Kannan S1, Sharma S1, Badretdin A1, Clark K1, Turner S1, Brover S1, Schoch CL1, Kimchi A1, DiCuccio M1.
-
-http://kazumaxneo.hatenablog.com/archive/category/ANI
-ANI カテゴリーの記事一覧 - macでインフォマティクス
-
-https://www.nite.go.jp/nbrc/cultures/others/nbrcnews/news_vol43.html#news43_3
-NBRCニュース No. 43（2017.2.1）
-　３．バイテク分析法（3）細菌の分類同定における全ゲノム配列の利用
-　現在、OGRIで利用されている手法として、ゲノム配列の相同性をコンピューター上で解
-析するin silico DDH法があります。その中でも、2つのゲノム配列上のオーソログな領域
-における相同値の平均値を計算する方法であるANI（Average Nucleotide Identity）が最
-も利用されており、ANI値とDDH相同値には高い相関が確認されています(4)。
-
-https://www.nite.go.jp/nbrc/safety/risk_assessment.html
-微生物利用におけるリスク評価に関する技術情報の提供 | バイオテクノロジー | 製品評価技術基盤機構
-菌種の同定法　～ Average Nucleotide Identity （ANI）について～
-![](https://www.nite.go.jp/data/000060544.png)
-
-----------
-## species
-
-Posted May 24, 2019.
-https://www.biorxiv.org/content/10.1101/647511v1
-Consistent metagenome-derived metrics verify and define bacterial species boundaries
-- Bacterial genomes from the human gut, soil, and the ocean all exhibited gaps in whole-genome average nucleotide identities (ANI) near the previously suggested species threshold of 95% ANI. While genome-wide ratios of non-synonymous and synonymous nucleotide differences (dN/dS) decrease until ANI values approach ~98%, estimates for homologous recombination approached zero at ~95% ANI, supporting breakdown of recombination due to sequence divergence as a species-forming force. 
-
-https://www.sciencedirect.com/science/article/pii/S0960982219300624
-Systematics: The Cohesive Nature of Bacterial Species Taxa - ScienceDirect
-
-https://twitter.com/digitalwright/status/1047618983497818114
-Erik Wright on Twitter: "Is "species" a real thing for bacteria? @baobabbaum and I did a deep dive into thousands of bacterial genomes to figure it out. Turns out the answer is yes and no. Check it out in #BMCGenomics: https://t.co/COJRzSpbs5… https://t.co/7maLMhhTZX"
-6:46 PM - 3 Oct 2018
-
-https://twitter.com/WvSchaik/status/1069298727238713346
-Willem van Schaik on Twitter: "Spoiler: microbial species are a thing.… "
-1:34 PM - 2 Dec 2018
-https://twitter.com/aphillippy/status/1068497439617966080
-Adam Phillippy on Twitter: "Our latest: Are microbial species actually a thing? FastANI gives us a peek. More great work from @chirgjain. Great to see this published! https://t.co/2igLJex2rA"
-8:30 AM - 30 Nov 2018
-https://www.nature.com/articles/s41467-018-07641-9
-High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries | Nature Communications
-
-http://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
-MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
-- バクテリア（および他の微生物）が離散したクラスター（discrete clusters ）（species）を形成するか、または水平遺伝子伝達（HGT）の頻度が高く、ゆっくりと減衰するキネティクスのために、連続的な遺伝的多様性が観察されるかどうかである。Closely relatedな少数のゲノムに基づく研究は、genetic continuum（連続性）が優先される可能性があることを示している（例えば、ref.1）。他方、HGTは種間の境界を歪めるほど頻繁ではないかもしれない、あるいは同じ種内の生物が種間の生物に比べてより頻繁に遺伝子交換を行い、それによって異なるクラスターを維持するとの研究がある（例えばref.2）。
-- 種の境界を評価する際の1つの基本的な作業は、2つのゲノム間の遺伝的関連性の推定である。The whole-genome average nucleotide identity（ANI）は、同じ種に属する生物が典型的にはそれらの間に≥95％のANIを示すため（ref.3,4）、近年この作業のための堅牢な方法として浮上している。
-
-http://kazumaxneo.hatenablog.com/entry/2018/09/11/234212
-gANIを計算するツール ANIcalculator - macでインフォマティクス
-- 微生物は数と多様性の両方で生命の樹木を支配しており、その自然分類を困難かつ重要なものにしている。動物では、種は一般に交配可能な生物群と定義されるが（biological species concept）、この定義は無性生物の集合体に直接適用することはできない。結果として、微生物分類学は、生物に関する遺伝子型、表現型および化学感受性の情報を統合し、利用可能なデータのコンセンサスに基づいて微生物種を描写する多相性のアプローチ（論文よりref.2,3）を採用する。
-- Whole-genome based Average Nucleotide Identity (gANI) は、KonstantinidisとTiedjeにより、2ゲノム間の類似性の尺度として提案された（ref.4）。
-
-https://www.ncbi.nlm.nih.gov/pubmed/26150420
-Nucleic Acids Res. 2015 Aug 18;43(14):6761-71. doi: 10.1093/nar/gkv657. Epub 2015 Jul 6.
-Microbial species delineation using whole genome sequences.
-Varghese NJ1, Mukherjee S1, Ivanova N1, Konstantinidis KT2, Mavrommatis K3, Kyrpides NC4, Pati A4.
-
-January 16, 2017
-http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
-Small Things Considered: Do bacterial species really exist and why should we care?
-
-----------
-## taxonomy
-
-http://gtdb.ecogenomic.org/
-Genome Taxonomy Database
-
-https://www.ncbi.nlm.nih.gov/pubmed/30148503
-Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
-Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
-https://www.nature.com/articles/nbt.4229
-A bacterial genome tree was inferred from the dereplicated data set by applying FastTree to a concatenated alignment of 120 ubiquitous single-copy proteins22 (subsequently referred to as 'bac120') comprising a total of 34,744 columns after trimming of 1,021 columns represented in <50% of the genomes and 5,390 columns with an amino acid consensus <25% (Online Methods).
-
-https://twitter.com/NatureBiotech/status/1034201413717450753
-Nature Biotechnology on Twitter: "A standardized bacterial #taxonomy based on genome phylogeny substantially revises the tree of life https://t.co/VxV1FNxtAs #phylogenetics… https://t.co/AZR5RBc18E"
-6:10 PM - 27 Aug 2018
-![](https://pbs.twimg.com/media/Dlo37tsUYAAcnP8.jpg)
-
-https://twitter.com/NatureRevMicro/status/1036595989816246272
-Nature Rev Microbiol on Twitter: "#ResearchHighlight: Next-generation bacterial taxonomy https://t.co/Acx8vB0XuW"
-8:45 AM - 3 Sep 2018
-
-https://twitter.com/RPoretsky/status/1034446295451226113
-Rachel Poretsky on Twitter: "The @PhilHugenholtz et al. paper that contributed to heated #ISME17 discussions is out! A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life. https://t.co/lvWwHKS7OD"
-10:23 AM - 28 Aug 2018
-
-https://twitter.com/NatureRevMicro/status/1034357487355539456
-Nature Rev Microbiol on Twitter: "A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life @NatureBiotech https://t.co/Hro7pynEPQ… https://t.co/ev7En4LKdL"
-4:30 AM - 28 Aug 2018
-![](https://pbs.twimg.com/media/DlrGnFvX4AA_a4L.jpg)
-
-https://twitter.com/WvSchaik/status/1034188127261405185
-Willem van Schaik on Twitter: "Exciting paper: 'A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life' by @PhilHugenholtz https://t.co/ABzGHUSuPn"
-5:17 PM - 27 Aug 2018
-
-https://twitter.com/Tyu_Shi/status/1034217003936931841
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
-7:12 PM - 27 Aug 2018
-
-
 ----------
 ## prokaryote
 
@@ -370,6 +359,10 @@ http://aasj.jp/news/watch/3410
 
 ----------
 ## archaea
+
+https://ja.wikipedia.org/wiki/古細菌
+アーキア
+古細菌から真核生物が分かれたのは20-30億年前
 
 https://twitter.com/microbeminded2/status/1011396711082700800
 specific archaea-targeting methodology
