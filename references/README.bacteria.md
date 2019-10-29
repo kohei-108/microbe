@@ -842,6 +842,20 @@ Fig. 1.
 Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
 ![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/5/IJE45259-1.gif)
 
+https://www.ncbi.nlm.nih.gov/pubmed/10966399
+Appl Environ Microbiol. 2000 Sep;66(9):3842-9.
+Phylogeny of microorganisms populating a thick, subaerial, predominantly lithotrophic biofilm at an extreme acid mine drainage site.
+Bond PL1, Smriga SP, Banfield JF.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/
+FIG. 6
+Evolutionary distance dendogram of slime clones within the delta subdivision of the Proteobacteria based on 1,121 nucleotides of 16S rDNA sequences. Desulfovibrio desulfuricans (not shown) was used as the outgroup. Indications of branch point support and evolutionary distance are as described for Fig. ​Fig.4.4. Database sequence accession numbers are as follows: Bdellovibrio bacteriovorus, M59297; Myxococcus xanthus, M34114; Pelobacter acetylenicus, X70955; Desulfuromonas palmitatis, U28172; Desulfuromonas acetoxidans, M26634; Geobacter metallireducens, L07834; Desulfobacter postgatei, M26633; Desulfobacterium niacini, U51845; Desulfosarcina variabilis, M34407; Desulfobacterium cetonicum, AJ237603; Syntrophus gentianae, X85132; uncultured bacterium SJA-63, AJ009471; Desulfomonile tiedjei, M26635; Desulfobacca acetoxidans, AF002671; Syntrophobacter sp. X94911; and uncultured bacterium SJA-162, AJ009498.
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/bin/am0901966006.jpg)
+
+
+https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
+Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp). 
+
+
 ### Geobacter_codon_usage
 コドン使用
 
