@@ -809,7 +809,6 @@ http://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066662-0
 Fig. 1.
 Phylogenetic consensus tree based on 16S rRNA gene sequences, 
 Desulfuromusa kysingii DSM 7343T (GenBank accession no. X79414) was used as an outgroup.
-
 ```
 Pelobacter propionicus DSM 2379T (CP000482)
 Geobacter chapellei 172T (U41561)
@@ -823,6 +822,7 @@ Geobacter uraniireducens Rf4T (CP000698)
 Geobacter daltonii FRC-32T (CP001390)
 Geobacter toluenoxydans TMJ1T (EU711072)
 ```
+![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/64/11/066662-f1.gif)
 
 https://www.ncbi.nlm.nih.gov/pubmed/19284579
 BMC Genomics. 2009 Mar 11;10:103. doi: 10.1186/1471-2164-10-103.
@@ -831,6 +831,7 @@ Butler JE1, Young ND, Lovley DR.
 https://link.springer.com/article/10.1186/1471-2164-10-103
 Figure 1
 Genome-based Geobacteraceae phylogeny. Bayesian inference of the phylogenetic tree of the six Geobacteraceae species discussed in the text, using another Deltaproteobacterial species, Anaeromyxobacter dehalogenans, as the outgroup. The tree was based on a concatenation of the proteins in the 481 families that had exactly one ortholog conserved in each of the seven genomes (see Additional file 6). Values at branch points are posterior probabilities.
+![](https://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F1471-2164-10-103/MediaObjects/12864_2008_Article_1987_Fig1_HTML.jpg)
 
 https://www.ncbi.nlm.nih.gov/pubmed/15388715
 Int J Syst Evol Microbiol. 2004 Sep;54(Pt 5):1591-9.
@@ -839,6 +840,7 @@ Holmes DE1, Nevin KP, Lovley DR.
 https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02958-0#tab2
 Fig. 1.
 Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
+![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/5/IJE45259-1.gif)
 
 ### Geobacter_codon_usage
 コドン使用
