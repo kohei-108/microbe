@@ -848,7 +848,7 @@ Phylogeny of microorganisms populating a thick, subaerial, predominantly lithotr
 Bond PL1, Smriga SP, Banfield JF.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/
 FIG. 6
-Evolutionary distance dendogram of slime clones within the delta subdivision of the Proteobacteria based on 1,121 nucleotides of 16S rDNA sequences. Desulfovibrio desulfuricans (not shown) was used as the outgroup. Indications of branch point support and evolutionary distance are as described for Fig. ​Fig.4.4. Database sequence accession numbers are as follows: Bdellovibrio bacteriovorus, M59297; Myxococcus xanthus, M34114; Pelobacter acetylenicus, X70955; Desulfuromonas palmitatis, U28172; Desulfuromonas acetoxidans, M26634; Geobacter metallireducens, L07834; Desulfobacter postgatei, M26633; Desulfobacterium niacini, U51845; Desulfosarcina variabilis, M34407; Desulfobacterium cetonicum, AJ237603; Syntrophus gentianae, X85132; uncultured bacterium SJA-63, AJ009471; Desulfomonile tiedjei, M26635; Desulfobacca acetoxidans, AF002671; Syntrophobacter sp. X94911; and uncultured bacterium SJA-162, AJ009498.
+Evolutionary distance dendogram of slime clones within the delta subdivision of the Proteobacteria based on 1,121 nucleotides of 16S rDNA sequences. Desulfovibrio desulfuricans (not shown) was used as the outgroup. Indications of branch point support and evolutionary distance are as described for Fig. ​Fig.4.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/figure/F6/
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/bin/am0901966006.jpg)
 
