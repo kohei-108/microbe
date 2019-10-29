@@ -852,6 +852,15 @@ Evolutionary distance dendogram of slime clones within the delta subdivision of 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/figure/F6/
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92229/bin/am0901966006.jpg)
 
+https://www.ncbi.nlm.nih.gov/pubmed/8900001
+Appl Environ Microbiol. 1996 Nov;62(11):4108-13.
+A freshwater anaerobe coupling acetate oxidation to tetrachloroethylene dehalogenation.
+Krumholz LR1, Sharp R, Fishbain SS.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC168232/
+https://www.researchgate.net/figure/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the_fig4_14307027
+Phylogenetic tree of TT4B and other representatives of the delta subclass of the Proteobacteria based on 16S rRNA sequence comparisons. 
+![](https://www.researchgate.net/profile/Susan_Fishbain/publication/14307027/figure/fig4/AS:667587264393217@1536176615479/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the.png)
+
 https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
 Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp). 
 
