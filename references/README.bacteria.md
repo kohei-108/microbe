@@ -40,6 +40,7 @@ Last Update: 2019-08
 - [Legionella](#legionella) レジオネラ
 - [Wolbachia](#wolbachia) ボルバキア
 - [people](#people)
+  - [Gilmore](gilmore) Michael S. Gilmore
   - [amachi](#amachi) Amachi Seigo
 - [excerpt](#excerpt) 抜粋［引用］
 
@@ -805,8 +806,10 @@ Int J Syst Evol Microbiol. 2014 Nov;64(Pt 11):3786-91. doi: 10.1099/ijs.0.066662
 Geobacter soli sp. nov., a dissimilatory Fe(III)-reducing bacterium isolated from forest soil.
 Zhou S1, Yang G2, Lu Q3, Wu M3.
 http://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066662-0#tab3
-FIG. 1.
+Fig. 1.
 Phylogenetic consensus tree based on 16S rRNA gene sequences, 
+Desulfuromusa kysingii DSM 7343T (GenBank accession no. X79414) was used as an outgroup.
+
 ```
 Pelobacter propionicus DSM 2379T (CP000482)
 Geobacter chapellei 172T (U41561)
@@ -1679,14 +1682,6 @@ Shewanella violacea is an obligate psychrophile (cryophile). Its optimum growth 
 ### Shewanella_phylogeny
 系統解析
 
-http://nesseiken.info/Chiba_lab/index.php?授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-- 内群（ingroup）　今、系統推定の対象としているグループのこと。
-- 外群 (outgoup)　内群に含まれない分類群はすべて外群（outgroup）になる。外群は通常、系統樹に根をつけるときに使われ、内群の姉妹群から複数のものを用いることが多い。
-
-https://ja.wikipedia.org/wiki/外群
-外群は系統樹に根をつけ、系統関係を知りたい内群の系統的位置関係を決定するのに用いられる。形質変化の極性は有根系統樹のみから決定できる[1]ため、外群の選択は系統に沿った形質状態の進化を理解する上で必須である。
-外群は、内群の他のグループに近縁であるが、しかし他のどの内群のグループよりも互いに遠縁であると考えられるものを選択する。これらの系統関係から導かれた進化学的結論は、外群の種は内群と共通の祖先をもち、それは内群の各グループの共通祖先よりも古いものであるということである。外群は内群の姉妹群、またはより遠縁なものである[2]。
-
 https://www.ncbi.nlm.nih.gov/pubmed/30785388
 Int J Syst Evol Microbiol. 2019 May;69(5):1259-1264. doi: 10.1099/ijsem.0.003298. Epub 2019 Feb 20.
 Proposal of Parashewanella gen. nov. to accommodate Parashewanella curva sp. nov. and Parashewanella spongiae comb. nov. in the Shewanellaceae.
@@ -2458,6 +2453,24 @@ http://www.nikkei-science.com/page/sci_book/bessatu/51221.html
 
 ----------
 ## people
+
+----------
+### Michael S. Gilmore
+
+https://www.ncbi.nlm.nih.gov/pubmed/22617140
+MBio. 2012 May 22;3(3). pii: e00112-12. doi: 10.1128/mBio.00112-12. Print 2012.
+Comparative genomics of vancomycin-resistant Staphylococcus aureus strains and their positions within the clade most commonly associated with Methicillin-resistant S. aureus hospital-acquired infection in the United States.
+Kos VN1, Desjardins CA, Griggs A, Cerqueira G, Van Tonder A, Holden MT, Godfrey P, Palmer KL, Bodi K, Mongodin EF, Wortman J, Feldgarden M, Lawley T, Gill SR, Haas BJ, Birren B, Gilmore MS.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3372964/
+Diversity in plasmid content and Tn1546 location.
+FIG 3
+Plasmid sequences in VRSA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22354958
+MBio. 2012 Mar 1;3(1):e00318-11. doi: 10.1128/mBio.00318-11. Print 2012.
+Comparative genomics of enterococci: variation in Enterococcus faecalis, clade structure in E. faecium, and defining characteristics of E. gallinarum and E. casseliflavus.
+Palmer KL1, Godfrey P, Griggs A, Kos VN, Zucker J, Desjardins C, Cerqueira G, Gevers D, Walker S, Wortman J, Feldgarden M, Haas B, Birren B, Gilmore MS.
+
 
 ----------
 ### Amachi Seigo
