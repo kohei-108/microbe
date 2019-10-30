@@ -864,6 +864,14 @@ Phylogenetic tree of TT4B and other representatives of the delta subclass of the
 https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
 Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp). 
 
+https://www.ncbi.nlm.nih.gov/pubmed/18461135
+PLoS One. 2008 May 7;3(5):e2103. doi: 10.1371/journal.pone.0002103.
+The mosaic genome of Anaeromyxobacter dehalogenans strain 2CP-C suggests an aerobic common ancestor to the delta-proteobacteria.
+Thomas SH1, Wagner RD, Arakaki AK, Skolnick J, Kirby JR, Shimkets LJ, Sanford RA, Löffler FE.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/
+Figure 1
+16S rRNA gene-based phylogenetic tree of the delta-Proteobacteria indicates that A. dehalogenans strain 2CP-C is deeply nested in the order Myxococcales.
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/bin/pone.0002103.g001.jpg)
 
 ### Geobacter_codon_usage
 コドン使用
