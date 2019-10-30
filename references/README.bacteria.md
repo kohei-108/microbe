@@ -871,10 +871,9 @@ Phylogenetic tree of TT4B and other representatives of the delta subclass of the
 ![](https://www.researchgate.net/profile/Susan_Fishbain/publication/14307027/figure/fig4/AS:667587264393217@1536176615479/Phylogenetic-tree-of-TT4B-and-other-representatives-of-the-delta-subclass-of-the.png)
 
 https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
-Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp). 
-
-A phylogenetic tree of 16S rRNA sequences from the type species in the family Desulfuromonadaceae and Geobacteraceae shows the separate clustering of the families with the exception of Pelobacter propionicus, which clusters with the Geobacteraceae (Fig. 2). Like most Pelobacter species (Schink, 2015), P. propionicus has a fermentative metabolism, only grows with substrates that yield C2 degradation intermediates, and has a reduced c-type cytochrome content (Schink, 1984). This, the heterogeneity of the species revealed in DNA-DNA hybridization (Schink, 2015), and the fact that the other Pelobacter species are interspersed throughout the Desulfuromonadaceae family (Greene, 2014), suggest that taxonomic reassignment may be necessary for all the species in the genus. This leaves Geobacter as the type and only genus in the family Geobacteraceae, with G. metallireducens GS15T (Lovley et al., 1993) as the type species (Fig. 2).
-
+- Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp).
+![](https://ars.els-cdn.com/content/image/1-s2.0-B9780123876614000045-f01-04-9780123876614.jpg)
+- Fig. 2. Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfuromonadaceae.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0065291119300086-gr2.jpg)
 
 ### Geobacter_codon_usage
