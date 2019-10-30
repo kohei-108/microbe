@@ -842,6 +842,15 @@ Fig. 1.
 Phylogenetic trees predicted by maximum-likelihood analysis comparing sequences of the 16S rRNA gene (a), fusA (b), gyrB (c), nifD (d), recA (e) and rpoB (f) from species of the Geobacteraceae. Chlorobium tepidum and Nostoc sp. PCC 7120 were used as outgroups and 1000 replicates were used for maximum-likelihood (first bootstrap value) and maximum-parsimony (second value) bootstrap analyses. Taxa are represented by type strains unless the strain name is indicated.
 ![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/5/IJE45259-1.gif)
 
+https://www.ncbi.nlm.nih.gov/pubmed/18461135
+PLoS One. 2008 May 7;3(5):e2103. doi: 10.1371/journal.pone.0002103.
+The mosaic genome of Anaeromyxobacter dehalogenans strain 2CP-C suggests an aerobic common ancestor to the delta-proteobacteria.
+Thomas SH1, Wagner RD, Arakaki AK, Skolnick J, Kirby JR, Shimkets LJ, Sanford RA, Löffler FE.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/
+Figure 1
+16S rRNA gene-based phylogenetic tree of the delta-Proteobacteria indicates that A. dehalogenans strain 2CP-C is deeply nested in the order Myxococcales.
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/bin/pone.0002103.g001.jpg)
+
 https://www.ncbi.nlm.nih.gov/pubmed/10966399
 Appl Environ Microbiol. 2000 Sep;66(9):3842-9.
 Phylogeny of microorganisms populating a thick, subaerial, predominantly lithotrophic biofilm at an extreme acid mine drainage site.
@@ -863,15 +872,6 @@ Phylogenetic tree of TT4B and other representatives of the delta subclass of the
 
 https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
 Figure 4. Maximum-likelihood tree showing the phylogenetic relationship between the members of the family Geobacteraceae within the class Deltaproteobacteria using 16S rRNA gene (&gt; 1300 bp). 
-
-https://www.ncbi.nlm.nih.gov/pubmed/18461135
-PLoS One. 2008 May 7;3(5):e2103. doi: 10.1371/journal.pone.0002103.
-The mosaic genome of Anaeromyxobacter dehalogenans strain 2CP-C suggests an aerobic common ancestor to the delta-proteobacteria.
-Thomas SH1, Wagner RD, Arakaki AK, Skolnick J, Kirby JR, Shimkets LJ, Sanford RA, Löffler FE.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/
-Figure 1
-16S rRNA gene-based phylogenetic tree of the delta-Proteobacteria indicates that A. dehalogenans strain 2CP-C is deeply nested in the order Myxococcales.
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330069/bin/pone.0002103.g001.jpg)
 
 ### Geobacter_codon_usage
 コドン使用
