@@ -1785,9 +1785,13 @@ https://www.ncbi.nlm.nih.gov/pubmed/21569439
 BMC Genomics. 2011 May 12;12:237. doi: 10.1186/1471-2164-12-237.
 Genome-level homology and phylogeny of Shewanella (Gammaproteobacteria: lteromonadales: Shewanellaceae).
 Dikow RB1.
-- Nineteen taxa from Shewanella (16 species and 3 additional strains of one species) as well as three outgroup species representing the genera Aeromonas (Gammaproteobacteria: Aeromonadales: Aeromonadaceae), Alteromonas (Gammaproteobacteria: Alteromonadales: Alteromonadaceae) and Colwellia (Gammaproteobacteria: Alteromonadales: Colwelliaceae) are included for a total of 22 taxa.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3107185/
-The reason three outgroup taxa were included was because there had not been a previous study showing that Alteromonas and Colwellia were indeed basal to Shewanella. One could not assume that Shewanella was monophyletic a priori; the seven-gene analysis (Figure ​(Figure3B)3B) finds a non-monophyletic Shewanella. 
+- Nineteen taxa from Shewanella (16 species and 3 additional strains of one species) as well as three outgroup species representing the genera Aeromonas (Gammaproteobacteria: Aeromonadales: Aeromonadaceae), Alteromonas (Gammaproteobacteria: Alteromonadales: Alteromonadaceae) and Colwellia (Gammaproteobacteria: Alteromonadales: Colwelliaceae) are included for a total of 22 taxa.
+- The reason three outgroup taxa were included was because there had not been a previous study showing that Alteromonas and Colwellia were indeed basal to Shewanella. One could not assume that Shewanella was monophyletic a priori; the seven-gene analysis (Figure ​(Figure3B)3B) finds a non-monophyletic Shewanella. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3107185/figure/F2/
+Figure 2
+Genome tree. 
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3107185/bin/1471-2164-12-237-2.jpg)
 
 ### 
 
