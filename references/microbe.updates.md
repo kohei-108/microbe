@@ -6,10 +6,31 @@
 ----------
 ## 2019
 
-https://twitter.com/search?q=バクテリア偏愛
+2019年10月15日（火）11時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
+岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
 
+2019年10月8日（火）13時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
+モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+
+https://twitter.com/NatureJapan/status/1174639270964809729
+Nature Japan on Twitter: "【健康】マイクロバイオームの破壊との関連が認められる分娩様式 | Nature | Nature Research https://t.co/P26sOEP7Zt #健康 #マイクロバイオーム"
+8:00 PM · Sep 19, 2019
+
+
+https://twitter.com/search?q=マザーダート
+
+2019.7.4
 https://courrier.jp/news/archives/166633/
-「バクテリア偏愛男」が発見したお肌にも健康にもいい「最強の細菌」 | ロレアル、ユニリーバ…大手企業も大注目！ | クーリエ・ジャポン
+ロレアル、ユニリーバ…大手企業も大注目！
+「バクテリア偏愛男」が発見したお肌にも健康にもいい「最強の細菌」
+
+2019.7.4
+https://courrier.jp/news/archives/166632/
+「マグカップは20年洗ってません」
+16年間シャワーを浴びてない男が開発！　清潔と美肌を保つ「細菌ミスト」
 
 https://twitter.com/AMRCRC_JAPAN/status/1146988900142997506
 AMR臨床リファレンスセンター on Twitter: "ニューズウィークの記事を読んで心配になった方はぜひこちらへ。薬剤耐性や抗菌薬についてわかりやすく解説しています。　https://t.co/ZxKnmkthfE　　https://t.co/99rv4z3x6b"
