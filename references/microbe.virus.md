@@ -1,6 +1,7 @@
 # virus
 **ウイルス**
 
+- [featuring](#featuring)
 - [updates](#updates)
 - [Ebola](#ebola)
 - [HIV](#hiv)
@@ -10,6 +11,8 @@
 [Ikemura](#ikemura)
 
 ----------
+## featuring
+
 https://en.wikipedia.org/wiki/Virus
 
 Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. 
