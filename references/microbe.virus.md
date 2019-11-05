@@ -19,9 +19,6 @@ Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian inf
 
 https://ja.wikipedia.org/wiki/ウイルス
 
-- [エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー](https://gigazine.net/news/20141110-ebola-virus-mechanism/)
-The Ebola Virus Explained — How Your Body Fights For Survival
-- October 2018 TED Talk 11:14 [Alexander Belcredi: How a long-forgotten virus could help us solve the antibiotics crisis | TED Talk](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis) | [アレクサンダー・ベルクレディ: 長く忘れられていたウィルスが抗生物質の危機を解決しうるのはなぜか](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis?language=ja)
 - Oct 20, 2019 [Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP"](https://twitter.com/NatureNews/status/1185903524242165761)
   - [Why Japan imported Ebola ahead of the 2020 Olympics](https://www.nature.com/articles/d41586-019-03103-4)
 Last month, Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the event. The Japanese health ministry says researchers will use the samples, which include Marburg virus, Lassa virus, and the viruses that cause South American haemorrhagic fever and Crimean–Congo haemorrhagic fever, to validate tests under development.
@@ -29,6 +26,11 @@ Last month, Japan imported Ebola and four other dangerous viruses in preparation
   - [Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic: Cell](https://www.cell.com/cell/fulltext/S0092-8674(19)30783-4)
 
 ![](https://marlin-prod.literatumonline.com/cms/attachment/7a797cef-d2d1-4ca3-ab81-765204acfa81/fx1.jpg)
+
+- October 2018 TED Talk 11:14 [Alexander Belcredi: How a long-forgotten virus could help us solve the antibiotics crisis | TED Talk](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis) | [アレクサンダー・ベルクレディ: 長く忘れられていたウィルスが抗生物質の危機を解決しうるのはなぜか](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis?language=ja)
+- 2014-11-10 [エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー](https://gigazine.net/news/20141110-ebola-virus-mechanism/)
+The Ebola Virus Explained — How Your Body Fights For Survival
+
 
 ----------
 ## Zika
@@ -38,9 +40,73 @@ https://ja.wikipedia.org/wiki/ジカ熱
 ジカウイルス（英: Zika virus）は、フラビウイルス科に属する+鎖のRNAウイルスの1種である。
 https://ja.wikipedia.org/wiki/ジカウイルス
 
+http://metasub.org/the-olympiome-project/
+The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/31442400
+Cell. 2019 Aug 22;178(5):1057-1071.e11. doi: 10.1016/j.cell.2019.07.018.
+Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic.
+Grubaugh ND1, 
+https://twitter.com/NathanGrubaugh/status/1164553815376441350
+Nathan Grubaugh on Twitter: 
+12:04 AM · Aug 23, 2019
+https://www.youtube.com/watch?v=zDyws3JBgak
+Uncovering Hidden Zika Outbreaks / Cell, August 22, 2019 (Vol. 178, Issue 5) - YouTube
+
+
+https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/
+109．ブラジルでの小頭症は1個のアミノ酸が置換したジカウイルスによる | 一般社団法人　予防衛生協会
+2018/01/22
+ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。
+ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
+1. Faria, N.R., Azeved, R.S.S., Kraemer, M.U.G. et al.: Zika virus in the Americas: Early epidemiological and genetic findings. Science, 352, 345-349, 2016.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27013429
+Science. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
+Zika virus in the Americas: Early epidemiological and genetic findings.
+Faria NR
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/figure/F3/
+Timescale of the introduction of ZIKV to the Americas.
+(B) Posterior distributions of the estimated ages (TMRCAs) of clades A and B, estimated in BEAST software using the best-fitting evolutionary model (table S2). The time and duration of the three events (i-iii) discussed in the main text are shown.
+
+- We estimate that the date of the most recent common ancestor (TMRCA) of all Brazilian genomes (clade B) is Aug 2013 to Apr 2014 (95% Bayesian credible intervals, BCIs; point estimate = mid Dec 2013; Fig. 3B). The common ancestor of the French Polynesian and America lineages (clade A) was dated to Dec 2012 to Sep 2013 (BCIs; point estimate = late May 2013; Fig. 3B).
+- There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
+
+
+
 2016年9月2日23時23分
 https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
 リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
+
+
+
+----------
+## Ebola
+
+
+https://twitter.com/JClinMicro/status/1171021712357515264
+JClinMicro EIC on Twitter: "Metagenomic Next-Generation Sequencing of the 2014 Ebola Virus Disease Outbreak in the Democratic Republic of the Congo https://t.co/yT8v3ZZWLR @ASMicrobiology #ASMClinMicro https://t.co/6ghIbBsX4h"
+8:25 PM · Sep 9, 2019
+
+https://twitter.com/ljcoin/status/1146968852070162432
+Lachlan Coin on Twitter: ".@pathogenomenick showing how realtime genomic epidemiology using @nanopore seq could pinpoint cross border transmission of Ebola (colours indicate country) #UQwinterschool https://t.co/GD3AvJOq9z"
+11:27 AM · Jul 5, 2019
+
+https://wired.jp/2019/08/13/ebola-is-now-curable-heres-how-the-new-treatments-work/
+エボラ出血熱、ついに「治療可能」に──発表された治療法は、こうしてアウトブレイクから世界を救う｜WIRED.jp
+https://www.wired.com/story/ebola-is-now-curable-heres-how-the-new-treatments-work/
+Ebola Is Now Curable. Here’s How the New Treatments Work | WIRED
+
+https://readyfor.jp/projects/Ebola
+致死率最大90%にもおよぶ「エボラ出血熱」治療薬開発の一歩へ（高田礼人（北海道大学人獣共通感染症リサーチセンター） 2019/02/01 公開） - クラウドファンディング READYFOR (レディーフォー)
+
+https://gigazine.net/news/20141110-ebola-virus-mechanism/
+エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー - GIGAZINE
+https://www.youtube.com/watch?v=sRv19gkZ4E0
+The Ebola Virus Explained — How Your Body Fights For Survival - YouTube
+
+
 
 ----------
 ## updates
@@ -123,23 +189,6 @@ From design of a genome sequence to generation of a synthetic virus
 日経サイエンス　 2005年3月号
 http://www.nikkei-science.com/page/magazine/0503/virus.html
 ウイルスは生きているのか | 日経サイエンス
-
-
-----------
-## Ebola
-
-https://wired.jp/2019/08/13/ebola-is-now-curable-heres-how-the-new-treatments-work/
-エボラ出血熱、ついに「治療可能」に──発表された治療法は、こうしてアウトブレイクから世界を救う｜WIRED.jp
-https://www.wired.com/story/ebola-is-now-curable-heres-how-the-new-treatments-work/
-Ebola Is Now Curable. Here’s How the New Treatments Work | WIRED
-
-https://readyfor.jp/projects/Ebola
-致死率最大90%にもおよぶ「エボラ出血熱」治療薬開発の一歩へ（高田礼人（北海道大学人獣共通感染症リサーチセンター） 2019/02/01 公開） - クラウドファンディング READYFOR (レディーフォー)
-
-https://gigazine.net/news/20141110-ebola-virus-mechanism/
-エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー - GIGAZINE
-https://www.youtube.com/watch?v=sRv19gkZ4E0
-The Ebola Virus Explained — How Your Body Fights For Survival - YouTube
 
 ----------
 ## HIV
