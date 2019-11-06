@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-08
+Last Update: 2019-11
 
 ----------
 
@@ -742,7 +742,6 @@ Mycobacterium avium paratuberculosis 旧名＝Mycobacterium paratuberculosis BSL
 Mycobacterium avium silvaticum BSL2
 ```
 
-
 ----------
 ## Geobacter
 
@@ -876,6 +875,22 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/pelobacter
 - Fig. 2. Neighbor joining phylogenetic tree of the families Geobacteraceae and Desulfuromonadaceae.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0065291119300086-gr2.jpg)
 
+
+- https://ja.wikipedia.org/wiki/粘液細菌
+目	:	ミクソコックス目 Myxococcales
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Desulfuromusa
+- http://www.bacterio.net/desulfuromusa.html
+- https://www.ncbi.nlm.nih.gov/genome/browse/#!/overview/Desulfuromonas
+- https://microbewiki.kenyon.edu/index.php/Desulfuromonas
+Bacteria; Proteobacteria; delta/epsilon subdivisions; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae
+- https://en.wikipedia.org/wiki/Desulfuromusa_ferrireducens
+Order:	Desulfuromonadales
+Family:	Desulfuromonadaceae
+Genus:	Desulfuromusa
+Species:	D. ferrireducens
+
+
+
 ### Geobacter_codon_usage
 コドン使用
 
@@ -977,6 +992,16 @@ https://www.nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
 Wired Bacteria Form Nature’s Power Grid: ‘We Have an Electric Planet’ - The New York Times
 Geobacter
 Shewanella
+
+
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_article/-char/ja/
+海外だより
+Lovley研究室でのGeobacter 属細菌と微生物燃料電池の研究
+井上 謙吾
+2008 年 46 巻 7 号 p. 509-513
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_pdf/-char/ja
+
+
 
 ----------
 
@@ -1725,6 +1750,16 @@ Xu S1,2,3, Yu K1,2,3, Su H1,2,3, Chen B1,2,3, Huang W1,2,3, Liang J1,2,3, Wang Y
 - Phylogenetic analyses based on the 16S rRNA gene, the gyrB gene and the Up-to-date Bacterial Core Gene set (92 genes) indicated that strain C51T forms a stable cluster with Shewanella spongiae KCTC 22492T, and had 94 % 16S rRNA gene similarity to its closest type strain S. spongiae KCTC 22492T. 
 https://ijs.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003298#tab2
 
+https://www.ncbi.nlm.nih.gov/pubmed/30028285
+Int J Syst Evol Microbiol. 2018 Sep;68(9):2960-2966. doi: 10.1099/ijsem.0.002929. Epub 2018 Jul 20.
+Shewanella saliphila sp. nov., Shewanella ulleungensis sp. nov. and Shewanella litoralis sp. nov., isolated from coastal seawater.
+Yun BR1,2, Park S3, Kim MK1, Park J1, Kim SB1.
+https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002929#tab2
+Fig. 1.
+Neighbour-joining phylogenetic tree based on 16S rRNA gene sequences showing the relationships among strains Shewanella saliphila MMS16-UL250T, Shewanella ulleungensis MMS16-UL253T and Shewanella litoralis MMS16-UL482T with related taxa. 
+![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/68/9/ijsem002929-f1.gif)
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/27562367
 Int J Syst Evol Microbiol. 2016 Dec;66(12):4947-4953. doi: 10.1099/ijsem.0.001450. Epub 2016 Aug 25.
 Shewanella inventionis sp. nov., isolated from deep-sea sediment.
@@ -1741,6 +1776,14 @@ Fig. 2.
 Neighbour-joining tree based on gyrB gene sequences, showing the phylogenetic position of strain KX27T within the genus Shewanella . 
 Pseudoalteromonas haloplanktis ATCC 14394T and Escherichia coli ATCC 25922T were used as the outgroup.
 
+https://www.ncbi.nlm.nih.gov/pubmed/18398463
+PLoS One. 2008 Apr 9;3(4):e1937. doi: 10.1371/journal.pone.0001937.
+Environmental adaptation: genomic analysis of the piezotolerant and psychrotolerant deep-sea iron reducing bacterium Shewanella piezotolerans WP3.
+Wang F1, Wang J, Jian H, Zhang B, Li S, Wang F, Zeng X, Gao L, Bartlett DH, Yu J, Hu S, Xiao X.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2276687/
+Figure 2
+Phylogenetic tree based on 16S rRNA (A) and whole proteome analysis (B).
+
 https://www.ncbi.nlm.nih.gov/pubmed/15653901
 Int J Syst Evol Microbiol. 2005 Jan;55(Pt 1):363-8.
 Shewanella decolorationis sp. nov., a dye-decolorizing bacterium isolated from activated sludge of a waste-water treatment plant.
@@ -1748,6 +1791,7 @@ Xu M1, Guo J, Cen Y, Zhong X, Cao W, Sun G.
 https://ijs.microbiologyresearch.org/content/ijsem/10.1099/ijs.0.63157-0.F1
 Fig. 1.
 Phylogenetic trees of the genus Shewanella based on 16S rRNA and gyrB gene sequences.
+![](https://www.microbiologyresearch.org/docserver/fulltext/ijsem/55/1/IJE52769-1.gif)
 
 ### Shewanella_comparative_genomics
 比較ゲノム
