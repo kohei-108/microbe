@@ -44,9 +44,6 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 https://twitter.com/tjsharpton/status/1192820360556793856
 Thomas Sharpton on Twitter: "Published! Happy to share our review on statistical methods for integrating multi'omic microbiome data. This results from a wonderful NIGMS/DMS sponsored collaboration with my brilliant statistics colleagues. I hope you find it helpful! cc @CourtneyRArmour https://t.co/lrXI2PXrZK https://t.co/b2mIbFcKSU" / Twitter
 12:05 AM · Nov 9, 2019
-
-![](https://pbs.twimg.com/media/EI2_yXcX0AM31w3?format=jpg&name=large)
-
 ![](https://pbs.twimg.com/media/EI2_yXcX0AM31w3?format=jpg&name=small)
 
 
