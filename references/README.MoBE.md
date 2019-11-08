@@ -32,7 +32,18 @@ https://ja.wikipedia.org/wiki/建造環境
 ----------
 ## featuring
 
+https://www.nature.com/articles/s41564-019-0593-4
+Home chemical and microbial transitions across urbanization | Nature Microbiology
 
+https://twitter.com/search?q=Home%20chemical%20and%20microbial%20transitions%20across%20urbanization%20%7C%20Nature%20Microbiology&src=typed_query
+
+
+2019年8月2日
+https://www.natureasia.com/ja-jp/srep/pr-highlights/13045
+【微生物学】英国ロンドンで頻繁に手が触れる場所における多剤耐性菌の存在度 | 
+抗生物質耐性ブドウ球菌
+https://www.nature.com/articles/s41598-019-45886-6
+Whole genome sequencing revealed new molecular characteristics in multidrug resistant staphylococci recovered from high frequency touched surfaces in London | Scientific Reports
 
 ----------
 ## people
@@ -122,54 +133,11 @@ Microbial mass movements.
 Zhu YG1, Gillings M2, Simonet P3, Stekel D4, Banwart S5, Penuelas J6,7.
 
 
-
-https://twitter.com/JClinMicro/status/1171021712357515264
-JClinMicro EIC on Twitter: "Metagenomic Next-Generation Sequencing of the 2014 Ebola Virus Disease Outbreak in the Democratic Republic of the Congo https://t.co/yT8v3ZZWLR @ASMicrobiology #ASMClinMicro https://t.co/6ghIbBsX4h"
-8:25 PM · Sep 9, 2019
-
-
-http://metasub.org/the-olympiome-project/
-The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. 
-
-https://www.ncbi.nlm.nih.gov/pubmed/31442400
-Cell. 2019 Aug 22;178(5):1057-1071.e11. doi: 10.1016/j.cell.2019.07.018.
-Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic.
-Grubaugh ND1, 
-https://twitter.com/NathanGrubaugh/status/1164553815376441350
-Nathan Grubaugh on Twitter: 
-12:04 AM · Aug 23, 2019
-https://www.youtube.com/watch?v=zDyws3JBgak
-Uncovering Hidden Zika Outbreaks / Cell, August 22, 2019 (Vol. 178, Issue 5) - YouTube
-
-https://twitter.com/ljcoin/status/1146968852070162432
-Lachlan Coin on Twitter: ".@pathogenomenick showing how realtime genomic epidemiology using @nanopore seq could pinpoint cross border transmission of Ebola (colours indicate country) #UQwinterschool https://t.co/GD3AvJOq9z"
-11:27 AM · Jul 5, 2019
-
 https://www.ncbi.nlm.nih.gov/pubmed/30863381
 Front Microbiol. 2019 Feb 26;10:319. doi: 10.3389/fmicb.2019.00319. eCollection 2019.
 Metagenomic Approach to Characterizing Disease Epidemiology in a Disease-Endemic Environment in Northern Thailand.
 Takhampunya R1, Korkusol A1, Pongpichit C2, Yodin K2, Rungrojn A1, Chanarat N1, Promsathaporn S1, Monkanna T1, Thaloengsok S1, Tippayachai B1, Kumfao N2, Richards AL3, Davidson SA1.
  The bacterial 16S rRNA gene was amplified and sequenced with the Illumina. 
-
-https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/
-109．ブラジルでの小頭症は1個のアミノ酸が置換したジカウイルスによる | 一般社団法人　予防衛生協会
-2018/01/22
-ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。
-ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
-1. Faria, N.R., Azeved, R.S.S., Kraemer, M.U.G. et al.: Zika virus in the Americas: Early epidemiological and genetic findings. Science, 352, 345-349, 2016.
-
-https://www.ncbi.nlm.nih.gov/pubmed/27013429
-Science. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
-Zika virus in the Americas: Early epidemiological and genetic findings.
-Faria NR
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/figure/F3/
-Timescale of the introduction of ZIKV to the Americas.
-(B) Posterior distributions of the estimated ages (TMRCAs) of clades A and B, estimated in BEAST software using the best-fitting evolutionary model (table S2). The time and duration of the three events (i-iii) discussed in the main text are shown.
-
-- We estimate that the date of the most recent common ancestor (TMRCA) of all Brazilian genomes (clade B) is Aug 2013 to Apr 2014 (95% Bayesian credible intervals, BCIs; point estimate = mid Dec 2013; Fig. 3B). The common ancestor of the French Polynesian and America lineages (clade A) was dated to Dec 2012 to Sep 2013 (BCIs; point estimate = late May 2013; Fig. 3B).
-- There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
-
 
 
 
@@ -271,12 +239,14 @@ https://www.ncbi.nlm.nih.gov/pubmed/30819245
 Microbiome. 2019 Feb 28;7(1):35. doi: 10.1186/s40168-019-0648-z.
 Urban metagenomics uncover antibiotic resistance reservoirs in coastal beach and sewage waters.
 Fresia P1,2,3, Antelo V1,3, Salazar C1,3, Giménez M1,3,4, D'Alessandro B5, Afshinnekoo E6,7,8, Mason C6,7,9,8, Gonnet GH3,10,11, Iraola G12,13,14,15.
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0648-z
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396544/
 
-
-臨床現場の表面に存在する微生物叢を他の建築環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
-https://www.nature.com/articles/s41467-019-08864-0
-Man-made microbial resistances in built environments | Nature Communications
+臨床現場の表面に存在する微生物を他の人工環境と比較。メタゲノミクス解析、ゲノムとプラスミドの再構築。閉じ込めと清掃の増加は、微生物多様性の喪失と、グラム陽性菌（ActinobacteriaとFirmicutes）からグラム陰性菌（Proteobacteria）への移行と関連。微生物多様性の喪失が耐性の増加と相関。
+https://www.ncbi.nlm.nih.gov/pubmed/30814504
+Nat Commun. 2019 Feb 27;10(1):968. doi: 10.1038/s41467-019-08864-0.
+Man-made microbial resistances in built environments.
+Mahnert A1, Moissl-Eichinger C2,3, Zojer M4, Bogumil D5, Mizrahi I5, Rattei T4, Martinez JL6, Berg G7,3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6393488/
 
 https://twitter.com/susanprescott88/status/1101464494151294977
 Susan Prescott MDPhD on Twitter: "New paper on #microbiome of the built environment concludes "Our results highlight that the loss of microbial diversity correlates with an increase in resistance...it is time to reconsider our behavior in the built environment" https://t.co/cax1A5oPJQ"
@@ -414,6 +384,14 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3945812/
 ----------
 ## air
 空気中の微生物
+
+https://twitter.com/gigazine/status/1127000544873046016
+GIGAZINE(ギガジン) on Twitter: "屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に https://t.co/YjDdocWQur"
+8:00 PM - 10 May 2019
+
+https://gigazine.net/news/20190511-hidden-air-pollution-in-home/
+屋内の空気汚染は時に屋外よりも深刻、料理や掃除が汚染の原因に - GIGAZINE
+しかし、この分野には専門家が少なかったことから、屋外の大気汚染に関する専門家を引き入れて屋内空気汚染についての研究をしてもらうケースが多かったとのこと。コロラド大学の化学者であるDelphine Farmer氏や、同じくコロラド大学の環境エンジニアであるMarina Vance氏は、「微生物と環境化学についての家の観察(House Observations of Microbial and Environmental Chemistry)」、通称「Homechem」という呼ばれるプロジェクトで屋内の空気汚染について研究しています。
 
 https://link.springer.com/article/10.1007/s00248-019-01348-0
 Bacillus-Dominant Airborne Bacterial Communities Identified During Asian Dust Events | SpringerLink
@@ -556,7 +534,11 @@ Published on Aug 25, 2014
 ## hospital
 病院
 
-2019年10月3日 
+2019/10/14
+https://www.carenet.com/news/general/hdn/48772
+帝王切開で生まれた子どもの腸内細菌は、その子どもが生まれた病院内で見られる細菌を反映したものであったのに対し、経腟分娩で生まれた子どもの腸内細菌の組成は母親の腸内環境に類似していた
+
+2019年10月3日
 https://www.natureasia.com/ja-jp/nature/574/7776/s41586-019-1560-1
 帝王切開分娩における微生物相の発達不全および日和見病原体の定着 | 
 帝王切開による分娩児では、母親からのバクテロイデス属（Bacteroides）の株の伝播がほとんどなく、病院の環境に関連する日和見病原体［エンテロコッカス属（Enterococcus）、エンテロバクター属（Enterobacter）、クレブシエラ属（Klebsiella）の種など］が高レベルで定着していることを報告する。
