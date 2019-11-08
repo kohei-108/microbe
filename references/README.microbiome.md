@@ -13,8 +13,9 @@ Last Update: 2019-07
 - [MAG](#mag) Metagenome Assembled Genome
 - [forensic](#forensic) 法科学
 - [host](#host) 宿主
-- [16S](#16s)
 - [mothur-qiime](#mothur-qiime)
+- [16S](#16s)
+- [amplicon-shotgun](#amplicon-shotgun)
 - [American Gut](#american-gut)
 - [Artificial sweeteners](#artificial-sweeteners)
 - [Earth Microbiome Project](#emp)
@@ -22,7 +23,6 @@ Last Update: 2019-07
 - [unclassified](#unclassified)
 - [people](#people)
   - [duvallet](#duvallet) Claire Duvallet
-- [amplicon-shotgun](#amplicon-shotgun)
 
 ----------
 
@@ -33,110 +33,23 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 ## featuring
 
-----------
-## enterotype
-
-https://www.ncbi.nlm.nih.gov/pubmed/21508958
-Nature. 2011 May 12;473(7346):174-80. doi: 10.1038/nature09944. Epub 2011 Apr 20.
-Enterotypes of the human gut microbiome.
-
-http://daichou.com/enterotype.html
-人の腸内細菌叢（Enterotype)は下のような３つの「タイプ」があることが解りました。これは国籍、年齢、人種による差では無いとのことです。
-
-https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03303_03
-医学書院／週刊医学界新聞(第3303号 2018年12月24日)
-腸内細菌叢と循環器疾患の関連 
-山下 智也（
-　ヒトの腸内細菌叢を糞便の優位菌によって3種類（enterotypeと言われる3型）に分類できるという報告がある3）。Bacteroides属が優位なenterotype I，Prevotella属が優位なenterotype II，Ruminococcus属が優位なenterotype IIIだ。その後の報告では，必ずしもこの分類で全てが処理できるわけではなさそうだが，
-
-2016年・平成28年4月16日
-https://www.jstage.jst.go.jp/article/naika/105/9/105_1706/_pdf
-平田 健一 山下 智也
-　ヒトの腸内細菌叢はBacteroides属菌が優位な
-Enterotype I，Prevotella属菌が優位なEnterotype
-II，Ruminococcus属菌が優位なEnterotype IIIの3
-つの群に分類できる．そして，少数例の検討で
-はあるが，頸動脈狭窄患者でEnterotype IIIが多
-いことが報告された1）．
-
-2011-10-27
-https://syodokukai.exblog.jp/14833751/
-長期的な食事パターンと腸内細菌エンテロタイプとの関連 : 一人抄読会
-最近、腸内細菌叢の特徴を主に3つのタイプ（Bacteroides, Prevotela, Ruminococcus）に分類する「エンテロタイプ」という考え方が提案されている。エンテロタイプの背景因子は不明で、少なくとも国籍、性別、年齢、BMIとは無関係である。
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/20090831
-PLoS Genet. 2010 Jan 15;6(1):e1000808. doi: 10.1371/journal.pgen.1000808.
-The systemic imprint of growth and its uses in ecological (meta)genomics.
-Vieira-Silva S1, Rocha EP.
-Our predictor allows inferring growth rates in the vast majority of uncultivable prokaryotes and paves the way to the understanding of community dynamics from metagenomic data.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797632/
-
-
-----------
-## culturomics
-
-https://www.ncbi.nlm.nih.gov/pubmed/29937540
-Nat Rev Microbiol. 2018 May 1:540-550. doi: 10.1038/s41579-018-0041-0.
-Culturing the human microbiota and culturomics.
-Lagier JC1, Dubourg G1, Million M1, Cadoret F2, Bilen M1,3, Fenollar F4, Levasseur A1, Rolain JM1, Fournier PE4, Raoult D5.
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/23291779
-Eur J Clin Microbiol Infect Dis. 2013 May;32(5):637-45. doi: 10.1007/s10096-012-1787-3. Epub 2013 Jan 6.
-The gut microbiota of a patient with resistant tuberculosis is more comprehensively studied by culturomics than by metagenomics.
-Dubourg G1, Lagier JC, Armougom F, Robert C, Hamad I, Brouqui P, Raoult D.
-By culture, only 39 bacterial species were identified, including one new species, as well as three species that have not been previously observed in the human gut. The pyrosequencing showed only 18 phylotypes, detecting a lower number of bacterial species than the culture techniques. Only two phylotypes overlapped with culturomics. In contrast, an amount of chloroplasts was found. Additionally, specific molecular eukaryote detection found three fungal species. We recovered, for the first time, more cultivable than non-cultivable bacterial species in a patient with a low bacterial load in the gut, demonstrating the depth bias of pyrosequencing. 
-
-
-
-----------
-## amplicon-shotgun
-
-
-targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
-
-https://www.ncbi.nlm.nih.gov/pubmed/28337071
-J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
-International Standards for Genomes, Transcriptomes, and Metagenomes.
-Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
-TABLE 3
-Comparison of metagenomic assay capabilities and limitations
-
-https://www.ncbi.nlm.nih.gov/pubmed/28761145
-Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
-Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
-
-https://www.ncbi.nlm.nih.gov/pubmed/21121044
-Pac Symp Biocomput. 2011:165-76.
-Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
-Shah N1, Tang H, Doak TG, Ye Y.
-
-
-https://twitter.com/Tyu_Shi/status/982940944495403009
-Tyu_Shi on Twitter: "したがって、16S rRNA遺伝子のみの解析をメタゲノム解析と呼ぶのは、マイクロバイオーム業界で常識ではありません。概念としては誤用だと個人的には考えておりますし、古くからメタゲノム解析に関わってきたUC DavisのJ. Eisen等の研究者も、たびたびその誤用を批判しております。… https://t.co/SpajjZUOIW"
-7:19 AM - 8 Apr 2018
-
-https://twitter.com/Tyu_Shi/status/248334905816276993
-Tyu_Shi on Twitter: "Many INSDC entry of 16S rRNA amplicon study use terms "metagenome". troublesome! #GSC14"
-4:17 AM - 19 Sep 2012
-
-https://twitter.com/phylogenomics/status/966887584608567297
-Jonathan Eisen on Twitter: "Not sure where you are going with this but I don't think there can be any debate here - the term "metagenome" and its variants like "metagenomics" clearly refer to genome-scale studies and thus there is simply no way a 16S study should be called "metagenomics"… https://t.co/ScdBSzIzlG"
-11:08 PM - 22 Feb 2018
-
-https://phylogenomics.blogspot.com/2012/08/referring-to-16s-surveys-as.html
-The Tree of Life: Referring to 16S surveys as "metagenomics" is misleading and annoying #badomics #OmicMimicry
 
 
 ----------
 ## updates
 
 ### 2019
+
+
+https://twitter.com/tjsharpton/status/1192820360556793856
+Thomas Sharpton on Twitter: "Published! Happy to share our review on statistical methods for integrating multi'omic microbiome data. This results from a wonderful NIGMS/DMS sponsored collaboration with my brilliant statistics colleagues. I hope you find it helpful! cc @CourtneyRArmour https://t.co/lrXI2PXrZK https://t.co/b2mIbFcKSU" / Twitter
+12:05 AM · Nov 9, 2019
+
+![](https://pbs.twimg.com/media/EI2_yXcX0AM31w3?format=jpg&name=large)
+
+![](https://pbs.twimg.com/media/EI2_yXcX0AM31w3?format=jpg&name=small)
+
+
 
 https://twitter.com/WvSchaik/status/1148595145790689281
 Willem van Schaik on Twitter: "Really interesting approach to link ALL microbiome studies and allow for comparative analyses: https://t.co/PVM3HCi7hT by João Rodriguez #FEMS2019"
@@ -208,6 +121,11 @@ Nice title, nice paper: Microbiome Datasets Are Compositional: And This Is Not O
 https://twitter.com/Tyu_Shi/status/942826707022520320
 Tyu_Shi on Twitter: "まだ記事は少ないが、ヒト腸内メタ関連のDalhousie Universityでのjournal clubのblog。Points of InterestとPoints of Confusionが箇条書きにされているので、元論文自分で読んだ後にblog読んで人との解釈の差異を知る… https://t.co/HdO5AftF7a"
 
+https://www.ncbi.nlm.nih.gov/pubmed/30197908
+Genes Dis. 2017 Sep;4(3):138-148. doi: 10.1016/j.gendis.2017.06.001. Epub 2017 Jun 23.
+Hypothesis Testing and Statistical Analysis of Microbiome.
+Xia Y1,2, Sun J2.
+
 2017-03-13
 http://pediatricsurgery.hatenadiary.jp/entry/2017/03/13/152234
 16S rRNA遺伝子解析の限界と予測メタゲノム解析 - Piphillinの導入 - Note of Pediatric Surgery 
@@ -219,6 +137,63 @@ http://www.natureasia.com/ja-jp/nature/551/7681/nature24460/
 
 3:09 PM - 7 Nov 2017
 beneficial microbes 有益な微生物 https://twitter.com/phylogenomics/status/927991509017866240
+
+----------
+## enterotype
+
+https://www.ncbi.nlm.nih.gov/pubmed/21508958
+Nature. 2011 May 12;473(7346):174-80. doi: 10.1038/nature09944. Epub 2011 Apr 20.
+Enterotypes of the human gut microbiome.
+
+http://daichou.com/enterotype.html
+人の腸内細菌叢（Enterotype)は下のような３つの「タイプ」があることが解りました。これは国籍、年齢、人種による差では無いとのことです。
+
+https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03303_03
+医学書院／週刊医学界新聞(第3303号 2018年12月24日)
+腸内細菌叢と循環器疾患の関連 
+山下 智也（
+　ヒトの腸内細菌叢を糞便の優位菌によって3種類（enterotypeと言われる3型）に分類できるという報告がある3）。Bacteroides属が優位なenterotype I，Prevotella属が優位なenterotype II，Ruminococcus属が優位なenterotype IIIだ。その後の報告では，必ずしもこの分類で全てが処理できるわけではなさそうだが，
+
+2016年・平成28年4月16日
+https://www.jstage.jst.go.jp/article/naika/105/9/105_1706/_pdf
+平田 健一 山下 智也
+　ヒトの腸内細菌叢はBacteroides属菌が優位な
+Enterotype I，Prevotella属菌が優位なEnterotype
+II，Ruminococcus属菌が優位なEnterotype IIIの3
+つの群に分類できる．そして，少数例の検討で
+はあるが，頸動脈狭窄患者でEnterotype IIIが多
+いことが報告された1）．
+
+2011-10-27
+https://syodokukai.exblog.jp/14833751/
+長期的な食事パターンと腸内細菌エンテロタイプとの関連 : 一人抄読会
+最近、腸内細菌叢の特徴を主に3つのタイプ（Bacteroides, Prevotela, Ruminococcus）に分類する「エンテロタイプ」という考え方が提案されている。エンテロタイプの背景因子は不明で、少なくとも国籍、性別、年齢、BMIとは無関係である。
+
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/20090831
+PLoS Genet. 2010 Jan 15;6(1):e1000808. doi: 10.1371/journal.pgen.1000808.
+The systemic imprint of growth and its uses in ecological (meta)genomics.
+Vieira-Silva S1, Rocha EP.
+Our predictor allows inferring growth rates in the vast majority of uncultivable prokaryotes and paves the way to the understanding of community dynamics from metagenomic data.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797632/
+
+
+----------
+## culturomics
+
+https://www.ncbi.nlm.nih.gov/pubmed/29937540
+Nat Rev Microbiol. 2018 May 1:540-550. doi: 10.1038/s41579-018-0041-0.
+Culturing the human microbiota and culturomics.
+Lagier JC1, Dubourg G1, Million M1, Cadoret F2, Bilen M1,3, Fenollar F4, Levasseur A1, Rolain JM1, Fournier PE4, Raoult D5.
+
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/23291779
+Eur J Clin Microbiol Infect Dis. 2013 May;32(5):637-45. doi: 10.1007/s10096-012-1787-3. Epub 2013 Jan 6.
+The gut microbiota of a patient with resistant tuberculosis is more comprehensively studied by culturomics than by metagenomics.
+Dubourg G1, Lagier JC, Armougom F, Robert C, Hamad I, Brouqui P, Raoult D.
+By culture, only 39 bacterial species were identified, including one new species, as well as three species that have not been previously observed in the human gut. The pyrosequencing showed only 18 phylotypes, detecting a lower number of bacterial species than the culture techniques. Only two phylotypes overlapped with culturomics. In contrast, an amount of chloroplasts was found. Additionally, specific molecular eukaryote detection found three fungal species. We recovered, for the first time, more cultivable than non-cultivable bacterial species in a patient with a low bacterial load in the gut, demonstrating the depth bias of pyrosequencing. 
 
 ----------
 ## MAG
@@ -711,6 +686,48 @@ https://ja.wikipedia.org/wiki/16S_rRNA系統解析
 http://www.jarmam.gr.jp/situmon3/16sr-rna.html
 16S rRNAでの微生物同定
 
+----------
+## amplicon-shotgun
+
+targeted amplicon sequencing (16S, 18S, ITS) vs. shotgun sequencing (metagenomics)
+
+https://www.ncbi.nlm.nih.gov/pubmed/28337071
+J Biomol Tech. 2017 Apr;28(1):8-18. doi: 10.7171/jbt.17-2801-006. Epub 2017 Mar 17.
+International Standards for Genomes, Transcriptomes, and Metagenomes.
+Mason CE1, Afshinnekoo E2, Tighe S3, Wu S4, Levy S5.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359768/table/T3/
+TABLE 3
+Comparison of metagenomic assay capabilities and limitations
+
+https://www.ncbi.nlm.nih.gov/pubmed/28761145
+Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
+Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
+Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21121044
+Pac Symp Biocomput. 2011:165-76.
+Comparing bacterial communities inferred from 16S rRNA gene sequencing and shotgun metagenomics.
+Shah N1, Tang H, Doak TG, Ye Y.
+
+ボストン交通システムのマイクロバイオーム
+https://github.com/haruosuz/metasub/tree/master/references#boston-subway-microbiome
+https://microbe.net/2016/06/30/microbes-on-the-boston-t/
+The 16S and shotgun results were mostly complementary. Both showed high abundances of Staphylococcus, Corynebacterium, and Streptococcus. The main difference was that the V4 primers could not detect Propionibacterium acnes: these primers are not ideal for skin microbial communities – which is what the subway most resembled (based on Microbial SourceTracker and correlations in abundance with skin taxa). 
+
+https://twitter.com/Tyu_Shi/status/982940944495403009
+Tyu_Shi on Twitter: "したがって、16S rRNA遺伝子のみの解析をメタゲノム解析と呼ぶのは、マイクロバイオーム業界で常識ではありません。概念としては誤用だと個人的には考えておりますし、古くからメタゲノム解析に関わってきたUC DavisのJ. Eisen等の研究者も、たびたびその誤用を批判しております。… https://t.co/SpajjZUOIW"
+7:19 AM - 8 Apr 2018
+
+https://twitter.com/Tyu_Shi/status/248334905816276993
+Tyu_Shi on Twitter: "Many INSDC entry of 16S rRNA amplicon study use terms "metagenome". troublesome! #GSC14"
+4:17 AM - 19 Sep 2012
+
+https://twitter.com/phylogenomics/status/966887584608567297
+Jonathan Eisen on Twitter: "Not sure where you are going with this but I don't think there can be any debate here - the term "metagenome" and its variants like "metagenomics" clearly refer to genome-scale studies and thus there is simply no way a 16S study should be called "metagenomics"… https://t.co/ScdBSzIzlG"
+11:08 PM - 22 Feb 2018
+
+https://phylogenomics.blogspot.com/2012/08/referring-to-16s-surveys-as.html
+The Tree of Life: Referring to 16S surveys as "metagenomics" is misleading and annoying #badomics #OmicMimicry
 
 ----------
 ## American Gut 
