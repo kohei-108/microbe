@@ -688,8 +688,41 @@ I's eye： クロストリジウム・ディフィシルの真実 | 日本BD
 ----------
 ## Lactobacillus
 
+### Lactobacillus salivarius
+https://www.sciencedirect.com/topics/medicine-and-dentistry/lactobacillus-salivarius
+
 https://ja.wikipedia.org/wiki/乳酸菌LS1
-Lactobacillus salivarius TI2711
+(= Lactobacillus salivarius TI2711)
+
+https://ja.wikipedia.org/wiki/プロバイオティクス
+プロバイオティクス（Probiotics）とは、人体に良い影響を与える微生物（善玉菌）、または、それらを含む製品、食品のこと。
+
+宿主適応に焦点を当てたLactobacillus salivarius株の比較ゲノム
+https://www.ncbi.nlm.nih.gov/pubmed/28942844
+Microbiol Res. 2017 Dec;205:48-58. doi: 10.1016/j.micres.2017.08.008. Epub 2017 Aug 24.
+Comparative genomics of Lactobacillus salivarius strains focusing on their host adaptation.
+Lee JY1, Han GG1, Kim EB2, Choi YJ3.
+https://www.sciencedirect.com/science/article/pii/S0944501317303531
+
+https://www.ncbi.nlm.nih.gov/pubmed/29026656
+Microb Genom. 2017 Jun 13;3(8):e000115. doi: 10.1099/mgen.0.000115. eCollection 2017 Aug.
+Phylogenomics and comparative genomics of Lactobacillus salivarius, a mammalian gut commensal.
+Harris HMB1, Bourin MJB1, Claesson MJ1, O'Toole PW1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610712/
+Fig. 2.
+A phylogenetic tree generated from 938 core genes shows considerable variation in divergence across strains. Branch lengths (continuous black lines) represent evolutionary divergence and strain labels are lined up for ease of comparison (dashed lines). Bootstrap values are included to show robustness of tree topology. The tree is rooted on L. hayakitensis DSM18933T and this branch is artificially reduced to provide a clearer visualisation of the other branch lengths relative to each other. Bar, average number of amino acid substitutions per site.
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610712/bin/mgen-3-115-g002.jpg)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29942291
+Front Microbiol. 2018 Jun 11;9:1244. doi: 10.3389/fmicb.2018.01244. eCollection 2018.
+Comparative Genomics of Lactobacillus acidipiscis ACA-DC 1533 Isolated From Traditional Greek Kopanisti Cheese Against Species Within the Lactobacillus salivarius Clade.
+Kazou M1, Alexandraki V1, Blom J2, Pot B3, Tsakalidou E1, Papadimitriou K1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004923/
+- Lactobacillus acidipiscis belongs to the Lactobacillus salivarius clade and it is found in a variety of fermented foods. 
+- FIGURE 1. Whole genome phylogenetic tree for representative species of the L. salivarius clade. The tree was calculated based on the core-genome and it is presented as a cladogram. Species were separated in two main groups, namely A and B, as depicted in the figure. Weissella kandleri DSM 20593T and Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842T were used as outgroups.
+
+![](https://www.frontiersin.org/files/Articles/324270/fmicb-09-01244-HTML/image_m/fmicb-09-01244-g001.jpg)
 
 ## vaginal microbiota
 膣微生物
