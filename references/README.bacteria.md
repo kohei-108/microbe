@@ -704,12 +704,15 @@ Comparative genomics of Lactobacillus salivarius strains focusing on their host 
 Lee JY1, Han GG1, Kim EB2, Choi YJ3.
 https://www.sciencedirect.com/science/article/pii/S0944501317303531
 
+哺乳類の腸内細菌Lactobacillus salivariusの比較ゲノム。レプリコン（染色体とプラスミド）
 https://www.ncbi.nlm.nih.gov/pubmed/29026656
 Microb Genom. 2017 Jun 13;3(8):e000115. doi: 10.1099/mgen.0.000115. eCollection 2017 Aug.
 Phylogenomics and comparative genomics of Lactobacillus salivarius, a mammalian gut commensal.
 Harris HMB1, Bourin MJB1, Claesson MJ1, O'Toole PW1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610712/
-Fig. 2.
+- Lactobacillus salivarius, a species commonly isolated from the gastrointestinal tract of humans and animals, has been described as having potential probiotic properties and results of previous studies have revealed considerable functional diversity existing on both the chromosomes and plasmids. 
+- The greatest genomic variation lies on the small plasmids, followed by the repA-type circular megaplasmid, with the chromosome varying least of all. Additionally, the presence of extra linear and circular megaplasmids is noted in several strains, while small plasmids are not always present. 
+- Fig. 2.
 A phylogenetic tree generated from 938 core genes shows considerable variation in divergence across strains. Branch lengths (continuous black lines) represent evolutionary divergence and strain labels are lined up for ease of comparison (dashed lines). Bootstrap values are included to show robustness of tree topology. The tree is rooted on L. hayakitensis DSM18933T and this branch is artificially reduced to provide a clearer visualisation of the other branch lengths relative to each other. Bar, average number of amino acid substitutions per site.
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610712/bin/mgen-3-115-g002.jpg)
