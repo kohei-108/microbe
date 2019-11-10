@@ -717,6 +717,12 @@ A phylogenetic tree generated from 938 core genes shows considerable variation i
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610712/bin/mgen-3-115-g002.jpg)
 
+```
+$grep "hayakitensis" prokaryotes.txt | cut -f1,16,17
+Lactobacillus hayakitensis DSM 18933 = JCM 14209	Contig	The University of Tokyo
+Lactobacillus hayakitensis DSM 18933 = JCM 14209	Scaffold	Shanghai Majorbio
+```
+
 https://www.ncbi.nlm.nih.gov/pubmed/29942291
 Front Microbiol. 2018 Jun 11;9:1244. doi: 10.3389/fmicb.2018.01244. eCollection 2018.
 Comparative Genomics of Lactobacillus acidipiscis ACA-DC 1533 Isolated From Traditional Greek Kopanisti Cheese Against Species Within the Lactobacillus salivarius Clade.
