@@ -19,6 +19,8 @@ Last Update: 2019-11
 - [Clostridium](#clostridium) クロストリジウム属
 - [Clostridium difficile](#clostridium-difficile)
 - [Geobacter](#geobacter)
+- [Lactobacillus](#lactobacillus)
+vaginal microbiota
 - [Mycobacterium](#mycobacterium)
 - [Pseudomonas](#pseudomonas)
   - [Pseudomonas aeruginosa](#pseudomonas-aeruginosa)
@@ -685,6 +687,10 @@ I's eye： クロストリジウム・ディフィシルの真実 | 日本BD
 
 ----------
 ## Lactobacillus
+
+https://ja.wikipedia.org/wiki/乳酸菌LS1
+Lactobacillus salivarius TI2711
+
 ## vaginal microbiota
 膣微生物
 
