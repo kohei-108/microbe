@@ -31,9 +31,14 @@ Last month, Japan imported Ebola and four other dangerous viruses in preparation
 - 2014-11-10 [エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー](https://gigazine.net/news/20141110-ebola-virus-mechanism/)
 The Ebola Virus Explained — How Your Body Fights For Survival
 
-
 ----------
 ## Zika
+- https://www.cdc.gov/zika/index.html
+- https://www.cdc.gov/zika/about/index.html
+- https://www.who.int/news-room/fact-sheets/detail/zika-virus
+
+https://en.wikipedia.org/wiki/Zika_virus
+Zika virus is related to the dengue, yellow fever, Japanese encephalitis, and West Nile viruses.[4]
 
 https://ja.wikipedia.org/wiki/ジカ熱
 ジカ熱（Zika fever）もしくはジカウイルス感染症（Zika virus disease）は、フラビウイルス科のジカウイルスによって引き起こされる病気[1]
@@ -41,7 +46,13 @@ https://ja.wikipedia.org/wiki/ジカ熱
 https://ja.wikipedia.org/wiki/ジカウイルス
 
 http://metasub.org/the-olympiome-project/
-The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. 
+Whereas mass events have a role in spreading diseases around the globe, we believe that NGS-based surveillance approaches can be a powerful tool to detect the presence and emergence of microorganisms of potential health interest. The Zika flavirus, which was confined to some regions in the Pacific Ocean and Africa and caused no significant disease, is rapidly spreading. Of relevance, it is believed that it has arrived in Brazil during the 2014 World Cup that brought close 1-million visitors to the country. This project will be repeated during the 2020 Summer Olympic Games (Tokyo), and it could maybe be later used as a model for the surveillance of large cities and during other large-scale human events.
+
+https://twitter.com/silex_transl/status/1192954662749556736
+(1) silex知の文献サービス on Twitter: "ECDCが、フランスでヨーロッパ初の #Zika 患者が発生していたことを確認。8月に3人。「if global temperatures increase, this mosquito may spread further north in Europe」、と。 https://t.co/ppl4ZKgqzK" / Twitter
+8:58 AM · Nov 9, 2019
+https://edition.cnn.com/2019/11/07/health/zika-europe-cases-scn-intl/index.html
+First native Zika cases in Europe confirmed as experts warn climate change could bring more - CNN
 
 https://www.ncbi.nlm.nih.gov/pubmed/31442400
 Cell. 2019 Aug 22;178(5):1057-1071.e11. doi: 10.1016/j.cell.2019.07.018.
@@ -52,7 +63,6 @@ Nathan Grubaugh on Twitter:
 12:04 AM · Aug 23, 2019
 https://www.youtube.com/watch?v=zDyws3JBgak
 Uncovering Hidden Zika Outbreaks / Cell, August 22, 2019 (Vol. 178, Issue 5) - YouTube
-
 
 https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/
 109．ブラジルでの小頭症は1個のアミノ酸が置換したジカウイルスによる | 一般社団法人　予防衛生協会
@@ -106,10 +116,10 @@ https://gigazine.net/news/20141110-ebola-virus-mechanism/
 https://www.youtube.com/watch?v=sRv19gkZ4E0
 The Ebola Virus Explained — How Your Body Fights For Survival - YouTube
 
-
-
 ----------
 ## updates
+
+ドラマ『ホット・ゾーン』に学ぶリスクとの向き合い方
 
 2019年10月15日（火）11時00分
 https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
@@ -123,6 +133,7 @@ https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2662
 ホット・ゾーン｜番組紹介｜ナショナル ジオグラフィック (TV)
 https://www.youtube.com/watch?v=6YxNYnHTxAg
 The Hot Zone: Official Trailer | National Geographic - YouTube
+
 
 https://twitter.com/NatureNews/status/1185903524242165761
 Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP" / Twitter
