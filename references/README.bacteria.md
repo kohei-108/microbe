@@ -712,6 +712,7 @@ Harris HMB1, Bourin MJB1, Claesson MJ1, O'Toole PW1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610712/
 - Lactobacillus salivarius, a species commonly isolated from the gastrointestinal tract of humans and animals, has been described as having potential probiotic properties and results of previous studies have revealed considerable functional diversity existing on both the chromosomes and plasmids. 
 - The greatest genomic variation lies on the small plasmids, followed by the repA-type circular megaplasmid, with the chromosome varying least of all. Additionally, the presence of extra linear and circular megaplasmids is noted in several strains, while small plasmids are not always present. 
+- Lactobacillus hayakitensis DSM18933T was also included in the study as a related outgroup. 
 - Fig. 2.
 A phylogenetic tree generated from 938 core genes shows considerable variation in divergence across strains. Branch lengths (continuous black lines) represent evolutionary divergence and strain labels are lined up for ease of comparison (dashed lines). Bootstrap values are included to show robustness of tree topology. The tree is rooted on L. hayakitensis DSM18933T and this branch is artificially reduced to provide a clearer visualisation of the other branch lengths relative to each other. Bar, average number of amino acid substitutions per site.
 
