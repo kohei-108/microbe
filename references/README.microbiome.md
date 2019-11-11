@@ -10,7 +10,6 @@ Last Update: 2019-07
 
 - [featuring](#featuring)
 - [updates](#updates)
-- [MAG](#mag) Metagenome Assembled Genome
 - [forensic](#forensic) 法科学
 - [host](#host) 宿主
 - [mothur-qiime](#mothur-qiime)
@@ -167,16 +166,6 @@ https://syodokukai.exblog.jp/14833751/
 最近、腸内細菌叢の特徴を主に3つのタイプ（Bacteroides, Prevotela, Ruminococcus）に分類する「エンテロタイプ」という考え方が提案されている。エンテロタイプの背景因子は不明で、少なくとも国籍、性別、年齢、BMIとは無関係である。
 
 ----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/20090831
-PLoS Genet. 2010 Jan 15;6(1):e1000808. doi: 10.1371/journal.pgen.1000808.
-The systemic imprint of growth and its uses in ecological (meta)genomics.
-Vieira-Silva S1, Rocha EP.
-Our predictor allows inferring growth rates in the vast majority of uncultivable prokaryotes and paves the way to the understanding of community dynamics from metagenomic data.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797632/
-
-
-----------
 ## culturomics
 
 https://www.ncbi.nlm.nih.gov/pubmed/29937540
@@ -191,92 +180,6 @@ Eur J Clin Microbiol Infect Dis. 2013 May;32(5):637-45. doi: 10.1007/s10096-012-
 The gut microbiota of a patient with resistant tuberculosis is more comprehensively studied by culturomics than by metagenomics.
 Dubourg G1, Lagier JC, Armougom F, Robert C, Hamad I, Brouqui P, Raoult D.
 By culture, only 39 bacterial species were identified, including one new species, as well as three species that have not been previously observed in the human gut. The pyrosequencing showed only 18 phylotypes, detecting a lower number of bacterial species than the culture techniques. Only two phylotypes overlapped with culturomics. In contrast, an amount of chloroplasts was found. Additionally, specific molecular eukaryote detection found three fungal species. We recovered, for the first time, more cultivable than non-cultivable bacterial species in a patient with a low bacterial load in the gut, demonstrating the depth bias of pyrosequencing. 
-
-----------
-## MAG
-Metagenome Assembled Genome (MAG)
-
-https://www.ddbj.nig.ac.jp/ddbj/qualifiers.html
-DDBJ Qualifier key
-metagenome_source
-定義	Metagenome Assembled Genome (MAG) として得られた配列、すなわち、metagenome から単一 taxon として assemble された場合に、その由来となった metagenome を記載します。
-
-2019年4月25日
-https://www.natureasia.com/ja-jp/nature/highlights/98543
-Nature ハイライト：ヒト腸内微生物相の構成をこれまでにない分解能で明らかにする
-、1万1850のヒト腸のマイクロバイオームから、9万2143のメタゲノムアセンブリーによる再構築ゲノム（MAG）を得て、1952種の未培養の候補細菌を特定した。
-、系統発生学的多様性を281％増大させた。
-、数百の新しい生合成遺伝子クラスターをコードしていることが分かった。
-https://www.nature.com/articles/s41586-019-0965-1
-A new genomic blueprint of the human gut microbiota | Nature
-Phylogenetic diversity was quantified by the sum of branch lengths using the phytools R package59.
-
-
-https://twitter.com/jgi/status/1106429999974772736
-Joint Genome Inst. on Twitter: "Read "Novel insights from uncultivated genomes of the global human gut #microbiome" in @nature from @BerkeleyLab @LBNLBioSci @jgi and @GladstoneInst @UCSF @czbiohub researchers: https://t.co/5dUrX7zHzd #BioEGSB #DataScience… https://t.co/ExoEkSqpRp"
-1:40 AM - 15 Mar 2019
-![](https://pbs.twimg.com/media/D1rUODCUgAA8bDz.jpg)
-
-https://twitter.com/TrendsMicrobiol/status/1106251713122578433
-Trends Microbiol on Twitter: "Sam Minot spotlights how de novo assembly vastly expands the known microbial universe of the gut microbiome https://t.co/kyUgu6tu1Q"
-1:52 PM - 14 Mar 2019
-https://www.sciencedirect.com/science/article/pii/S0966842X19300587
-
-https://www.ncbi.nlm.nih.gov/pubmed/30867587
-Nature. 2019 Mar 13. doi: 10.1038/s41586-019-1058-x. [Epub ahead of print]
-Novel insights from uncultivated genomes of the global human gut microbiome.
-Nayfach S1,2, Shi ZJ3,4, Seshadri R5,6, Pollard KS3,4,7, Kyrpides N8,9.
-
-2019Feb28
-https://bibgraph.hpcr.jp/abst/pubmed/30816235
-メタゲノム集合ゲノムはロシアのカムチャツカにおける2つの温泉プールの微生物多様性への新しい洞察を提供する - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
-
-再現性のあるパイプライン
-https://github.com/WatsonLab/MAGpy
-https://www.ncbi.nlm.nih.gov/pubmed/30418481
-Bioinformatics. 2018 Nov 10. doi: 10.1093/bioinformatics/bty905. [Epub ahead of print]
-MAGpy: a reproducible pipeline for the downstream analysis of metagenome-assembled genomes (MAGs).
-Stewart RD1, Auffret M2, Snelling TJ3, Roehe R2, Watson M1.
-
-未培養原核生物のゲノム
-https://www.ncbi.nlm.nih.gov/pubmed/30266101
-Microbiome. 2018 Sep 28;6(1):173. doi: 10.1186/s40168-018-0550-0.
-Genomes from uncultivated prokaryotes: a comparison of metagenome-assembled and single-amplified genomes.
-Alneberg J1, Karlsson CMG2, Divne AM3, Bergin C3, Homa F3, Lindh MV2,4, Hugerth LW1,5, Ettema TJG3, Bertilsson S6, Andersson AF7, Pinhassi J8.
-
-http://kazumaxneo.hatenablog.com/entry/2018/10/09/003000
-NGSデータまたはアセンブリからバクテリアやアーキアのtaxanomic assignmentを行い、ゲノムのnoveltyなどを評価する MIGA - macでインフォマティクス
-　微生物ゲノムアトラス（MiGA）プロジェクトは、ANIに基づいてクエリーゲノムまたはアセンブリされたコンティグ配列の頑強な分類学的分類を提供する。
-　さらに、クエリーゲノム配列は、単離されたが分類されていないゲノムや、metagenome-assembled genomes（MAG）およびsingle-cell amplified genome（SAG）コレクションに対して検索し、
-
-http://kazumaxneo.hatenablog.com/entry/2018/05/08/212758
-クラスタを自動で決めてビニングする BinSanity - macでインフォマティクス
-。Metagenome-assembled genomes （MAG）にcontigを分類することは、メタゲノムデータを分析する際に直面するハードルの1つである。
-
-https://www.ncbi.nlm.nih.gov/pubmed/29234139
-Nat Microbiol. 2018 Feb;3(2):253. doi: 10.1038/s41564-017-0083-5.
-Author Correction: Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life.
-Parks DH1, Rinke C1, Chuvochina M1, Chaumeil PA1, Woodcroft BJ1, Evans PN1, Hugenholtz P2, Tyson GW3.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28894102
-Nat Microbiol. 2017 Nov;2(11):1533-1542. doi: 10.1038/s41564-017-0012-7. Epub 2017 Sep 11.
-Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life.
-Parks DH1, Rinke C1, Chuvochina M1, Chaumeil PA1, Woodcroft BJ1, Evans PN1, Hugenholtz P2, Tyson GW3.
-
-2017年09月12日
-http://crisp-bio.blog.jp/archives/3772216.html
-メタゲノムからアッセンブルしたゲノムにより微生物系統樹30％以上拡張
-
-2017-03
-https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/227988/1/scr_2017_56.pdf
-Title 琵琶湖沖に生息する細菌・ウイルスのメタゲノム解析
-Author(s) 岡崎, 友輔
-細菌メタゲノムにおいては、SPAdes でアセンブリされた塩基配列断片に対し、4-mer および
-サンプル間のカバレッジの差異を用いてクラスタリングする手法(binning) を用いた。これによ
-り、各細菌系統の MAG(Metagenome Assembled Genome)を構築し、琵琶湖の表水層および
-深水層に生息する優占的な細菌系統のゲノムを 90％以上の Completeness で得ることができ
-た。
-
 
 
 ----------
@@ -800,12 +703,6 @@ https://jp.illumina.com/content/dam/illumina-marketing/apac/japan/documents/pdf/
 ヒトの健康における細菌およびメタゲノムイルミナテクノロジーを使用した最新論文の概要
 https://jp.illumina.com/science/publication-reviews.html
 論文集 | 最近発表された研究の要点
-
-https://www.jstage.jst.go.jp/article/johokanri/55/3/55_167/_html/-char/ja
-メタゲノム解析の現状と将来　知識データベースの開発
-森 宙史, 山田 拓司, 黒川 顕
-55 巻 (2012) 3 号 p. 167-175
-さらに大規模なプロジェクトとして進行中なのが，2010年に日本を除く米欧中を中心とした12か国70人の研究者が立ち上げたEMP（Earth Microbiome Project）10)である。
 
 山田拓司 著
 
