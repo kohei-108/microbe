@@ -19,6 +19,8 @@ Last Update: 2019-11
 - [Clostridium](#clostridium) クロストリジウム属
 - [Clostridium difficile](#clostridium-difficile)
 - [Geobacter](#geobacter)
+  - [Inoue](#inoue) Inoue Kengo
+  - [Geobacter_Shewanella](#geobacter_shewanella)
 - [Lactobacillus](#lactobacillus)
 vaginal microbiota
 - [Mycobacterium](#mycobacterium)
@@ -42,8 +44,8 @@ vaginal microbiota
 - [Legionella](#legionella) レジオネラ
 - [Wolbachia](#wolbachia) ボルバキア
 - [people](#people)
-  - [Gilmore](gilmore) Michael S. Gilmore
   - [amachi](#amachi) Amachi Seigo
+  - [Gilmore](#gilmore) Michael S. Gilmore
 - [excerpt](#excerpt) 抜粋［引用］
 
 ----------
@@ -56,87 +58,6 @@ CPR（Candidate Phyla radiation）は、細菌の巨大系統群である。培�
 系統樹からは大古代の分岐と推定され、ほかの全ての細菌と姉妹群を形成する。
 
 ![https://en.wikipedia.org/wiki/Tree_of_life_(biology)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png/220px-A_Novel_Representation_Of_The_Tree_Of_Life.png)
-
-----------
-### Geobacter_Shewanella
-- https://mra.asm.org/search/Geobacter
-- https://mra.asm.org/search/Shewanella
-
-2018.06.25
-https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
-バイオミディア
-pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
-モデル生物の
-Shewanella属，Geobacter属細菌では，複数のシトクロ
-ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
-結ぶ電子回路として働く1,2)．
-
-https://www.ncbi.nlm.nih.gov/pubmed/29748402
-Genome Announc. 2018 May 10;6(19). pii: e00352-18. doi: 10.1128/genomeA.00352-18.
-Complete Genome Sequence of Geobacter sulfurreducens Strain YM18, Isolated from River Sediment in Japan.
-Inoue K1, Ogura Y2, Kawano Y3, Hayashi T2.
-
-2016
-IFO 公益財団法人発酵研究所
-http://www.ifo.or.jp/rc_pdf/30.pdf
-微生物による有機物の化学エネルギーから
-電気エネルギーへの変換能力解明に向けた
-基礎的研究
-井　上　謙　吾
-宮崎大学農学部
-方法：
-著者らが分離した新規分離発電株 YM18 株につい
-て，全ゲノムを決定し，既報の発電株 G. sulfurreducens
-PCA 株，KN400 株との比較ゲノム解析を行った．
-結果・考察：
-YM18 株の全ゲノム配列を決定したところ，約
-3.7 Mbp で，3,354 の ORF を持っており，PCA 株に対
-して，122,022 個の SNPs を有していた．発電能力が
-PCA 株よりも高い YM18 株と KN400 株のみに共通す
-る遺伝子が35個見いだされ，これらの遺伝子が高い発
-電能力に何らかの役割を果たしている可能性が考えら
-れた．
-
-2016-2017
-http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
-磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
-主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
-
-2014
-https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
-細胞外電子伝達 : 固体を呼吸基質とする微生物たち
-加藤 創一郎
-https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
-鉄 還元 能 を持つ Geobacter属や Shewanella
-
-2013.03.29 
-https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
-バイオミディア
-pdf電子を放出する微生物 …井上　謙吾…（132）
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
-これまでに詳細な研究が行われてきた鉄還元菌
-Shewanella oneidensis，Geobacter sulfurreducensでは
-効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
-を補因子とするシトクロムcが利用される2)．
-
-2011-12
-https://ci.nii.ac.jp/naid/40019971881
-微生物の細胞外電子伝達
-Microbial Extracellular Electron Transfer
-井上 謙吾
-https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
-鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
-先駆的な研究がなされてきた。
-図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
-
-2009-12
-環境バイオテクノロジー学会
-https://ci.nii.ac.jp/naid/40018914443
-微生物燃料電池での電流生産を可能にするShewanella oneidensisの細胞外電子伝達機構
-https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
-異化的金属還元細菌（dissimilatory
-metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
 
 ----------
 ## heavy metals
@@ -828,6 +749,15 @@ The G. sulfurreducens genome has four different genes coding for putative ArsR-S
 - REFERENCES
 6. Bentley R, Chasteen TG. 2002. Microbial methylation of metalloids: arsenic, antimony, and bismuth. Microbiol Mol Biol Rev 66:250–271. 
 
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/22114840
+Adv Microb Physiol. 2011;59:1-100. doi: 10.1016/B978-0-12-387661-4.00004-5.
+Geobacter: the microbe electric's physiology, ecology, and practical applications.
+Lovley DR1, Ueki T, Zhang T, Malvankar NS, Shrestha PM, Flanagan KA, Aklujkar M, Butler JE, Giloteaux L, Rotaru AE, Holmes DE, Franks AE, Orellana R, Risso C, Nevin KP.
+
+
+
 ファージ
 https://www.ncbi.nlm.nih.gov/pubmed/25083935
 ISME J. 2015 Feb;9(2):333-46. doi: 10.1038/ismej.2014.128. Epub 2014 Aug 1.
@@ -1023,25 +953,64 @@ Michigan State University 2011 President's Report: Zapping nuclear waste. - YouT
 http://sustainablejapan.net/?p=452
 発電しながら放射能汚染土壌を浄化する微生物「ジオバクター」の謎、ミシガン州立大が解明 | SJN News　再生可能エネルギー最新情報
 
-2011
-http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
-微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
-
 https://wired.jp/2011/09/16/ウランの地下水汚染を防ぐ細菌、そのメカニズム/
 ジオバクター科の細菌は、ウラン鉱山等の地下水汚染防止に使われてきた。その仕組みは今までわかっていなかったが、このほどその一部を明らかにする研究が発表された。
-
-
 
 https://twitter.com/Kyukimasa/status/1146406334897651712
 ゆきまさかずよし on Twitter: "”電線バクテリア” https://t.co/XLndiO79k3 鉄還元菌と硝酸還元菌が導電性の生きたケーブルで繋がって電子を受け渡して共生しているという話。 1980年代になって発見されてから多くの種が発見されて研究進んでる(生物燃料電池とかの応用も)"
 9:12 AM - 3 Jul 2019
 ここ最近、電気微生物の研究進んでるとは聞いたけど、検索してたら鉄還元細菌ジオバクター
 
-https://www.nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
-Wired Bacteria Form Nature’s Power Grid: ‘We Have an Electric Planet’ - The New York Times
-Geobacter
-Shewanella
+----------
 
+### Inoue
+Inoue Kengo
+
+https://www.ncbi.nlm.nih.gov/pubmed/29748402
+Genome Announc. 2018 May 10;6(19). pii: e00352-18. doi: 10.1128/genomeA.00352-18.
+Complete Genome Sequence of Geobacter sulfurreducens Strain YM18, Isolated from River Sediment in Japan.
+Inoue K1, Ogura Y2, Kawano Y3, Hayashi T2.
+
+2016
+IFO 公益財団法人発酵研究所
+http://www.ifo.or.jp/rc_pdf/30.pdf
+微生物による有機物の化学エネルギーから
+電気エネルギーへの変換能力解明に向けた
+基礎的研究
+井　上　謙　吾
+宮崎大学農学部
+方法：
+著者らが分離した新規分離発電株 YM18 株につい
+て，全ゲノムを決定し，既報の発電株 G. sulfurreducens
+PCA 株，KN400 株との比較ゲノム解析を行った．
+結果・考察：
+YM18 株の全ゲノム配列を決定したところ，約
+3.7 Mbp で，3,354 の ORF を持っており，PCA 株に対
+して，122,022 個の SNPs を有していた．発電能力が
+PCA 株よりも高い YM18 株と KN400 株のみに共通す
+る遺伝子が35個見いだされ，これらの遺伝子が高い発
+電能力に何らかの役割を果たしている可能性が考えら
+れた．
+
+2013.03.29 
+https://www.sbj.or.jp/sbj/sbj_vol90_no03.html
+バイオミディア
+pdf電子を放出する微生物 …井上　謙吾…（132）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9003/9003_biomedia_1.pdf
+これまでに詳細な研究が行われてきた鉄還元菌
+Shewanella oneidensis，Geobacter sulfurreducensでは
+効率的な細胞外への電子移動には主にc型ヘム（ヘムc）
+を補因子とするシトクロムcが利用される2)．
+
+2011-12
+https://ci.nii.ac.jp/naid/40019971881
+微生物の細胞外電子伝達
+Microbial Extracellular Electron Transfer
+井上 謙吾
+https://www.jseb.jp/wordpress/wp-content/uploads/11-12-033.pdf
+鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に
+先駆的な研究がなされてきた。
+図 3．Geobacter sulfurreducens（左）と Shewanella oneidensis（右）における予想細胞外電子伝達モデル。
 
 https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_article/-char/ja/
 海外だより
@@ -1050,6 +1019,61 @@ Lovley研究室でのGeobacter 属細菌と微生物燃料電池の研究
 2008 年 46 巻 7 号 p. 509-513
 https://www.jstage.jst.go.jp/article/kagakutoseibutsu/46/7/46_7_509/_pdf/-char/ja
 
+----------
+### Geobacter_Shewanella
+- https://mra.asm.org/search/Geobacter
+- https://mra.asm.org/search/Shewanella
+
+https://www.nytimes.com/2019/07/01/science/bacteria-microbes-electricity.html
+Wired Bacteria Form Nature’s Power Grid: ‘We Have an Electric Planet’ - The New York Times
+Geobacter
+Shewanella
+
+2018.06.25
+https://www.sbj.or.jp/sbj/sbj_vol95_no12.html
+バイオミディア
+pdf環境中の電子移動と微生物…鹿島 裕之…（ 739 ）
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9512/9512_biomedia_1.pdf
+モデル生物の
+Shewanella属，Geobacter属細菌では，複数のシトクロ
+ムcタンパク質が呼吸鎖のある内膜と細胞外膜表面とを
+結ぶ電子回路として働く1,2)．
+
+https://www.ncbi.nlm.nih.gov/pubmed/28871245
+Front Microbiol. 2017 Aug 21;8:1584. doi: 10.3389/fmicb.2017.01584. eCollection 2017.
+Comparative Genomic Analysis of Neutrophilic Iron(II) Oxidizer Genomes for Candidate Genes in Extracellular Electron Transfer.
+He S1,2,3, Barco RA4,5, Emerson D4, Roden EE1,2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5566968/
+- extracellular electron transfer (EET).
+- EET systems have been extensively studied in model Fe(III)-reducing bacteria (FeRB), such as Geobacter sulfurreducens and Shewanella oneidensis, for which electrons from the oxidation of organic substrates are passed to extracellular Fe(III) minerals. 
+- Like the Fe(III)-reducing Geobacter and Shewanella spp., most neutrophilic FeOB are Gram-negative bacteria with the inner and outer membranes separated by a periplasmic space, thus EET systems also need to span the periplasm to bridge the outer membrane to the inner membrane. 
+- Conductive nanowires
+Alternative to the direct contact between extracellular Fe and a dedicated outer membrane Fe(II) oxidase, EET might be achieved through conductive nanowires analogous to those known for Geobacter and Shewanella, that allow for long-range EET over micrometer distances (Reguera et al., 2005; Gorby et al., 2006).
+
+
+2016-2017
+http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
+磁性粒子生産能を有するジオバクター属細菌の コレクションとその応用
+主な異化的鉄還元細菌としてGeobacter属細菌(ジオバクター)とShewanella属細菌(シュ ワネラ)が挙げられます。
+
+2014
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_article/-char/ja/
+細胞外電子伝達 : 固体を呼吸基質とする微生物たち
+加藤 創一郎
+https://www.jstage.jst.go.jp/article/jsmeja/29/2/29_KJ00009468463/_pdf
+鉄 還元 能 を持つ Geobacter属や Shewanella
+
+2011
+http://www.jseb.jp/jeb/11-0102/11-12-033.pdf
+微生物の細胞外電子伝達鉄還元細菌の細胞外電子伝達についての研究は Shewanella oneidensis や Geobacter sulfurreducens を中心に 先駆的な研究がなされてきた。
+
+2009-12
+環境バイオテクノロジー学会
+https://ci.nii.ac.jp/naid/40018914443
+微生物燃料電池での電流生産を可能にするShewanella oneidensisの細胞外電子伝達機構
+https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
+異化的金属還元細菌（dissimilatory
+metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
 
 
 ----------
