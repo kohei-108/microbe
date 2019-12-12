@@ -3,6 +3,18 @@
 - [danknights](#danknights) Dan Knights
 - [ted](#ted)
   - [craig_venter](#craig_venter)
+- [updates](#updates)
+
+----------
+## updates
+
+May 16, 2019
+https://allergen-nce.ca/new-video-the-child-cohort-study-and-a-babys-microbiome/
+NEW VIDEO: The CHILD Cohort Study and a baby’s microbiome – AllerGen
+
+Oct 10, 2016
+https://www.youtube.com/watch?v=YB-8JEo_0bI
+What is the human microbiome?
 
 ----------
 ## danknights
@@ -95,6 +107,11 @@ Microbiome Discovery 21: Shotgun Taxonomy
 ----------
 ## ted
 
+TED@BCG | October 2018
+https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis?language=ja
+アレクサンダー・ベルクレディ: 長く忘れられていたウィルスが抗生物質の危機を解決しうるのはなぜか | TED Talk
+11:14
+
 TEDMED 2017 | November 2017
 https://www.ted.com/talks/dan_knights_how_we_study_the_microbes_living_in_your_gut?language=ja
 ダン・ナイツ: 腸内細菌はこんな方法で研究されている | TED Talk
@@ -140,6 +157,11 @@ TEDGlobal 2005 | February 2005
 
 ----------
 
-
+- TED-Ed [You are your microbes - Jessica Green and Karen Guillemin](https://ed.ted.com/lessons/you-are-your-microbes-jessica-green-and-karen-guillemin) | [微生物から成る人体 — ジェシカ・グリーン ＆カレン・ギリマン](https://www.ted-ja.com/2017/02/wei-sheng-wu-karacheng-ruren-ti.html?m=1)
+- May 16, 2019 [The CHILD Cohort Study and a baby’s microbiome](https://www.youtube.com/watch?v=eL9dAGiCNLU)
+- Oct 10, 2016 [What is the human microbiome?](https://www.youtube.com/watch?v=YB-8JEo_0bI)
+- July 2011 TED Talk 5:18 [Jessica Green: Are we filtering the wrong microbes?](https://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes) | [ジェシカ・グリーン「微生物を正しく取り除くために」](http://www.ted.com/talks/jessica_green_are_we_filtering_the_wrong_microbes?language=ja)
+- TED-Ed [What causes antibiotic resistance? - Kevin Wu](https://ed.ted.com/lessons/how-antibiotics-become-resistant-over-time-kevin-wu) | [抗生物質に対する耐性が生まれるのはなぜか？ - ケビン・ウー](https://amara.org/en/videos/VllmqrFumzGt/ja/812239/)
+- [抗生物質が効かない悪魔のスーパーバグがどれくらい怖い存在なのか理解できるムービー「The Antibiotic Apocalypse Explained」](https://gigazine.net/news/20160318-antibiotic-apocalypse-explained/)
 
 
