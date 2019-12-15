@@ -11,13 +11,22 @@
 [Ikemura](#ikemura)
 
 ----------
-## featuring
-
+## wiki
 https://en.wikipedia.org/wiki/Virus
 
 Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. 
 
 https://ja.wikipedia.org/wiki/ウイルス
+
+- https://en.wikipedia.org/wiki/Zika_virus
+Zika virus is related to the dengue, yellow fever, Japanese encephalitis, and West Nile viruses.
+- https://en.wikipedia.org/wiki/Flavivirus
+This genus includes the West Nile virus, dengue virus, tick-borne encephalitis virus, yellow fever virus, Zika virus
+- https://en.wikipedia.org/wiki/Filoviridae
+Two members of the family that are commonly known are Ebola virus and Marburg virus.
+
+----------
+## featuring
 
 - Oct 20, 2019 [Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP"](https://twitter.com/NatureNews/status/1185903524242165761)
   - [Why Japan imported Ebola ahead of the 2020 Olympics](https://www.nature.com/articles/d41586-019-03103-4)
