@@ -17,9 +17,7 @@ Last Update: 2019-07
 - 微生物群集 [microbiome](https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md)
 - [featuring](#featuring)
 - [airport](#airport)
-- [virus](#virus)
 - [five-second rule](#five-second-rule)
-- [infection](#infection)
 - [products](#products)
   - [aobiome](#aobiome)
 - [secretion](#secretion)
@@ -41,10 +39,6 @@ Last Update: 2019-07
 - 本 [books](https://github.com/haruosuz/microbe/blob/master/references/microbe.books.md)
 
 
-
-
-
-
 ----------
 ## meeting
 
@@ -61,22 +55,97 @@ The deadline for submitting an abstract for the consideration of an oral present
 https://www.isme-microbes.org/events-microbial-ecology
 Events in Microbial Ecology | ISME
 
+----------
+
+https://www.fludb.org/brc/home.spg?decorator=influenza
+Influenza Research Database - Influenza genome database with visualization and analysis tools
+
+https://www.kegg.jp/medicus-bin/japic_med?japic_code=00058821
+医療用医薬品 : イナビル
+
+### vaccine
+
+https://ja.wikipedia.org/wiki/予防接種
+vaccination
+
+https://ja.wikipedia.org/wiki/ワクチン
+vaccine
+
+https://ja.wikipedia.org/wiki/ワクチン忌避
+
+2019-12-17
+https://togetter.com/li/1443878
+近藤誠氏は日本での百日咳を何故語らない？こんなに悲しいグラフがあるんだ。－DPTについて考える－ - Togetter
+
+https://mirai.kinokuniya.co.jp/2019/08/6275/
+予防接種にまつわる議論　～ワクチンと反ワクチン運動～ – 教育と研究の未来
+
+https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
+「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
+
+https://twitter.com/ped_allergy/status/1186566826320203776
+(1) ほむほむ@アレルギー専門医 on Twitter: "【NEW!】インフルエンザ迅速検査は、発症からの時間で感度が大きく変化することはよく知られた事実でしょう。 今回は、ある迅速検査キットによる、症状出現時からの日数と感度・特異度をみた検討をご紹介します。 https://t.co/eqyEjgKzbO" / Twitter
+5:55 PM · Oct 22, 2019
+https://pediatric-allergy.com/2019/10/22/rapid-influenza-diagnostic-test/
+インフルエンザ迅速検査は、症状出現後2日目の検査がもっとも精度が高い
+
+2014.10.21
+https://www.karugamo-cl.jp/index.php?QBlog-20141021-1
+「インフル陽性です！」は正しいか？ - かるがもブログ - かるがもクリニック：世田谷区千歳船橋　小田急線千歳船橋駅徒歩２分の小児科
+
+10:36 AM - 2 Feb 2019
+1:36 PM - 2 Feb 2019
+https://twitter.com/KeikoUTorii/status/1091767336523026437
+ワクチンの効果は100%ではない。そこで重要になるのは「集団免疫Herd immunity」。皆でワクチン接種することにより、ワクチンが効かなかった人や、ワクチンを接種できない妊婦•赤ちゃん•免疫機能の弱い人たちも感染症から守ることができる。では、どれくらいのワクチン接種率が必要か。1/3
+
+感染力の強いウイルス病ほど、対抗するためには高い接種率が必要。麻疹では90%,　風疹は80%強。「自分は体力があるから風疹もインフルエンザも大丈夫」と思っているそこのあなた。他の誰かがワクチン接種をしたから、あなたや、あなたの大切な人の命が守られていることを忘れずに。2/3
+
+Herd immunityの解説サイト（英語ですが、図が分かりやすい）3/3
+
+![](https://www-tc.pbs.org/wgbh/nova/media/images/herd-immunity-01.width-2500.jpg)
+
 
 ----------
-Maria Gloria Dominguez-Bello
+
+### 
+
+2019/9/26
+https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/jama/201909/562374.html
+帝王切開は児のASDやADHDのリスク上昇に関連：日経メディカル
+
+Published: 18 September 2019
+https://www.nature.com/articles/s41586-019-1560-1
+Stunted microbiota and opportunistic pathogen colonization in caesarean-section birth | Nature
+
+NEWS  18 SEPTEMBER 2019
+https://www.nature.com/articles/d41586-019-02807-x
+C-section babies are missing key microbes
+
+By Ewen Callaway, Nature magazine on September 18, 2019
+https://www.scientificamerican.com/article/c-section-babies-are-missing-key-microbes/
+C-Section Babies Are Missing Key Microbes - Scientific American
+
+3歳までにやっておきたい最強の免疫力の育て方 ジャック・ギルバート, ロブ・ナイト, サンドラ・ブレイクスリー ... 一方でハヴド大学の研究では、帝王切開帝王切開で生まれた赤ちん集団を5 年にわたて追跡した最近の 2 つの研究では、相反する結果が出た
+
+あなたの体は9割が細菌　微生物の生態系が崩れはじめた
+アランナ・コリン, ‎矢野真千子 - 2016 - ‎Science
+ブラジルで一○代後半を対象にした調査によると、帝王切開で生まれた子は一五%が肥満になっていた。
+
+https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are/transcript?language=ja
+ロブ・ナイト: 微生物がどのようにして私達を作っているのか | TED Talk
+普通分娩で産まれた赤ちゃんは 基本的に母親の膣内微生物叢を持ち 一方 帝王切開で産まれた赤ちゃんの 微生物は全て皮膚常在菌となります 帝王切開で産まれた人は 微生物との関わりがある 嘆息 アレルギーそして肥満さえも 普通分娩の人より罹り易く 出産と健康との関係が 考えられています 思えば ごく最近まで ほ乳類は 全て自然分娩でした 我々と共進化して来た 保護的微生物がないという事は 微生物が関わる健康問題には 本当に重大な事かもしれません 数年前 私の娘が産まれた時 緊急の帝王切開でしたが 私と妻は自分たちで 普通分娩の様に娘が母体の膣内常在菌に 覆われる様にしました
+
+### Maria Gloria Dominguez-Bello
 
 2016.02.03
 http://epigraph.jugem.jp/?eid=231
 経腟分娩と帝王切開による分娩　分娩時の新しい処置の試み
 小規模の原理証明研究は、新生児に移植する新しい方法を示唆しているとニューヨーク大学の医学部の准教授で、この報告を「Nature Medicine」に発表した主筆であるマリア・グロリア・ドミンゲス医師は言っている。
 
-
 2016年2月2日
 https://www.natureasia.com/ja-jp/nm/pr-highlights/10482
 帝王切開分娩児を母親の腟内微生物へ曝露することの効果
 Nature Medicine
-
-
 
 2015年4月25日 
 https://www.afpbb.com/articles/-/3046469
@@ -363,36 +432,6 @@ Appl Environ Microbiol. 2016 Oct 14;82(21):6490-6496. Print 2016 Nov 1.
 Longer Contact Times Increase Cross-Contamination of Enterobacter aerogenes from Surfaces to Food.
 Miranda RC1, Schaffner DW2.
 
-----------
-## infection
-感染症
-
-https://twitter.com/search?q=感染経路
-豚コレラ、見えぬ感染経路＝愛知で殺処分継続
-
-https://ja.wikipedia.org/wiki/豚コレラ
-豚コレラ（とんコレラ、英: classical swine fever、hog cholera）は、フラビウイルス属、ペスチウイルス属によるブタのウイルス性疾病であり、症状はコレラとは異なる。
-https://ja.wikipedia.org/wiki/ペスチウイルス属
-ペスチウイルス属（ペスチウイルスぞく、Genus Pestivirus）とはエンベロープを持つ、約12.3kbの一本鎖（+）RNAウイルスの総称。
-
-2019年02月15日 17時45分
-https://news.nifty.com/article/domestic/society/12256-900001/
-はしか感染者が新幹線利用で大阪府が注意喚起　不特定多数と接触の可能性｜ニフティニュース
-
-https://ja.wikipedia.org/wiki/麻疹
-麻疹（ましん、英: measles, rubeola、別名・痲疹）とは、麻疹ウイルスによる急性熱性発疹性感染症[1]。
-https://ja.wikipedia.org/wiki/麻疹ウイルス
-麻疹ウイルスは麻疹の原因となるウイルスで、パラミクソウイルス科モルビリウイルス属に属するRNAウイルスである。
-
-
-2016年9月2日23時23分
-https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
-リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
-
-https://ja.wikipedia.org/wiki/ジカ熱
-ジカ熱（Zika fever）もしくはジカウイルス感染症（Zika virus disease）は、フラビウイルス科のジカウイルスによって引き起こされる病気[1]
-ジカウイルス（英: Zika virus）は、フラビウイルス科に属する+鎖のRNAウイルスの1種である。
-https://ja.wikipedia.org/wiki/ジカウイルス
 
 ----------
 
@@ -497,6 +536,12 @@ https://antibioticawarenessjp.jimdo.com/
 
 ![[(https://pbs.twimg.com/media/DqP240aWkAEFR73.jpg)
 
+https://twitter.com/Newsweek_JAPAN/status/1177530317772447747
+ニューズウィーク日本版 on Twitter: "野生のイルカの抗生物質への耐性が著しく高まっていた...... ──家庭の生活排水や病院の医療系排水が川や海に流された影響で．． https://t.co/mzgPqg5Ai3 #抗生物質耐性菌 #イルカ"
+7:27 PM · Sep 27, 2019
+2019年9月27日（金）18時45分
+https://www.newsweekjapan.jp/stories/world/2019/09/post-13068.php
+野生のイルカの抗生物質への耐性が著しく高まっていた......
 
 https://twitter.com/AAD_Japan/status/1111780791695097856
 Save ABx Japan on Twitter: "耐性菌の種類にもよりますが、アウトバウンドよりもインバウンドの方が懸念されています。 https://t.co/eCJqD9Xe6b"
@@ -863,82 +908,6 @@ https://www.jstage.jst.go.jp/article/budo1968/34/2/34_31/_article/-char/ja/
 https://www.jstage.jst.go.jp/article/jspeconf/51/0/51_463/_article/-char/ja/
 109E26109 土俵の細菌叢と塩濃度との相関性
 三星 暢公, 田中 和幸, 遠藤 麻美, 長船 哲齋, 松本 茂, 小川 光哉, 塔尾 武夫
-
-----------
-## phage
-
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8904/8904_biomedia_1.pdf
-[PDF]過小評価されているファージの宿主域
-井町 寛之
-
-
-----------
-## virus
-
-https://twitter.com/Virus_Evolution/status/1077745814066229255
-Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
-9:00 PM - 25 Dec 2018
-
-![](https://pbs.twimg.com/media/DumlVsJU8AIMyZ2.jpg)
-
-2018年2月13日
-https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
-空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2018.02.08
-http://tocana.jp/2018/02/post_15942_entry.html
-【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
-地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
-
-2016-02-21
-http://yokazaki.hatenablog.com/entry/2016/02/21/010028
-1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
-ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
-
-2012/04/17
-https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
-35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
-
-生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
-
-生命誌ジャーナル2015年間テーマうつる
-http://www.brh.co.jp/seimeishi/journal/084/research/1.html
-RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
-
-![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
-
-
-http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
-From design of a genome sequence to generation of a synthetic virus
-- Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
-
-日経サイエンス　 2005年3月号
-http://www.nikkei-science.com/page/magazine/0503/virus.html
-ウイルスは生きているのか | 日経サイエンス
-
-### HIV
-
-https://en.wikipedia.org/wiki/Paul_M._Sharp
-
-2018.01.05
-https://logmi.jp/business/articles/257503
-感染源はチンパンジーだった？　HIVの起源をたどる - ログミー[o_O]
-
-https://www.ncbi.nlm.nih.gov/pubmed/22229120
-Cold Spring Harb Perspect Med. 2011 Sep;1(1):a006841. doi: 10.1101/cshperspect.a006841.
-Origins of HIV and the AIDS pandemic.
-Sharp PM1, Hahn BH.
-
-https://www.ncbi.nlm.nih.gov/pubmed/20643738
-Philos Trans R Soc Lond B Biol Sci. 2010 Aug 27;365(1552):2487-94. doi: 10.1098/rstb.2010.0031.
-The evolution of HIV-1 and the origin of AIDS.
-Sharp PM1, Hahn BH.
-
-https://wired.jp/2003/06/19/hivの起源は「サルを食べたチンパンジー」か/
-「チンパンジーを殺してその肉を食べるという、ヒトが最初に感染したと想定されるルートと似ている」と研究チームのメンバーで、イギリスのノッティンガム大学遺伝学研究所に所属するポール・M・シャープ教授は述べている。
-http://pages.ucsd.edu/~jmoore/publications/hivhooper.html
-Paul Sharp
-
 
 
 ----------
