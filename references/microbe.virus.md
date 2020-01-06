@@ -92,17 +92,18 @@ Timescale of the introduction of ZIKV to the Americas.
 - We estimate that the date of the most recent common ancestor (TMRCA) of all Brazilian genomes (clade B) is Aug 2013 to Apr 2014 (95% Bayesian credible intervals, BCIs; point estimate = mid Dec 2013; Fig. 3B). The common ancestor of the French Polynesian and America lineages (clade A) was dated to Dec 2012 to Sep 2013 (BCIs; point estimate = late May 2013; Fig. 3B).
 - There are two published hypotheses for how ZIKV came to be introduced into Brazil, during (i) the 2014 World Cup soccer tournament (Jun 12th - Jul 13th) (29) or (ii) the Va’a canoe event held in Rio de Janeiro between 12-17 Aug 2014 (34). Alternatively, introduction could have occurred during (iii) the 2013 Confederations Cup soccer tournament (15th–30th Jun 2013). Events (ii) and (iii) notably included competitors from French Polynesia. Our results suggest that the introduction of ZIKV to the Americas predated events (i) and (ii). Although the molecular clock dates are more consistent with the Confederations cup, that event ended before ZIKV cases were first reported in French Polynesia (4). Consequently, we believe that large-scale patterns in human mobility will provide more useful and testable hypotheses about viral introduction and emergence (33, 35, 36) than ad hoc hypotheses focused on specific events.
 
-
-
 2016年9月2日23時23分
 https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
 リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
 
-
-
 ----------
 ## Ebola
 
+https://en.wikipedia.org/wiki/Zaire_ebolavirus
+ was at first suspected to be a new "strain" of the closely related Marburg virus.[5][6]
+
+https://en.wikipedia.org/wiki/Ebola_virus_disease
+All five viruses are closely related to marburgviruses.[39]
 
 https://twitter.com/JClinMicro/status/1171021712357515264
 JClinMicro EIC on Twitter: "Metagenomic Next-Generation Sequencing of the 2014 Ebola Virus Disease Outbreak in the Democratic Republic of the Congo https://t.co/yT8v3ZZWLR @ASMicrobiology #ASMClinMicro https://t.co/6ghIbBsX4h"
