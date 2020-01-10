@@ -732,6 +732,12 @@ Growth substrates
 Temperature Range [optimal]
 ```
 
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/mmi.14443
+Molecular evidence for the adaptive evolution of Geobacter sulfurreducens to perform dissimilatory iron reduction in natural environments - Liu - - Molecular Microbiology
+- E‐pili are constructed by truncated PilA which is considered to have evolved from full‐length pilin by gene fission under positive evolutionary selection.
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/27940542
 Appl Environ Microbiol. 2017 Feb 1;83(4). pii: e02689-16. doi: 10.1128/AEM.02689-16. Print 2017 Feb 15.
 Arsenic Detoxification by Geobacter Species.
@@ -1668,11 +1674,21 @@ https://www.sciencedirect.com/topics/medicine-and-dentistry/shewanella
 Shewanella - an overview | ScienceDirect Topics
 Shewanella can be recovered from a variety of water sources, natural gas and petroleum reserves, dairy products, meat, and fish.
 
-https://www.nature.com/articles/s42003-019-0567-3
-Cold adaptation in the environmental bacterium Shewanella oneidensis is controlled by a J-domain co-chaperone protein network | Communications Biology
+Published: 10 January 2020
+https://academic.oup.com/femsre/advance-article-abstract/doi/10.1093/femsre/fuz031/5700284
+The Shewanella genus: ubiquitous organisms sustaining and preserving aquatic ecosystems
+Olivier N Lemaire, Vincent Méjean, Chantal Iobbi-Nivol
+FEMS Microbiology Reviews, fuz031, https://doi.org/10.1093/femsre/fuz031
 
-https://www.frontiersin.org/articles/10.3389/fmicb.2019.01861/full
-Frontiers | Whole-Genome Sequencing Redefines Shewanella Taxonomy | Microbiology
+https://www.ncbi.nlm.nih.gov/pubmed/31482142
+Commun Biol. 2019 Aug 29;2:323. doi: 10.1038/s42003-019-0567-3. eCollection 2019.
+Cold adaptation in the environmental bacterium Shewanella oneidensis is controlled by a J-domain co-chaperone protein network.
+Maillot NJ1, Honoré FA1, Byrne D2, Méjean V1, Genest O1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31555221
+Front Microbiol. 2019 Aug 28;10:1861. doi: 10.3389/fmicb.2019.01861. eCollection 2019.
+Whole-Genome Sequencing Redefines Shewanella Taxonomy.
+Thorell K1, Meier-Kolthoff JP2, Sjöling Å3, Martín-Rodríguez AJ3.
 
 ### Shewanella_outer_membrane_cytochromes
 
