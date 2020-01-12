@@ -152,6 +152,24 @@ Trevor Bedford on Twitter: "As others have already said, we see the novel corona
 https://twitter.com/trvrb/status/1216119625651326977
 Zoom-in of the grouping with SARS-related bat coronaviruses is visible here:
 
+https://twitter.com/EcoHealthNYC/status/1216062570035138561
+EcoHealth Alliance on Twitter: "Preliminary analysis of the novel coronavirus (in red) believed to be responsible for an outbreak of pneumonia in Wuhan, China shows it's closely related to SARS CoV. https://t.co/Vf6U2W4oYR https://t.co/3WbFpQ02Pc" / Twitter
+3:21 AM · Jan 12, 2020
+
+https://twitter.com/arambaut/status/1216060707143344134
+Andrew Rambaut 🦠🧬🌲🔮🤦
+♂️ on Twitter: "This is one of the reasons why people are reticent to share data. No acknowledgement of where the data comes from or who generated it. The figure is even branded with a logo. @JeremyFarrar @edwardcholmes @EvolveDotZoo https://t.co/oxjF05hbNx" / Twitter
+3:14 AM · Jan 12, 2020
+
+https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
+Phylogenetic Analysis Shows Novel Wuhan Coronavirus Clusters with SARS - EcoHealth Alliance
+
+http://recombinomics.co/topic/4351-wuhan-coronavirus-sequences/
+
+https://twitter.com/TheMenacheryLab/status/1215826855086952448
+The Menachery Lab on Twitter: "Some quick analysis of the new Wuhan CoV sequence: 1) Looks like a group 2B CoV, same family as SARS with about 73% conservation at genome 2)Rough tree puts it between HKU3/273-CoV and SHC014-CoV, a bat virus capable of using human ACE2." / Twitter
+11:44 AM · Jan 11, 2020
+
 <img src="https://pbs.twimg.com/media/EOCGWk3VUAElRQ_?format=jpg" width=50%>
 
 https://twitter.com/edwardcholmes/status/1215802670176276482
