@@ -93,8 +93,6 @@ https://twitter.com/Virus_Evolution/status/1077745814066229255
 Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
 9:00 PM - 25 Dec 2018
 
-![](https://pbs.twimg.com/media/DumlVsJU8AIMyZ2.jpg)
-
 2018年2月13日
 https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
 空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
@@ -118,9 +116,9 @@ https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルス�
 生命誌ジャーナル2015年間テーマうつる
 http://www.brh.co.jp/seimeishi/journal/084/research/1.html
 RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
-
-![](http://www.brh.co.jp/seimeishi/journal/084/img/research/1/p02.jpg)
-
+図2：ウイルスと真正細菌の比較。ヘルペスウイルスは従来から知られているウイルスの代表として、それ以外のウイルスは巨大ウイルスのグループとしてあげた。標準的な真正細菌の代表として大腸菌を、小型の真正細菌の代表としてマイコプラズマをあげた。
+ミミウイルス
+パンドラウイルス
 
 http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
 From design of a genome sequence to generation of a synthetic virus
@@ -147,7 +145,8 @@ https://twitter.com/trvrb/status/1216118434850725888
 Trevor Bedford on Twitter: "As others have already said, we see the novel coronavirus from Wuhan grouping with sampled SARS-related bat coronaviruses. We thank Professor Zhang and colleagues for amazingly rapid data sharing. A full interactive phylogeny of beta-CoV diversity is here: https://t.co/koZGMWy0hI https://t.co/ozYLnFsF7o" / Twitter
 7:03 AM · Jan 12, 2020
 
-![](https://pbs.twimg.com/media/EOCFRPuU4AIUaMq?format=jpg&name=small)
+<img src="https://pbs.twimg.com/media/EOCFRPuU4AIUaMq?format=jpg" width=50%>
+<img "https://pbs.twimg.com/media/EOCGWk3VUAElRQ_?format=jpg" width=50%>
 
 https://twitter.com/edwardcholmes/status/1215802670176276482
 Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus associated with the Wuhan outbreak is now available at https://t.co/EeqQXCs3n3 here: https://t.co/jdCM9USkSK" / Twitter
