@@ -141,6 +141,8 @@ Coronaviridae ~ ViralZone page
 https://www.cdc.gov/coronavirus/
 Novel Coronavirus 2019
 
+https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
+
 https://twitter.com/trvrb/status/1216118434850725888
 Trevor Bedford on Twitter: "As others have already said, we see the novel coronavirus from Wuhan grouping with sampled SARS-related bat coronaviruses. We thank Professor Zhang and colleagues for amazingly rapid data sharing. A full interactive phylogeny of beta-CoV diversity is here: https://t.co/koZGMWy0hI https://t.co/ozYLnFsF7o" / Twitter
 7:03 AM · Jan 12, 2020
@@ -159,6 +161,12 @@ Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus ass
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+https://twitter.com/yamagatm3/status/1216107164747493376
+山形方人(nihonGO) on Twitter: "中国の武漢で発生している肺炎。中国のグループが原因と考えられる新型コロナウィルスの塩基配列を公表。簡単な解析によるとSARSウィルスに近縁という。 https://t.co/GH7kvdcuh6" / Twitter
+
+https://twitter.com/DLYDDDDK/status/1215829740612833280
+空飛ぶペプチドタグ on Twitter: "これもうほとんどSARSじゃね？ https://t.co/dx27wPjoEc" / Twitter
 
 https://www.niid.go.jp/niid/ja/from-idsc/2482-2020-01-10-06-50-40/9305-coronavirus-2.html
 コロナウイルスに関する解説及び中国で報告されている原因不明の肺炎に関連する情報
