@@ -146,7 +146,7 @@ Trevor Bedford on Twitter: "As others have already said, we see the novel corona
 7:03 AM · Jan 12, 2020
 
 <img src="https://pbs.twimg.com/media/EOCFRPuU4AIUaMq?format=jpg" width=50%>
-<img "https://pbs.twimg.com/media/EOCGWk3VUAElRQ_?format=jpg" width=50%>
+<img src="https://pbs.twimg.com/media/EOCGWk3VUAElRQ_?format=jpg" width=50%>
 
 https://twitter.com/edwardcholmes/status/1215802670176276482
 Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus associated with the Wuhan outbreak is now available at https://t.co/EeqQXCs3n3 here: https://t.co/jdCM9USkSK" / Twitter
