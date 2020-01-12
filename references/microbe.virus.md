@@ -146,6 +146,10 @@ Trevor Bedford on Twitter: "As others have already said, we see the novel corona
 7:03 AM · Jan 12, 2020
 
 <img src="https://pbs.twimg.com/media/EOCFRPuU4AIUaMq?format=jpg" width=50%>
+
+https://twitter.com/trvrb/status/1216119625651326977
+Zoom-in of the grouping with SARS-related bat coronaviruses is visible here:
+
 <img src="https://pbs.twimg.com/media/EOCGWk3VUAElRQ_?format=jpg" width=50%>
 
 https://twitter.com/edwardcholmes/status/1215802670176276482
