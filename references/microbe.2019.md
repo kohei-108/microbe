@@ -33,85 +33,6 @@ Last Update: 2019-08
 - [definition](#definition)
 
 ----------
-## 2019-08
-
-### togotv
-
-https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#2018-11-30
-
-https://twitter.com/hashtag/togotv18
-
-[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
-```
-Part 3 生命科学系データ解析の現場で，押さえておきたい「鉄板」ツール	
-10 章 MEGAで系統樹を作成する	
-　　　MEGA で配列のアラインメントや系統解析を行う
-　　　DoMosaics を使ってドメイン構造と系統樹を可視化する
-　　　MAFFT・RAxML・FigTree を組み合わせて分子系統解析を行う
-```
-
-[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-- https://doi.org/10.7875/togotv.2012.073
-2012-08-30 PubMedで論文を検索する
-- https://doi.org/10.7875/togotv.2011.076
-2011-07-05 MEGAを使って配列アラインメントおよび系統解析をする
-- https://doi.org/10.7875/togotv.2017.077
-2017-08-04 DoMosaicsを使ってドメイン構造と系統樹を可視化する
-- https://doi.org/10.7875/togotv.2018.093
-2018-04-03 MAFFT・RAxML・FigTreeを組み合わせて分子系統解析を行う
-
-```
-curl https://dbarchive.biosciencedbc.jp/data/togotv/movie/sample/180403_test-fasta.txt > test.fasta
-
-mafft test.fasta > mafft_test.fasta
-
-raxmlHPC-SSE3 -m GTRGAMMA -p 12345 -s mafft_test.fasta -n test
-```
-
-### mafft
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#mafft
-
-### raxml
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#raxml
-
-### seaview
-
-http://doua.prabi.fr/software/seaview
-
-### bioconda
-
-https://qiita.com/MTNakata/items/2d537731d18b231e5fb9
-MacでBioconda〜RNA-Seqデータ解析ツールのインストール〜
-
-http://imamachi-n.hatenablog.com/entry/2017/01/14/212719
-biocondaを利用してNGS関連のソフトウェアを一括でインストールする - いろいろ試してみる
-
-http://bonohu.jp/blog/bioconda.html
-Biocondaを使ってみた
-Written by bonohu in misc on 土 08 7月 2017.
-
-https://bioconda.github.io/index.html
-Contributors — Bioconda documentation
-
-https://bioconda.github.io/user/install.html#
-```
-# 1. Install conda
-curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
-sh Miniconda3-latest-MacOSX-x86_64.sh
-
-# 2. Set up channels
-conda config --add channels defaults
-conda config --add channels bioconda
-conda config --add channels conda-forge
-
-# 3. Install packages
-conda install raxml
-conda install mafft
-```
-
-----------
 ## definition
 
 https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.3.md
@@ -532,11 +453,6 @@ https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md#amr
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#uniprot
 UniProtウェブサイト (http://www.uniprot.org) にアクセスし、ウェブページ上部の検索ボックスにUniProt accession [ Q9CD83 ] を入力して、"Search"ボタンを押す:  
 
-https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
-https://twitter.com/BacDive/status/1095559495651115009
-BacDive on Twitter: "Find here an interesting example how @BacDive data can be used to correlate microbial growth temperatues with temperature optima of enzymes: https://t.co/XWenohoc5W #biodiversity #bacteria #microbiology"
-12:45 AM - 13 Feb 2019
-
 https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 http://doi.org/10.7875/togotv.2017.023 NCBI BLASTの使い方 〜基本編〜 2017
 https://github.com/haruosuz/DS4GD/blob/master/2019/CaseStudy.md#blast
@@ -609,18 +525,6 @@ https://www.sgmj.org/sgmj2019/program.html
 https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお知らせ/
 13:30-15:00 古代DNA（瀬川高弘　山梨大学、森宙史　国立遺伝学研究所）内容
 https://kimuraseminar.wordpress.com/2017年8月5日-古代dna/
-
-----------
-## 2019-03-20
-
-最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）
-https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#temperature
-
-DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
-https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
-
-UniProtウェブサイトで“cold shock protein”を検索した結果です。
-https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
 
 ----------
 ## 2019-03-11
@@ -701,15 +605,45 @@ http://www.research.kobe-u.ac.jp/ans-koala/bunrui.html
 細菌の栄養的分類
 
 ----------
+## 2019-03-20
+
+DNAまたはタンパク質の配列を検索する手順は以下のページに記載されています。
+https://github.com/haruosuz/DS4GD/blob/master/2018giga/CaseStudy.md#assignment-0
+
+UniProtウェブサイトで“cold shock protein”を検索した結果です。
+https://www.uniprot.org/uniprot/?query=Cold+Shock+Protein&sort=score
+
+----------
 ## temperature
 温度
 
-最適増殖温度の予測
+最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）
+
+https://github.com/haruosuz/mgsa/blob/master/references/README.memo.md#bacdive
+https://twitter.com/BacDive/status/1095559495651115009
+BacDive on Twitter: "Find here an interesting example how @BacDive data can be used to correlate microbial growth temperatues with temperature optima of enzymes: https://t.co/XWenohoc5W #biodiversity #bacteria #microbiology"
+12:45 AM - 13 Feb 2019
+
+ゲノム配列から最適増殖温度の予測
 https://www.ncbi.nlm.nih.gov/pubmed/30689741
-Bioinformatics. 2019 Jan 25. doi: 10.1093/bioinformatics/btz059. [Epub ahead of print]
-Predicting the Optimal Growth Temperatures of Prokaryotes using only Genome Derived Features.
+Bioinformatics. 2019 Sep 15;35(18):3224-3231. doi: 10.1093/bioinformatics/btz059.
+Predicting the optimal growth temperatures of prokaryotes using only genome derived features.
 Sauer DB1, Wang DN1.
+https://academic.oup.com/bioinformatics/article-abstract/35/18/3224/5301315
 The accuracy can be further improved for specific taxonomic clades or by excluding psychrophiles. 
+https://github.com/DavidBSauer/OGT_prediction
+
+https://www.ncbi.nlm.nih.gov/pubmed/28187704
+BMC Genomics. 2017 Feb 10;18(1):151. doi: 10.1186/s12864-017-3543-7.
+The nucleotide composition of microbial genomes indicates differential patterns of selection on core and accessory genomes.
+Bohlin J1, Eldholm V2, Pettersson JH2, Brynildsrud O2, Snipen L3.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303225/
+Factors that show some association with genomic base composition in microbes include genome size [4–6], oxygen and nitrogen abundance [7, 8] as well as uptake of foreign DNA from conjugation, transformation and transduction [9–15]. Optimal growth temperature may influence genomic DNA composition and although this is a field of debate [16–19], there is some evidence for a role of growth temperature in shaping the GC content of individual genes [20] and ribosomal RNA [21]. 
+
+https://www.ncbi.nlm.nih.gov/pubmed/23754727
+Environ Microbiol Rep. 2013 Jun;5(3):468-74. doi: 10.1111/1758-2229.12035. Epub 2013 Feb 5.
+Growth temperatures of archaeal communities can be estimated from the guanine-plus-cytosine contents of 16S rRNA gene fragments.
+Kimura H1, Mori K, Yamanaka T, Ishibashi J.
 
 微生物のライフスタイルとゲノムの特徴
 https://www.ncbi.nlm.nih.gov/pubmed/23024607
