@@ -782,6 +782,17 @@ Geobacter uraniireducens Rf4	NC_009483	chromosome
 Gloeobacter violaceus PCC 7421	NC_005125	chromosome
 ```
 
+好熱菌
+https://www.ncbi.nlm.nih.gov/pubmed/12732575
+Appl Environ Microbiol. 2003 May;69(5):2985-93.
+Thermophily in the Geobacteraceae: Geothermobacter ehrlichii gen. nov., sp. nov., a novel thermophilic member of the Geobacteraceae from the "Bag City" hydrothermal vent.
+Kashefi K1, Holmes DE, Baross JA, Lovley DR.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC154550/
+Unlike previously described members of the Geobacteraceae, which are mesophiles, strain SS015 was a thermophile and grew at temperatures of between 35 and 65°C, with an optimum temperature of 55°C. 
+```
+Geothermobacter ehrlichii	213224	PRJNA500323	500323	Proteobacteria	delta/epsilon subdivisions	3.23595	61.9	-	VNIB01	33	3045	2933	2019/08/29	2019/09/02	Contig	DOE Joint Genome Institute	SAMN12255868	GCA_008124615.1	-	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/008/124/615/GCA_008124615.1_ASM812461v1	-	SS015
+```
+
 ### Geobacter_phylogeny
 系統解析
 
