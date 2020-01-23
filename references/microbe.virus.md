@@ -129,6 +129,16 @@ http://www.nikkei-science.com/page/magazine/0503/virus.html
 ウイルスは生きているのか | 日経サイエンス
 
 ----------
+
+
+- https://twitter.com/mdfujita
+藤田康介 (@mdfujita) / Twitter
+- https://twitter.com/EARL_Med_Tw
+EARLの医学ツイート (@EARL_Med_Tw) / Twitter
+- https://twitter.com/DLYDDDDK
+空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
+
+----------
 ## Coronavirus
 
 - https://ja.wikipedia.org/wiki/コロナウイルス
@@ -140,6 +150,18 @@ Coronaviridae ~ ViralZone page
 
 https://www.cdc.gov/coronavirus/
 Novel Coronavirus 2019
+
+
+https://twitter.com/NatureMicrobiol/status/1220010106257100800
+Nature Microbiology on Twitter: "Rapid outbreak response requires trust Early and open data sharing in an outbreak is vital, to be commended and should come with proper attribution. Should extend to 2019-nCoV isolates and other materials when available #2019-nCoV #epidemicpreparedness https://t.co/3zTnpJA70s https://t.co/mOlzQ5gq9y" / Twitter
+12:47 AM · Jan 23, 2020
+https://www.nature.com/articles/s41564-020-0670-8
+Rapid outbreak response requires trust | Nature Microbiology
+
+First published: 22 January 2020
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25682
+Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross‐species transmission from snake to human - Ji - - Journal of Medical Virology - Wiley Online Library
+
 
 https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
 
@@ -179,6 +201,25 @@ Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus ass
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+
+https://twitter.com/kazumaiwaki001/status/1220266775176081408
+岩木一麻　「時限感染」文庫版発売中 on Twitter: "原著に目を通した。新型コロナウイルスはコウモリ由来となにか別の生物由来のコロナウイルスの組換えウイルスであると思われ、同義語コドン使用頻度から片割れはヘビ由来ではないかと推察したとのこと。 「新型コロナウイルス、宿主はコウモリかヘビの可能性」 https://t.co/N2tZVdfpsv" / Twitter
+5:47 PM · Jan 23, 2020
+
+https://gigazine.net/news/20200123-china-coronavirus-death-snakes/
+中国の新型コロナウイルスが「ヘビからヒトへ」感染した可能性が高いことが判明 - GIGAZINE
+
+https://twitter.com/DLYDDDDK/status/1220338581119463424
+空飛ぶペプチドタグ on Twitter: "武漢コロナ蛇説にリプ欄で大御所大暴れ。 https://t.co/7KVQnfLCaz" / Twitter
+10:32 PM · Jan 23, 2020
+https://twitter.com/Laurie_Garrett/status/1220102407729942528
+Laurie Garrett on Twitter: "How cool -- this paper was stuck behind a paywall earlier today, I bellyached, &amp; now @MackayIM linked to the full study. This is the paper I tweeted about earlier, drawing homology links between #nCoV2019 &amp; snake moieties. Now that you can see the full report, you can judge it... https://t.co/0pHBSQ4Xdo" / Twitter
+
+
+https://twitter.com/y_tambe/status/1217827474119069698
+Y Tambe on Twitter: "コロナウイルスの仲間には、ヒトのほか、動物に感染するものがいて、もともとヒトに感染するものは、基本的に上気道（のどや鼻）に感染するヤツばかりだった。いわゆる「かぜ」というのは、こういう「上気道にウイルスや細菌が感染しておきる、よく似た症状の病気の総称（＝症候群）」ね（続" / Twitter
+12:14 AM · Jan 17, 2020
 
 https://twitter.com/yamagatm3/status/1216107164747493376
 山形方人(nihonGO) on Twitter: "中国の武漢で発生している肺炎。中国のグループが原因と考えられる新型コロナウィルスの塩基配列を公表。簡単な解析によるとSARSウィルスに近縁という。 https://t.co/GH7kvdcuh6" / Twitter
