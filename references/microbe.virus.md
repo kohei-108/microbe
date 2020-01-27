@@ -151,6 +151,20 @@ Coronaviridae ~ ViralZone page
 https://www.cdc.gov/coronavirus/
 Novel Coronavirus 2019
 
+https://twitter.com/trvrb/status/1221218730383798272
+Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
+8:50 AM · Jan 26, 2020
+
+
+Posted January 25, 2020.
+https://www.biorxiv.org/content/10.1101/2020.01.24.919183v1
+Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China | bioRxiv
+
+https://twitter.com/MicrobesInfect/status/1220109498011901952
+Comparing #Wuhan #nCoV2019 #Coronavirus with #MERS, #SARS coronaviruses & the common cold.
+Table shows the most well-known coronaviruses: what they have in common & how they differ.
+https://npr.org/sections/goatsandsoda/2020/01/22/798277557/how-does-wuhan-coronavirus-compare-to-mers-sars-and-the-common-cold
+7:22 AM · Jan 23, 2020
 
 https://twitter.com/NatureMicrobiol/status/1220010106257100800
 Nature Microbiology on Twitter: "Rapid outbreak response requires trust Early and open data sharing in an outbreak is vital, to be commended and should come with proper attribution. Should extend to 2019-nCoV isolates and other materials when available #2019-nCoV #epidemicpreparedness https://t.co/3zTnpJA70s https://t.co/mOlzQ5gq9y" / Twitter
@@ -161,7 +175,6 @@ Rapid outbreak response requires trust | Nature Microbiology
 First published: 22 January 2020
 https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25682
 Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross‐species transmission from snake to human - Ji - - Journal of Medical Virology - Wiley Online Library
-
 
 https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
 
@@ -203,12 +216,12 @@ Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virologic
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
 
-https://twitter.com/kazumaiwaki001/status/1220266775176081408
-岩木一麻　「時限感染」文庫版発売中 on Twitter: "原著に目を通した。新型コロナウイルスはコウモリ由来となにか別の生物由来のコロナウイルスの組換えウイルスであると思われ、同義語コドン使用頻度から片割れはヘビ由来ではないかと推察したとのこと。 「新型コロナウイルス、宿主はコウモリかヘビの可能性」 https://t.co/N2tZVdfpsv" / Twitter
-5:47 PM · Jan 23, 2020
 
-https://gigazine.net/news/20200123-china-coronavirus-death-snakes/
-中国の新型コロナウイルスが「ヘビからヒトへ」感染した可能性が高いことが判明 - GIGAZINE
+2020.01.25 SAT 09:00
+https://wired.jp/2020/01/25/wuhan-coronavirus-snake-flu-theory/
+タンパク質を構成するコドンの使用頻度の偏り（コドンバイアス）は、生物によって異なる。一部のウイルスは、新しい宿主のコドンバイアスを採用することで、新しい宿主に適応する。
+
+研究チームは、新型コロナウイルス（2019-nCoV）が好んで使うコドンと、宿主の可能性がある少数の生物（人間、コウモリ、ニワトリ、ハリネズミ、センザンコウ、2種類のヘビ）が好むコドンを比較した。そして新型コロナウイルス（2019-nCoV）のコドンバイアスが、タイワンコブラとアマガサヘビの2種類のヘビのコドンバイアスと最も重複していることがわかったと報告したのだ。
 
 https://twitter.com/DLYDDDDK/status/1220338581119463424
 空飛ぶペプチドタグ on Twitter: "武漢コロナ蛇説にリプ欄で大御所大暴れ。 https://t.co/7KVQnfLCaz" / Twitter
@@ -216,6 +229,13 @@ https://twitter.com/DLYDDDDK/status/1220338581119463424
 https://twitter.com/Laurie_Garrett/status/1220102407729942528
 Laurie Garrett on Twitter: "How cool -- this paper was stuck behind a paywall earlier today, I bellyached, &amp; now @MackayIM linked to the full study. This is the paper I tweeted about earlier, drawing homology links between #nCoV2019 &amp; snake moieties. Now that you can see the full report, you can judge it... https://t.co/0pHBSQ4Xdo" / Twitter
 
+
+https://twitter.com/kazumaiwaki001/status/1220266775176081408
+岩木一麻　「時限感染」文庫版発売中 on Twitter: "原著に目を通した。新型コロナウイルスはコウモリ由来となにか別の生物由来のコロナウイルスの組換えウイルスであると思われ、同義語コドン使用頻度から片割れはヘビ由来ではないかと推察したとのこと。 「新型コロナウイルス、宿主はコウモリかヘビの可能性」 https://t.co/N2tZVdfpsv" / Twitter
+5:47 PM · Jan 23, 2020
+
+https://gigazine.net/news/20200123-china-coronavirus-death-snakes/
+中国の新型コロナウイルスが「ヘビからヒトへ」感染した可能性が高いことが判明 - GIGAZINE
 
 https://twitter.com/y_tambe/status/1217827474119069698
 Y Tambe on Twitter: "コロナウイルスの仲間には、ヒトのほか、動物に感染するものがいて、もともとヒトに感染するものは、基本的に上気道（のどや鼻）に感染するヤツばかりだった。いわゆる「かぜ」というのは、こういう「上気道にウイルスや細菌が感染しておきる、よく似た症状の病気の総称（＝症候群）」ね（続" / Twitter
