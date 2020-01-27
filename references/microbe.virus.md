@@ -155,7 +155,6 @@ https://twitter.com/trvrb/status/1221218730383798272
 Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
 8:50 AM · Jan 26, 2020
 
-
 Posted January 25, 2020.
 https://www.biorxiv.org/content/10.1101/2020.01.24.919183v1
 Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China | bioRxiv
@@ -215,6 +214,11 @@ http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
+https://twitter.com/y_tambe/status/1221360143809466368
+なんでHIV治療薬が新型コロナウイルスに効くのかについて。
+今のHIV治療薬は(1)ウイルスが持つ逆転写酵素の阻害剤、(2)ウイルスが持つ独自のプロテアーゼ（タンパク質切断酵素）の阻害剤の２タイプに大別される
+（細かく言うと(1)に(1-A)核酸型、(1-B)非核酸型があり、HIVには３種類併用する・続
+6:12 PM · Jan 26, 2020
 
 
 2020.01.25 SAT 09:00
