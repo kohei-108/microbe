@@ -219,6 +219,13 @@ https://twitter.com/y_tambe/status/1221360143809466368
 （細かく言うと(1)に(1-A)核酸型、(1-B)非核酸型があり、HIVには３種類併用する・続
 6:12 PM · Jan 26, 2020
 
+https://twitter.com/HattoriM/status/1220990310240546819
+HattoriM on Twitter: "新型コロナウイルス肺炎の研究進展まとめ 12/8 最初の症例 1/6 新型コロナウイルスとの発表 1/10 ゲノム配列発表 1/21 ゲノム配列情報を用いた最初の論文 1/24 Lancetに症例報告2報掲載 1/23-25 bioRxivに8報公表 1/25 ウイルス由来タンパクの立体構造解析と阻害剤同定の発表←ｲﾏｺｺ 早い。。"
+5:42 PM · Jan 25, 2020
+
+https://twitter.com/HattoriM/status/1220977875207147520
+HattoriM on Twitter: "一昨日から今日1/25までの短期間でbioRxivに合計8報の新型コロナウイルスに関する研究論文が公表。12/8に初症例、1/6にウイルス同定、1/10にゲノム配列公表からのわずかな期間で既に多くの中国内外の研究者が取り組んでいることがわかる。bioRxiv Search Results: 2019-nCoV| https://t.co/nJMcMkN3Pf"
+4:53 PM · Jan 25, 2020
 
 2020.01.25 SAT 09:00
 https://wired.jp/2020/01/25/wuhan-coronavirus-snake-flu-theory/
@@ -231,7 +238,6 @@ https://twitter.com/DLYDDDDK/status/1220338581119463424
 10:32 PM · Jan 23, 2020
 https://twitter.com/Laurie_Garrett/status/1220102407729942528
 Laurie Garrett on Twitter: "How cool -- this paper was stuck behind a paywall earlier today, I bellyached, &amp; now @MackayIM linked to the full study. This is the paper I tweeted about earlier, drawing homology links between #nCoV2019 &amp; snake moieties. Now that you can see the full report, you can judge it... https://t.co/0pHBSQ4Xdo" / Twitter
-
 
 https://twitter.com/kazumaiwaki001/status/1220266775176081408
 岩木一麻　「時限感染」文庫版発売中 on Twitter: "原著に目を通した。新型コロナウイルスはコウモリ由来となにか別の生物由来のコロナウイルスの組換えウイルスであると思われ、同義語コドン使用頻度から片割れはヘビ由来ではないかと推察したとのこと。 「新型コロナウイルス、宿主はコウモリかヘビの可能性」 https://t.co/N2tZVdfpsv" / Twitter
