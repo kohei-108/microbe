@@ -155,6 +155,9 @@ https://twitter.com/trvrb/status/1221218730383798272
 Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
 8:50 AM · Jan 26, 2020
 
+
+<img src="https://pbs.twimg.com/media/EPKj9XGVAAAZRyH?format=jpg" width=50%>
+
 Posted January 25, 2020.
 https://www.biorxiv.org/content/10.1101/2020.01.24.919183v1
 Complete genome characterisation of a novel coronavirus associated with severe human respiratory disease in Wuhan, China | bioRxiv
@@ -181,8 +184,6 @@ https://twitter.com/trvrb/status/1216118434850725888
 Trevor Bedford on Twitter: "As others have already said, we see the novel coronavirus from Wuhan grouping with sampled SARS-related bat coronaviruses. We thank Professor Zhang and colleagues for amazingly rapid data sharing. A full interactive phylogeny of beta-CoV diversity is here: https://t.co/koZGMWy0hI https://t.co/ozYLnFsF7o" / Twitter
 7:03 AM · Jan 12, 2020
 
-<img src="https://pbs.twimg.com/media/EOCFRPuU4AIUaMq?format=jpg" width=50%>
-
 https://twitter.com/trvrb/status/1216119625651326977
 Zoom-in of the grouping with SARS-related bat coronaviruses is visible here:
 
@@ -203,8 +204,6 @@ http://recombinomics.co/topic/4351-wuhan-coronavirus-sequences/
 https://twitter.com/TheMenacheryLab/status/1215826855086952448
 The Menachery Lab on Twitter: "Some quick analysis of the new Wuhan CoV sequence: 1) Looks like a group 2B CoV, same family as SARS with about 73% conservation at genome 2)Rough tree puts it between HKU3/273-CoV and SHC014-CoV, a bat virus capable of using human ACE2." / Twitter
 11:44 AM · Jan 11, 2020
-
-<img src="https://pbs.twimg.com/media/EOCGWk3VUAElRQ_?format=jpg" width=50%>
 
 https://twitter.com/edwardcholmes/status/1215802670176276482
 Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus associated with the Wuhan outbreak is now available at https://t.co/EeqQXCs3n3 here: https://t.co/jdCM9USkSK" / Twitter
