@@ -148,6 +148,9 @@ EARLの医学ツイート (@EARL_Med_Tw) / Twitter
 https://viralzone.expasy.org/30?outline=all_by_species
 Coronaviridae ~ ViralZone page
 
+https://asm.org/Press-Releases/2020/nCoV2019-Resources
+Novel Coronavirus (2019-nCoV) Resources | ASM.org
+
 https://www.cdc.gov/coronavirus/
 Novel Coronavirus 2019
 
@@ -212,6 +215,12 @@ Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus ass
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+2020/01/30 15:16
+https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
+新型コロナウイルス どれぐらい警戒したらいいの？　感染症のスペシャリストに聞きました
+
+新型コロナウイルスをこれほど怖がっているにもかかわらず、いまだに麻疹や風疹のワクチンをうたない人がいるのは不思議なことです。
 
 https://twitter.com/y_tambe/status/1221360143809466368
 なんでHIV治療薬が新型コロナウイルスに効くのかについて。
