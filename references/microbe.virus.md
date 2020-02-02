@@ -205,6 +205,7 @@ Rapid outbreak response requires trust | Nature Microbiology
 First published: 22 January 2020
 https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25682
 Homologous recombination within the spike glycoprotein of the newly identified coronavirus may boost cross‐species transmission from snake to human - Ji - - Journal of Medical Virology - Wiley Online Library
+To determine the possible virus reservoir, we have carried out comprehensive sequence analysis and comparison in conjunction with relative synonymous codon usage (RSCU) bias among different animal species based on existing sequences of the newly identified coronavirus 2019‐nCoV. Results obtained from our analyses suggest that the 2019‐nCoV appears to be a recombinant virus between the bat coronavirus and an origin‐unknown coronavirus. The recombination occurred within the viral spike glycoprotein, which recognizes cell surface receptor. Additionally, our findings suggest that snake is the most probable wildlife animal reservoir for the 2019‐nCoV based on its RSCU bias resembling snake compared to other animals.
 
 https://www.ecohealthalliance.org/2020/01/phylogenetic-analysis-shows-novel-wuhan-coronavirus-clusters-with-sars
 
