@@ -154,10 +154,35 @@ Novel Coronavirus (2019-nCoV) Resources | ASM.org
 https://www.cdc.gov/coronavirus/
 Novel Coronavirus 2019
 
+https://www.cdc.gov/coronavirus/2019-ncov/publications.html
+2019-nCoV Publications | CDC
+
+Lu R, Zhao X, Li J, et al. Genomic characterization and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding pdf icon[1.35 MB, 10 pages]. The Lancet. Published online January 29, 2020. https://doi.org/10.1016/ S0140-6736(20)30251-8
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/genomic-characterization-of-2019-nCoV-Lancet-1-29-2020.pdf
+```
+NC_004718.3
+SARS-CoV
+29751 base pairs
+
+NC_019843.3
+MERS-CoV
+30119 base pairs
+
+$grep "NC_019843.3" viruses.txt 
+Human betacoronavirus 2c EMC/2012	1235996		0	Other	Coronaviridae	30.119	41.2	human,vertebrates	 Unknown:NC_019843.3/JX869059.2	10	11	2012/09/27	2018/08/13	Complete Genome
+```
+
+https://twitter.com/trvrb/status/1223361584342265856
+Trevor Bedford on Twitter: "I've written a blog post on #nCoV2019 genomic epidemiology and the global scientific response to the outbreak: https://t.co/BeQzfOkuoO https://t.co/N2yuhx1jWV"
+6:45 AM · Feb 1, 2020
+
+https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
+2019-nCoV Sequences (Wuhan coronavirus)
+The sequence lists were last updated Friday Jan 31 08:55 2020 EST
+
 https://twitter.com/trvrb/status/1221218730383798272
 Trevor Bedford on Twitter: "Thanks to continued rapid data sharing by @CDCgov, we've updated the analysis of #nCoV2019 at https://t.co/JHWNUOwchc with the genome of the virus from the case in Chicago. It clusters with several other viruses, but is still consistent with acquisition in Wuhan. https://t.co/XeKMDgK9sg" / Twitter
 8:50 AM · Jan 26, 2020
-
 
 <img src="https://pbs.twimg.com/media/EPKj9XGVAAAZRyH?format=jpg" width=50%>
 
@@ -215,6 +240,12 @@ Eddie Holmes on Twitter: "All, an initial genome sequence of the coronavirus ass
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+https://twitter.com/danryo_official/status/1223623594946678784
+Ryan on Twitter: "Table of 2019-nCoV (Wuhan coronavirus) sequences currently available in GenBank and the Sequence Read Archive (SRA) https://t.co/M1tdbhxWsF" / Twitter
+Feb 2, 2020
+気になるのは最初の方とどれくらい変異が入っているかですね。最初の方のやつは2019年12月に登録されているみたいなので、時間も経ってます。
+現状でGenbankに32例、RefSeqに1例、SRAに6例あがっています。(GenbankにはComplete以外も含みます)
 
 2020/01/30 15:16
 https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
