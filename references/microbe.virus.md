@@ -157,6 +157,23 @@ Novel Coronavirus 2019
 https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 2019-nCoV Publications | CDC
 
+https://twitter.com/HattoriM/status/1224322282933243904
+HattoriM on Twitter: "新型コロナウイルスに関する研究論文が本日Nature誌に。ゲノム配列解読、コウモリのコロナウイルスとの高い類似性の指摘、感染にACE2を利用することなどを報告。1/20投稿、1/29日アクセプトの異例スピード。さらに1/31にbioRxivにて論文公表済み。https://t.co/EQjrRMyIZM" / Twitter
+10:22 PM · Feb 3, 2020
+
+Published: 03 February 2020
+https://www.nature.com/articles/s41586-020-2012-7
+A pneumonia outbreak associated with a new coronavirus of probable bat origin | Nature
+
+https://twitter.com/y_tambe/status/1224162966687240193
+Y Tambe on Twitter: "@kogamiofficial その元ネタになった論文は、著者自身が撤回を表明してます。 https://t.co/dIoeFq3CpH 類似が指摘されたのは新型コロナウイルスの表面にあるスパイクタンパク質。最初、著者は「配列の一部がHIVと似てる」と書いたけど他の研究者から「そこだけみたら、ほかにもいろんなウイルスと似てるやん」と（続" / Twitter
+11:49 AM · Feb 3, 2020
+承前）ツッコミが入った。もともと著者自身も「似てる」とは言ったけど「HIVから来た配列だ」とは言っておらず、曲解したブログがデマを拡散し、著者自身もこれはマズいと論文撤回に向かったかたち。
+
+2020-02-02
+https://www.jijitsu.net/entry/India-coronavirus-HIV
+インド論文著者が撤回表明「新型コロナウイルスにHIVタンパク質が挿入」はフェイク・デマ - 事実を整える
+
 Lu R, Zhao X, Li J, et al. Genomic characterization and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding pdf icon[1.35 MB, 10 pages]. The Lancet. Published online January 29, 2020. https://doi.org/10.1016/ S0140-6736(20)30251-8
 https://www.cdc.gov/coronavirus/2019-ncov/downloads/genomic-characterization-of-2019-nCoV-Lancet-1-29-2020.pdf
 ```
@@ -268,10 +285,11 @@ https://twitter.com/HattoriM/status/1220977875207147520
 HattoriM on Twitter: "一昨日から今日1/25までの短期間でbioRxivに合計8報の新型コロナウイルスに関する研究論文が公表。12/8に初症例、1/6にウイルス同定、1/10にゲノム配列公表からのわずかな期間で既に多くの中国内外の研究者が取り組んでいることがわかる。bioRxiv Search Results: 2019-nCoV| https://t.co/nJMcMkN3Pf"
 4:53 PM · Jan 25, 2020
 
+
 2020.01.25 SAT 09:00
 https://wired.jp/2020/01/25/wuhan-coronavirus-snake-flu-theory/
+新型コロナウイルスの感染源は、本当に「市場のヘビ」なのか？ 新たな論文を巡り波紋｜WIRED.jp
 タンパク質を構成するコドンの使用頻度の偏り（コドンバイアス）は、生物によって異なる。一部のウイルスは、新しい宿主のコドンバイアスを採用することで、新しい宿主に適応する。
-
 研究チームは、新型コロナウイルス（2019-nCoV）が好んで使うコドンと、宿主の可能性がある少数の生物（人間、コウモリ、ニワトリ、ハリネズミ、センザンコウ、2種類のヘビ）が好むコドンを比較した。そして新型コロナウイルス（2019-nCoV）のコドンバイアスが、タイワンコブラとアマガサヘビの2種類のヘビのコドンバイアスと最も重複していることがわかったと報告したのだ。
 
 https://twitter.com/DLYDDDDK/status/1220338581119463424
