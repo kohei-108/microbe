@@ -12,6 +12,36 @@
 - [phage](#phage)
 - [people](#people)
 [Ikemura](#ikemura)
+- [nextstrain](#nextstrain)
+
+----------
+## nextstrain
+
+https://twitter.com/nextstrain
+
+https://www.ncbi.nlm.nih.gov/pubmed/29790939
+Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
+Nextstrain: real-time tracking of pathogen evolution.
+Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
+
+
+https://bibgraph.hpcr.jp/abst/pubmed/31671157
+Nextstrainで視覚化されたアメリカ大陸での20年にわたるウエストナイルウイルスの拡散と進化 - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
+Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain.
+PLoS pathogens
+2019Oct01
+
+2017年03月07日
+https://jipsti.jst.go.jp/johokanri/sti_updates/?id=9489
+NIH、オープンサイエンス懸賞受賞者を発表
+
+2017.01.20
+https://ritsuan.com/blog/5298/
+Open Science(生命科学分野)3 | リツアンSTC
+
+https://pelicanmemo.hatenablog.com/category/感染症?page=1476068280
+https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
+ジカ熱のウイルスのゲノム系統図、インタラクティブ・マップ - pelicanmemo
 
 ----------
 ## wiki
@@ -141,9 +171,11 @@ EARLの医学ツイート (@EARL_Med_Tw) / Twitter
 ----------
 ## Coronavirus
 
-- https://ja.wikipedia.org/wiki/コロナウイルス
 - https://en.wikipedia.org/wiki/Coronavirus
-- https://en.wikipedia.org/wiki/2019%E2%80%9320_China_pneumonia_outbreak
+- https://ja.wikipedia.org/wiki/コロナウイルス
+- https://en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak
+- https://ja.wikipedia.org/wiki/2019新型コロナウイルス
+https://nextstrain.org/groups/blab/sars-like-cov
 
 https://viralzone.expasy.org/30?outline=all_by_species
 Coronaviridae ~ ViralZone page
@@ -156,6 +188,12 @@ Novel Coronavirus 2019
 
 https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 2019-nCoV Publications | CDC
+
+https://twitter.com/DNA_PAPA/status/1225063577918169089
+DNAパパ🇦🇺メルボルン永住17年 on Twitter: "＃新型コロナウイルス（間違ってオリジナルツイートを削除、すいません再ツイート）私たちのグループがオーストラリア最初の新型コロナウイルスのゲノムを解析。約一日でゲノム解読とパブリッシュ。ゲノム解読は私のチームが担当。アシスタント達は結構興奮。中国のウイルスと比べ数ヶ所の突然変異確認 https://t.co/BcQ8DgCQ5i" / Twitter
+11:28 PM · Feb 5, 2020
+このツイートの補足YouTubeをアップしました。
+ぜひご覧ください。新型コロナウイルスの突然変異についての解説もしています。系統樹についても説明。
 
 https://twitter.com/HattoriM/status/1224322282933243904
 HattoriM on Twitter: "新型コロナウイルスに関する研究論文が本日Nature誌に。ゲノム配列解読、コウモリのコロナウイルスとの高い類似性の指摘、感染にACE2を利用することなどを報告。1/20投稿、1/29日アクセプトの異例スピード。さらに1/31にbioRxivにて論文公表済み。https://t.co/EQjrRMyIZM" / Twitter
@@ -350,8 +388,6 @@ https://gigazine.net/news/20141110-ebola-virus-mechanism/
 https://www.youtube.com/watch?v=sRv19gkZ4E0
 The Ebola Virus Explained — How Your Body Fights For Survival - YouTube
 
-
-
 ----------
 ## HIV
 
@@ -375,8 +411,6 @@ https://wired.jp/2003/06/19/hivの起源は「サルを食べたチンパンジ�
 「チンパンジーを殺してその肉を食べるという、ヒトが最初に感染したと想定されるルートと似ている」と研究チームのメンバーで、イギリスのノッティンガム大学遺伝学研究所に所属するポール・M・シャープ教授は述べている。
 http://pages.ucsd.edu/~jmoore/publications/hivhooper.html
 Paul Sharp
-
-
 
 ----------
 ## Zika
@@ -433,11 +467,6 @@ Timescale of the introduction of ZIKV to the Americas.
 2016年9月2日23時23分
 https://www.asahi.com/articles/ASJ927HWWJ92UHBI03J.html
 リオ五輪参加者、ジカ熱の感染報告なし　ＷＨＯ発表 - 2016リオオリンピック：朝日新聞デジタル
-
-
-
-
-
 
 
 ----------
