@@ -198,10 +198,12 @@ Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
 avatarBuilt with github.com/blab/sars-like-cov. Maintained by Trevor Bedford.
 Showing 49 of 49 genomes.
 
+http://virological.org/t/divergence-of-ncov-2019-to-closest-non-human-relative/388
+Divergence of nCoV-2019 to closest non-human relative - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
+
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
-
 
 https://twitter.com/DNA_PAPA/status/1225063577918169089
 DNAパパ🇦🇺メルボルン永住17年 on Twitter: "＃新型コロナウイルス（間違ってオリジナルツイートを削除、すいません再ツイート）私たちのグループがオーストラリア最初の新型コロナウイルスのゲノムを解析。約一日でゲノム解読とパブリッシュ。ゲノム解読は私のチームが担当。アシスタント達は結構興奮。中国のウイルスと比べ数ヶ所の突然変異確認 https://t.co/BcQ8DgCQ5i" / Twitter
