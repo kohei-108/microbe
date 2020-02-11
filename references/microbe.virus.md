@@ -17,21 +17,26 @@
 
 ----------
 ## nextstrain
+https://twitter.com/nextstrain
+
 https://nextstrain.org/
 
-https://twitter.com/nextstrain
+https://nextstrain.org/ncov
 
 https://www.ncbi.nlm.nih.gov/pubmed/29790939
 Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
 Nextstrain: real-time tracking of pathogen evolution.
 Hadfield J1, Megill C1, Bell SM1,2, Huddleston J1,2, Potter B1, Callender C1, Sagulenko P3, Bedford T1, Neher RA3,4,5.
 
-
 https://bibgraph.hpcr.jp/abst/pubmed/31671157
 Nextstrainで視覚化されたアメリカ大陸での20年にわたるウエストナイルウイルスの拡散と進化 - Bibgraph（ビブグラフ）| PubMedを日本語で論文検索
 Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain.
 PLoS pathogens
 2019Oct01
+https://www.ncbi.nlm.nih.gov/pubmed/31671157
+PLoS Pathog. 2019 Oct 31;15(10):e1008042. doi: 10.1371/journal.ppat.1008042. eCollection 2019 Oct.
+Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain.
+Hadfield J1, Brito AF2, Swetnam DM3, Vogels CBF2, Tokarz RE4, Andersen KG5,6, Smith RC4, Bedford T1, Grubaugh ND2.
 
 2017年03月07日
 https://jipsti.jst.go.jp/johokanri/sti_updates/?id=9489
@@ -41,7 +46,6 @@ NIH、オープンサイエンス懸賞受賞者を発表
 https://ritsuan.com/blog/5298/
 Open Science(生命科学分野)3 | リツアンSTC
 
-https://pelicanmemo.hatenablog.com/category/感染症?page=1476068280
 https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
 ジカ熱のウイルスのゲノム系統図、インタラクティブ・マップ - pelicanmemo
 
