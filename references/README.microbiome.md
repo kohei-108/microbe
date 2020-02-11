@@ -30,6 +30,9 @@ MetaSUB: Metagenomics & Metadesign of Subways & Urban Biomes
 ----------
 ## featuring
 
+https://twitter.com/WvSchaik/status/583760066505007104
+Willem van Schaik on Twitter: "Everything that is wrong about microbiome research in one blog post 'Microbiome correlated with income': http://t.co/qXuW7nnviQ" / Twitter
+7:37 AM · Apr 3, 2015
 
 ----------
 ## updates
