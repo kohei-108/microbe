@@ -13,6 +13,7 @@
 - [people](#people)
 [Ikemura](#ikemura)
 - [nextstrain](#nextstrain)
+- [rate](#rate) 進化速度
 
 ----------
 ## nextstrain
@@ -43,6 +44,64 @@ Open Science(生命科学分野)3 | リツアンSTC
 https://pelicanmemo.hatenablog.com/category/感染症?page=1476068280
 https://pelicanmemo.hatenablog.com/entry/2016/10/03/183100
 ジカ熱のウイルスのゲノム系統図、インタラクティブ・マップ - pelicanmemo
+
+----------
+## rate
+rate of evolution
+進化速度
+
+http://virological.org/t/divergence-of-ncov-2019-to-closest-non-human-relative/388
+Divergence of nCoV-2019 to closest non-human relative - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
+
+arambaut
+This can be estimated using BEAST [3,4] by assuming a rate of evolution. Here I have show estimates for a rate of 1e-3 and 5e-4 substitutions per site per year. 
+
+philippe_lemey
+As calibration we used a rate distribution based on OC43 (0.00024 [0.00019,0.00029] subst./sites/yr) and MERS (0.00078 [0.00063,0.00092] subst./sites/yr):
+
+
+https://www.nsc.nagoya-cu.ac.jp/~yossuzuk/
+鈴木善幸研究室
+https://www.nsc.nagoya-cu.ac.jp/~yossuzuk/research-j.html
+研究の内容
+
+インフルエンザウイルスの進化
+インフルエンザ A 型ウイルスは自然宿主のカモでヒトやブタよりも進化速度が約 10 倍遅い。また A 型ウイルスの 16 種類のヘマグルチニン亜型の最も古い分岐年代は約 2,000 年前、A 型と B 型ウイルスの分岐年代は約 4,000 年前、A・B 型と C 型ウイルスの分岐年代は約 8,000 年前である。
+(Suzuki and Nei, Mol. Biol. Evol. 2002)
+
+ウイルスの進化速度
+RNA ウイルスには、HIV、HCV、インフルエンザウイルスなどの進化速度が 10E-3 から 10E-4 という高速に進化するグループと、HTLV、HGV などの進化速度が 10E-6 から 10E-7 という低速に進化するグループがある
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000007.php
+宮田　隆の進化の話
+【25年の眠りから覚めたインフルエンザウィルス：ウィルスの分子進化学】
+　インフルエンザが流行するたびに、そのウィルス株が凍結保存されるので、それはいわばウィルスの化石のようなものとみなせる。しかも完全な遺伝情報を手にすることができる化石である。
+　このことを利用するとインフルエンザウィルスに分子時計が存在するかどうかを確かめることができる。例えば、同じ亜型のウィルスの一つの遺伝子について、T1年に流行したウィルスのサンプルの塩基配列とT2年に流行したウィルスのサンプルの塩基配列を比較して、塩基が異なっている座位の数からT12（≡T2 −T1）年の間に貯めた座位あたりの塩基置換数K12を推定する。幾つかのサンプルの組から、K - Tの関係、すなわち分子時計を検証できる。
+　林田らは、3つの遺伝子、すなわち3つの分節でK - Tプロットを調べたが、いずれにもみごとな直線関係、すなわち分子時計の存在が確認された。図1に分節8の結果を示した。
+　普通の生物との類似点はこれまでで、ウィルスの進化の速度は桁外れに大きい。ウィルスの同義置換速度は0.01座位/年で、これは哺乳類の遺伝子のおよそ数百万倍にものぼる。通常の生物の分子の進化は数百万年、すなわち、地質年代を単位として起こるのに比べ、ウィルスの分子は年を単位として起こるわけである。
+　この奇妙な現象の最も合理的な解釈は、USSR株が1950年と1977年の間の25年間だけ進化を完全に停止し、その後再び同じ進化速度で進化を再開したということである（図3）。
+
+2005 年
+https://www.jstage.jst.go.jp/article/jsv/55/2/55_2_221/_article/-char/ja/
+総説
+RNAウイルスと変異
+佐藤 裕徳, 横山 勝
+http://jsv.umin.jp/journal/v55-2pdf/virus55-2_221-230.pdf
+HIV-1 の遺伝子は，真核細胞生物や DNA ウ
+イルスの遺伝子の 100 万倍以上のスピ－ドで変異していく.
+この驚異的な高変異性が Hahn ら 4）によりサイエンス誌上
+に報告されたのは，HIV-1 が初めてエイズ患者から分離さ
+れて間もない 1986 年のことであった．この 20 年近く前の
+結論は，感染者とヒト集団における HIV-1 の塩基置換速度
+が徹底的に検証された現在においてもなお成立する．HIV1 感染者の体内では，env 遺伝子の高度可変領域（env V3
+および V4-V5）は gag 遺伝子の数十倍の速度で変異を蓄積
+していることが判明している 4, 5）．すなわち塩基置換速度
+は平均 1 ～ 5x10-3（env）と平均 1x10-4（gag）塩基置換／
+塩基／年とされる 4, 5）．ちなみに哺乳動物遺伝子の塩基置
+換速度は平均 5.5x10-9 塩基置換／塩基／年と報告されてい
+る 3）．現在では感染者の HIV-1 の塩基置換速度はウイルス
+の系統 8, 9）や病態・免疫状態 10-12）に影響を受けて変動す
+ることがわかっている．
 
 ----------
 ## wiki
@@ -190,13 +249,17 @@ https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 https://asm.org/Press-Releases/2020/nCoV2019-Resources
 Novel Coronavirus (2019-nCoV) Resources | ASM.org
 
-http://virological.org/c/novel-2019-coronavirus
-Latest Novel 2019 coronavirus topics - Virological
+https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
+2019-nCoV Sequences (Wuhan coronavirus)
+The sequence lists were last updated Friday Feb 07 10:45 2020 EST
 
 https://nextstrain.org/groups/blab/sars-like-cov
 Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
 avatarBuilt with github.com/blab/sars-like-cov. Maintained by Trevor Bedford.
 Showing 49 of 49 genomes.
+
+http://virological.org/c/novel-2019-coronavirus
+Latest Novel 2019 coronavirus topics - Virological
 
 http://virological.org/t/divergence-of-ncov-2019-to-closest-non-human-relative/388
 Divergence of nCoV-2019 to closest non-human relative - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
@@ -204,6 +267,10 @@ Divergence of nCoV-2019 to closest non-human relative - Novel 2019 coronavirus /
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+https://twitter.com/arambaut/status/1226273911035265024
+Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "An estimate of the divergence time between #nCoV2019 and the currently closest known non-human animal virus (RaTG13 in a bat). https://t.co/0tVENWhavZ Spoiler: probably before 1997." / Twitter
+7:37 AM · Feb 9, 2020
 
 https://twitter.com/DNA_PAPA/status/1225063577918169089
 DNAパパ🇦🇺メルボルン永住17年 on Twitter: "＃新型コロナウイルス（間違ってオリジナルツイートを削除、すいません再ツイート）私たちのグループがオーストラリア最初の新型コロナウイルスのゲノムを解析。約一日でゲノム解読とパブリッシュ。ゲノム解読は私のチームが担当。アシスタント達は結構興奮。中国のウイルスと比べ数ヶ所の突然変異確認 https://t.co/BcQ8DgCQ5i" / Twitter
@@ -253,9 +320,10 @@ https://twitter.com/trvrb/status/1223361584342265856
 Trevor Bedford on Twitter: "I've written a blog post on #nCoV2019 genomic epidemiology and the global scientific response to the outbreak: https://t.co/BeQzfOkuoO https://t.co/N2yuhx1jWV"
 6:45 AM · Feb 1, 2020
 
-https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
-2019-nCoV Sequences (Wuhan coronavirus)
-The sequence lists were last updated Friday Jan 31 08:55 2020 EST
+2020/01/30 15:16
+https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
+新型コロナウイルス どれぐらい警戒したらいいの？　感染症のスペシャリストに聞きました
+新型コロナウイルスをこれほど怖がっているにもかかわらず、いまだに麻疹や風疹のワクチンをうたない人がいるのは不思議なことです。
 
 https://twitter.com/pathogenomenick/status/1222656185624682497
 Nick Loman on Twitter: "You could run a pretty successful outbreak phylogenetics course just by discussing the materials posted on @virological_org in the last couple weeks: https://t.co/78QoXcgiph" / Twitter
