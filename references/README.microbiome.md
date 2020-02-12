@@ -10,6 +10,8 @@ Last Update: 2020-02
 
 - [featuring](#featuring)
 - [updates](#updates)
+- [culture](#culture) 培養法
+  - [culturomics](#culturomics)
 - [forensic](#forensic) 法科学
 - [host](#host) 宿主
 - [American Gut](#american-gut)
@@ -39,11 +41,85 @@ Willem van Schaik on Twitter: "Everything that is wrong about microbiome researc
 
 ### 2019
 
-
 ### 2018
 
 ### 2017
 
+----------
+## culture
+培養法
+
+http://ushio-ecology-blog.blogspot.com/2020/01/20200129blogger0009.html
+Ushio's blog: 核酸配列に基づかない微生物群集の分析方法
+5. BIOLOG
+BIOLOG は分解酵素活性分析と同様に、微生物群集の基質代謝能力を測ることの出来る手法です (Garland & Mills 1991 など)。
+BIOLOG プレートにはいろいろな種類があります (EcoPlate など)。96ウェルマイクロプレートに様々な化合物が微生物の代謝基質として予め入れられており、そこに生きた微生物を含むサンプル (単離株でもいいし、水や土壌などの環境サンプルでもよい) を適当に希釈して投入して使用します。サンプル中の微生物 (群集) にウェル内の基質の代謝能力があれば、ウェル内の基質が代謝され、紫色に発色します。プレートリーダーでその強度を読み取ることで、微生物 (群集) の基質代謝能力を評価できます (Miki et al. 2018 Ecological Research などをご覧ください)。
+https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1007/s11284-017-1554-0
+Statistical recipe for quantifying microbial functional diversity from EcoPlate metabolic profiling - Miki - 2018 - Ecological Research
+
+https://www.biorxiv.org/content/10.1101/616821v1
+Monitoring soil microorganisms with community-level physiological profiles using Biolog EcoPlates™ in Chaohu lakeside wetland, east China | bioRxiv
+https://twitter.com/copypasteusa/status/1120729465829691393
+the interpretation of the results requires much care
+"Since the alteration of the community structure, i.e., the enrichment effect, occurs during incubation of BIOLOG plates,"
+https://ncbi.nlm.nih.gov/pmc/articles/PMC91587/
+
+https://www.ncbi.nlm.nih.gov/pubmed/10508069
+Appl Environ Microbiol. 1999 Oct;65(10):4419-24.
+A method of profiling microbial communities based on a most-probable-number assay that uses BIOLOG plates and multiple sole carbon sources.
+Gamo M1, Shoji T.
+
+数十の大腸菌のゲノム配列データからゲノムスケールの代謝モデルを構築し、様々な培養条件での増殖を予測
+https://www.ncbi.nlm.nih.gov/pubmed/24277855
+Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20338-43. doi: 10.1073/pnas.1307797110. Epub 2013 Nov 25.
+Genome-scale metabolic reconstructions of multiple Escherichia coli strains highlight strain-specific adaptations to nutritional environments.
+Monk JM1, Charusanti P, Aziz RK, Lerman JA, Premyodhin N, Orth JD, Feist AM, Palsson BØ.
+
+212種類の培養条件で得られたコロニー形成細菌群集
+https://www.ncbi.nlm.nih.gov/pubmed/23033984
+Clin Microbiol Infect. 2012 Dec;18(12):1185-93. doi: 10.1111/1469-0691.12023. Epub 2012 Oct 3.
+Microbial culturomics: paradigm shift in the human gut microbiome study.
+Lagier JC1, Armougom F, Million M, Hugon P, Pagnier I, Robert C, Bittar F, Fournous G, Gimenez G, Maraninchi M, Trape JF, Koonin EV, La Scola B, Raoult D.
+
+2002 年 56 巻 1 号 p. 23-29
+https://www.jstage.jst.go.jp/article/jssm/56/1/56_KJ00008103923/_article/-char/ja/
+化学物質に対する細菌群集の応答に着目した土壌の特徴づけ : カテコール添加土壌から分離される細菌菌株群の炭素源利用パターンによる評価
+https://www.jstage.jst.go.jp/article/jssm/56/1/56_KJ00008103923/_pdf/-char/ja
+25°Cにて4日間および14日間培養後，出現した細菌コロニーを計数した。
+
+1997 年 49 巻 p. 35-42
+https://www.jstage.jst.go.jp/article/jssm/49/0/49_KJ00008103429/_article/-char/ja/
+海岸砂丘地の未熟土における細菌群集の多様性
+https://www.jstage.jst.go.jp/article/jssm/49/0/49_KJ00008103429/_pdf/-char/ja
+根面の細菌群集はそのほとんどが寒天培地で比較的速くコロニーを形成する(培養4日目までに90%以上のコロニーが出現する)
+Pd.1は，1/10PTYGA培地のような塩類濃度の低い培地では増殖が阻害される細菌が多く存在し，その結果として培養3週間目の細菌数に占める培養4日目の細菌数の割合が低かったとも考えられる。
+
+https://www.jstage.jst.go.jp/browse/jssm/50/0/_contents/-char/ja
+土と微生物
+https://www.jstage.jst.go.jp/article/jssm/50/0/50_KJ00008103464/_article/-char/ja/
+土壌微生物のエコ・コレクションと進化・適応(共生・寄生微生物の進化と環境適応,シンポジウム)
+服部 勉
+1997 年 50 巻 p. 1-3
+
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/28/5/28_5_307/_article/-char/ja
+細菌コロニー形成曲線と低栄養細菌
+服部 勉
+1990 年 28 巻 5 号 p. 307-315
+https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/28/5/28_5_307/_pdf/-char/ja
+
+----------
+### culturomics
+
+https://www.ncbi.nlm.nih.gov/pubmed/29937540
+Nat Rev Microbiol. 2018 May 1:540-550. doi: 10.1038/s41579-018-0041-0.
+Culturing the human microbiota and culturomics.
+Lagier JC1, Dubourg G1, Million M1, Cadoret F2, Bilen M1,3, Fenollar F4, Levasseur A1, Rolain JM1, Fournier PE4, Raoult D5.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23291779
+Eur J Clin Microbiol Infect Dis. 2013 May;32(5):637-45. doi: 10.1007/s10096-012-1787-3. Epub 2013 Jan 6.
+The gut microbiota of a patient with resistant tuberculosis is more comprehensively studied by culturomics than by metagenomics.
+Dubourg G1, Lagier JC, Armougom F, Robert C, Hamad I, Brouqui P, Raoult D.
+By culture, only 39 bacterial species were identified, including one new species, as well as three species that have not been previously observed in the human gut. The pyrosequencing showed only 18 phylotypes, detecting a lower number of bacterial species than the culture techniques. Only two phylotypes overlapped with culturomics. In contrast, an amount of chloroplasts was found. Additionally, specific molecular eukaryote detection found three fungal species. We recovered, for the first time, more cultivable than non-cultivable bacterial species in a patient with a low bacterial load in the gut, demonstrating the depth bias of pyrosequencing. 
 
 ----------
 ## enterotype
@@ -75,23 +151,6 @@ II，Ruminococcus属菌が優位なEnterotype IIIの3
 https://syodokukai.exblog.jp/14833751/
 長期的な食事パターンと腸内細菌エンテロタイプとの関連 : 一人抄読会
 最近、腸内細菌叢の特徴を主に3つのタイプ（Bacteroides, Prevotela, Ruminococcus）に分類する「エンテロタイプ」という考え方が提案されている。エンテロタイプの背景因子は不明で、少なくとも国籍、性別、年齢、BMIとは無関係である。
-
-----------
-## culturomics
-
-https://www.ncbi.nlm.nih.gov/pubmed/29937540
-Nat Rev Microbiol. 2018 May 1:540-550. doi: 10.1038/s41579-018-0041-0.
-Culturing the human microbiota and culturomics.
-Lagier JC1, Dubourg G1, Million M1, Cadoret F2, Bilen M1,3, Fenollar F4, Levasseur A1, Rolain JM1, Fournier PE4, Raoult D5.
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/23291779
-Eur J Clin Microbiol Infect Dis. 2013 May;32(5):637-45. doi: 10.1007/s10096-012-1787-3. Epub 2013 Jan 6.
-The gut microbiota of a patient with resistant tuberculosis is more comprehensively studied by culturomics than by metagenomics.
-Dubourg G1, Lagier JC, Armougom F, Robert C, Hamad I, Brouqui P, Raoult D.
-By culture, only 39 bacterial species were identified, including one new species, as well as three species that have not been previously observed in the human gut. The pyrosequencing showed only 18 phylotypes, detecting a lower number of bacterial species than the culture techniques. Only two phylotypes overlapped with culturomics. In contrast, an amount of chloroplasts was found. Additionally, specific molecular eukaryote detection found three fungal species. We recovered, for the first time, more cultivable than non-cultivable bacterial species in a patient with a low bacterial load in the gut, demonstrating the depth bias of pyrosequencing. 
-
 
 ----------
 ## forensic
