@@ -69,6 +69,11 @@ Appl Environ Microbiol. 1999 Oct;65(10):4419-24.
 A method of profiling microbial communities based on a most-probable-number assay that uses BIOLOG plates and multiple sole carbon sources.
 Gamo M1, Shoji T.
 
+https://www.ncbi.nlm.nih.gov/pubmed/9835607
+Appl Environ Microbiol. 1998 Dec;64(12):5046-8.
+Changes in bacterial species composition in enrichment cultures with various dilutions of inoculum as monitored by denaturing gradient gel electrophoresis.
+Jackson CR1, Roden EE, Churchill PF.
+
 数十の大腸菌のゲノム配列データからゲノムスケールの代謝モデルを構築し、様々な培養条件での増殖を予測
 https://www.ncbi.nlm.nih.gov/pubmed/24277855
 Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20338-43. doi: 10.1073/pnas.1307797110. Epub 2013 Nov 25.
