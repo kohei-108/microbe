@@ -21,7 +21,15 @@ https://twitter.com/nextstrain
 
 https://nextstrain.org/
 
+https://twitter.com/Beer_yeast/status/1229327375936061440
+系統樹からどうウイルスが広がっていったのか可視化してる
 https://nextstrain.org/ncov
+5:51 PM · Feb 17, 2020
+
+https://nextstrain.org/groups/blab/sars-like-cov
+Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
+avatarBuilt with github.com/blab/sars-like-cov. Maintained by Trevor Bedford.
+Showing 49 of 49 genomes.
 
 https://www.ncbi.nlm.nih.gov/pubmed/29790939
 Bioinformatics. 2018 Dec 1;34(23):4121-4123. doi: 10.1093/bioinformatics/bty407.
@@ -231,10 +239,15 @@ http://www.nikkei-science.com/page/magazine/0503/virus.html
 
 - https://twitter.com/mdfujita
 藤田康介 (@mdfujita) / Twitter
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/georgebest1969
+岩田健太郎 (@georgebest1969) / Twitter
 - https://twitter.com/EARL_Med_Tw
 EARLの医学ツイート (@EARL_Med_Tw) / Twitter
 - https://twitter.com/DLYDDDDK
 空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
+- 
 
 ----------
 ## Coronavirus
@@ -261,11 +274,6 @@ https://www.ncbi.nlm.nih.gov/genbank/2019-ncov-seqs/
 2019-nCoV Sequences (Wuhan coronavirus)
 The sequence lists were last updated Friday Feb 07 10:45 2020 EST
 
-https://nextstrain.org/groups/blab/sars-like-cov
-Phylogeny of SARS-like betacoronaviruses including novel coronavirus (nCoV)
-avatarBuilt with github.com/blab/sars-like-cov. Maintained by Trevor Bedford.
-Showing 49 of 49 genomes.
-
 http://virological.org/c/novel-2019-coronavirus
 Latest Novel 2019 coronavirus topics - Virological
 
@@ -275,6 +283,26 @@ Divergence of nCoV-2019 to closest non-human relative - Novel 2019 coronavirus /
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
+https://twitter.com/info_nbd/status/1229322823816007681
+日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
+5:32 PM · Feb 17, 2020
+
+https://mainichi.jp/articles/20200214/k00/00m/040/374000c
+新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
+
+https://www.maruzen-publishing.co.jp/info/n19784.html
+『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+第9章「SARSとMERS」PDF版はこちら
+最新データに基づく加藤茂孝先生によるコラム
+【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
+https://www.maruzen-publishing.co.jp/info/n19786.html
+
+2020/02/12 17:30
+https://shinsho.kobunsha.com/n/nd4c6579ddc38
+岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
+新書: 313ページ
+出版社: 光文社 (2014/11/13)
 
 https://twitter.com/arambaut/status/1226273911035265024
 Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "An estimate of the divergence time between #nCoV2019 and the currently closest known non-human animal virus (RaTG13 in a bat). https://t.co/0tVENWhavZ Spoiler: probably before 1997." / Twitter
