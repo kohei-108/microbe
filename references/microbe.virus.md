@@ -288,6 +288,16 @@ https://twitter.com/info_nbd/status/1229322823816007681
 日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
 5:32 PM · Feb 17, 2020
 
+https://twitter.com/oohamazaki/status/1229607308549713921
+【御礼とシェアのお願い】 昨日リリースした都道府県別新型コロナウイルス感染症数マップ（ http://bit.ly/covid19jp )、公開24Hで66,581アクセス、スマホ版・英語版も無事リリースしました。海外では各国政府や大学がやっていることを弱小企業がやっていますが、応援頂ける方は是非RTをお願いします！
+12:23 PM · Feb 18, 2020
+https://twitter.com/oohamazaki/status/1229296257874591745
+奥村様、サイト拝見させて頂きました！このGISを公開している者です。こちらのGISでは厚労省のほか、自治体の公開した事例も加えているため、例えば16日現在であればWHOは53でしたが、当方ではこれに加え東京都＋名古屋市の事例を加え59としていました。（現在はこれに加え本日の2例を追加しています）
+3:47 PM · Feb 17, 2020
+https://twitter.com/h_okumura/status/1229019259856023557
+PythonでCOVID-19の感染者数・死者数の推移をグラフにする https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html
+9:26 PM · Feb 16, 2020
+
 https://mainichi.jp/articles/20200214/k00/00m/040/374000c
 新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
 
