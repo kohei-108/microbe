@@ -250,6 +250,24 @@ EARLの医学ツイート (@EARL_Med_Tw) / Twitter
 - 
 
 ----------
+### 2020-02-17
+
+https://twitter.com/rikomrnk/status/1229782895901806597
+村中璃子 RIKO MURANAKA on Twitter: "新型コロナは遺伝子解析の結果、ラボで作られたものでは「ない」ことが分かってきました。論文がまもなく発表されます。 https://t.co/lAFp8BCAsj"
+12:01 AM · Feb 19, 2020
+
+https://twitter.com/AdamJKucharski/status/1229371111500062721
+"This analysis provides evidence that SARS-CoV-2 is not a laboratory construct nor a purposefully manipulated virus." Before you read any speculation about SARS-CoV-2 origins, read this post by some leading researchers in pathogen evolution/genomics
+8:44 PM · Feb 17, 2020
+
+https://twitter.com/arambaut/status/1229366869095800832
+Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "I have just posted a pre-print of a review written by @K_G_Andersen, @edwardcholmes, Ian Lipkin &amp; Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans. https://t.co/kEVHK2mPX1" / Twitter
+8:27 PM · Feb 17, 2020
+
+http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
+The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
+
+----------
 ## Coronavirus
 
 - https://en.wikipedia.org/wiki/Coronavirus
@@ -283,6 +301,7 @@ Divergence of nCoV-2019 to closest non-human relative - Novel 2019 coronavirus /
 http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
+
 
 https://twitter.com/info_nbd/status/1229322823816007681
 日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
