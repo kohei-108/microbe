@@ -303,6 +303,15 @@ Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virologic
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
 
+
+https://twitter.com/EARL_Med_Tw/status/1230746232223490048
+EARLの医学ツイート on Twitter: "新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19） https://t.co/vo1yUCAw2Q" / Twitter
+3:49 PM · Feb 21, 2020
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
+Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
+
+
 https://twitter.com/info_nbd/status/1229322823816007681
 日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
 5:32 PM · Feb 17, 2020
