@@ -236,17 +236,27 @@ http://www.nikkei-science.com/page/magazine/0503/virus.html
 
 ----------
 
-
+- 
+- https://twitter.com/arambaut
+Andrew Rambaut
+- https://twitter.com/edwardcholmes
+Eddie Holmes
+- 
+- https://twitter.com/DLYDDDDK
+空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
 - https://twitter.com/mdfujita
 藤田康介 (@mdfujita) / Twitter
-- https://twitter.com/y_tambe
-Y Tambe (@y_tambe) / Twitter
 - https://twitter.com/georgebest1969
 岩田健太郎 (@georgebest1969) / Twitter
 - https://twitter.com/EARL_Med_Tw
 EARLの医学ツイート (@EARL_Med_Tw) / Twitter
-- https://twitter.com/DLYDDDDK
-空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/NATROM
+名取宏（なとろむ） (@NATROM) / Twitter
+- 
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
 - 
 
 ----------
@@ -302,6 +312,9 @@ http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
+
+https://coromap.web.app/
+coromap - 新型コロナウイルスの状況マップ
 
 
 https://twitter.com/EARL_Med_Tw/status/1230746232223490048
