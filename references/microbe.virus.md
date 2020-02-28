@@ -4,6 +4,8 @@
 - [wiki](#wiki)
 - [featuring](#featuring)
 - [updates](#updates)
+- [nextstrain](#nextstrain)
+- [rate](#rate) 進化速度
 - [Coronavirus](#coronavirus)
 - [Ebola](#ebola)
 - [HIV](#hiv)
@@ -12,8 +14,130 @@
 - [phage](#phage)
 - [people](#people)
 [Ikemura](#ikemura)
-- [nextstrain](#nextstrain)
-- [rate](#rate) 進化速度
+
+----------
+## wiki
+https://en.wikipedia.org/wiki/Virus
+
+Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. 
+
+https://ja.wikipedia.org/wiki/ウイルス
+
+- https://en.wikipedia.org/wiki/Zika_virus
+Zika virus is related to the dengue, yellow fever, Japanese encephalitis, and West Nile viruses.
+- https://en.wikipedia.org/wiki/Flavivirus
+This genus includes the West Nile virus, dengue virus, tick-borne encephalitis virus, yellow fever virus, Zika virus
+- https://en.wikipedia.org/wiki/Filoviridae
+Two members of the family that are commonly known are Ebola virus and Marburg virus.
+
+----------
+## featuring
+
+- Oct 20, 2019 [Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP"](https://twitter.com/NatureNews/status/1185903524242165761)
+  - [Why Japan imported Ebola ahead of the 2020 Olympics](https://www.nature.com/articles/d41586-019-03103-4)
+Last month, Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the event. The Japanese health ministry says researchers will use the samples, which include Marburg virus, Lassa virus, and the viruses that cause South American haemorrhagic fever and Crimean–Congo haemorrhagic fever, to validate tests under development.
+- Aug 23, 2019 [Nathan Grubaugh on Twitter](https://twitter.com/NathanGrubaugh/status/1164553815376441350)
+  - [Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic: Cell](https://www.cell.com/cell/fulltext/S0092-8674(19)30783-4)
+
+![](https://marlin-prod.literatumonline.com/cms/attachment/7a797cef-d2d1-4ca3-ab81-765204acfa81/fx1.jpg)
+
+- October 2018 TED Talk 11:14 [Alexander Belcredi: How a long-forgotten virus could help us solve the antibiotics crisis | TED Talk](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis) | [アレクサンダー・ベルクレディ: 長く忘れられていたウィルスが抗生物質の危機を解決しうるのはなぜか](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis?language=ja)
+- 2014-11-10 [エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー](https://gigazine.net/news/20141110-ebola-virus-mechanism/)
+The Ebola Virus Explained — How Your Body Fights For Survival
+
+----------
+## updates
+
+## 2020
+
+https://twitter.com/y_tambe/status/1233271239747063808
+Y Tambe on Twitter: "あの方は、だいたい調子が出てくると陰謀論を出してくるのが毎度のことなのです。なので「あ、またか。では解散」以上の感想はなし。 https://t.co/PVu4QEWeH4" / Twitter
+3:02 PM · Feb 28, 2020
+
+https://twitter.com/HattoriM/status/1233242963288838144
+HattoriM on Twitter: "デマです https://t.co/jGNoegmwtW" / Twitter
+1:10 PM · Feb 28, 2020
+
+## 2019
+
+ドラマ『ホット・ゾーン』に学ぶリスクとの向き合い方
+
+2019年10月15日（火）11時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
+岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2019年10月8日（火）13時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
+モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2662
+ホット・ゾーン｜番組紹介｜ナショナル ジオグラフィック (TV)
+https://www.youtube.com/watch?v=6YxNYnHTxAg
+The Hot Zone: Official Trailer | National Geographic - YouTube
+
+https://twitter.com/NatureNews/status/1185903524242165761
+Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP" / Twitter
+10:00 PM · Oct 20, 2019
+
+14 OCTOBER 2019 
+https://www.nature.com/articles/d41586-019-03103-4
+Why Japan imported Ebola ahead of the 2020 Olympics
+Last month, Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the event. The Japanese health ministry says researchers will use the samples, which include Marburg virus, Lassa virus, and the viruses that cause South American haemorrhagic fever and Crimean–Congo haemorrhagic fever, to validate tests under development.
+
+2019/9/28 9:21
+https://www.nikkei.com/article/DGXMZO50339040Y9A920C1CC0000/
+エボラウイルスを輸入　感染研、検査体制強化　　:日本経済新聞
+アフリカの一部で流行中のエボラ熱やラッサ熱のほか、南米出血熱、クリミア・コンゴ出血熱、マールブルグ病の原因ウイルス
+
+2019年09月27日12時42分
+https://www.jiji.com/jc/article?k=2019092700589
+エボラなど初輸入＝「ＢＳＬ４」本格運用－東京・武蔵村山：時事ドットコム
+
+2019年9月27日11時27分
+https://www.asahi.com/articles/ASM9W3J9MM9WULBJ008.html
+エボラウイルスなど５種類　東京・国立感染研施設に輸入 - 東京オリンピック：朝日新聞デジタル
+
+## 2018
+
+https://twitter.com/Virus_Evolution/status/1077745814066229255
+Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
+9:00 PM - 25 Dec 2018
+
+2018年2月13日
+https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
+空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2018.02.08
+http://tocana.jp/2018/02/post_15942_entry.html
+【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
+地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
+
+2016-02-21
+http://yokazaki.hatenablog.com/entry/2016/02/21/010028
+1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
+ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
+
+2012/04/17
+https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
+35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
+
+生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
+
+生命誌ジャーナル2015年間テーマうつる
+http://www.brh.co.jp/seimeishi/journal/084/research/1.html
+RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
+図2：ウイルスと真正細菌の比較。ヘルペスウイルスは従来から知られているウイルスの代表として、それ以外のウイルスは巨大ウイルスのグループとしてあげた。標準的な真正細菌の代表として大腸菌を、小型の真正細菌の代表としてマイコプラズマをあげた。
+ミミウイルス
+パンドラウイルス
+
+http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
+From design of a genome sequence to generation of a synthetic virus
+- Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
+
+日経サイエンス　 2005年3月号
+http://www.nikkei-science.com/page/magazine/0503/virus.html
+ウイルスは生きているのか | 日経サイエンス
+
 
 ----------
 ## nextstrain
@@ -119,148 +243,16 @@ HIV-1 の遺伝子は，真核細胞生物や DNA ウ
 の系統 8, 9）や病態・免疫状態 10-12）に影響を受けて変動す
 ることがわかっている．
 
-----------
-## wiki
-https://en.wikipedia.org/wiki/Virus
-
-Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. 
-
-https://ja.wikipedia.org/wiki/ウイルス
-
-- https://en.wikipedia.org/wiki/Zika_virus
-Zika virus is related to the dengue, yellow fever, Japanese encephalitis, and West Nile viruses.
-- https://en.wikipedia.org/wiki/Flavivirus
-This genus includes the West Nile virus, dengue virus, tick-borne encephalitis virus, yellow fever virus, Zika virus
-- https://en.wikipedia.org/wiki/Filoviridae
-Two members of the family that are commonly known are Ebola virus and Marburg virus.
-
-----------
-## featuring
-
-- Oct 20, 2019 [Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP"](https://twitter.com/NatureNews/status/1185903524242165761)
-  - [Why Japan imported Ebola ahead of the 2020 Olympics](https://www.nature.com/articles/d41586-019-03103-4)
-Last month, Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the event. The Japanese health ministry says researchers will use the samples, which include Marburg virus, Lassa virus, and the viruses that cause South American haemorrhagic fever and Crimean–Congo haemorrhagic fever, to validate tests under development.
-- Aug 23, 2019 [Nathan Grubaugh on Twitter](https://twitter.com/NathanGrubaugh/status/1164553815376441350)
-  - [Travel Surveillance and Genomics Uncover a Hidden Zika Outbreak during the Waning Epidemic: Cell](https://www.cell.com/cell/fulltext/S0092-8674(19)30783-4)
-
-![](https://marlin-prod.literatumonline.com/cms/attachment/7a797cef-d2d1-4ca3-ab81-765204acfa81/fx1.jpg)
-
-- October 2018 TED Talk 11:14 [Alexander Belcredi: How a long-forgotten virus could help us solve the antibiotics crisis | TED Talk](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis) | [アレクサンダー・ベルクレディ: 長く忘れられていたウィルスが抗生物質の危機を解決しうるのはなぜか](https://www.ted.com/talks/alexander_belcredi_how_a_long_forgotten_virus_could_help_us_solve_the_antibiotics_crisis?language=ja)
-- 2014-11-10 [エボラ出血熱封じ込めに不可欠な「エボラウイルスの働き」の理解が進むムービー](https://gigazine.net/news/20141110-ebola-virus-mechanism/)
-The Ebola Virus Explained — How Your Body Fights For Survival
-
-----------
-## updates
-
-## 2020
-
-## 2019
-
-ドラマ『ホット・ゾーン』に学ぶリスクとの向き合い方
-
-2019年10月15日（火）11時00分
-https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
-岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2019年10月8日（火）13時00分
-https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
-モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2662
-ホット・ゾーン｜番組紹介｜ナショナル ジオグラフィック (TV)
-https://www.youtube.com/watch?v=6YxNYnHTxAg
-The Hot Zone: Official Trailer | National Geographic - YouTube
-
-https://twitter.com/NatureNews/status/1185903524242165761
-Nature News & Comment on Twitter: "Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the 2020 Olympics. https://t.co/Ak5QOPI1HP" / Twitter
-10:00 PM · Oct 20, 2019
-
-14 OCTOBER 2019 
-https://www.nature.com/articles/d41586-019-03103-4
-Why Japan imported Ebola ahead of the 2020 Olympics
-Last month, Japan imported Ebola and four other dangerous viruses in preparation for a possible outbreak at the event. The Japanese health ministry says researchers will use the samples, which include Marburg virus, Lassa virus, and the viruses that cause South American haemorrhagic fever and Crimean–Congo haemorrhagic fever, to validate tests under development.
-
-2019/9/28 9:21
-https://www.nikkei.com/article/DGXMZO50339040Y9A920C1CC0000/
-エボラウイルスを輸入　感染研、検査体制強化　　:日本経済新聞
-アフリカの一部で流行中のエボラ熱やラッサ熱のほか、南米出血熱、クリミア・コンゴ出血熱、マールブルグ病の原因ウイルス
-
-2019年09月27日12時42分
-https://www.jiji.com/jc/article?k=2019092700589
-エボラなど初輸入＝「ＢＳＬ４」本格運用－東京・武蔵村山：時事ドットコム
-
-2019年9月27日11時27分
-https://www.asahi.com/articles/ASM9W3J9MM9WULBJ008.html
-エボラウイルスなど５種類　東京・国立感染研施設に輸入 - 東京オリンピック：朝日新聞デジタル
-
-## 2018
-
-https://twitter.com/Virus_Evolution/status/1077745814066229255
-Virus Evolution on Twitter: "Multiple evolutionary origins of giant viruses. https://t.co/BIMhphL1zo… "
-9:00 PM - 25 Dec 2018
-
-2018年2月13日
-https://www.newsweekjapan.jp/stories/world/2018/02/post-9518.php
-空から降るウイルス、想定より千倍以上多かった | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2018.02.08
-http://tocana.jp/2018/02/post_15942_entry.html
-【衝撃】空には大量のウイルスが“正気じゃないほど”含まれていると新判明！ 「大気中を移動し、全世界に降り注ぐ」カナダ教授
-地球上に存在する微生物（細菌やウイルス、ワムシのような小型動物などの総称）の中でもウイルスは最も多いといわれている。
-
-2016-02-21
-http://yokazaki.hatenablog.com/entry/2016/02/21/010028
-1．地球上に生息する細菌の数は、全宇宙の星の数よりもはるかに多い
-ちなみに地球上に存在するウイルスの数はその細菌の数よりもさらに10倍多いと見積もられている。
-
-2012/04/17
-https://www.primate.or.jp/serialization/35%EF%BC%8E新刊書：「ウイルスと地球生命」岩波科学ライ/
-35．新刊書：「ウイルスと地球生命」岩波科学ライブラリー | 一般社団法人　予防衛生協会
-
-生物の骨組みといえる炭素の量で比較すると海に含まれるウイルスの炭素の総量はシロナガスクジラ七五〇〇万頭分の炭素量に匹敵するという試算もある。三〇億年の間に蓄積されてきたウイルスの多様性も計り知れない。ウイルスはまさに地球上で最大の多様性を持つもっとも数の多い生命体といえる。
-
-生命誌ジャーナル2015年間テーマうつる
-http://www.brh.co.jp/seimeishi/journal/084/research/1.html
-RESEARCH:巨大ウイルスから見える新たな生物界の姿 緒方博之 | 季刊「生命誌」 | JT生命誌研究館
-図2：ウイルスと真正細菌の比較。ヘルペスウイルスは従来から知られているウイルスの代表として、それ以外のウイルスは巨大ウイルスのグループとしてあげた。標準的な真正細菌の代表として大腸菌を、小型の真正細菌の代表としてマイコプラズマをあげた。
-ミミウイルス
-パンドラウイルス
-
-http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
-From design of a genome sequence to generation of a synthetic virus
-- Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
-
-日経サイエンス　 2005年3月号
-http://www.nikkei-science.com/page/magazine/0503/virus.html
-ウイルスは生きているのか | 日経サイエンス
-
-----------
-
-- 
-- https://twitter.com/arambaut
-Andrew Rambaut
-- https://twitter.com/edwardcholmes
-Eddie Holmes
-- 
-- https://twitter.com/DLYDDDDK
-空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
-- https://twitter.com/mdfujita
-藤田康介 (@mdfujita) / Twitter
-- https://twitter.com/georgebest1969
-岩田健太郎 (@georgebest1969) / Twitter
-- https://twitter.com/EARL_Med_Tw
-EARLの医学ツイート (@EARL_Med_Tw) / Twitter
-- https://twitter.com/y_tambe
-Y Tambe (@y_tambe) / Twitter
-- https://twitter.com/NATROM
-名取宏（なとろむ） (@NATROM) / Twitter
-- 
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-- 
 
 ----------
 ### 2020-02-17
+
+https://twitter.com/EARL_Med_Tw/status/1230746232223490048
+EARLの医学ツイート on Twitter: "新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19） https://t.co/vo1yUCAw2Q" / Twitter
+3:49 PM · Feb 21, 2020
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
+Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
 
 https://twitter.com/rikomrnk/status/1229782895901806597
 村中璃子 RIKO MURANAKA on Twitter: "新型コロナは遺伝子解析の結果、ラボで作られたものでは「ない」ことが分かってきました。論文がまもなく発表されます。 https://t.co/lAFp8BCAsj"
@@ -276,6 +268,7 @@ Andrew Rambaut 🦠🧬🌲🔮🤦‍♂️ on Twitter: "I have just posted a p
 
 http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
 The Proximal Origin of SARS-CoV-2 - Novel 2019 coronavirus / nCoV-2019 Evolutionary History - Virological
+
 
 ----------
 ## Coronavirus
@@ -312,18 +305,16 @@ http://virological.org/t/initial-genome-release-of-novel-coronavirus/319
 Initial genome release of novel coronavirus - Novel 2019 coronavirus - Virological
 The sequence has also been deposited on GenBank (accession MN908947) and will be released as soon as possible.
 
+### updates.coronavirus
+
+https://twitter.com/m_sekijima/status/1232532869035069440
+欧州バイオインフォマティクス研究所（European Bioinformatics Institute : EBI）が、COVID-19の感染拡大に対応し、利用可能なデータリソースについてまとめたウェブページを公開。
+2:08 PM · Feb 26, 2020
+https://ebi.ac.uk/ena/pathogens/covid-19
+This page lists data held at EMBL-EBI relating to the COVID-19 outbreak, including sequences of outbreak isolates and records relating to coronavirus biology.
 
 https://coromap.web.app/
 coromap - 新型コロナウイルスの状況マップ
-
-
-https://twitter.com/EARL_Med_Tw/status/1230746232223490048
-EARLの医学ツイート on Twitter: "新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19） https://t.co/vo1yUCAw2Q" / Twitter
-3:49 PM · Feb 21, 2020
-
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
-Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
-
 
 https://twitter.com/info_nbd/status/1229322823816007681
 日本バイオデータ on Twitter: "系統解析をすると、たぶん新型コロナウイルスは日本に何回も来てる https://t.co/0ZfJtU41Fx" / Twitter
