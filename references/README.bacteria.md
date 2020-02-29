@@ -2011,6 +2011,12 @@ http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
 ### Shewanella_space
 宇宙
 
+https://www.nasa.gov/spacebio/microbiology/our-experiments
+Our Experiments | NASA
+Investigating the Physiology and Fitness of an Exoelectrogenic Microorganism Under Microgravity Conditions (Micro-12)
+https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7470
+The three specific aims of this project include:
+
 Aug. 6, 2018
 https://www.nasa.gov/mission_pages/station/research/news/shewanella_microgravity
 Getting More Out of Microbes: Studying Shewanella in Microgravity | NASA
@@ -2023,11 +2029,15 @@ June 14, 2018
 https://www.nasa.gov/ames/research/space-biosciences/micro-12-spacex-15
 Micro-12 (SpaceX-15) | NASA
 
-February 2018 — October 2018
-https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7470
-Micro-12
-Investigating the Physiology and Fitness of an Exoelectrogenic Organism Under Microgravity Conditions
-The three specific aims of this project include:
+
+
+2018.07.03
+https://www.discoverychannel.jp/0000027328/
+ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – Discovery Channel Japan | ディスカバリーチャンネル
+
+今回運ばれる研究資材の中には「Micro-12」というものがある。これは、「エクソ電子発生微生物」（exoelectrogenic microbe）であるシュワネラ属の「Shewanella oneidensis MR-1」の成長や遺伝子発現に微重力がどのような影響を与えるかを調べるものだ。
+
+このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
 
 
 July 18, 2018
@@ -2037,14 +2047,6 @@ How 'Electric Microbes' Could Generate Power (And More) for Space Missions (Vide
 JUL 01, 2018
 https://www.labroots.com/trending/microbiology/11945/-26
 Using Bacteria to Help Power Space Missions | Microbiology
-
-2018.07.03
-https://www.discoverychannel.jp/0000027328/
-ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – Discovery Channel Japan | ディスカバリーチャンネル
-
-今回運ばれる研究資材の中には「Micro-12」というものがある。これは、「エクソ電子発生微生物」（exoelectrogenic microbe）であるシュワネラ属の「Shewanella oneidensis MR-1」の成長や遺伝子発現に微重力がどのような影響を与えるかを調べるものだ。
-
-このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
 
 ----------
 ## Sinorhizobium
