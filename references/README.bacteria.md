@@ -2011,25 +2011,24 @@ http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
 ### Shewanella_space
 宇宙
 
-https://www.ncbi.nlm.nih.gov/genome/?term=Shewanella+oneidensis
-Publications
-
-2018/11/29
-https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
-Shewanella: Bacteria to Power Future Space Mission | Vision Biotech
-
-https://www.nasa.gov/mission_pages/station/research/experiments/2541.html
-NASA - Investigating the Physiology and Fitness of an Exoelectrogenic Organism Under Microgravity Conditions (Micro-12) - 09.26.18
-The three specific aims of this project include:
-
 Aug. 6, 2018
 https://www.nasa.gov/mission_pages/station/research/news/shewanella_microgravity
 Getting More Out of Microbes: Studying Shewanella in Microgravity | NASA
 
-
 June 27, 2018
 https://www.nasa.gov/feature/ames/could-electricity-producing-bacteria-help-power-future-space-missions
 Could Electricity-Producing Bacteria Help Power Future Space Missions? | NASA
+
+June 14, 2018
+https://www.nasa.gov/ames/research/space-biosciences/micro-12-spacex-15
+Micro-12 (SpaceX-15) | NASA
+
+February 2018 — October 2018
+https://www.nasa.gov/mission_pages/station/research/experiments/explorer/Investigation.html?#id=7470
+Micro-12
+Investigating the Physiology and Fitness of an Exoelectrogenic Organism Under Microgravity Conditions
+The three specific aims of this project include:
+
 
 July 18, 2018
 https://www.space.com/41193-electricity-producing-bacteria-international-space-station.html
