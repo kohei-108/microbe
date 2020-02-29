@@ -47,6 +47,27 @@ vaginal microbiota
   - [amachi](#amachi) Amachi Seigo
   - [Gilmore](#gilmore) Michael S. Gilmore
 - [excerpt](#excerpt) 抜粋［引用］
+- [CPR](#cpr)
+
+----------
+## CPR
+Candidate Phyla Radiation (CPR)
+
+https://www.ncbi.nlm.nih.gov/pubmed/31446647
+Mol Ecol. 2019 Sep;28(18):4259-4271. doi: 10.1111/mec.15208. Epub 2019 Sep 12.
+Genomic signatures and co-occurrence patterns of the ultra-small Saccharimonadia (phylum CPR/Patescibacteria) suggest a symbiotic lifestyle.
+Lemos LN1, Medeiros JD2, Dini-Andreote F3,4, Fernandes GR5, Varani AM6, Oliveira G7, Pylro VS8.
+https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15208
+By testing the hypothesis of genome streamlining or symbiotic lifestyle, our results revealed clear signatures of gene losses in these genomes, 
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/31519891
+Nat Commun. 2019 Sep 13;10(1):4173. doi: 10.1038/s41467-019-12171-z.
+The distinction of CPR bacteria from other bacteria based on protein family content.
+Méheust R1,2, Burstein D1,3,4, Castelle CJ1,2,5, Banfield JF6,7,8,9
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6744442/
+Enrichment analysis
+Enrichment/depletion of protein families was calculated based on the frequency of the computed protein families in the first and second ‘NCBI’ datasets. The enrichment of each family in CPR vs. non-CPR bacteria was computed using a Fisher’s exact test on a contingency table of presence/absence in CPR and non-CPR bacteria genomes. Families were considered enriched or depleted if their p-values, after correction for false detection rate (Benjamini-Hochberg), were significant (<10−5) in both datasets. The remaining families were assigned as equally distributed.
 
 ----------
 ## featuring
@@ -1701,6 +1722,9 @@ Front Microbiol. 2019 Aug 28;10:1861. doi: 10.3389/fmicb.2019.01861. eCollection
 Whole-Genome Sequencing Redefines Shewanella Taxonomy.
 Thorell K1, Meier-Kolthoff JP2, Sjöling Å3, Martín-Rodríguez AJ3.
 
+https://www.youtube.com/watch?v=cRN0iC9TSyE
+B&B: Oxygen Allows Shewanella oneidensis MR-1 to Overcome Mediator Washout - YouTube
+
 ### Shewanella_outer_membrane_cytochromes
 
 https://www.ncbi.nlm.nih.gov/pubmed/27342561
@@ -1990,6 +2014,10 @@ http://logos.ls.toyaku.ac.jp/~bioenergy1/service.html
 https://www.ncbi.nlm.nih.gov/genome/?term=Shewanella+oneidensis
 Publications
 
+2018/11/29
+https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
+Shewanella: Bacteria to Power Future Space Mission | Vision Biotech
+
 https://www.nasa.gov/mission_pages/station/research/experiments/2541.html
 NASA - Investigating the Physiology and Fitness of an Exoelectrogenic Organism Under Microgravity Conditions (Micro-12) - 09.26.18
 The three specific aims of this project include:
@@ -1998,9 +2026,10 @@ Aug. 6, 2018
 https://www.nasa.gov/mission_pages/station/research/news/shewanella_microgravity
 Getting More Out of Microbes: Studying Shewanella in Microgravity | NASA
 
-2018/11/29
-https://www.visionbiotech.in/shewanella-bacteria-to-power-future-space-mission/
-Shewanella: Bacteria to Power Future Space Mission | Vision Biotech
+
+June 27, 2018
+https://www.nasa.gov/feature/ames/could-electricity-producing-bacteria-help-power-future-space-missions
+Could Electricity-Producing Bacteria Help Power Future Space Missions? | NASA
 
 July 18, 2018
 https://www.space.com/41193-electricity-producing-bacteria-international-space-station.html
@@ -2017,7 +2046,6 @@ ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – 
 今回運ばれる研究資材の中には「Micro-12」というものがある。これは、「エクソ電子発生微生物」（exoelectrogenic microbe）であるシュワネラ属の「Shewanella oneidensis MR-1」の成長や遺伝子発現に微重力がどのような影響を与えるかを調べるものだ。
 
 このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
-
 
 ----------
 ## Sinorhizobium
@@ -2040,6 +2068,19 @@ Ensifer meliloti (Dangeard 1926) Young 2003
 
 https://www.ncbi.nlm.nih.gov/genome/browse/#!/prokaryotes/Sinorhizobium%20meliloti
 Sinorhizobium melilotiには、Repliconが複数ある株（例えば、chromosomeが3つある株、plasmidが5つある株）がいます。
+
+http://www.arsenic-sci-soc.jp/ArsenicLetterNo24rev%20HP.pdf
+第24回ヒ素シンポジウム
+「亜ヒ酸酸化細菌Sinorhizobium sp. KGO-5株のゲノム配列解析」
+ 配列決定の結果、KGO-5株のゲノム配列は1本の染色体と3本のプラスミドで構成されてお
+り、総塩基数は6,564,102 bp、GC含有量は62.3%、CDS（タンパク質のコーディング領域）は
+6,220個であることが予測されました。KGO-5株と近縁細菌31株の全てに保存されたオーソ
+ログ遺伝子（コア遺伝子）に基づく最尤系統樹推定により、KGO-5株は Sinorhizobium
+meliloti に最も近縁な系統群（姉妹群）であることが示唆されました。また重金属耐性遺伝
+子データベースに対してBLASTプログラムを用いた配列類似性検索を行ったところ、プラス
+ミド様配列上にヒ素耐性遺伝子のクラスターが検出されました。これらのヒ素耐性遺伝子群
+はオペロン構造を形成して、ヒ素酸化システムとして機能していると考えられました。以上の
+結果を踏まえ、KGO-5株に至る系統でヒ素関連遺伝子が獲得され、Sinorhizobium 属
 
 ### Sinorhizobium phylogeny
 系統解析
@@ -2816,11 +2857,6 @@ Genomic features
 Table 1
 Genomic features of Macrococcus caseolyticus and 28 Staphylococcus strains.
 
-https://www.ncbi.nlm.nih.gov/pubmed/21282711
-Genome Biol Evol. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
-Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution.
-Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
-
 https://www.ncbi.nlm.nih.gov/pubmed/30910818
 G3 (Bethesda). 2019 May 7;9(5):1321-1329. doi: 10.1534/g3.118.200978.
 Genomic Analysis of Pseudomonas sp. Strain SCT, an Iodate-Reducing Bacterium Isolated from Marine Sediment, Reveals a Possible Use for Bioremediation.
@@ -2870,42 +2906,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4082002/
 ----------
 
 
-http://www.ncbi.nlm.nih.gov/pubmed/25977442
-Genome Announc. 2015 May 14;3(3). pii: e00474-15. doi: 10.1128/genomeA.00474-15.
-Draft Genome Sequences of Five Legionella pneumophila Strains Isolated from Environmental Water Samples.
-Watanabe K, Suzuki H, Nakao R, Shimizu T, Watarai M.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432348/
-
-https://www.ncbi.nlm.nih.gov/pubmed/26059449
-BMC Genomics. 2015 Jun 10;16(1):448. doi: 10.1186/s12864-015-1663-5.
-Comparative genomic and phenomic analysis of Clostridium difficile and Clostridium sordellii, two related pathogens with differing host tissue preference.
-Scaria J, Suzuki H, Ptak CP, Chen JW, Zhu Y, Guo XK, Chang YF.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462011/
-To gain different aspects and maximize coverage, protein families were annotated by multiple databases. We performed BLASTP searches of protein sequences against NCBI nr (non-redundant) database, COG [62], KEGG [39], UniProtKB/Uniref90 [96], Virulence Factors Database (VFDB) [60], and assigned the functional annotations of the most similar protein sequences in each database.
 
 
-
-https://www.ncbi.nlm.nih.gov/pubmed/22155358
-Infect Genet Evol. 2012 Mar;12(2):274-7. doi: 10.1016/j.meegid.2011.11.004. Epub 2011 Dec 3.
-Functional bias of positively selected genes in Streptococcus genomes.
-Suzuki H, Stanhope MJ.
-
-https://www.ncbi.nlm.nih.gov/pubmed/22272658
-BMC Genomics. 2012 Jan 24;13:38. doi: 10.1186/1471-2164-13-38.
-Comparative genomic analysis of the genus Staphylococcus including Staphylococcus aureus and its newly described sister species Staphylococcus simiae.
-Suzuki H, Lefébure T, Bitar PP, Stanhope MJ.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317825/
-
-https://www.ncbi.nlm.nih.gov/pubmed/21282711
-Genome Biol Evol. 2011;3:168-85. doi: 10.1093/gbe/evr006. Epub 2011 Jan 31.
-Comparative genomic analysis of the Streptococcus dysgalactiae species group: gene content, molecular adaptation, and promoter evolution.
-Suzuki H1, Lefébure T, Hubisz MJ, Pavinski Bitar P, Lang P, Siepel A, Stanhope MJ.
-
-
-----------
 
 
 
 
+----------
 
 
