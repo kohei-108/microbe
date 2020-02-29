@@ -36,6 +36,8 @@ vaginal microbiota
   - [phylogeny](#shewanella_phylogeny)
   - [comparative_genomics](#shewanella_comparative_genomics)
   - [space](#shewanella_space)
+  - Shewanella_outer_membrane_cytochromes
+  - Shewanella oneidensis MR-1
 - [Sinorhizobium](#sinorhizobium)
   - KGO-5
 - [mitochondria](#mitochondria) 
@@ -1721,39 +1723,6 @@ Front Microbiol. 2019 Aug 28;10:1861. doi: 10.3389/fmicb.2019.01861. eCollection
 Whole-Genome Sequencing Redefines Shewanella Taxonomy.
 Thorell K1, Meier-Kolthoff JP2, Sjöling Å3, Martín-Rodríguez AJ3.
 
-https://www.youtube.com/watch?v=cRN0iC9TSyE
-B&B: Oxygen Allows Shewanella oneidensis MR-1 to Overcome Mediator Washout - YouTube
-
-### Shewanella_outer_membrane_cytochromes
-
-https://www.ncbi.nlm.nih.gov/pubmed/27342561
-Appl Environ Microbiol. 2016 Aug 15;82(17):5428-43. doi: 10.1128/AEM.01615-16. Print 2016 Sep 1.
-Regulation of Gene Expression in Shewanella oneidensis MR-1 during Electron Acceptor Limitation and Bacterial Nanowire Formation.
-Barchinger SE1, Pirbadian S2, Sambles C3, Baker CS1, Leung KM2, Burroughs NJ4, El-Naggar MY5, Golbeck JH6.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988178/
-outer membrane containing the cytochromes MtrC and OmcA
-MtrA, MtrC, and OmcA, and 
-the expression of the mtrA and mtrC homologs mtrF and mtrD
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988178/table/T2/?report=objectonly
-TABLE 2
-Selected genes discussed in this work
-Cytochromes
-
-https://www.ncbi.nlm.nih.gov/pubmed/25886963/
-BMC Microbiol. 2015 Mar 21;15:68. doi: 10.1186/s12866-015-0406-8.
-Transcriptional mechanisms for differential expression of outer membrane cytochrome genes omcA and mtrC in Shewanella oneidensis MR-1.
-Kasai T1, Kouzuma A2, Nojiri H3, Watanabe K4.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/
-the Mtr respiratory pathway, which consists of the outer membrane cytochromes OmcA and MtrC and associated proteins MtrA and MtrB. These proteins are encoded in the mtr gene cluster (omcA-mtrCAB) in the MR-1 chromosome.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/figure/Fig1/
-Figure 1
-The organization and transcriptional units of the mtr genes. (A) Schematic illustration of the organization of the mtr genes. Solid arrows indicate the location and direction of the transcriptional promoters upstream of omcA (PomcA) and mtrC (PmtrC).
-
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/bin/12866_2015_406_Fig1_HTML.jpg)
-
-https://ja.wikipedia.org/wiki/遺伝子発現#ラクトースオペロン
-真正細菌及び古細菌では、機能の関連した遺伝子が染色体上で隣接して存在し遺伝子クラスター（gene cluster）を形成している。この遺伝子クラスターのうち、単一のプロモーターで転写される単位をオペロン（operon）という。
-
 ### Shewanella_reference_representative
 参照ゲノム・代表ゲノム
 
@@ -1785,27 +1754,6 @@ https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#tempe
 最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）
 低温性細菌（Psychrophiles），中温性細菌（Mesophiles）お よび高温性細菌（Thermophiles）
 https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#psychrophile
-
-#### Shewanella oneidensis MR-1
-
-https://www.ncbi.nlm.nih.gov/pubmed/29422884
-Front Microbiol. 2018 Jan 25;8:2568. doi: 10.3389/fmicb.2017.02568. eCollection 2017.
-Redox Sensing within the Genus Shewanella.
-Harris HW1, Sánchez-Andrea I2, McLean JS3,4, Salas EC5, Tran W1, El-Naggar MY1, Nealson KH1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789149/
-- The model proposed that the swimming cells constantly sense their surroundings with specialized outer membrane cytochromes capable of extracellular electron transport (EET). 
-- We found a strong correlation between the ability of strain MR-1 to accumulate on mineral surface and the presence of key EET genes such as mtrBC/omcA (SO_1778, SO_1776, and SO_1779) and gene coding for methyl-accepting protein (MCPs) with Ca+ channel chemotaxis receptor (Cache) domain (SO_2240).
-
-https://www.ncbi.nlm.nih.gov/pubmed/22125499
-PLoS Genet. 2011 Nov;7(11):e1002385. doi: 10.1371/journal.pgen.1002385. Epub 2011 Nov 17.
-Evidence-based annotation of gene function in Shewanella oneidensis MR-1 using genome-wide fitness profiling across 121 conditions.
-Deutschbauer A1, Price MN, Wetmore KM, Shao W, Baumohl JK, Xu Z, Nguyen M, Tamse R, Davis RW, Arkin AP.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3219624/
-
-
-
-
-
 
 #### Shewanella algae
 中温性細菌
@@ -2059,7 +2007,6 @@ ISSへの補給宇宙船、様々な最新実験機器を積み飛び立つ – 
 
 このエクソ電子発生微生物というものは、有機物を食べて電気を生み出すことが知られている。そのためこれを微生物燃料電池として、廃棄された有機物質から電気を作ることなどが模索されているが、この生物に微重力が与える影響を調べることで将来の宇宙ミッションでも使えるかどうかを探ることができるのだ。
 
-
 July 18, 2018
 https://www.space.com/41193-electricity-producing-bacteria-international-space-station.html
 How 'Electric Microbes' Could Generate Power (And More) for Space Missions (Video)
@@ -2067,6 +2014,57 @@ How 'Electric Microbes' Could Generate Power (And More) for Space Missions (Vide
 JUL 01, 2018
 https://www.labroots.com/trending/microbiology/11945/-26
 Using Bacteria to Help Power Space Missions | Microbiology
+
+#### Shewanella oneidensis MR-1
+
+https://www.ncbi.nlm.nih.gov/pubmed/29422884
+Front Microbiol. 2018 Jan 25;8:2568. doi: 10.3389/fmicb.2017.02568. eCollection 2017.
+Redox Sensing within the Genus Shewanella.
+Harris HW1, Sánchez-Andrea I2, McLean JS3,4, Salas EC5, Tran W1, El-Naggar MY1, Nealson KH1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789149/
+- The model proposed that the swimming cells constantly sense their surroundings with specialized outer membrane cytochromes capable of extracellular electron transport (EET). 
+- We found a strong correlation between the ability of strain MR-1 to accumulate on mineral surface and the presence of key EET genes such as mtrBC/omcA (SO_1778, SO_1776, and SO_1779) and gene coding for methyl-accepting protein (MCPs) with Ca+ channel chemotaxis receptor (Cache) domain (SO_2240).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22125499
+PLoS Genet. 2011 Nov;7(11):e1002385. doi: 10.1371/journal.pgen.1002385. Epub 2011 Nov 17.
+Evidence-based annotation of gene function in Shewanella oneidensis MR-1 using genome-wide fitness profiling across 121 conditions.
+Deutschbauer A1, Price MN, Wetmore KM, Shao W, Baumohl JK, Xu Z, Nguyen M, Tamse R, Davis RW, Arkin AP.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3219624/
+
+Aug 1, 2014
+https://www.youtube.com/watch?v=cRN0iC9TSyE
+B&B: Oxygen Allows Shewanella oneidensis MR-1 to Overcome Mediator Washout - YouTube
+Video Highlight from Michaela TerAvest on her recently published B&B paper entitled "Oxygen allows Shewanella oneidensis MR-1 to overcome mediator washout in a continuously fed bioelectrochemical system."
+
+### Shewanella_outer_membrane_cytochromes
+
+https://www.ncbi.nlm.nih.gov/pubmed/27342561
+Appl Environ Microbiol. 2016 Aug 15;82(17):5428-43. doi: 10.1128/AEM.01615-16. Print 2016 Sep 1.
+Regulation of Gene Expression in Shewanella oneidensis MR-1 during Electron Acceptor Limitation and Bacterial Nanowire Formation.
+Barchinger SE1, Pirbadian S2, Sambles C3, Baker CS1, Leung KM2, Burroughs NJ4, El-Naggar MY5, Golbeck JH6.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988178/
+outer membrane containing the cytochromes MtrC and OmcA
+MtrA, MtrC, and OmcA, and 
+the expression of the mtrA and mtrC homologs mtrF and mtrD
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988178/table/T2/?report=objectonly
+TABLE 2
+Selected genes discussed in this work
+Cytochromes
+
+https://www.ncbi.nlm.nih.gov/pubmed/25886963/
+BMC Microbiol. 2015 Mar 21;15:68. doi: 10.1186/s12866-015-0406-8.
+Transcriptional mechanisms for differential expression of outer membrane cytochrome genes omcA and mtrC in Shewanella oneidensis MR-1.
+Kasai T1, Kouzuma A2, Nojiri H3, Watanabe K4.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/
+the Mtr respiratory pathway, which consists of the outer membrane cytochromes OmcA and MtrC and associated proteins MtrA and MtrB. These proteins are encoded in the mtr gene cluster (omcA-mtrCAB) in the MR-1 chromosome.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/figure/Fig1/
+Figure 1
+The organization and transcriptional units of the mtr genes. (A) Schematic illustration of the organization of the mtr genes. Solid arrows indicate the location and direction of the transcriptional promoters upstream of omcA (PomcA) and mtrC (PmtrC).
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417206/bin/12866_2015_406_Fig1_HTML.jpg)
+
+https://ja.wikipedia.org/wiki/遺伝子発現#ラクトースオペロン
+真正細菌及び古細菌では、機能の関連した遺伝子が染色体上で隣接して存在し遺伝子クラスター（gene cluster）を形成している。この遺伝子クラスターのうち、単一のプロモーターで転写される単位をオペロン（operon）という。
 
 ----------
 ## Sinorhizobium
