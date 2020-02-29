@@ -1082,12 +1082,12 @@ Front Microbiol. 2017 Aug 21;8:1584. doi: 10.3389/fmicb.2017.01584. eCollection 
 Comparative Genomic Analysis of Neutrophilic Iron(II) Oxidizer Genomes for Candidate Genes in Extracellular Electron Transfer.
 He S1,2,3, Barco RA4,5, Emerson D4, Roden EE1,2.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5566968/
-- extracellular electron transfer (EET).
+- Extracellular electron transfer (EET) is recognized as a key biochemical process in circumneutral pH Fe(II)-oxidizing bacteria (FeOB).
+- The “porin-cytochrome c complex” (PCC) gene clusters homologous to MtoAB/PioAB are present in eight FeOB, accounting for 19% of complete and close-to-complete genomes examined, whereas PCC genes homologous to OmbB-OmaB-OmcB in Geobacter sulfurreducens are absent. 
 - EET systems have been extensively studied in model Fe(III)-reducing bacteria (FeRB), such as Geobacter sulfurreducens and Shewanella oneidensis, for which electrons from the oxidation of organic substrates are passed to extracellular Fe(III) minerals. 
 - Like the Fe(III)-reducing Geobacter and Shewanella spp., most neutrophilic FeOB are Gram-negative bacteria with the inner and outer membranes separated by a periplasmic space, thus EET systems also need to span the periplasm to bridge the outer membrane to the inner membrane. 
 - Conductive nanowires
 Alternative to the direct contact between extracellular Fe and a dedicated outer membrane Fe(II) oxidase, EET might be achieved through conductive nanowires analogous to those known for Geobacter and Shewanella, that allow for long-range EET over micrometer distances (Reguera et al., 2005; Gorby et al., 2006).
-
 
 2016-2017
 http://www.u-shizuoka-ken.ac.jp/file/88sekikawa.pdf
@@ -1112,7 +1112,6 @@ https://ci.nii.ac.jp/naid/40018914443
 https://www.jseb.jp/wordpress/wp-content/uploads/09-02-105.pdf
 異化的金属還元細菌（dissimilatory
 metal-reducing bacteria） と 呼 ば れ， 約 20 年前に Shewanella oneidensis MR-1 株1) と Geobacter metallireducens2) の 2 株が発見された．
-
 
 ----------
 
@@ -1786,6 +1785,27 @@ https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#tempe
 最適増殖温度の異なる細菌（好熱菌・常温菌・低温菌）
 低温性細菌（Psychrophiles），中温性細菌（Mesophiles）お よび高温性細菌（Thermophiles）
 https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#psychrophile
+
+#### Shewanella oneidensis MR-1
+
+https://www.ncbi.nlm.nih.gov/pubmed/29422884
+Front Microbiol. 2018 Jan 25;8:2568. doi: 10.3389/fmicb.2017.02568. eCollection 2017.
+Redox Sensing within the Genus Shewanella.
+Harris HW1, Sánchez-Andrea I2, McLean JS3,4, Salas EC5, Tran W1, El-Naggar MY1, Nealson KH1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789149/
+- The model proposed that the swimming cells constantly sense their surroundings with specialized outer membrane cytochromes capable of extracellular electron transport (EET). 
+- We found a strong correlation between the ability of strain MR-1 to accumulate on mineral surface and the presence of key EET genes such as mtrBC/omcA (SO_1778, SO_1776, and SO_1779) and gene coding for methyl-accepting protein (MCPs) with Ca+ channel chemotaxis receptor (Cache) domain (SO_2240).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22125499
+PLoS Genet. 2011 Nov;7(11):e1002385. doi: 10.1371/journal.pgen.1002385. Epub 2011 Nov 17.
+Evidence-based annotation of gene function in Shewanella oneidensis MR-1 using genome-wide fitness profiling across 121 conditions.
+Deutschbauer A1, Price MN, Wetmore KM, Shao W, Baumohl JK, Xu Z, Nguyen M, Tamse R, Davis RW, Arkin AP.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3219624/
+
+
+
+
+
 
 #### Shewanella algae
 中温性細菌
