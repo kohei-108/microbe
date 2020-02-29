@@ -1983,7 +1983,12 @@ https://ntrs.nasa.gov/search.jsp?R=20190033397
 NASA Technical Reports Server (NTRS) - Results of the Micro-12 Flight Experiment: Effects of Microgravity on Shewanella oneidensis MR-1
 Publication Date:	November 20, 2019
 https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20190033397.pdf
-
+```
+Top 20 differentially expressed protein – flight vs. ground
+Top 20 differentially expressed protein – soluble iron vs. insoluble iron
+```
+• Conclusions
+– Many differentially expressed proteins were identified via proteomic analysis – the biological significance of these is unclear
 
 
 https://www.nasa.gov/spacebio/microbiology/our-experiments
