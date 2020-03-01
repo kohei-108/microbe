@@ -733,10 +733,37 @@ https://ja.wikipedia.org/wiki/国際宇宙ステーション
 https://www.microbe.net/tag/iss/
 ISS – microBEnet: the microbiology of the Built Environment network
 
+#### 2020-02-19
+
+Burkholderia
+
+https://microbewiki.kenyon.edu/index.php/Burkholderia
+Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae
+
+FEBRUARY 21, 2020
+https://www.sciencedaily.com/releases/2020/02/200219154432.htm
+Bacteria on the International Space Station no more dangerous than earthbound strains: Microbes that likely colonized the water dispenser before takeoff are still susceptible to antibiotics
+
+https://scitechdaily.com/researchers-analyze-nasty-species-of-bacteria-that-has-colonized-space-stations-water-dispenser/
+Researchers Analyze Nasty Species of Bacteria That Has Colonized Space Station’s Water Dispenser
+
+https://www.ncbi.nlm.nih.gov/pubmed/32074104
+PLoS One. 2020 Feb 19;15(2):e0227152. doi: 10.1371/journal.pone.0227152. eCollection 2020.
+Genomic and phenotypic characterization of Burkholderia isolates from the potable water system of the International Space Station.
+O'Rourke A1, Lee MD2,3, Nierman WC1, Everroad RC2, Dupont CL1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029842/
+
+#### 2019-09-05
+
 https://www.ncbi.nlm.nih.gov/pubmed/31488812
 Nat Commun. 2019 Sep 5;10(1):3990. doi: 10.1038/s41467-019-11682-z.
 Space Station conditions are selective but do not alter microbial characteristics relevant to human health.
 Mora M1, Wink L1, Kögler I1, Mahnert A1, Rettberg P2, Schwendner P3, Demets R4, Cockell C3, Alekhova T5, Klingl A6, Krause R1,7, Zolotariof A3, Alexandrova A5, Moissl-Eichinger C8,9.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728350/
+- ISS microbiome is dominated by human-associated microorganisms
+The microbial community composition was assessed by amplicon sequence analysis of wipe samples obtained from sessions A–C and the Kourou clean room. Archaeal and bacterial RSVs (>3.500) were retrieved from ISS samples with the universal approach (Fig. 1). 
+
+ribosomal sequence variants (RSVs)
 
 #### 2019-04-08
 
